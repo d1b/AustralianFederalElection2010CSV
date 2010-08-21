@@ -1,4 +1,4 @@
-2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:ElectionNight Generated:2010-08-22T00:47:02 Cycle:78675da6-43f8-4cb6-843f-bd14c8d89c98 Created:2010-08-22T00:46:26 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:ElectionNight Generated:2010-08-22T00:48:32 Cycle:4d9b2c53-f48b-4db2-bd42-e7c024310b5e Created:2010-08-22T00:47:56 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent
 119,Fowler,NSW,62623,8217,70840,11.6
 251,Watson,NSW,62294,8059,70353,11.46
@@ -39,10 +39,10 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 306,Lingiari,NT,30231,1728,31959,5.41
 302,Longman,QLD,61931,3544,65475,5.41
 172,Moncrieff,QLD,58052,3277,61329,5.34
+245,Perth,WA,56751,3201,59952,5.34
 110,Charlton,NSW,69461,3912,73373,5.33
 196,Lyons,TAS,53804,3021,56825,5.32
 167,Kennedy,QLD,62726,3498,66224,5.28
-245,Perth,WA,54209,3024,57233,5.28
 158,Dawson,QLD,63418,3527,66945,5.27
 118,Farrer,NSW,67190,3736,70926,5.27
 139,Parkes,NSW,70612,3912,74524,5.25
@@ -54,13 +54,13 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 316,Wright,QLD,59305,3202,62507,5.12
 208,Corio,VIC,67024,3609,70633,5.11
 168,Leichhardt,QLD,60052,3206,63258,5.07
+115,Dobell,NSW,49595,2633,52228,5.04
 227,McMillan,VIC,56146,2951,59097,4.99
 148,Shortland,NSW,72399,3780,76179,4.96
-115,Dobell,NSW,47749,2486,50235,4.95
 114,Cunningham,NSW,70350,3615,73965,4.89
 157,Capricornia,QLD,52946,2715,55661,4.88
 126,Hunter,NSW,68243,3484,71727,4.86
-305,Hasluck,WA,47984,2436,50420,4.83
+305,Hasluck,WA,54500,2765,57265,4.83
 246,Stirling,WA,55666,2820,58486,4.82
 224,Mallee,VIC,70319,3537,73856,4.79
 171,McPherson,QLD,63549,3162,66711,4.74
@@ -105,7 +105,6 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 194,Denison,TAS,50598,2218,52816,4.2
 130,Lyne,NSW,63066,2750,65816,4.18
 204,Casey,VIC,68965,2998,71963,4.17
-236,Canning,WA,52967,2300,55267,4.16
 249,Paterson,NSW,70235,3047,73282,4.16
 112,Cook,NSW,62519,2698,65217,4.14
 244,Pearce,WA,50651,2182,52833,4.13
@@ -113,6 +112,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 183,Grey,SA,73480,3116,76596,4.07
 138,Page,NSW,73897,3134,77031,4.07
 180,Barker,SA,77390,3276,80666,4.06
+236,Canning,WA,56027,2366,58393,4.05
 164,Groom,QLD,70985,2966,73951,4.01
 135,New England,NSW,58499,2445,60944,4.01
 205,Chisholm,VIC,58979,2447,61426,3.98
@@ -138,7 +138,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 137,North Sydney,NSW,68256,2304,70560,3.27
 152,Wentworth,NSW,63001,2122,65123,3.26
 108,Bradfield,NSW,70021,2313,72334,3.2
-248,Tangney,WA,51946,1716,53662,3.2
+248,Tangney,WA,53626,1773,55399,3.2
 242,Moore,WA,64332,2080,66412,3.13
 179,Adelaide,SA,70403,2243,72646,3.09
 156,Brisbane,QLD,62988,1972,64960,3.04
