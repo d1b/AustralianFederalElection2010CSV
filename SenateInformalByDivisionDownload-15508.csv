@@ -1,4 +1,4 @@
-2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:ElectionNight Generated:2010-08-22T01:15:48 Cycle:448d71d3-6ef6-4dc2-829b-9ff0600e00c8 Created:2010-08-22T01:15:11 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:ElectionNight Generated:2010-08-22T01:17:17 Cycle:f64a0c11-b949-4574-bc1f-e305b502a40c Created:2010-08-22T01:16:41 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent
 119,Fowler,NSW,62623,8217,70840,11.6
 251,Watson,NSW,63997,8339,72336,11.53
@@ -53,7 +53,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 316,Wright,QLD,59305,3202,62507,5.12
 208,Corio,VIC,67024,3609,70633,5.11
 168,Leichhardt,QLD,60052,3206,63258,5.07
-115,Dobell,NSW,64734,3405,68139,5
+115,Dobell,NSW,65086,3430,68516,5.01
 227,McMillan,VIC,56146,2951,59097,4.99
 172,Moncrieff,QLD,63756,3352,67108,4.99
 148,Shortland,NSW,72399,3780,76179,4.96
@@ -82,7 +82,6 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 211,Flinders,VIC,70758,3361,74119,4.53
 220,Jagajaga,VIC,63224,2997,66221,4.53
 218,Indi,VIC,53182,2516,55698,4.52
-243,O'Connor,WA,3148,148,3296,4.49
 146,Robertson,NSW,63404,2976,66380,4.48
 311,Flynn,QLD,62863,2938,65801,4.46
 192,Bass,TAS,55240,2574,57814,4.45
@@ -90,14 +89,15 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 210,Dunkley,VIC,68075,3159,71234,4.43
 310,Bonner,QLD,66098,3053,69151,4.41
 125,Hume,NSW,74053,3415,77468,4.41
-312,Durack,WA,46763,2151,48914,4.4
 113,Cowper,NSW,69012,3144,72156,4.36
 155,Bowman,QLD,70437,3194,73631,4.34
 120,Gilmore,NSW,62921,2852,65773,4.34
 228,Melbourne,VIC,60032,2722,62754,4.34
 200,Bendigo,VIC,75940,3425,79365,4.32
 235,Brand,WA,29698,1341,31039,4.32
+312,Durack,WA,48647,2192,50839,4.31
 195,Franklin,TAS,54578,2431,57009,4.26
+243,O'Connor,WA,4709,209,4918,4.25
 160,Fairfax,QLD,63863,2812,66675,4.22
 198,Ballarat,VIC,72356,3184,75540,4.21
 169,Lilley,QLD,72462,3181,75643,4.21
@@ -117,9 +117,9 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 180,Barker,SA,81202,3398,84600,4.02
 164,Groom,QLD,70985,2966,73951,4.01
 205,Chisholm,VIC,58979,2447,61426,3.98
+230,Melbourne Ports,VIC,54884,2224,57108,3.89
 239,Forrest,WA,65195,2602,67797,3.84
 145,Richmond,NSW,56443,2241,58684,3.82
-230,Melbourne Ports,VIC,51869,2052,53921,3.81
 163,Griffith,QLD,64628,2552,67180,3.8
 186,Kingston,SA,73029,2828,75857,3.73
 133,Macquarie,NSW,74273,2860,77133,3.71
