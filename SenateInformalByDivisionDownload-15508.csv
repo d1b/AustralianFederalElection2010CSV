@@ -1,7 +1,7 @@
-2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:ElectionNight Generated:2010-08-22T01:40:17 Cycle:7670bdb7-071e-49a8-b0b8-2ede5582897e Created:2010-08-22T01:39:41 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:ElectionNight Generated:2010-08-22T01:41:48 Cycle:3858f46f-7071-48e0-91d2-9218e6c296ec Created:2010-08-22T01:41:11 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent
 119,Fowler,NSW,62623,8217,70840,11.6
-251,Watson,NSW,65501,8489,73990,11.47
+251,Watson,NSW,65501,8414,73915,11.38
 107,Blaxland,NSW,64409,7588,71997,10.54
 309,Gorton,VIC,67908,7640,75548,10.11
 315,McMahon,NSW,65431,6766,72197,9.37
@@ -37,7 +37,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 250,Riverina,NSW,68484,3933,72417,5.43
 167,Kennedy,QLD,64710,3708,68418,5.42
 302,Longman,QLD,61931,3544,65475,5.41
-306,Lingiari,NT,31430,1780,33210,5.36
+306,Lingiari,NT,31872,1798,33670,5.34
 110,Charlton,NSW,69461,3912,73373,5.33
 196,Lyons,TAS,53804,3021,56825,5.32
 307,Solomon,NT,42293,2362,44655,5.29
@@ -83,10 +83,10 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 218,Indi,VIC,53182,2516,55698,4.52
 247,Swan,WA,61066,2890,63956,4.52
 146,Robertson,NSW,63404,2976,66380,4.48
-243,O'Connor,WA,14594,683,15277,4.47
 311,Flynn,QLD,62863,2938,65801,4.46
 192,Bass,TAS,55240,2574,57814,4.45
 173,Moreton,QLD,65031,3021,68052,4.44
+243,O'Connor,WA,15414,716,16130,4.44
 210,Dunkley,VIC,68075,3159,71234,4.43
 310,Bonner,QLD,66098,3053,69151,4.41
 125,Hume,NSW,74053,3415,77468,4.41
@@ -119,8 +119,8 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 205,Chisholm,VIC,58979,2447,61426,3.98
 230,Melbourne Ports,VIC,54884,2224,57108,3.89
 239,Forrest,WA,65195,2602,67797,3.84
-145,Richmond,NSW,56443,2241,58684,3.82
 163,Griffith,QLD,64628,2552,67180,3.8
+145,Richmond,NSW,62163,2428,64591,3.76
 186,Kingston,SA,73029,2828,75857,3.73
 214,Goldstein,VIC,66435,2551,68986,3.7
 187,Makin,SA,71510,2737,74247,3.69
@@ -140,11 +140,11 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 137,North Sydney,NSW,70319,2363,72682,3.25
 108,Bradfield,NSW,71829,2358,74187,3.18
 242,Moore,WA,69060,2236,71296,3.14
-248,Tangney,WA,63483,2059,65542,3.14
+248,Tangney,WA,66112,2115,68227,3.1
 179,Adelaide,SA,70403,2243,72646,3.09
 156,Brisbane,QLD,62988,1972,64960,3.04
 101,Canberra,ACT,87561,2665,90226,2.95
-188,Mayo,SA,72899,2152,75051,2.87
+188,Mayo,SA,73836,2166,76002,2.85
 221,Kooyong,VIC,59984,1752,61736,2.84
 151,Warringah,NSW,61739,1806,63545,2.84
 182,Boothby,SA,69766,1890,71656,2.64
