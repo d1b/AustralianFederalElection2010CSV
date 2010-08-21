@@ -7,5 +7,5 @@ z = [x.attrib['href'] for x in doc.xpath("//a[@href]") if x.text != None and "CS
 for i in z:
 	url = "http://vtr.aec.gov.au/" + i
 	print url
-	urllib.urlretrieve(url ,i.replace("..", "").replace("Downloads/", "") )
+	urllib.urlretrieve(url ,i.replace("..", "").replace("Downloads/", "").replace("/", "") )
 
