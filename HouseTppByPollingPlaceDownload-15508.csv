@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T15:51:51 Cycle:5bafd084-fac2-44d1-b954-be57a60ba016 Created:2010-08-22T15:38:19 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T16:07:24 Cycle:f12056af-df7b-4c3f-ae69-b5ac88e4fe93 Created:2010-08-22T15:53:24 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -395,7 +395,7 @@ NSW,109,Calare,221,Bathurst Central,517,45.11,629,54.89,1146,-6.98
 NSW,109,Calare,31071,Bathurst City,540,43.9,690,56.1,1230,-8.27
 NSW,109,Calare,223,Bathurst High,397,49.44,406,50.56,803,-5.58
 NSW,109,Calare,224,Bathurst Hospital,402,48.38,429,51.62,831,-12.25
-NSW,109,Calare,33861,Bathurst PPVC,0,0,0,0,0,-46.24
+NSW,109,Calare,33861,Bathurst PPVC,2118,42.03,2921,57.97,5039,-4.21
 NSW,109,Calare,225,Bathurst South,516,49.57,525,50.43,1041,-10.04
 NSW,109,Calare,226,Bathurst St Vincents,220,52.13,202,47.87,422,-10.65
 NSW,109,Calare,227,Bathurst West,928,46.54,1066,53.46,1994,-7.26
@@ -1124,9 +1124,9 @@ NSW,120,Gilmore,962,Sanctuary Point,1343,49.5,1370,50.5,2713,-3.31
 NSW,120,Gilmore,34345,Shell Cove,750,52.41,681,47.59,1431,-9.41
 NSW,120,Gilmore,2806,Shellharbour,1216,56.69,929,43.31,2145,-10.45
 NSW,120,Gilmore,2807,Shoalhaven Heads,848,46.36,981,53.64,1829,-2.84
-NSW,120,Gilmore,33620,Special Hospital Team 1,0,0,0,0,0,-42.5
-NSW,120,Gilmore,33728,Special Hospital Team 2,0,0,0,0,0,-42.67
-NSW,120,Gilmore,33730,Special Hospital Team 3,0,0,0,0,0,-42.03
+NSW,120,Gilmore,33620,Special Hospital Team 1,59,39.33,91,60.67,150,-3.17
+NSW,120,Gilmore,33728,Special Hospital Team 2,33,44,42,56,75,1.33
+NSW,120,Gilmore,33730,Special Hospital Team 3,69,42.33,94,57.67,163,0.3
 NSW,120,Gilmore,46418,Special Hospital Team 4,0,0,0,0,0,-41.94
 NSW,120,Gilmore,960,St Georges Basin,412,38.36,662,61.64,1074,-4.63
 NSW,120,Gilmore,964,Sussex Inlet,836,44,1064,56,1900,-4.7
@@ -2886,7 +2886,7 @@ NSW,150,Throsby,556,Port Kembla,731,74.21,254,25.79,985,-5.22
 NSW,150,Throsby,557,Port Kembla Central,998,77.97,282,22.03,1280,-6.5
 NSW,150,Throsby,559,Primbee,618,67.1,303,32.9,921,-10.13
 NSW,150,Throsby,2805,Robertson,518,49.24,534,50.76,1052,-3.37
-NSW,150,Throsby,33615,Special Hospital Team 1,46,25.56,134,74.44,180,-23.42
+NSW,150,Throsby,33615,Special Hospital Team 1,67,59.29,46,40.71,113,10.31
 NSW,150,Throsby,58273,Special Hospital Team 2,0,0,0,0,0,-48.82
 NSW,150,Throsby,966,Sutton Forest,80,30.77,180,69.23,260,-6.69
 NSW,150,Throsby,14170,Sydney (Throsby),31,68.89,14,31.11,45,9.43
@@ -5222,7 +5222,7 @@ SA,183,Grey,7409,Port Vincent,109,29.95,255,70.05,364,-3.12
 SA,183,Grey,6957,Quorn,206,32.49,428,67.51,634,-9.5
 SA,183,Grey,7411,Redhill,39,31.71,84,68.29,123,-2.91
 SA,183,Grey,33211,Remote Mobile Team 1,395,58.43,281,41.57,676,-3.52
-SA,183,Grey,33212,Remote Mobile Team 2,0,0,0,0,0,-62.11
+SA,183,Grey,33212,Remote Mobile Team 2,81,56.64,62,43.36,143,-5.47
 SA,183,Grey,33213,Remote Mobile Team 3,136,50.37,134,49.63,270,-11.55
 SA,183,Grey,6958,Risdon Park East,905,44.52,1128,55.48,2033,-10.7
 SA,183,Grey,6959,Risdon Park South,512,52.84,457,47.16,969,-11.47
@@ -5245,7 +5245,7 @@ SA,183,Grey,6965,Stirling North,327,38.29,527,61.71,854,-16.56
 SA,183,Grey,6966,Streaky Bay,199,27.26,531,72.74,730,-1.85
 SA,183,Grey,7427,Terowie,33,43.42,43,56.58,76,-6.02
 SA,183,Grey,6969,Tumby Bay,220,20.02,879,79.98,1099,-4.14
-SA,183,Grey,6970,Ungarra,0,0,0,0,0,-22.95
+SA,183,Grey,6970,Ungarra,22,25.58,64,74.42,86,2.63
 SA,183,Grey,7432,Wallaroo,935,47.49,1034,52.51,1969,-3.21
 SA,183,Grey,7433,Wallaroo Mines,490,44.91,601,55.09,1091,-6.03
 SA,183,Grey,6972,Wangary,94,28.4,237,71.6,331,3
@@ -6249,7 +6249,7 @@ VIC,201,Bruce,3563,Camelot,711,52.98,631,47.02,1342,1.91
 VIC,201,Bruce,3222,Clareville,1037,62.77,615,37.23,1652,-2.73
 VIC,201,Bruce,3958,Cleeland,1590,68.21,741,31.79,2331,-1.37
 VIC,201,Bruce,3962,Dandenong,1028,66.11,527,33.89,1555,-0.6
-VIC,201,Bruce,58781,Dandenong BRUCE PPVC,1097,62.08,670,37.92,1767,4.71
+VIC,201,Bruce,58781,Dandenong BRUCE PPVC,1101,62.13,671,37.87,1772,4.76
 VIC,201,Bruce,3965,Dandenong West,1053,69.37,465,30.63,1518,0.68
 VIC,201,Bruce,30192,Divisional Office (PREPOLL),353,47.77,386,52.23,739,-9.7
 VIC,201,Bruce,3227,Gladeswood,1547,57.51,1143,42.49,2690,0.05

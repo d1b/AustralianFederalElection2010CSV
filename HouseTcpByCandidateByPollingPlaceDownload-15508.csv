@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T15:51:46 Cycle:5bafd084-fac2-44d1-b954-be57a60ba016 Created:2010-08-22T15:38:19 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T16:07:20 Cycle:f12056af-df7b-4c3f-ae69-b5ac88e4fe93 Created:2010-08-22T15:53:24 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 ACT,101,Canberra,8829,Barton,20863,JONES,Giulia,1,N,N,LP,Liberal,790,-2.73
 ACT,101,Canberra,8829,Barton,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1399,2.73
@@ -790,8 +790,8 @@ NSW,109,Calare,223,Bathurst High,21140,DUFFY,Kevin,3,N,N,ALP,Country Labor,397,-
 NSW,109,Calare,223,Bathurst High,21115,COBB,John,6,N,Y,NP,The Nationals,406,5.58
 NSW,109,Calare,224,Bathurst Hospital,21140,DUFFY,Kevin,3,N,N,ALP,Country Labor,402,-12.25
 NSW,109,Calare,224,Bathurst Hospital,21115,COBB,John,6,N,Y,NP,The Nationals,429,12.25
-NSW,109,Calare,33861,Bathurst PPVC,21140,DUFFY,Kevin,3,N,N,ALP,Country Labor,0,-46.24
-NSW,109,Calare,33861,Bathurst PPVC,21115,COBB,John,6,N,Y,NP,The Nationals,0,-53.76
+NSW,109,Calare,33861,Bathurst PPVC,21140,DUFFY,Kevin,3,N,N,ALP,Country Labor,2118,-4.21
+NSW,109,Calare,33861,Bathurst PPVC,21115,COBB,John,6,N,Y,NP,The Nationals,2921,4.21
 NSW,109,Calare,225,Bathurst South,21140,DUFFY,Kevin,3,N,N,ALP,Country Labor,516,-10.04
 NSW,109,Calare,225,Bathurst South,21115,COBB,John,6,N,Y,NP,The Nationals,525,10.04
 NSW,109,Calare,226,Bathurst St Vincents,21140,DUFFY,Kevin,3,N,N,ALP,Country Labor,220,-10.65
@@ -2248,12 +2248,12 @@ NSW,120,Gilmore,2806,Shellharbour,21253,REILLY,Neil,4,N,N,ALP,Labor,1216,-10.45
 NSW,120,Gilmore,2806,Shellharbour,21727,GASH,Joanna,5,N,Y,LP,Liberal,929,10.45
 NSW,120,Gilmore,2807,Shoalhaven Heads,21253,REILLY,Neil,4,N,N,ALP,Labor,848,-2.84
 NSW,120,Gilmore,2807,Shoalhaven Heads,21727,GASH,Joanna,5,N,Y,LP,Liberal,981,2.84
-NSW,120,Gilmore,33620,Special Hospital Team 1,21253,REILLY,Neil,4,N,N,ALP,Labor,0,-42.5
-NSW,120,Gilmore,33620,Special Hospital Team 1,21727,GASH,Joanna,5,N,Y,LP,Liberal,0,-57.5
-NSW,120,Gilmore,33728,Special Hospital Team 2,21253,REILLY,Neil,4,N,N,ALP,Labor,0,-42.67
-NSW,120,Gilmore,33728,Special Hospital Team 2,21727,GASH,Joanna,5,N,Y,LP,Liberal,0,-57.33
-NSW,120,Gilmore,33730,Special Hospital Team 3,21253,REILLY,Neil,4,N,N,ALP,Labor,0,-42.03
-NSW,120,Gilmore,33730,Special Hospital Team 3,21727,GASH,Joanna,5,N,Y,LP,Liberal,0,-57.97
+NSW,120,Gilmore,33620,Special Hospital Team 1,21253,REILLY,Neil,4,N,N,ALP,Labor,59,-3.17
+NSW,120,Gilmore,33620,Special Hospital Team 1,21727,GASH,Joanna,5,N,Y,LP,Liberal,91,3.17
+NSW,120,Gilmore,33728,Special Hospital Team 2,21253,REILLY,Neil,4,N,N,ALP,Labor,33,1.33
+NSW,120,Gilmore,33728,Special Hospital Team 2,21727,GASH,Joanna,5,N,Y,LP,Liberal,42,-1.33
+NSW,120,Gilmore,33730,Special Hospital Team 3,21253,REILLY,Neil,4,N,N,ALP,Labor,69,0.3
+NSW,120,Gilmore,33730,Special Hospital Team 3,21727,GASH,Joanna,5,N,Y,LP,Liberal,94,-0.3
 NSW,120,Gilmore,46418,Special Hospital Team 4,21253,REILLY,Neil,4,N,N,ALP,Labor,0,-41.94
 NSW,120,Gilmore,46418,Special Hospital Team 4,21727,GASH,Joanna,5,N,Y,LP,Liberal,0,-58.06
 NSW,120,Gilmore,960,St Georges Basin,21253,REILLY,Neil,4,N,N,ALP,Labor,412,-4.63
@@ -5772,8 +5772,8 @@ NSW,150,Throsby,559,Primbee,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,303,10.13
 NSW,150,Throsby,559,Primbee,21431,JONES,Stephen,2,N,N,ALP,Labor,618,-10.13
 NSW,150,Throsby,2805,Robertson,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,534,3.37
 NSW,150,Throsby,2805,Robertson,21431,JONES,Stephen,2,N,N,ALP,Labor,518,-3.37
-NSW,150,Throsby,33615,Special Hospital Team 1,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,134,23.42
-NSW,150,Throsby,33615,Special Hospital Team 1,21431,JONES,Stephen,2,N,N,ALP,Labor,46,-23.42
+NSW,150,Throsby,33615,Special Hospital Team 1,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,46,-10.31
+NSW,150,Throsby,33615,Special Hospital Team 1,21431,JONES,Stephen,2,N,N,ALP,Labor,67,10.31
 NSW,150,Throsby,58273,Special Hospital Team 2,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,0,-51.18
 NSW,150,Throsby,58273,Special Hospital Team 2,21431,JONES,Stephen,2,N,N,ALP,Labor,0,-48.82
 NSW,150,Throsby,966,Sutton Forest,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,180,6.69
@@ -10444,8 +10444,8 @@ SA,183,Grey,7411,Redhill,20998,SANSBURY,Tauto,2,N,N,ALP,Australian Labor Party,3
 SA,183,Grey,7411,Redhill,20832,RAMSEY,Rowan,3,N,Y,LP,Liberal,84,2.91
 SA,183,Grey,33211,Remote Mobile Team 1,20998,SANSBURY,Tauto,2,N,N,ALP,Australian Labor Party,395,-3.52
 SA,183,Grey,33211,Remote Mobile Team 1,20832,RAMSEY,Rowan,3,N,Y,LP,Liberal,281,3.52
-SA,183,Grey,33212,Remote Mobile Team 2,20998,SANSBURY,Tauto,2,N,N,ALP,Australian Labor Party,0,-62.11
-SA,183,Grey,33212,Remote Mobile Team 2,20832,RAMSEY,Rowan,3,N,Y,LP,Liberal,0,-37.89
+SA,183,Grey,33212,Remote Mobile Team 2,20998,SANSBURY,Tauto,2,N,N,ALP,Australian Labor Party,81,-5.47
+SA,183,Grey,33212,Remote Mobile Team 2,20832,RAMSEY,Rowan,3,N,Y,LP,Liberal,62,5.47
 SA,183,Grey,33213,Remote Mobile Team 3,20998,SANSBURY,Tauto,2,N,N,ALP,Australian Labor Party,136,-11.55
 SA,183,Grey,33213,Remote Mobile Team 3,20832,RAMSEY,Rowan,3,N,Y,LP,Liberal,134,11.55
 SA,183,Grey,6958,Risdon Park East,20998,SANSBURY,Tauto,2,N,N,ALP,Australian Labor Party,905,-10.7
@@ -10490,8 +10490,8 @@ SA,183,Grey,7427,Terowie,20998,SANSBURY,Tauto,2,N,N,ALP,Australian Labor Party,3
 SA,183,Grey,7427,Terowie,20832,RAMSEY,Rowan,3,N,Y,LP,Liberal,43,6.02
 SA,183,Grey,6969,Tumby Bay,20998,SANSBURY,Tauto,2,N,N,ALP,Australian Labor Party,220,-4.14
 SA,183,Grey,6969,Tumby Bay,20832,RAMSEY,Rowan,3,N,Y,LP,Liberal,879,4.14
-SA,183,Grey,6970,Ungarra,20998,SANSBURY,Tauto,2,N,N,ALP,Australian Labor Party,0,-22.95
-SA,183,Grey,6970,Ungarra,20832,RAMSEY,Rowan,3,N,Y,LP,Liberal,0,-77.05
+SA,183,Grey,6970,Ungarra,20998,SANSBURY,Tauto,2,N,N,ALP,Australian Labor Party,22,2.63
+SA,183,Grey,6970,Ungarra,20832,RAMSEY,Rowan,3,N,Y,LP,Liberal,64,-2.63
 SA,183,Grey,7432,Wallaroo,20998,SANSBURY,Tauto,2,N,N,ALP,Australian Labor Party,935,-3.21
 SA,183,Grey,7432,Wallaroo,20832,RAMSEY,Rowan,3,N,Y,LP,Liberal,1034,3.21
 SA,183,Grey,7433,Wallaroo Mines,20998,SANSBURY,Tauto,2,N,N,ALP,Australian Labor Party,490,-6.03
@@ -12498,8 +12498,8 @@ VIC,201,Bruce,3958,Cleeland,21346,KABOS,Mike,1,N,N,LP,Liberal,741,1.37
 VIC,201,Bruce,3958,Cleeland,21331,GRIFFIN,Alan,4,N,Y,ALP,Australian Labor Party,1590,-1.37
 VIC,201,Bruce,3962,Dandenong,21346,KABOS,Mike,1,N,N,LP,Liberal,527,0.6
 VIC,201,Bruce,3962,Dandenong,21331,GRIFFIN,Alan,4,N,Y,ALP,Australian Labor Party,1028,-0.6
-VIC,201,Bruce,58781,Dandenong BRUCE PPVC,21346,KABOS,Mike,1,N,N,LP,Liberal,670,-4.71
-VIC,201,Bruce,58781,Dandenong BRUCE PPVC,21331,GRIFFIN,Alan,4,N,Y,ALP,Australian Labor Party,1097,4.71
+VIC,201,Bruce,58781,Dandenong BRUCE PPVC,21346,KABOS,Mike,1,N,N,LP,Liberal,671,-4.76
+VIC,201,Bruce,58781,Dandenong BRUCE PPVC,21331,GRIFFIN,Alan,4,N,Y,ALP,Australian Labor Party,1101,4.76
 VIC,201,Bruce,3965,Dandenong West,21346,KABOS,Mike,1,N,N,LP,Liberal,465,-0.68
 VIC,201,Bruce,3965,Dandenong West,21331,GRIFFIN,Alan,4,N,Y,ALP,Australian Labor Party,1053,0.68
 VIC,201,Bruce,30192,Divisional Office (PREPOLL),21346,KABOS,Mike,1,N,N,LP,Liberal,386,9.7
