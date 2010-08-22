@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T13:16:15 Cycle:ae79566e-3c07-4546-93bf-50afc5c60ac4 Created:2010-08-22T12:54:32 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T13:43:52 Cycle:e0d3a9c6-f02e-4192-8878-d6fc50157ab7 Created:2010-08-22T13:35:53 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -186,7 +186,7 @@ NSW,104,Barton,2671,Rockdale West,916,66.33,465,33.67,1381,-7.56
 NSW,104,Barton,41,Sandringham,929,43.45,1209,56.55,2138,-4.92
 NSW,104,Barton,68,Sans Souci,947,44.82,1166,55.18,2113,-7.52
 NSW,104,Barton,37,Sans Souci North,152,47.5,168,52.5,320,-3.77
-NSW,104,Barton,33595,Special Hospital Team 1,0,0,0,0,0,-52.38
+NSW,104,Barton,33595,Special Hospital Team 1,54,62.07,33,37.93,87,9.69
 NSW,104,Barton,33765,Special Hospital Team 2,0,0,0,0,0,-52.71
 NSW,104,Barton,38392,Special Hospital Team 3,0,0,0,0,0,-52.73
 NSW,104,Barton,56572,Special Hospital Team 4,0,0,0,0,0,-54.55
@@ -917,10 +917,10 @@ NSW,117,Eden-Monaro,33925,Queanbeyan PPVC,2125,57.43,1575,42.57,3700,8.73
 NSW,117,Eden-Monaro,723,Queanbeyan South,2136,64.9,1155,35.1,3291,1.04
 NSW,117,Eden-Monaro,724,Queanbeyan West,1004,66.14,514,33.86,1518,3.97
 NSW,117,Eden-Monaro,725,South Durras,81,54.36,68,45.64,149,5.34
-NSW,117,Eden-Monaro,33618,Special Hospital Team 1,0,0,0,0,0,-48.31
-NSW,117,Eden-Monaro,33782,Special Hospital Team 2,0,0,0,0,0,-48.61
-NSW,117,Eden-Monaro,33784,Special Hospital Team 3,0,0,0,0,0,-48.48
-NSW,117,Eden-Monaro,33785,Special Hospital Team 4,0,0,0,0,0,-48.5
+NSW,117,Eden-Monaro,33618,Special Hospital Team 1,74,72.55,28,27.45,102,24.24
+NSW,117,Eden-Monaro,33782,Special Hospital Team 2,56,49.56,57,50.44,113,0.95
+NSW,117,Eden-Monaro,33784,Special Hospital Team 3,32,55.17,26,44.83,58,6.69
+NSW,117,Eden-Monaro,33785,Special Hospital Team 4,57,50,57,50,114,1.5
 NSW,117,Eden-Monaro,726,Sunshine Bay,879,50.4,865,49.6,1744,6.89
 NSW,117,Eden-Monaro,14051,Sydney (Eden-Monaro),7,50,7,50,14,0
 NSW,117,Eden-Monaro,727,Tanja,111,79.86,28,20.14,139,-0.38
@@ -3611,7 +3611,7 @@ QLD,160,Fairfax,5432,Kureelpa,105,31.82,225,68.18,330,-12.87
 QLD,160,Fairfax,5493,Mapleton,675,44.58,839,55.42,1514,-5.39
 QLD,160,Fairfax,31504,Maroochydore,998,46.01,1171,53.99,2169,-4.05
 QLD,160,Fairfax,5435,Maroochydore East,1158,46.81,1316,53.19,2474,-2.05
-QLD,160,Fairfax,38294,Maroochydore FAIRFAX PPVC,0,0,0,0,0,-54.17
+QLD,160,Fairfax,38294,Maroochydore FAIRFAX PPVC,1400,40.18,2084,59.82,3484,-13.99
 QLD,160,Fairfax,55510,Montville (Fairfax),110,46.41,127,53.59,237,-1.27
 QLD,160,Fairfax,58604,Mooloolaba (Fairfax),164,46.86,186,53.14,350,-0.3
 QLD,160,Fairfax,33081,Mount Coolum,1003,51.54,943,48.46,1946,-4
@@ -5402,8 +5402,8 @@ SA,187,Makin,7150,Salisbury East,1349,67.21,658,32.79,2007,1.76
 SA,187,Makin,6846,Salisbury East Central,1186,68.44,547,31.56,1733,4.24
 SA,187,Makin,33167,Salisbury East Estate,964,65.49,508,34.51,1472,2.38
 SA,187,Makin,33171,Salisbury Heights,1287,56.95,973,43.05,2260,2.36
-SA,187,Makin,33191,Special Hospital Team 1,0,0,0,0,0,-49.59
-SA,187,Makin,33193,Special Hospital Team 2,0,0,0,0,0,-50
+SA,187,Makin,33191,Special Hospital Team 1,65,60.75,42,39.25,107,11.16
+SA,187,Makin,33193,Special Hospital Team 2,54,51.92,50,48.08,104,1.92
 SA,187,Makin,7148,St Agnes,1263,56.31,980,43.69,2243,6.61
 SA,187,Makin,7149,St Agnes West,966,59.15,667,40.85,1633,4.44
 SA,187,Makin,7151,Surrey Downs,1271,63.65,726,36.35,1997,7.84
@@ -5667,8 +5667,8 @@ SA,191,Wakefield,6850,Salisbury Park,1085,66.89,537,33.11,1622,3.39
 SA,191,Wakefield,6851,Smithfield,895,72.76,335,27.24,1230,8.78
 SA,191,Wakefield,6852,Smithfield Plains,873,77.46,254,22.54,1127,4.58
 SA,191,Wakefield,33246,Special Hospital Team 1,114,74.03,40,25.97,154,23.71
-SA,191,Wakefield,33247,Special Hospital Team 2,0,0,0,0,0,-50
-SA,191,Wakefield,33248,Special Hospital Team 3,0,0,0,0,0,-50
+SA,191,Wakefield,33247,Special Hospital Team 2,87,52.73,78,47.27,165,2.73
+SA,191,Wakefield,33248,Special Hospital Team 3,48,36.36,84,63.64,132,-13.64
 SA,191,Wakefield,7426,Tarlee,110,37.93,180,62.07,290,7.93
 SA,191,Wakefield,7429,Two Wells,1109,53.81,952,46.19,2061,4.98
 SA,191,Wakefield,7430,Virginia (Wakefield),595,51.65,557,48.35,1152,3.17
@@ -5816,62 +5816,62 @@ TAS,193,Braddon,8435,Wynyard Central,1356,60.16,898,39.84,2254,6.85
 TAS,193,Braddon,8433,Wynyard West,781,60.12,518,39.88,1299,3.69
 TAS,193,Braddon,8437,Yolla,208,52.93,185,47.07,393,2.44
 TAS,193,Braddon,8696,Zeehan,261,67.27,127,32.73,388,-2.46
-TAS,194,Denison,8440,Abbotsfield,1126,75.57,364,24.43,1490,2.04
-TAS,194,Denison,8441,Albuera,354,63.1,207,36.9,561,0.24
-TAS,194,Denison,8495,Austins Ferry,1137,66.88,563,33.12,1700,3.96
-TAS,194,Denison,8442,Battery Point,689,55.21,559,44.79,1248,-3.51
-TAS,194,Denison,8443,Bowen Road,1042,74.11,364,25.89,1406,0.54
-TAS,194,Denison,8444,Brent Street,246,65.6,129,34.4,375,1.09
-TAS,194,Denison,8445,Cascades,711,75.4,232,24.6,943,-0.91
-TAS,194,Denison,8446,Chigwell,1217,73.14,447,26.86,1664,3.32
-TAS,194,Denison,8447,Claremont,1158,70.91,475,29.09,1633,3.32
-TAS,194,Denison,8448,Collinsvale,257,76.95,77,23.05,334,1.55
-TAS,194,Denison,8450,Cosgrove,481,72.44,183,27.56,664,4.17
-TAS,194,Denison,8451,Creek Road,1087,66.69,543,33.31,1630,3.07
-TAS,194,Denison,8452,Cross Street,1207,68.27,561,31.73,1768,1.47
+TAS,194,Denison,8440,Abbotsfield,1126,0,364,0,1490,2.04
+TAS,194,Denison,8441,Albuera,354,0,207,0,561,0.24
+TAS,194,Denison,8495,Austins Ferry,1137,0,563,0,1700,3.96
+TAS,194,Denison,8442,Battery Point,689,0,559,0,1248,-3.51
+TAS,194,Denison,8443,Bowen Road,1042,0,364,0,1406,0.54
+TAS,194,Denison,8444,Brent Street,246,0,129,0,375,1.09
+TAS,194,Denison,8445,Cascades,711,0,232,0,943,-0.91
+TAS,194,Denison,8446,Chigwell,1217,0,447,0,1664,3.32
+TAS,194,Denison,8447,Claremont,1158,0,475,0,1633,3.32
+TAS,194,Denison,8448,Collinsvale,257,0,77,0,334,1.55
+TAS,194,Denison,8450,Cosgrove,481,0,183,0,664,4.17
+TAS,194,Denison,8451,Creek Road,1087,0,543,0,1630,3.07
+TAS,194,Denison,8452,Cross Street,1207,0,561,0,1768,1.47
 TAS,194,Denison,30185,Divisional Office (PREPOLL),0,0,0,0,0,-64.62
-TAS,194,Denison,8453,Dynnyrne,677,63.69,386,36.31,1063,-1.67
-TAS,194,Denison,8454,Elizabeth Street,667,72.66,251,27.34,918,2.83
-TAS,194,Denison,8455,Elwick,321,75.18,106,24.82,427,5.61
-TAS,194,Denison,8456,Fern Tree,410,81.19,95,18.81,505,6.47
-TAS,194,Denison,8457,Glenorchy,1761,70.44,739,29.56,2500,1.04
-TAS,194,Denison,58685,Glenorchy DENISON PPVC,1034,69.35,457,30.65,1491,5.14
-TAS,194,Denison,8458,Glenorchy East,1224,71.29,493,28.71,1717,1.04
-TAS,194,Denison,8459,Goodwood,495,77.34,145,22.66,640,0.97
-TAS,194,Denison,8461,Hobart,582,70.63,242,29.37,824,-0.63
-TAS,194,Denison,8462,Hobart Central,152,68.16,71,31.84,223,-5.4
-TAS,194,Denison,31107,Hobart DENISON PPVC,1627,59.9,1089,40.1,2716,-4.39
-TAS,194,Denison,8464,Hobart South,1036,70.86,426,29.14,1462,0.57
-TAS,194,Denison,8465,Hobart West,706,76.74,214,23.26,920,0.21
-TAS,194,Denison,46852,Kingston (Denison),498,64.42,275,35.58,773,13.05
-TAS,194,Denison,58686,Kingston DENISON PPVC,67,60.36,44,39.64,111,-3.86
-TAS,194,Denison,8466,Lansdowne Crescent,893,69.66,389,30.34,1282,-1.93
-TAS,194,Denison,8467,Lenah Valley,823,64.96,444,35.04,1267,-0.87
-TAS,194,Denison,8468,Lower Sandy Bay,823,42.4,1118,57.6,1941,-0.03
-TAS,194,Denison,8469,Lutana,666,70.78,275,29.22,941,0.46
-TAS,194,Denison,8470,Montrose,485,71.11,197,28.89,682,4.89
-TAS,194,Denison,8471,Moonah,1144,65.71,597,34.29,1741,0.15
-TAS,194,Denison,8472,Moonah North,764,71.14,310,28.86,1074,0.52
-TAS,194,Denison,8473,Mount Nelson,851,59.59,577,40.41,1428,1.77
-TAS,194,Denison,8474,Mount Stuart,581,67.56,279,32.44,860,-2.59
-TAS,194,Denison,8476,New Town,815,63.87,461,36.13,1276,-2.18
-TAS,194,Denison,8475,Newdegate,944,69.77,409,30.23,1353,0.98
-TAS,194,Denison,8478,Roseneath,270,78.49,74,21.51,344,-0.54
-TAS,194,Denison,8479,Rosetta,331,65.54,174,34.46,505,3.99
-TAS,194,Denison,58683,Rosny DENISON PPVC,74,62.18,45,37.82,119,-2.11
-TAS,194,Denison,46859,Sandfly (Denison),151,64.81,82,35.19,233,11.38
-TAS,194,Denison,8482,Sandy Bay,791,52.11,727,47.89,1518,-1.33
-TAS,194,Denison,8483,Sandy Bay Beach,287,37.18,485,62.82,772,-5.57
-TAS,194,Denison,13315,Special Hospital Team 1,34,69.39,15,30.61,49,13.83
-TAS,194,Denison,13316,Special Hospital Team 2,75,61.98,46,38.02,121,6.57
-TAS,194,Denison,13317,Special Hospital Team 3,85,36.17,150,63.83,235,-19.54
-TAS,194,Denison,13318,Special Hospital Team 4,99,52.11,91,47.89,190,-3.45
-TAS,194,Denison,8481,St Peters,396,67.46,191,32.54,587,-1.6
-TAS,194,Denison,8484,Swan,725,72.79,271,27.21,996,-2.79
-TAS,194,Denison,8542,Taroona,945,64.24,526,35.76,1471,0.97
-TAS,194,Denison,8485,Tolosa,1096,70.76,453,29.24,1549,1.99
-TAS,194,Denison,8486,Waimea Heights,311,43.68,401,56.32,712,-1.31
-TAS,194,Denison,8487,Windermere,489,68.2,228,31.8,717,1.85
+TAS,194,Denison,8453,Dynnyrne,677,0,386,0,1063,-1.67
+TAS,194,Denison,8454,Elizabeth Street,667,0,251,0,918,2.83
+TAS,194,Denison,8455,Elwick,321,0,106,0,427,5.61
+TAS,194,Denison,8456,Fern Tree,410,0,95,0,505,6.47
+TAS,194,Denison,8457,Glenorchy,1761,0,739,0,2500,1.04
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,1034,0,457,0,1491,5.14
+TAS,194,Denison,8458,Glenorchy East,1224,0,493,0,1717,1.04
+TAS,194,Denison,8459,Goodwood,495,0,145,0,640,0.97
+TAS,194,Denison,8461,Hobart,582,0,242,0,824,-0.63
+TAS,194,Denison,8462,Hobart Central,152,0,71,0,223,-5.4
+TAS,194,Denison,31107,Hobart DENISON PPVC,1627,0,1089,0,2716,-4.39
+TAS,194,Denison,8464,Hobart South,1036,0,426,0,1462,0.57
+TAS,194,Denison,8465,Hobart West,706,0,214,0,920,0.21
+TAS,194,Denison,46852,Kingston (Denison),498,0,275,0,773,13.05
+TAS,194,Denison,58686,Kingston DENISON PPVC,67,0,44,0,111,-3.86
+TAS,194,Denison,8466,Lansdowne Crescent,893,0,389,0,1282,-1.93
+TAS,194,Denison,8467,Lenah Valley,823,0,444,0,1267,-0.87
+TAS,194,Denison,8468,Lower Sandy Bay,823,0,1118,0,1941,-0.03
+TAS,194,Denison,8469,Lutana,666,0,275,0,941,0.46
+TAS,194,Denison,8470,Montrose,485,0,197,0,682,4.89
+TAS,194,Denison,8471,Moonah,1144,0,597,0,1741,0.15
+TAS,194,Denison,8472,Moonah North,764,0,310,0,1074,0.52
+TAS,194,Denison,8473,Mount Nelson,851,0,577,0,1428,1.77
+TAS,194,Denison,8474,Mount Stuart,581,0,279,0,860,-2.59
+TAS,194,Denison,8476,New Town,815,0,461,0,1276,-2.18
+TAS,194,Denison,8475,Newdegate,944,0,409,0,1353,0.98
+TAS,194,Denison,8478,Roseneath,270,0,74,0,344,-0.54
+TAS,194,Denison,8479,Rosetta,331,0,174,0,505,3.99
+TAS,194,Denison,58683,Rosny DENISON PPVC,74,0,45,0,119,-2.11
+TAS,194,Denison,46859,Sandfly (Denison),151,0,82,0,233,11.38
+TAS,194,Denison,8482,Sandy Bay,791,0,727,0,1518,-1.33
+TAS,194,Denison,8483,Sandy Bay Beach,287,0,485,0,772,-5.57
+TAS,194,Denison,13315,Special Hospital Team 1,34,0,15,0,49,13.83
+TAS,194,Denison,13316,Special Hospital Team 2,75,0,46,0,121,6.57
+TAS,194,Denison,13317,Special Hospital Team 3,85,0,150,0,235,-19.54
+TAS,194,Denison,13318,Special Hospital Team 4,0,0,0,0,0,-55.56
+TAS,194,Denison,8481,St Peters,396,0,191,0,587,-1.6
+TAS,194,Denison,8484,Swan,725,0,271,0,996,-2.79
+TAS,194,Denison,8542,Taroona,945,0,526,0,1471,0.97
+TAS,194,Denison,8485,Tolosa,1096,0,453,0,1549,1.99
+TAS,194,Denison,8486,Waimea Heights,311,0,401,0,712,-1.31
+TAS,194,Denison,8487,Windermere,489,0,228,0,717,1.85
 TAS,195,Franklin,8493,Adventure Bay,118,71.52,47,28.48,165,13.27
 TAS,195,Franklin,8494,Alonnah,155,72.77,58,27.23,213,16.8
 TAS,195,Franklin,8496,Barnes Bay,71,61.21,45,38.79,116,7.25
@@ -7475,7 +7475,7 @@ VIC,226,McEwen,11891,Clonbinane,157,63.05,92,36.95,249,3.91
 VIC,226,McEwen,4317,Darraweit Guim,123,53.48,107,46.52,230,-0.63
 VIC,226,McEwen,3380,Diamond Creek,1541,58.55,1091,41.45,2632,4.87
 VIC,226,McEwen,3381,Diamond Creek East,1356,57.75,992,42.25,2348,6.93
-VIC,226,McEwen,30217,Divisional Office (PREPOLL),0,0,0,0,0,-48.03
+VIC,226,McEwen,30217,Divisional Office (PREPOLL),700,50.32,691,49.68,1391,2.29
 VIC,226,McEwen,3382,Dixons Creek,77,34.22,148,65.78,225,4.07
 VIC,226,McEwen,4878,Don Valley,130,55.32,105,44.68,235,9.54
 VIC,226,McEwen,4318,Doreen,651,48.58,689,51.42,1340,10.32
@@ -7521,7 +7521,7 @@ VIC,226,McEwen,4356,Seymour,777,52.75,696,47.25,1473,5.13
 VIC,226,McEwen,4357,Seymour East,1078,59.33,739,40.67,1817,8.46
 VIC,226,McEwen,47752,South Morang (McEwen),421,66.19,215,33.81,636,12.92
 VIC,226,McEwen,31758,Special Hospital Team 1,0,0,0,0,0,-41.67
-VIC,226,McEwen,32895,Special Hospital Team 2,0,0,0,0,0,-41.07
+VIC,226,McEwen,32895,Special Hospital Team 2,26,53.06,23,46.94,49,11.99
 VIC,226,McEwen,3403,St Andrews,451,64.43,249,35.57,700,-1.11
 VIC,226,McEwen,58746,Sunbury MCEWEN PPVC,585,46.76,666,53.24,1251,-1.22
 VIC,226,McEwen,4362,Taggerty,87,40.47,128,59.53,215,-0.4
@@ -7890,8 +7890,8 @@ VIC,232,Scullin,46761,Mill Park SCULLIN PPVC,1839,71.86,720,28.14,2559,5.41
 VIC,232,Scullin,4861,Norris Bank,2047,71.1,832,28.9,2879,0.15
 VIC,232,Scullin,4353,Plenty,463,44.22,584,55.78,1047,7.48
 VIC,232,Scullin,4349,South Morang (Scullin),1953,66.84,969,33.16,2922,6.32
-VIC,232,Scullin,31591,Special Hospital Team 1,0,0,0,0,0,-68
-VIC,232,Scullin,32870,Special Hospital Team 2,0,0,0,0,0,-69.57
+VIC,232,Scullin,31591,Special Hospital Team 1,14,82.35,3,17.65,17,14.35
+VIC,232,Scullin,32870,Special Hospital Team 2,37,74,13,26,50,4.43
 VIC,232,Scullin,36426,St Helena (Scullin),482,47.63,530,52.37,1012,2.18
 VIC,232,Scullin,4365,The Stables,2528,71.03,1031,28.97,3559,2.31
 VIC,232,Scullin,4862,Thomastown,543,76.48,167,23.52,710,-5.03
@@ -8511,7 +8511,7 @@ WA,305,Hasluck,34105,Perth (Hasluck),32,49.23,33,50.77,65,-0.77
 WA,305,Hasluck,34106,Rottnest (Hasluck),7,43.75,9,56.25,16,16.48
 WA,305,Hasluck,34079,Special Hospital Team 1,70,48.28,75,51.72,145,1.22
 WA,305,Hasluck,34194,Special Hospital Team 2,78,54.93,64,45.07,142,7.83
-WA,305,Hasluck,34195,Special Hospital Team 3,0,0,0,0,0,-46.67
+WA,305,Hasluck,34195,Special Hospital Team 3,21,46.67,24,53.33,45,0
 WA,305,Hasluck,32540,Swan View (Hasluck),181,65.34,96,34.66,277,6.08
 WA,305,Hasluck,8279,Thornlie,1683,49.9,1690,50.1,3373,-0.91
 WA,305,Hasluck,8280,Thornlie East,1204,54.02,1025,45.98,2229,0.09
