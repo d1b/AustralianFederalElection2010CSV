@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T14:15:40 Cycle:9f69cd7d-7ad8-46dd-b99c-ac1dd52c4851 Created:2010-08-22T13:53:08 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T14:31:37 Cycle:500c2651-b2ec-461f-af0a-fd0b7fa0c463 Created:2010-08-22T14:23:08 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 ACT,101,Canberra,8829,Barton,20863,JONES,Giulia,1,N,N,LP,Liberal,790,-2.73
 ACT,101,Canberra,8829,Barton,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1399,2.73
@@ -1908,8 +1908,8 @@ NSW,118,Farrer,2490,Broken Hill Hospital,21637,LEY,Sussan,4,N,Y,LP,Liberal,209,8
 NSW,118,Farrer,2490,Broken Hill Hospital,21284,EMMERY,Christian,5,N,N,ALP,Country Labor,318,-8.36
 NSW,118,Farrer,2491,Broken Hill North,21637,LEY,Sussan,4,N,Y,LP,Liberal,667,8.02
 NSW,118,Farrer,2491,Broken Hill North,21284,EMMERY,Christian,5,N,N,ALP,Country Labor,984,-8.02
-NSW,118,Farrer,33950,Broken Hill PPVC,21637,LEY,Sussan,4,N,Y,LP,Liberal,0,-55.47
-NSW,118,Farrer,33950,Broken Hill PPVC,21284,EMMERY,Christian,5,N,N,ALP,Country Labor,0,-44.53
+NSW,118,Farrer,33950,Broken Hill PPVC,21637,LEY,Sussan,4,N,Y,LP,Liberal,1191,-14.53
+NSW,118,Farrer,33950,Broken Hill PPVC,21284,EMMERY,Christian,5,N,N,ALP,Country Labor,1718,14.53
 NSW,118,Farrer,763,Bunnaloo,21637,LEY,Sussan,4,N,Y,LP,Liberal,74,0.98
 NSW,118,Farrer,763,Bunnaloo,21284,EMMERY,Christian,5,N,N,ALP,Country Labor,10,-0.98
 NSW,118,Farrer,764,Buronga,21637,LEY,Sussan,4,N,Y,LP,Liberal,558,4.79
@@ -4736,12 +4736,12 @@ NSW,140,Parramatta,2255,Rowland Hassall,21461,OWENS,Julie,3,N,Y,ALP,Labor,541,-0
 NSW,140,Parramatta,2255,Rowland Hassall,21479,CAMENZULI,Charles,7,N,N,LP,Liberal,336,0.65
 NSW,140,Parramatta,2275,Rydalmere,21461,OWENS,Julie,3,N,Y,ALP,Labor,815,-2
 NSW,140,Parramatta,2275,Rydalmere,21479,CAMENZULI,Charles,7,N,N,LP,Liberal,668,2
-NSW,140,Parramatta,33637,Special Hospital Team 1,21461,OWENS,Julie,3,N,Y,ALP,Labor,0,-52.54
-NSW,140,Parramatta,33637,Special Hospital Team 1,21479,CAMENZULI,Charles,7,N,N,LP,Liberal,0,-47.46
-NSW,140,Parramatta,33851,Special Hospital Team 2,21461,OWENS,Julie,3,N,Y,ALP,Labor,0,-52.29
-NSW,140,Parramatta,33851,Special Hospital Team 2,21479,CAMENZULI,Charles,7,N,N,LP,Liberal,0,-47.71
-NSW,140,Parramatta,58038,Special Hospital Team 3,21461,OWENS,Julie,3,N,Y,ALP,Labor,0,-52.38
-NSW,140,Parramatta,58038,Special Hospital Team 3,21479,CAMENZULI,Charles,7,N,N,LP,Liberal,0,-47.62
+NSW,140,Parramatta,33637,Special Hospital Team 1,21461,OWENS,Julie,3,N,Y,ALP,Labor,36,4.6
+NSW,140,Parramatta,33637,Special Hospital Team 1,21479,CAMENZULI,Charles,7,N,N,LP,Liberal,27,-4.6
+NSW,140,Parramatta,33851,Special Hospital Team 2,21461,OWENS,Julie,3,N,Y,ALP,Labor,28,6.04
+NSW,140,Parramatta,33851,Special Hospital Team 2,21479,CAMENZULI,Charles,7,N,N,LP,Liberal,20,-6.04
+NSW,140,Parramatta,58038,Special Hospital Team 3,21461,OWENS,Julie,3,N,Y,ALP,Labor,13,-11.75
+NSW,140,Parramatta,58038,Special Hospital Team 3,21479,CAMENZULI,Charles,7,N,N,LP,Liberal,19,11.76
 NSW,140,Parramatta,14141,Sydney (Parramatta),21461,OWENS,Julie,3,N,Y,ALP,Labor,83,-6.76
 NSW,140,Parramatta,14141,Sydney (Parramatta),21479,CAMENZULI,Charles,7,N,N,LP,Liberal,57,6.76
 NSW,140,Parramatta,659,Telopea,21461,OWENS,Julie,3,N,Y,ALP,Labor,1179,-3.16
@@ -8600,10 +8600,10 @@ QLD,302,Longman,5503,Ningi,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,9
 QLD,302,Longman,5503,Ningi,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,1173,2.83
 QLD,302,Longman,58493,Sandstone Point,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,600,-4.56
 QLD,302,Longman,58493,Sandstone Point,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,806,4.56
-QLD,302,Longman,32660,Special Hospital Team 1,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,0,-37.64
-QLD,302,Longman,32660,Special Hospital Team 1,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,0,-62.36
-QLD,302,Longman,32662,Special Hospital Team 2,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,0,-37.63
-QLD,302,Longman,32662,Special Hospital Team 2,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,0,-62.37
+QLD,302,Longman,32660,Special Hospital Team 1,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,56,8.64
+QLD,302,Longman,32660,Special Hospital Team 1,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,65,-8.64
+QLD,302,Longman,32662,Special Hospital Team 2,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,48,13.43
+QLD,302,Longman,32662,Special Hospital Team 2,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,46,-13.43
 QLD,302,Longman,5514,Toorbul,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,189,-10.88
 QLD,302,Longman,5514,Toorbul,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,268,10.88
 QLD,302,Longman,58546,Upper Caboolture,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,276,-14.43
@@ -9636,8 +9636,8 @@ QLD,178,Wide Bay,6618,Rainbow Beach,20745,TRUSS,Warren,1,N,Y,LNQ,Liberal Nationa
 QLD,178,Wide Bay,6618,Rainbow Beach,21638,ANSELL,Nikolee,5,N,N,ALP,Australian Labor Party,192,-9.75
 QLD,178,Wide Bay,32689,Special Hospital Team 1,20745,TRUSS,Warren,1,N,Y,LNQ,Liberal National Party of Queensland,0,-66.1
 QLD,178,Wide Bay,32689,Special Hospital Team 1,21638,ANSELL,Nikolee,5,N,N,ALP,Australian Labor Party,0,-33.9
-QLD,178,Wide Bay,32690,Special Hospital Team 2,20745,TRUSS,Warren,1,N,Y,LNQ,Liberal National Party of Queensland,0,-66.04
-QLD,178,Wide Bay,32690,Special Hospital Team 2,21638,ANSELL,Nikolee,5,N,N,ALP,Australian Labor Party,0,-33.96
+QLD,178,Wide Bay,32690,Special Hospital Team 2,20745,TRUSS,Warren,1,N,Y,LNQ,Liberal National Party of Queensland,78,0.63
+QLD,178,Wide Bay,32690,Special Hospital Team 2,21638,ANSELL,Nikolee,5,N,N,ALP,Australian Labor Party,39,-0.63
 QLD,178,Wide Bay,38168,Special Hospital Team 3,20745,TRUSS,Warren,1,N,Y,LNQ,Liberal National Party of Queensland,0,-65.75
 QLD,178,Wide Bay,38168,Special Hospital Team 3,21638,ANSELL,Nikolee,5,N,N,ALP,Australian Labor Party,0,-34.25
 QLD,178,Wide Bay,6619,St Helens,20745,TRUSS,Warren,1,N,Y,LNQ,Liberal National Party of Queensland,585,15.06
@@ -11838,8 +11838,8 @@ TAS,195,Franklin,8538,South Arm,20948,HOWLETT,Jane,3,N,N,LP,Liberal,270,-3.43
 TAS,195,Franklin,8538,South Arm,20944,COLLINS,Julie,4,N,Y,ALP,Australian Labor Party,369,3.43
 TAS,195,Franklin,8539,Southport,20948,HOWLETT,Jane,3,N,N,LP,Liberal,34,-19.52
 TAS,195,Franklin,8539,Southport,20944,COLLINS,Julie,4,N,Y,ALP,Australian Labor Party,96,19.52
-TAS,195,Franklin,14421,Special Hospital Team 1,20948,HOWLETT,Jane,3,N,N,LP,Liberal,0,-57.59
-TAS,195,Franklin,14421,Special Hospital Team 1,20944,COLLINS,Julie,4,N,Y,ALP,Australian Labor Party,0,-42.41
+TAS,195,Franklin,14421,Special Hospital Team 1,20948,HOWLETT,Jane,3,N,N,LP,Liberal,56,-14.51
+TAS,195,Franklin,14421,Special Hospital Team 1,20944,COLLINS,Julie,4,N,Y,ALP,Australian Labor Party,74,14.51
 TAS,195,Franklin,13330,Special Hospital Team 2,20948,HOWLETT,Jane,3,N,N,LP,Liberal,0,-57.95
 TAS,195,Franklin,13330,Special Hospital Team 2,20944,COLLINS,Julie,4,N,Y,ALP,Australian Labor Party,0,-42.05
 TAS,195,Franklin,8541,Surges Bay,20948,HOWLETT,Jane,3,N,N,LP,Liberal,82,-3.16
@@ -13460,8 +13460,8 @@ VIC,213,Gippsland,3745,Dargo,21109,McCUBBIN,Darren,3,N,N,ALP,Australian Labor Pa
 VIC,213,Gippsland,3745,Dargo,21093,CHESTER,Darren,5,N,Y,NP,The Nationals,70,9.76
 VIC,213,Gippsland,3747,Denison,21109,McCUBBIN,Darren,3,N,N,ALP,Australian Labor Party,10,36.29
 VIC,213,Gippsland,3747,Denison,21093,CHESTER,Darren,5,N,Y,NP,The Nationals,10,-36.29
-VIC,213,Gippsland,3748,Devon North,21109,McCUBBIN,Darren,3,N,N,ALP,Australian Labor Party,0,-31.45
-VIC,213,Gippsland,3748,Devon North,21093,CHESTER,Darren,5,N,Y,NP,The Nationals,0,-68.55
+VIC,213,Gippsland,3748,Devon North,21109,McCUBBIN,Darren,3,N,N,ALP,Australian Labor Party,57,-10.8
+VIC,213,Gippsland,3748,Devon North,21093,CHESTER,Darren,5,N,Y,NP,The Nationals,219,10.8
 VIC,213,Gippsland,30204,Divisional Office (PREPOLL),21109,McCUBBIN,Darren,3,N,N,ALP,Australian Labor Party,579,-17.73
 VIC,213,Gippsland,30204,Divisional Office (PREPOLL),21093,CHESTER,Darren,5,N,Y,NP,The Nationals,1370,17.73
 VIC,213,Gippsland,3753,Eagle Point,21109,McCUBBIN,Darren,3,N,N,ALP,Australian Labor Party,166,-4.44
@@ -15040,8 +15040,8 @@ VIC,226,McEwen,4357,Seymour East,21088,MITCHELL,Rob,1,N,N,ALP,Australian Labor P
 VIC,226,McEwen,4357,Seymour East,21042,CAINE,Cameron,4,N,N,LP,Liberal,739,-8.46
 VIC,226,McEwen,47752,South Morang (McEwen),21088,MITCHELL,Rob,1,N,N,ALP,Australian Labor Party,421,12.92
 VIC,226,McEwen,47752,South Morang (McEwen),21042,CAINE,Cameron,4,N,N,LP,Liberal,215,-12.92
-VIC,226,McEwen,31758,Special Hospital Team 1,21088,MITCHELL,Rob,1,N,N,ALP,Australian Labor Party,0,-41.67
-VIC,226,McEwen,31758,Special Hospital Team 1,21042,CAINE,Cameron,4,N,N,LP,Liberal,0,-58.33
+VIC,226,McEwen,31758,Special Hospital Team 1,21088,MITCHELL,Rob,1,N,N,ALP,Australian Labor Party,26,18.8
+VIC,226,McEwen,31758,Special Hospital Team 1,21042,CAINE,Cameron,4,N,N,LP,Liberal,17,-18.8
 VIC,226,McEwen,32895,Special Hospital Team 2,21088,MITCHELL,Rob,1,N,N,ALP,Australian Labor Party,26,11.99
 VIC,226,McEwen,32895,Special Hospital Team 2,21042,CAINE,Cameron,4,N,N,LP,Liberal,23,-11.99
 VIC,226,McEwen,3403,St Andrews,21088,MITCHELL,Rob,1,N,N,ALP,Australian Labor Party,451,-1.11
@@ -15682,8 +15682,8 @@ VIC,231,Murray,31586,Special Hospital Team 2,21059,STONE,Sharman,1,N,Y,LP,Libera
 VIC,231,Murray,31586,Special Hospital Team 2,21091,MORTENSEN,Hugh,4,N,N,ALP,Australian Labor Party,0,-26.67
 VIC,231,Murray,31587,Special Hospital Team 3,21059,STONE,Sharman,1,N,Y,LP,Liberal,0,-72.73
 VIC,231,Murray,31587,Special Hospital Team 3,21091,MORTENSEN,Hugh,4,N,N,ALP,Australian Labor Party,0,-27.27
-VIC,231,Murray,31588,Special Hospital Team 4,21059,STONE,Sharman,1,N,Y,LP,Liberal,0,-73.33
-VIC,231,Murray,31588,Special Hospital Team 4,21091,MORTENSEN,Hugh,4,N,N,ALP,Australian Labor Party,0,-26.67
+VIC,231,Murray,31588,Special Hospital Team 4,21059,STONE,Sharman,1,N,Y,LP,Liberal,157,3.26
+VIC,231,Murray,31588,Special Hospital Team 4,21091,MORTENSEN,Hugh,4,N,N,ALP,Australian Labor Party,48,-3.26
 VIC,231,Murray,31589,Special Hospital Team 5,21059,STONE,Sharman,1,N,Y,LP,Liberal,0,-73.45
 VIC,231,Murray,31589,Special Hospital Team 5,21091,MORTENSEN,Hugh,4,N,N,ALP,Australian Labor Party,0,-26.55
 VIC,231,Murray,4808,Stanhope,21059,STONE,Sharman,1,N,Y,LP,Liberal,455,3.99
@@ -16090,8 +16090,8 @@ VIC,234,Wills,5112,Pascoe Vale South,21060,TOMISICH,Claude,1,N,N,LP,Liberal,887,
 VIC,234,Wills,5112,Pascoe Vale South,21073,THOMSON,Kelvin,2,N,Y,ALP,Australian Labor Party,1894,1.12
 VIC,234,Wills,5113,Pascoe Vale West,21060,TOMISICH,Claude,1,N,N,LP,Liberal,432,-3.01
 VIC,234,Wills,5113,Pascoe Vale West,21073,THOMSON,Kelvin,2,N,Y,ALP,Australian Labor Party,900,3.01
-VIC,234,Wills,31590,Special Hospital Team 1,21060,TOMISICH,Claude,1,N,N,LP,Liberal,0,-50
-VIC,234,Wills,31590,Special Hospital Team 1,21073,THOMSON,Kelvin,2,N,Y,ALP,Australian Labor Party,0,-50
+VIC,234,Wills,31590,Special Hospital Team 1,21060,TOMISICH,Claude,1,N,N,LP,Liberal,10,-10
+VIC,234,Wills,31590,Special Hospital Team 1,21073,THOMSON,Kelvin,2,N,Y,ALP,Australian Labor Party,15,10
 VIC,234,Wills,4603,Strathmore,21060,TOMISICH,Claude,1,N,N,LP,Liberal,1037,-4.21
 VIC,234,Wills,4603,Strathmore,21073,THOMSON,Kelvin,2,N,Y,ALP,Australian Labor Party,1281,4.21
 VIC,234,Wills,4604,Strathmore North,21060,TOMISICH,Claude,1,N,N,LP,Liberal,700,-3.16

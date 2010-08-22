@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T14:15:45 Cycle:9f69cd7d-7ad8-46dd-b99c-ac1dd52c4851 Created:2010-08-22T13:53:08 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T14:31:42 Cycle:500c2651-b2ec-461f-af0a-fd0b7fa0c463 Created:2010-08-22T14:23:08 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -954,7 +954,7 @@ NSW,118,Farrer,761,Brocklesby,25,21.74,90,78.26,115,-2.82
 NSW,118,Farrer,2489,Broken Hill,478,50.96,460,49.04,938,-11.77
 NSW,118,Farrer,2490,Broken Hill Hospital,318,60.34,209,39.66,527,-8.36
 NSW,118,Farrer,2491,Broken Hill North,984,59.6,667,40.4,1651,-8.02
-NSW,118,Farrer,33950,Broken Hill PPVC,0,0,0,0,0,-44.53
+NSW,118,Farrer,33950,Broken Hill PPVC,1718,59.06,1191,40.94,2909,14.53
 NSW,118,Farrer,763,Bunnaloo,10,11.9,74,88.1,84,-0.98
 NSW,118,Farrer,764,Buronga,169,23.25,558,76.75,727,-4.79
 NSW,118,Farrer,765,Burrumbuttock,40,18.18,180,81.82,220,-1.82
@@ -2368,9 +2368,9 @@ NSW,140,Parramatta,2273,Pitt Row,799,56.55,614,43.45,1413,-6.02
 NSW,140,Parramatta,2274,Rosehill,829,56.2,646,43.8,1475,-6.3
 NSW,140,Parramatta,2255,Rowland Hassall,541,61.69,336,38.31,877,-0.65
 NSW,140,Parramatta,2275,Rydalmere,815,54.96,668,45.04,1483,-2
-NSW,140,Parramatta,33637,Special Hospital Team 1,0,0,0,0,0,-52.54
-NSW,140,Parramatta,33851,Special Hospital Team 2,0,0,0,0,0,-52.29
-NSW,140,Parramatta,58038,Special Hospital Team 3,0,0,0,0,0,-52.38
+NSW,140,Parramatta,33637,Special Hospital Team 1,36,57.14,27,42.86,63,4.6
+NSW,140,Parramatta,33851,Special Hospital Team 2,28,58.33,20,41.67,48,6.04
+NSW,140,Parramatta,58038,Special Hospital Team 3,13,40.63,19,59.38,32,-11.75
 NSW,140,Parramatta,14141,Sydney (Parramatta),83,59.29,57,40.71,140,-6.76
 NSW,140,Parramatta,659,Telopea,1179,55.04,963,44.96,2142,-3.16
 NSW,140,Parramatta,2277,Toongabbie East,410,60.03,273,39.97,683,-5.99
@@ -4300,8 +4300,8 @@ QLD,302,Longman,5502,Narangba,986,45.95,1160,54.05,2146,-4.91
 QLD,302,Longman,32502,Narangba Valley,1971,51,1894,49,3865,-2.8
 QLD,302,Longman,5503,Ningi,920,43.96,1173,56.04,2093,-2.83
 QLD,302,Longman,58493,Sandstone Point,600,42.67,806,57.33,1406,-4.56
-QLD,302,Longman,32660,Special Hospital Team 1,0,0,0,0,0,-37.64
-QLD,302,Longman,32662,Special Hospital Team 2,0,0,0,0,0,-37.63
+QLD,302,Longman,32660,Special Hospital Team 1,56,46.28,65,53.72,121,8.64
+QLD,302,Longman,32662,Special Hospital Team 2,48,51.06,46,48.94,94,13.43
 QLD,302,Longman,5514,Toorbul,189,41.36,268,58.64,457,-10.88
 QLD,302,Longman,58546,Upper Caboolture,276,40.23,410,59.77,686,-14.43
 QLD,302,Longman,5517,Wamuran,589,38.17,954,61.83,1543,-5.87
@@ -4818,7 +4818,7 @@ QLD,178,Wide Bay,6614,Pie Creek,127,25.66,368,74.34,495,-7.54
 QLD,178,Wide Bay,6616,Pomona,776,47.2,868,52.8,1644,-1.46
 QLD,178,Wide Bay,6618,Rainbow Beach,192,32.82,393,67.18,585,-9.75
 QLD,178,Wide Bay,32689,Special Hospital Team 1,0,0,0,0,0,-33.9
-QLD,178,Wide Bay,32690,Special Hospital Team 2,0,0,0,0,0,-33.96
+QLD,178,Wide Bay,32690,Special Hospital Team 2,39,33.33,78,66.67,117,-0.63
 QLD,178,Wide Bay,38168,Special Hospital Team 3,0,0,0,0,0,-34.25
 QLD,178,Wide Bay,6619,St Helens,286,32.84,585,67.16,871,-15.06
 QLD,178,Wide Bay,6625,Tansey,19,16.38,97,83.62,116,-1.53
@@ -5919,7 +5919,7 @@ TAS,195,Franklin,8536,Seven Mile Beach,432,59.02,300,40.98,732,4.72
 TAS,195,Franklin,8537,Snug,681,66.7,340,33.3,1021,8.96
 TAS,195,Franklin,8538,South Arm,369,57.75,270,42.25,639,3.43
 TAS,195,Franklin,8539,Southport,96,73.85,34,26.15,130,19.52
-TAS,195,Franklin,14421,Special Hospital Team 1,0,0,0,0,0,-42.41
+TAS,195,Franklin,14421,Special Hospital Team 1,74,56.92,56,43.08,130,14.51
 TAS,195,Franklin,13330,Special Hospital Team 2,0,0,0,0,0,-42.05
 TAS,195,Franklin,8541,Surges Bay,79,49.07,82,50.93,161,3.16
 TAS,195,Franklin,8543,Tranmere,1056,52.88,941,47.12,1997,8.24
@@ -6730,7 +6730,7 @@ VIC,213,Gippsland,31658,Coongulla,40,39.6,61,60.4,101,-9.24
 VIC,213,Gippsland,3744,Cowwarr,73,33.33,146,66.67,219,-4.89
 VIC,213,Gippsland,3745,Dargo,12,14.63,70,85.37,82,-9.76
 VIC,213,Gippsland,3747,Denison,10,50,10,50,20,36.29
-VIC,213,Gippsland,3748,Devon North,0,0,0,0,0,-31.45
+VIC,213,Gippsland,3748,Devon North,57,20.65,219,79.35,276,-10.8
 VIC,213,Gippsland,30204,Divisional Office (PREPOLL),579,29.71,1370,70.29,1949,-17.73
 VIC,213,Gippsland,3753,Eagle Point,166,31.5,361,68.5,527,-4.44
 VIC,213,Gippsland,3741,Ellaswood,66,21.43,242,78.57,308,-0.94
@@ -7520,7 +7520,7 @@ VIC,226,McEwen,3323,Romsey,1200,55.76,952,44.24,2152,3.52
 VIC,226,McEwen,4356,Seymour,777,52.75,696,47.25,1473,5.13
 VIC,226,McEwen,4357,Seymour East,1078,59.33,739,40.67,1817,8.46
 VIC,226,McEwen,47752,South Morang (McEwen),421,66.19,215,33.81,636,12.92
-VIC,226,McEwen,31758,Special Hospital Team 1,0,0,0,0,0,-41.67
+VIC,226,McEwen,31758,Special Hospital Team 1,26,60.47,17,39.53,43,18.8
 VIC,226,McEwen,32895,Special Hospital Team 2,26,53.06,23,46.94,49,11.99
 VIC,226,McEwen,3403,St Andrews,451,64.43,249,35.57,700,-1.11
 VIC,226,McEwen,58746,Sunbury MCEWEN PPVC,585,46.76,666,53.24,1251,-1.22
@@ -7841,7 +7841,7 @@ VIC,231,Murray,4807,Shepparton South,853,37.79,1404,62.21,2257,-0.93
 VIC,231,Murray,31585,Special Hospital Team 1,55,21.91,196,78.09,251,-4.78
 VIC,231,Murray,31586,Special Hospital Team 2,0,0,0,0,0,-26.67
 VIC,231,Murray,31587,Special Hospital Team 3,0,0,0,0,0,-27.27
-VIC,231,Murray,31588,Special Hospital Team 4,0,0,0,0,0,-26.67
+VIC,231,Murray,31588,Special Hospital Team 4,48,23.41,157,76.59,205,-3.26
 VIC,231,Murray,31589,Special Hospital Team 5,0,0,0,0,0,-26.55
 VIC,231,Murray,4808,Stanhope,131,22.35,455,77.65,586,-3.99
 VIC,231,Murray,4809,Strathmerton,159,28.49,399,71.51,558,-7.47
@@ -8045,7 +8045,7 @@ VIC,234,Wills,5110,Pascoe Vale Central,501,70.66,208,29.34,709,0.09
 VIC,234,Wills,5111,Pascoe Vale North,1610,71.02,657,28.98,2267,-0.71
 VIC,234,Wills,5112,Pascoe Vale South,1894,68.1,887,31.9,2781,1.12
 VIC,234,Wills,5113,Pascoe Vale West,900,67.57,432,32.43,1332,3.01
-VIC,234,Wills,31590,Special Hospital Team 1,0,0,0,0,0,-50
+VIC,234,Wills,31590,Special Hospital Team 1,15,60,10,40,25,10
 VIC,234,Wills,4603,Strathmore,1281,55.26,1037,44.74,2318,4.21
 VIC,234,Wills,4604,Strathmore North,1151,62.18,700,37.82,1851,3.16
 VIC,234,Wills,4605,Strathmore South,365,51.85,339,48.15,704,3.06

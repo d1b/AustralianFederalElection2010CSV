@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T14:15:19 Cycle:9f69cd7d-7ad8-46dd-b99c-ac1dd52c4851 Created:2010-08-22T13:53:08 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T14:31:15 Cycle:500c2651-b2ec-461f-af0a-fd0b7fa0c463 Created:2010-08-22T14:23:08 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent,InformalSwing
 107,Blaxland,NSW,61996,10276,72272,14.22,5.33
 251,Watson,NSW,63927,10033,73960,13.57,4.48
@@ -9,7 +9,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 104,Barton,NSW,66396,7618,74014,10.29,3.72
 122,Greenway,NSW,69050,7228,76278,9.48,3.3
 144,Reid,NSW,67336,6829,74165,9.21,3.63
-140,Parramatta,NSW,64333,6160,70493,8.74,2.12
+140,Parramatta,NSW,64476,6171,70647,8.73,2.11
 103,Banks,NSW,71176,6661,77837,8.56,2.8
 127,Kingsford Smith,NSW,70347,6307,76654,8.23,2.92
 128,Lindsay,NSW,73606,6403,80009,8,2.48
@@ -21,11 +21,11 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 121,Grayndler,NSW,69309,5322,74631,7.13,1.15
 110,Charlton,NSW,70365,5385,75750,7.11,2.44
 150,Throsby,NSW,74329,5610,79939,7.02,2.15
-302,Longman,QLD,63673,4794,68467,7,3.48
+302,Longman,QLD,63888,4814,68702,7.01,3.49
 174,Oxley,QLD,60358,4526,64884,6.98,2.92
 309,Gorton,VIC,83401,6235,89636,6.96,2.52
+118,Farrer,NSW,71031,5221,76252,6.85,3.02
 124,Hughes,NSW,73352,5328,78680,6.77,2.33
-118,Farrer,NSW,68122,4927,73049,6.74,2.91
 203,Calwell,VIC,71797,5180,76977,6.73,1.88
 148,Shortland,NSW,71269,5023,76292,6.58,2.42
 105,Bennelong,NSW,72253,5028,77281,6.51,0.29
@@ -34,7 +34,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 172,Moncrieff,QLD,62940,4335,67275,6.44,2.63
 157,Capricornia,QLD,67024,4558,71582,6.37,3.05
 165,Herbert,QLD,69145,4707,73852,6.37,2.15
-234,Wills,VIC,69377,4686,74063,6.33,2
+234,Wills,VIC,69402,4687,74089,6.33,2
 159,Fadden,QLD,62095,4186,66281,6.32,2.01
 126,Hunter,NSW,72536,4816,77352,6.23,1.96
 146,Robertson,NSW,72924,4816,77740,6.2,2.76
@@ -69,7 +69,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 170,Maranoa,QLD,68395,3888,72283,5.38,1.7
 249,Paterson,NSW,71183,4049,75232,5.38,1.78
 244,Pearce,WA,63070,3588,66658,5.38,1.39
-178,Wide Bay,QLD,68193,3860,72053,5.36,1.36
+178,Wide Bay,QLD,68310,3866,72176,5.36,1.36
 245,Perth,WA,64674,3655,68329,5.35,0.76
 149,Sydney,NSW,58631,3312,61943,5.35,1.17
 190,Sturt,SA,72253,4078,76331,5.34,1.88
@@ -86,7 +86,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 125,Hume,NSW,74555,4052,78607,5.15,1.58
 145,Richmond,NSW,69202,3758,72960,5.15,0.87
 310,Bonner,QLD,65827,3562,69389,5.13,2.16
-231,Murray,VIC,70219,3770,73989,5.1,-0.14
+231,Murray,VIC,70424,3785,74209,5.1,-0.14
 246,Stirling,WA,65570,3520,69090,5.09,0.18
 212,Gellibrand,VIC,66936,3548,70484,5.03,0.81
 233,Wannon,VIC,70898,3735,74633,5,2.41
@@ -113,7 +113,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 252,Dickson,QLD,67537,3146,70683,4.45,1.66
 106,Berowra,NSW,72875,3385,76260,4.44,-0.24
 152,Wentworth,NSW,69129,3201,72330,4.43,-0.47
-226,McEwen,VIC,84527,3890,88417,4.4,0.44
+226,McEwen,VIC,84570,3891,88461,4.4,0.44
 197,Aston,VIC,70839,3250,74089,4.39,1.45
 236,Canning,WA,65222,2988,68210,4.38,0.93
 224,Mallee,VIC,70584,3231,73815,4.38,0.79
@@ -137,7 +137,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 156,Brisbane,QLD,62790,2407,65197,3.69,0.81
 130,Lyne,NSW,73930,2812,76742,3.66,-1.37
 194,Denison,TAS,55676,2112,57788,3.65,1.15
-195,Franklin,TAS,54928,2067,56995,3.63,0.98
+195,Franklin,TAS,55058,2069,57127,3.62,0.97
 135,New England,NSW,80011,2986,82997,3.6,0.63
 248,Tangney,WA,69410,2485,71895,3.46,0.81
 205,Chisholm,VIC,61002,2177,63179,3.45,0.84
