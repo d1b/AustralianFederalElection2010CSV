@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T14:47:48 Cycle:ddc09bfd-0c04-4b59-8f63-38b47bcaa050 Created:2010-08-22T14:38:08 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T15:03:48 Cycle:97a83726-1550-4b5e-ac09-21fb42393c4f Created:2010-08-22T14:53:14 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -187,7 +187,7 @@ NSW,104,Barton,41,Sandringham,929,43.45,1209,56.55,2138,-4.92
 NSW,104,Barton,68,Sans Souci,947,44.82,1166,55.18,2113,-7.52
 NSW,104,Barton,37,Sans Souci North,152,47.5,168,52.5,320,-3.77
 NSW,104,Barton,33595,Special Hospital Team 1,54,62.07,33,37.93,87,9.69
-NSW,104,Barton,33765,Special Hospital Team 2,0,0,0,0,0,-52.71
+NSW,104,Barton,33765,Special Hospital Team 2,54,58.06,39,41.94,93,5.35
 NSW,104,Barton,38392,Special Hospital Team 3,0,0,0,0,0,-52.73
 NSW,104,Barton,56572,Special Hospital Team 4,0,0,0,0,0,-54.55
 NSW,104,Barton,14014,Sydney (Barton),107,80.45,26,19.55,133,9.32
@@ -1364,7 +1364,7 @@ NSW,125,Hume,33702,Special Hospital Team 2,27,35.06,50,64.94,77,-0.88
 NSW,125,Hume,33703,Special Hospital Team 3,43,42.16,59,57.84,102,6.45
 NSW,125,Hume,33704,Special Hospital Team 4,56,41.48,79,58.52,135,5.63
 NSW,125,Hume,57354,Special Hospital Team 5,46,35.94,82,64.06,128,-0.31
-NSW,125,Hume,57356,Special Hospital Team 6,0,0,0,0,0,-35.48
+NSW,125,Hume,57356,Special Hospital Team 6,18,33.96,35,66.04,53,-1.52
 NSW,125,Hume,1314,Stockinbingal,68,34.34,130,65.66,198,1.57
 NSW,125,Hume,32915,Sutton,449,46.63,514,53.37,963,-1.31
 NSW,125,Hume,14092,Sydney (Hume),22,59.46,15,40.54,37,9.46
@@ -1567,7 +1567,7 @@ NSW,128,Lindsay,1501,Penrith North,614,55.37,495,44.63,1109,-4.05
 NSW,128,Lindsay,33841,Penrith PPVC,2038,47.02,2296,52.98,4334,-6.87
 NSW,128,Lindsay,1502,Penrith South,1667,51.5,1570,48.5,3237,-6
 NSW,128,Lindsay,1503,Regentville,947,43.72,1219,56.28,2166,-5.21
-NSW,128,Lindsay,33630,Special Hospital Team 1,0,0,0,0,0,-49.33
+NSW,128,Lindsay,33630,Special Hospital Team 1,20,57.14,15,42.86,35,7.81
 NSW,128,Lindsay,1504,St Marys,813,61.97,499,38.03,1312,-6.3
 NSW,128,Lindsay,410,St Marys North,1031,62.75,612,37.25,1643,-6.84
 NSW,128,Lindsay,1506,St Marys South,1406,58.71,989,41.29,2395,-4.11
@@ -2886,7 +2886,7 @@ NSW,150,Throsby,556,Port Kembla,731,74.21,254,25.79,985,-5.22
 NSW,150,Throsby,557,Port Kembla Central,998,77.97,282,22.03,1280,-6.5
 NSW,150,Throsby,559,Primbee,618,67.1,303,32.9,921,-10.13
 NSW,150,Throsby,2805,Robertson,518,49.24,534,50.76,1052,-3.37
-NSW,150,Throsby,33615,Special Hospital Team 1,0,0,0,0,0,-48.98
+NSW,150,Throsby,33615,Special Hospital Team 1,46,25.56,134,74.44,180,-23.42
 NSW,150,Throsby,58273,Special Hospital Team 2,0,0,0,0,0,-48.82
 NSW,150,Throsby,966,Sutton Forest,80,30.77,180,69.23,260,-6.69
 NSW,150,Throsby,14170,Sydney (Throsby),31,68.89,14,31.11,45,9.43
@@ -4819,7 +4819,7 @@ QLD,178,Wide Bay,6616,Pomona,776,47.2,868,52.8,1644,-1.46
 QLD,178,Wide Bay,6618,Rainbow Beach,192,32.82,393,67.18,585,-9.75
 QLD,178,Wide Bay,32689,Special Hospital Team 1,0,0,0,0,0,-33.9
 QLD,178,Wide Bay,32690,Special Hospital Team 2,39,33.33,78,66.67,117,-0.63
-QLD,178,Wide Bay,38168,Special Hospital Team 3,0,0,0,0,0,-34.25
+QLD,178,Wide Bay,38168,Special Hospital Team 3,37,31.62,80,68.38,117,-2.63
 QLD,178,Wide Bay,6619,St Helens,286,32.84,585,67.16,871,-15.06
 QLD,178,Wide Bay,6625,Tansey,19,16.38,97,83.62,116,-1.53
 QLD,178,Wide Bay,5448,Tewantin,1714,41.31,2435,58.69,4149,-3
@@ -5920,7 +5920,7 @@ TAS,195,Franklin,8537,Snug,681,66.7,340,33.3,1021,8.96
 TAS,195,Franklin,8538,South Arm,369,57.75,270,42.25,639,3.43
 TAS,195,Franklin,8539,Southport,96,73.85,34,26.15,130,19.52
 TAS,195,Franklin,14421,Special Hospital Team 1,74,56.92,56,43.08,130,14.51
-TAS,195,Franklin,13330,Special Hospital Team 2,0,0,0,0,0,-42.05
+TAS,195,Franklin,13330,Special Hospital Team 2,92,42.01,127,57.99,219,-0.04
 TAS,195,Franklin,8541,Surges Bay,79,49.07,82,50.93,161,3.16
 TAS,195,Franklin,8543,Tranmere,1056,52.88,941,47.12,1997,8.24
 TAS,195,Franklin,8544,Warrane,892,73.17,327,26.83,1219,5.96

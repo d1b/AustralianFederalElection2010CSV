@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T14:47:43 Cycle:ddc09bfd-0c04-4b59-8f63-38b47bcaa050 Created:2010-08-22T14:38:08 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T15:03:43 Cycle:97a83726-1550-4b5e-ac09-21fb42393c4f Created:2010-08-22T14:53:14 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 ACT,101,Canberra,8829,Barton,20863,JONES,Giulia,1,N,N,LP,Liberal,790,-2.73
 ACT,101,Canberra,8829,Barton,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1399,2.73
@@ -374,8 +374,8 @@ NSW,104,Barton,37,Sans Souci North,21158,McCLELLAND,Robert,1,N,Y,ALP,Labor,152,-
 NSW,104,Barton,37,Sans Souci North,21616,La MELA,John,3,N,N,LP,Liberal,168,3.77
 NSW,104,Barton,33595,Special Hospital Team 1,21158,McCLELLAND,Robert,1,N,Y,ALP,Labor,54,9.69
 NSW,104,Barton,33595,Special Hospital Team 1,21616,La MELA,John,3,N,N,LP,Liberal,33,-9.69
-NSW,104,Barton,33765,Special Hospital Team 2,21158,McCLELLAND,Robert,1,N,Y,ALP,Labor,0,-52.71
-NSW,104,Barton,33765,Special Hospital Team 2,21616,La MELA,John,3,N,N,LP,Liberal,0,-47.29
+NSW,104,Barton,33765,Special Hospital Team 2,21158,McCLELLAND,Robert,1,N,Y,ALP,Labor,54,5.35
+NSW,104,Barton,33765,Special Hospital Team 2,21616,La MELA,John,3,N,N,LP,Liberal,39,-5.35
 NSW,104,Barton,38392,Special Hospital Team 3,21158,McCLELLAND,Robert,1,N,Y,ALP,Labor,0,-52.73
 NSW,104,Barton,38392,Special Hospital Team 3,21616,La MELA,John,3,N,N,LP,Liberal,0,-47.27
 NSW,104,Barton,56572,Special Hospital Team 4,21158,McCLELLAND,Robert,1,N,Y,ALP,Labor,0,-54.55
@@ -2728,8 +2728,8 @@ NSW,125,Hume,33704,Special Hospital Team 4,21245,SAVILLE,Robin,3,N,N,ALP,Labor,5
 NSW,125,Hume,33704,Special Hospital Team 4,21647,SCHULTZ,Alby,7,N,Y,LP,Liberal,79,-5.63
 NSW,125,Hume,57354,Special Hospital Team 5,21245,SAVILLE,Robin,3,N,N,ALP,Labor,46,-0.31
 NSW,125,Hume,57354,Special Hospital Team 5,21647,SCHULTZ,Alby,7,N,Y,LP,Liberal,82,0.31
-NSW,125,Hume,57356,Special Hospital Team 6,21245,SAVILLE,Robin,3,N,N,ALP,Labor,0,-35.48
-NSW,125,Hume,57356,Special Hospital Team 6,21647,SCHULTZ,Alby,7,N,Y,LP,Liberal,0,-64.52
+NSW,125,Hume,57356,Special Hospital Team 6,21245,SAVILLE,Robin,3,N,N,ALP,Labor,18,-1.52
+NSW,125,Hume,57356,Special Hospital Team 6,21647,SCHULTZ,Alby,7,N,Y,LP,Liberal,35,1.52
 NSW,125,Hume,1314,Stockinbingal,21245,SAVILLE,Robin,3,N,N,ALP,Labor,68,1.57
 NSW,125,Hume,1314,Stockinbingal,21647,SCHULTZ,Alby,7,N,Y,LP,Liberal,130,-1.57
 NSW,125,Hume,32915,Sutton,21245,SAVILLE,Robin,3,N,N,ALP,Labor,449,-1.31
@@ -3134,8 +3134,8 @@ NSW,128,Lindsay,1502,Penrith South,21283,BRADBURY,David,1,N,Y,ALP,Labor,1667,-6
 NSW,128,Lindsay,1502,Penrith South,21622,SCOTT,Fiona,7,N,N,LP,Liberal,1570,6
 NSW,128,Lindsay,1503,Regentville,21283,BRADBURY,David,1,N,Y,ALP,Labor,947,-5.21
 NSW,128,Lindsay,1503,Regentville,21622,SCOTT,Fiona,7,N,N,LP,Liberal,1219,5.21
-NSW,128,Lindsay,33630,Special Hospital Team 1,21283,BRADBURY,David,1,N,Y,ALP,Labor,0,-49.33
-NSW,128,Lindsay,33630,Special Hospital Team 1,21622,SCOTT,Fiona,7,N,N,LP,Liberal,0,-50.67
+NSW,128,Lindsay,33630,Special Hospital Team 1,21283,BRADBURY,David,1,N,Y,ALP,Labor,20,7.81
+NSW,128,Lindsay,33630,Special Hospital Team 1,21622,SCOTT,Fiona,7,N,N,LP,Liberal,15,-7.81
 NSW,128,Lindsay,1504,St Marys,21283,BRADBURY,David,1,N,Y,ALP,Labor,813,-6.3
 NSW,128,Lindsay,1504,St Marys,21622,SCOTT,Fiona,7,N,N,LP,Liberal,499,6.3
 NSW,128,Lindsay,410,St Marys North,21283,BRADBURY,David,1,N,Y,ALP,Labor,1031,-6.84
@@ -3268,8 +3268,8 @@ NSW,130,Lyne,505,Rollands Plains,21912,OAKESHOTT,Robert,1,N,Y,IND,Independent,92
 NSW,130,Lyne,505,Rollands Plains,20996,GILLESPIE,David,3,N,N,NP,The Nationals,81,46.82
 NSW,130,Lyne,31458,Settlement Shores,21912,OAKESHOTT,Robert,1,N,Y,IND,Independent,981,60.41
 NSW,130,Lyne,31458,Settlement Shores,20996,GILLESPIE,David,3,N,N,NP,The Nationals,643,39.59
-NSW,130,Lyne,33612,Special Hospital Team 1,21912,OAKESHOTT,Robert,1,N,Y,IND,Independent,0,0
-NSW,130,Lyne,33612,Special Hospital Team 1,20996,GILLESPIE,David,3,N,N,NP,The Nationals,0,0
+NSW,130,Lyne,33612,Special Hospital Team 1,21912,OAKESHOTT,Robert,1,N,Y,IND,Independent,129,64.18
+NSW,130,Lyne,33612,Special Hospital Team 1,20996,GILLESPIE,David,3,N,N,NP,The Nationals,72,35.82
 NSW,130,Lyne,33673,Special Hospital Team 2,21912,OAKESHOTT,Robert,1,N,Y,IND,Independent,0,0
 NSW,130,Lyne,33673,Special Hospital Team 2,20996,GILLESPIE,David,3,N,N,NP,The Nationals,0,0
 NSW,130,Lyne,33674,Special Hospital Team 3,21912,OAKESHOTT,Robert,1,N,Y,IND,Independent,0,0
@@ -5772,8 +5772,8 @@ NSW,150,Throsby,559,Primbee,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,303,10.13
 NSW,150,Throsby,559,Primbee,21431,JONES,Stephen,2,N,N,ALP,Labor,618,-10.13
 NSW,150,Throsby,2805,Robertson,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,534,3.37
 NSW,150,Throsby,2805,Robertson,21431,JONES,Stephen,2,N,N,ALP,Labor,518,-3.37
-NSW,150,Throsby,33615,Special Hospital Team 1,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,0,-51.02
-NSW,150,Throsby,33615,Special Hospital Team 1,21431,JONES,Stephen,2,N,N,ALP,Labor,0,-48.98
+NSW,150,Throsby,33615,Special Hospital Team 1,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,134,23.42
+NSW,150,Throsby,33615,Special Hospital Team 1,21431,JONES,Stephen,2,N,N,ALP,Labor,46,-23.42
 NSW,150,Throsby,58273,Special Hospital Team 2,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,0,-51.18
 NSW,150,Throsby,58273,Special Hospital Team 2,21431,JONES,Stephen,2,N,N,ALP,Labor,0,-48.82
 NSW,150,Throsby,966,Sutton Forest,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,180,6.69
@@ -9638,8 +9638,8 @@ QLD,178,Wide Bay,32689,Special Hospital Team 1,20745,TRUSS,Warren,1,N,Y,LNQ,Libe
 QLD,178,Wide Bay,32689,Special Hospital Team 1,21638,ANSELL,Nikolee,5,N,N,ALP,Australian Labor Party,0,-33.9
 QLD,178,Wide Bay,32690,Special Hospital Team 2,20745,TRUSS,Warren,1,N,Y,LNQ,Liberal National Party of Queensland,78,0.63
 QLD,178,Wide Bay,32690,Special Hospital Team 2,21638,ANSELL,Nikolee,5,N,N,ALP,Australian Labor Party,39,-0.63
-QLD,178,Wide Bay,38168,Special Hospital Team 3,20745,TRUSS,Warren,1,N,Y,LNQ,Liberal National Party of Queensland,0,-65.75
-QLD,178,Wide Bay,38168,Special Hospital Team 3,21638,ANSELL,Nikolee,5,N,N,ALP,Australian Labor Party,0,-34.25
+QLD,178,Wide Bay,38168,Special Hospital Team 3,20745,TRUSS,Warren,1,N,Y,LNQ,Liberal National Party of Queensland,80,2.63
+QLD,178,Wide Bay,38168,Special Hospital Team 3,21638,ANSELL,Nikolee,5,N,N,ALP,Australian Labor Party,37,-2.63
 QLD,178,Wide Bay,6619,St Helens,20745,TRUSS,Warren,1,N,Y,LNQ,Liberal National Party of Queensland,585,15.06
 QLD,178,Wide Bay,6619,St Helens,21638,ANSELL,Nikolee,5,N,N,ALP,Australian Labor Party,286,-15.06
 QLD,178,Wide Bay,6625,Tansey,20745,TRUSS,Warren,1,N,Y,LNQ,Liberal National Party of Queensland,97,1.53
@@ -11840,8 +11840,8 @@ TAS,195,Franklin,8539,Southport,20948,HOWLETT,Jane,3,N,N,LP,Liberal,34,-19.52
 TAS,195,Franklin,8539,Southport,20944,COLLINS,Julie,4,N,Y,ALP,Australian Labor Party,96,19.52
 TAS,195,Franklin,14421,Special Hospital Team 1,20948,HOWLETT,Jane,3,N,N,LP,Liberal,56,-14.51
 TAS,195,Franklin,14421,Special Hospital Team 1,20944,COLLINS,Julie,4,N,Y,ALP,Australian Labor Party,74,14.51
-TAS,195,Franklin,13330,Special Hospital Team 2,20948,HOWLETT,Jane,3,N,N,LP,Liberal,0,-57.95
-TAS,195,Franklin,13330,Special Hospital Team 2,20944,COLLINS,Julie,4,N,Y,ALP,Australian Labor Party,0,-42.05
+TAS,195,Franklin,13330,Special Hospital Team 2,20948,HOWLETT,Jane,3,N,N,LP,Liberal,127,0.04
+TAS,195,Franklin,13330,Special Hospital Team 2,20944,COLLINS,Julie,4,N,Y,ALP,Australian Labor Party,92,-0.04
 TAS,195,Franklin,8541,Surges Bay,20948,HOWLETT,Jane,3,N,N,LP,Liberal,82,-3.16
 TAS,195,Franklin,8541,Surges Bay,20944,COLLINS,Julie,4,N,Y,ALP,Australian Labor Party,79,3.16
 TAS,195,Franklin,8543,Tranmere,20948,HOWLETT,Jane,3,N,N,LP,Liberal,941,-8.24
