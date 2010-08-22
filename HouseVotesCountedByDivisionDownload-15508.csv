@@ -1,7 +1,7 @@
-2010 Federal Election House of Representatives Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T16:38:48 Cycle:ae9afcce-2fc5-4474-8e30-7bb47b991ca0 Created:2010-08-22T16:23:24 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T16:54:36 Cycle:707af868-e7a7-4614-a275-e4df7585683f Created:2010-08-22T16:38:25 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,TotalPercentage
 179,Adelaide,SA,98526,72891,0,0,0,0,72891,73.98
-197,Aston,VIC,93448,74154,0,0,0,0,74154,79.35
+197,Aston,VIC,93448,74281,0,0,0,0,74281,79.49
 198,Ballarat,VIC,97802,78875,0,0,0,0,78875,80.65
 103,Banks,NSW,98762,77837,0,0,0,0,77837,78.81
 180,Barker,SA,104888,84478,0,0,0,0,84478,80.54
@@ -14,7 +14,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 304,Blair,QLD,83071,66127,0,0,0,0,66127,79.6
 107,Blaxland,NSW,95354,72272,0,0,0,0,72272,75.79
 310,Bonner,QLD,92684,69389,0,0,0,0,69389,74.87
-182,Boothby,SA,97898,76018,0,0,0,0,76018,77.65
+182,Boothby,SA,97898,76246,0,0,0,0,76246,77.88
 155,Bowman,QLD,91892,74181,0,0,0,0,74181,80.73
 193,Braddon,TAS,71574,59518,0,0,0,0,59518,83.16
 108,Bradfield,NSW,97251,73785,0,0,0,0,73785,75.87
@@ -46,7 +46,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 312,Durack,WA,85782,60216,0,0,0,0,60216,70.2
 117,Eden-Monaro,NSW,96465,78804,0,0,0,0,78804,81.69
 159,Fadden,QLD,85236,66281,0,0,0,0,66281,77.76
-160,Fairfax,QLD,89743,70453,0,0,0,0,70453,78.51
+160,Fairfax,QLD,89743,70798,0,0,0,0,70798,78.89
 118,Farrer,NSW,94061,76252,0,0,0,0,76252,81.07
 161,Fisher,QLD,83754,64968,0,0,0,0,64968,77.57
 211,Flinders,VIC,100875,74350,0,0,0,0,74350,73.71
@@ -58,7 +58,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 102,Fraser,ACT,123444,103288,0,0,0,0,103288,83.67
 240,Fremantle,WA,93341,71996,0,0,0,0,71996,77.13
 212,Gellibrand,VIC,95611,70484,0,0,0,0,70484,73.72
-120,Gilmore,NSW,96317,79493,0,0,0,0,79493,82.53
+120,Gilmore,NSW,96317,79603,0,0,0,0,79603,82.65
 213,Gippsland,VIC,97543,81405,0,0,0,0,81405,83.46
 214,Goldstein,VIC,93945,69572,0,0,0,0,69572,74.06
 309,Gorton,VIC,113656,89636,0,0,0,0,89636,78.87
@@ -98,7 +98,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 133,Macquarie,NSW,97560,80879,0,0,0,0,80879,82.9
 187,Makin,SA,96263,76937,0,0,0,0,76937,79.92
 224,Mallee,VIC,89840,73815,0,0,0,0,73815,82.16
-170,Maranoa,QLD,97957,72283,0,0,0,0,72283,73.79
+170,Maranoa,QLD,97957,72521,0,0,0,0,72521,74.03
 225,Maribyrnong,VIC,88412,67581,0,0,0,0,67581,76.44
 188,Mayo,SA,101565,80383,0,0,0,0,80383,79.14
 226,McEwen,VIC,115783,88461,0,0,0,0,88461,76.4
@@ -112,7 +112,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 172,Moncrieff,QLD,89087,67275,0,0,0,0,67275,75.52
 242,Moore,WA,92295,71213,0,0,0,0,71213,77.16
 173,Moreton,QLD,92733,68879,0,0,0,0,68879,74.28
-231,Murray,VIC,90218,74341,0,0,0,0,74341,82.4
+231,Murray,VIC,90218,74453,0,0,0,0,74453,82.53
 135,New England,NSW,99677,82997,0,0,0,0,82997,83.27
 136,Newcastle,NSW,92896,73834,0,0,0,0,73834,79.48
 137,North Sydney,NSW,97567,71081,0,0,0,0,71081,72.85
@@ -133,7 +133,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 146,Robertson,NSW,96593,77740,0,0,0,0,77740,80.48
 177,Ryan,QLD,98224,74765,0,0,0,0,74765,76.12
 232,Scullin,VIC,90822,72040,0,0,0,0,72040,79.32
-148,Shortland,NSW,94245,76292,0,0,0,0,76292,80.95
+148,Shortland,NSW,94245,76324,0,0,0,0,76324,80.98
 307,Solomon,NT,59879,48494,0,0,0,0,48494,80.99
 246,Stirling,WA,91728,69090,0,0,0,0,69090,75.32
 190,Sturt,SA,99061,76331,0,0,0,0,76331,77.05
