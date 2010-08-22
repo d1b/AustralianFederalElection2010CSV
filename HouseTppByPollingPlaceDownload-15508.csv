@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T15:35:56 Cycle:b6108b88-3f9d-4c2c-8b95-7eb0e349ed75 Created:2010-08-22T15:23:19 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T15:51:51 Cycle:5bafd084-fac2-44d1-b954-be57a60ba016 Created:2010-08-22T15:38:19 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -2443,8 +2443,8 @@ NSW,249,Paterson,1416,Seaham,450,39.03,703,60.97,1153,-7.96
 NSW,249,Paterson,1636,Shoal Bay,441,51.94,408,48.06,849,0.41
 NSW,249,Paterson,1637,Soldiers Point,345,41.27,491,58.73,836,-3.99
 NSW,249,Paterson,33628,Special Hospital Team 1,25,35.71,45,64.29,70,-4.29
-NSW,249,Paterson,33775,Special Hospital Team 2,0,0,0,0,0,-40.12
-NSW,249,Paterson,33776,Special Hospital Team 3,0,0,0,0,0,-40.71
+NSW,249,Paterson,33775,Special Hospital Team 2,67,41.1,96,58.9,163,0.98
+NSW,249,Paterson,33776,Special Hospital Team 3,45,37.82,74,62.18,119,-2.89
 NSW,249,Paterson,1639,Stroud,194,38.8,306,61.2,500,-0.48
 NSW,249,Paterson,1640,Stroud Road,59,38.31,95,61.69,154,-0.54
 NSW,249,Paterson,14143,Sydney (Paterson),9,36,16,64,25,-20.52
@@ -4817,7 +4817,7 @@ QLD,178,Wide Bay,5447,Peregian Beach,765,44.71,946,55.29,1711,-4.51
 QLD,178,Wide Bay,6614,Pie Creek,127,25.66,368,74.34,495,-7.54
 QLD,178,Wide Bay,6616,Pomona,776,47.2,868,52.8,1644,-1.46
 QLD,178,Wide Bay,6618,Rainbow Beach,192,32.82,393,67.18,585,-9.75
-QLD,178,Wide Bay,32689,Special Hospital Team 1,0,0,0,0,0,-33.9
+QLD,178,Wide Bay,32689,Special Hospital Team 1,29,26.85,79,73.15,108,-7.05
 QLD,178,Wide Bay,32690,Special Hospital Team 2,39,33.33,78,66.67,117,-0.63
 QLD,178,Wide Bay,38168,Special Hospital Team 3,37,31.62,80,68.38,117,-2.63
 QLD,178,Wide Bay,6619,St Helens,286,32.84,585,67.16,871,-15.06
@@ -7001,8 +7001,8 @@ VIC,217,Hotham,3909,Oakleigh South,1224,68.42,565,31.58,1789,1.3
 VIC,217,Hotham,31847,Southland,395,58.09,285,41.91,680,-5.26
 VIC,217,Hotham,4003,Southmoor,0,0,0,0,0,-58.17
 VIC,217,Hotham,58538,Southvale (Hotham),327,76.22,102,23.78,429,14.56
-VIC,217,Hotham,31581,Special Hospital Team 1,0,0,0,0,0,-44.44
-VIC,217,Hotham,31532,Special Hospital Team 2,0,0,0,0,0,-43.97
+VIC,217,Hotham,31581,Special Hospital Team 1,63,40.38,93,59.62,156,-4.06
+VIC,217,Hotham,31532,Special Hospital Team 2,65,52.85,58,47.15,123,8.88
 VIC,217,Hotham,4011,Spring Valley,1225,77.73,351,22.27,1576,-0.93
 VIC,217,Hotham,4008,Springvale,1136,74.49,389,25.51,1525,-4.59
 VIC,217,Hotham,34061,Springvale PPVC,1591,73.05,587,26.95,2178,27.78
@@ -7453,7 +7453,7 @@ VIC,225,Maribyrnong,4598,Moonee Ponds South,580,68.88,262,31.12,842,0.76
 VIC,225,Maribyrnong,4599,Moonee Ponds West,1444,66.3,734,33.7,2178,1.7
 VIC,225,Maribyrnong,4600,Niddrie,1097,64.11,614,35.89,1711,3.59
 VIC,225,Maribyrnong,4601,Niddrie Central,1146,57.65,842,42.35,1988,3.47
-VIC,225,Maribyrnong,32076,Special Hospital Team 1,0,0,0,0,0,-50
+VIC,225,Maribyrnong,32076,Special Hospital Team 1,18,81.82,4,18.18,22,31.82
 VIC,225,Maribyrnong,3360,St Albans,914,78.05,257,21.95,1171,2.34
 VIC,225,Maribyrnong,3361,St Albans East,1593,78.78,429,21.22,2022,2.52
 VIC,225,Maribyrnong,58805,St Albans MARIBYRNONG PPVC,1966,76.74,596,23.26,2562,29.21
