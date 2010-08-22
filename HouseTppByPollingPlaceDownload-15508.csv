@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T12:19:38 Cycle:078453b6-7d04-48db-83c5-bdf535ddb394 Created:2010-08-22T12:11:32 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T13:00:22 Cycle:d080e72d-c2ef-48d6-88a2-ca449e14b1a9 Created:2010-08-22T12:52:22 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -2497,7 +2497,7 @@ NSW,144,Reid,34328,Newington Central,1100,47.33,1224,52.67,2324,-8.47
 NSW,144,Reid,1543,Rhodes,423,47.9,460,52.1,883,-6.89
 NSW,144,Reid,1544,Russell Lea,689,47.81,752,52.19,1441,-6.71
 NSW,144,Reid,2394,Silverwater,589,67.39,285,32.61,874,-8.88
-NSW,144,Reid,33638,Special Hospital Team 1,0,0,0,0,0,-58.21
+NSW,144,Reid,33638,Special Hospital Team 1,74,47.74,81,52.26,155,-10.47
 NSW,144,Reid,1545,Strathfield (Reid),550,45.34,663,54.66,1213,-15.22
 NSW,144,Reid,58096,Strathfield Central (Reid),168,37.5,280,62.5,448,-4.13
 NSW,144,Reid,1547,Strathfield North,1337,49.61,1358,50.39,2695,-9.5
@@ -3758,7 +3758,7 @@ QLD,311,Flynn,6212,Rubyvale,118,45.04,144,54.96,262,-4.6
 QLD,311,Flynn,6217,Sapphire,120,49.18,124,50.82,244,-3.55
 QLD,311,Flynn,5783,Sharon,235,39.76,356,60.24,591,-8.27
 QLD,311,Flynn,5764,South Kolan,244,42.29,333,57.71,577,-11.01
-QLD,311,Flynn,46440,Special Hospital Team 1,0,0,0,0,0,-67.69
+QLD,311,Flynn,46440,Special Hospital Team 1,35,61.4,22,38.6,57,-6.29
 QLD,311,Flynn,46441,Special Hospital Team 2,0,0,0,0,0,-70
 QLD,311,Flynn,58499,Special Hospital Team 3,0,0,0,0,0,-67.86
 QLD,311,Flynn,58500,Special Hospital Team 4,0,0,0,0,0,-67.86
@@ -4002,10 +4002,10 @@ QLD,166,Hinkler,5778,Norville,938,46.41,1083,53.59,2021,-7.24
 QLD,166,Hinkler,6613,Pialba,398,37.76,656,62.24,1054,-7.63
 QLD,166,Hinkler,38274,Pialba North,1668,41.09,2391,58.91,4059,-10.54
 QLD,166,Hinkler,33943,River Heads,295,39.7,448,60.3,743,-5.21
-QLD,166,Hinkler,32708,Special Hospital Team 1,0,0,0,0,0,-45.45
-QLD,166,Hinkler,32709,Special Hospital Team 2,0,0,0,0,0,-45.29
-QLD,166,Hinkler,58766,Special Hospital Team 3,0,0,0,0,0,-45.45
-QLD,166,Hinkler,58767,Special Hospital Team 4,0,0,0,0,0,-45.35
+QLD,166,Hinkler,32708,Special Hospital Team 1,60,35.29,110,64.71,170,-10.16
+QLD,166,Hinkler,32709,Special Hospital Team 2,54,31.4,118,68.6,172,-13.89
+QLD,166,Hinkler,58766,Special Hospital Team 3,3,20,12,80,15,-25.45
+QLD,166,Hinkler,58767,Special Hospital Team 4,58,36.25,102,63.75,160,-9.1
 QLD,166,Hinkler,5785,Thabeban,823,41.82,1145,58.18,1968,-9.08
 QLD,166,Hinkler,6631,Toogoom,345,39.79,522,60.21,867,-6.11
 QLD,166,Hinkler,6632,Torbanlea,157,40.05,235,59.95,392,-16.73
@@ -4174,7 +4174,7 @@ QLD,168,Leichhardt,5943,Cooktown,326,39.23,505,60.77,831,-12.48
 QLD,168,Leichhardt,58580,Cooktown Interstate PPVC,0,0,0,0,0,0
 QLD,168,Leichhardt,46648,Cooktown PPVC,0,0,0,0,0,-50
 QLD,168,Leichhardt,5945,Daintree,48,38.71,76,61.29,124,-9.75
-QLD,168,Leichhardt,30159,Divisional Office (PREPOLL),0,0,0,0,0,-49.51
+QLD,168,Leichhardt,30159,Divisional Office (PREPOLL),876,41.56,1232,58.44,2108,-7.95
 QLD,168,Leichhardt,11640,Diwan,112,47.46,124,52.54,236,-6.11
 QLD,168,Leichhardt,5948,Earlville,1166,41.39,1651,58.61,2817,-7.26
 QLD,168,Leichhardt,5951,Edge Hill,1607,48.87,1681,51.13,3288,-3.97
@@ -5548,8 +5548,8 @@ SA,189,Port Adelaide,7270,Semaphore,1272,72.64,479,27.36,1751,2.84
 SA,189,Port Adelaide,7273,Semaphore South,1017,70.67,422,29.33,1439,4.3
 SA,189,Port Adelaide,33216,Special Hospital Team 1,33,64.71,18,35.29,51,-1.96
 SA,189,Port Adelaide,33217,Special Hospital Team 2,37,80.43,9,19.57,46,14.72
-SA,189,Port Adelaide,33218,Special Hospital Team 3,0,0,0,0,0,-67.21
-SA,189,Port Adelaide,33219,Special Hospital Team 4,0,0,0,0,0,-66.67
+SA,189,Port Adelaide,33218,Special Hospital Team 3,32,82.05,7,17.95,39,14.84
+SA,189,Port Adelaide,33219,Special Hospital Team 4,26,72.22,10,27.78,36,5.55
 SA,189,Port Adelaide,33220,Special Hospital Team 5,0,0,0,0,0,-66.97
 SA,189,Port Adelaide,38322,Special Hospital Team 6,0,0,0,0,0,-67.03
 SA,189,Port Adelaide,7274,Taperoo,2599,75.09,862,24.91,3461,4.12
@@ -5666,7 +5666,7 @@ SA,191,Wakefield,6849,Salisbury North West (Wakefield),1092,76.85,329,23.15,1421
 SA,191,Wakefield,6850,Salisbury Park,1085,66.89,537,33.11,1622,3.39
 SA,191,Wakefield,6851,Smithfield,895,72.76,335,27.24,1230,8.78
 SA,191,Wakefield,6852,Smithfield Plains,873,77.46,254,22.54,1127,4.58
-SA,191,Wakefield,33246,Special Hospital Team 1,0,0,0,0,0,-50.32
+SA,191,Wakefield,33246,Special Hospital Team 1,114,74.03,40,25.97,154,23.71
 SA,191,Wakefield,33247,Special Hospital Team 2,0,0,0,0,0,-50
 SA,191,Wakefield,33248,Special Hospital Team 3,0,0,0,0,0,-50
 SA,191,Wakefield,7426,Tarlee,110,37.93,180,62.07,290,7.93
@@ -5865,7 +5865,7 @@ TAS,194,Denison,8483,Sandy Bay Beach,287,37.18,485,62.82,772,-5.57
 TAS,194,Denison,13315,Special Hospital Team 1,34,69.39,15,30.61,49,13.83
 TAS,194,Denison,13316,Special Hospital Team 2,75,61.98,46,38.02,121,6.57
 TAS,194,Denison,13317,Special Hospital Team 3,85,36.17,150,63.83,235,-19.54
-TAS,194,Denison,13318,Special Hospital Team 4,0,0,0,0,0,-55.56
+TAS,194,Denison,13318,Special Hospital Team 4,99,52.11,91,47.89,190,-3.45
 TAS,194,Denison,8481,St Peters,396,67.46,191,32.54,587,-1.6
 TAS,194,Denison,8484,Swan,725,72.79,271,27.21,996,-2.79
 TAS,194,Denison,8542,Taroona,945,64.24,526,35.76,1471,0.97
@@ -6125,49 +6125,49 @@ VIC,198,Ballarat,3073,Wendouree East,670,59.61,454,40.39,1124,3.55
 VIC,198,Ballarat,3074,Wendouree North,1500,66.28,763,33.72,2263,6.41
 VIC,198,Ballarat,3075,Wendouree West,666,80.14,165,19.86,831,3.71
 VIC,198,Ballarat,3340,Yandoit,93,60.78,60,39.22,153,5.46
-VIC,199,Batman,36417,Alphington (Batman),417,78.09,117,21.91,534,0.53
-VIC,199,Batman,3086,Alphington North,928,75.88,295,24.12,1223,1.23
-VIC,199,Batman,5087,Bell,1563,77.15,463,22.85,2026,-0.8
-VIC,199,Batman,3087,Boldrewood,1149,77.85,327,22.15,1476,-0.51
-VIC,199,Batman,35016,Bundoora South,746,58.19,536,41.81,1282,2.94
-VIC,199,Batman,3088,Burbank,526,71.86,206,28.14,732,-4.14
-VIC,199,Batman,5098,Croxton,1149,81.14,267,18.86,1416,-3.68
+VIC,199,Batman,36417,Alphington (Batman),417,0,117,0,534,0.53
+VIC,199,Batman,3086,Alphington North,928,0,295,0,1223,1.23
+VIC,199,Batman,5087,Bell,1563,0,463,0,2026,-0.8
+VIC,199,Batman,3087,Boldrewood,1149,0,327,0,1476,-0.51
+VIC,199,Batman,35016,Bundoora South,746,0,536,0,1282,2.94
+VIC,199,Batman,3088,Burbank,526,0,206,0,732,-4.14
+VIC,199,Batman,5098,Croxton,1149,0,267,0,1416,-3.68
 VIC,199,Batman,30190,Divisional Office (PREPOLL),0,0,0,0,0,-75
-VIC,199,Batman,3090,Faircote,377,72.08,146,27.92,523,-4.15
-VIC,199,Batman,3091,Fairfield,1652,76.84,498,23.16,2150,0.06
-VIC,199,Batman,3092,Fairfield North,754,75.93,239,24.07,993,-1.94
-VIC,199,Batman,3094,Keon Park,619,77.86,176,22.14,795,-3.29
-VIC,199,Batman,4181,Kingsbury,1133,67.76,539,32.24,1672,-2.99
-VIC,199,Batman,32039,Melbourne (Batman),96,74.42,33,25.58,129,-1.96
-VIC,199,Batman,3095,Merrilands,1201,74.09,420,25.91,1621,-2.38
-VIC,199,Batman,35015,Murray (Batman),144,70.94,59,29.06,203,-3.13
-VIC,199,Batman,5107,Newlands (Batman),505,73.19,185,26.81,690,-4.74
-VIC,199,Batman,3096,Northcote,2106,82.11,459,17.89,2565,0.36
-VIC,199,Batman,3097,Northcote North,1232,81.27,284,18.73,1516,0.79
-VIC,199,Batman,3098,Northcote South,2147,83.61,421,16.39,2568,0.08
-VIC,199,Batman,3099,Northcote West,788,83.56,155,16.44,943,-0.23
-VIC,199,Batman,31810,Oakhill,840,70.65,349,29.35,1189,-1.18
-VIC,199,Batman,3101,Preston,927,76.87,279,23.13,1206,-0.06
-VIC,199,Batman,3102,Preston East,1120,64.97,604,35.03,1724,-11.24
-VIC,199,Batman,3104,Preston North East,1185,79.42,307,20.58,1492,-1.57
-VIC,199,Batman,3105,Preston South,818,57.85,596,42.15,1414,-23.42
-VIC,199,Batman,5114,Preston West,1875,75.21,618,24.79,2493,-0.06
-VIC,199,Batman,3107,Regent,1758,77.72,504,22.28,2262,-0.66
-VIC,199,Batman,5115,Regent West,608,67.71,290,32.29,898,-0.5
-VIC,199,Batman,3108,Reservoir,913,72.4,348,27.6,1261,-2.19
-VIC,199,Batman,3109,Reservoir Central,1268,69.9,546,30.1,1814,-0.72
-VIC,199,Batman,3110,Reservoir East,742,74.87,249,25.13,991,1.59
-VIC,199,Batman,3111,Reservoir North,1704,74.35,588,25.65,2292,0.38
-VIC,199,Batman,3112,Reservoir North East,953,75.4,311,24.6,1264,-4
-VIC,199,Batman,3113,Reservoir South,658,70.45,276,29.55,934,3.48
-VIC,199,Batman,5116,Reservoir West,945,74.29,327,25.71,1272,2.62
-VIC,199,Batman,3115,Ruthven,2124,71.52,846,28.48,2970,0.09
+VIC,199,Batman,3090,Faircote,377,0,146,0,523,-4.15
+VIC,199,Batman,3091,Fairfield,1652,0,498,0,2150,0.06
+VIC,199,Batman,3092,Fairfield North,754,0,239,0,993,-1.94
+VIC,199,Batman,3094,Keon Park,619,0,176,0,795,-3.29
+VIC,199,Batman,4181,Kingsbury,1133,0,539,0,1672,-2.99
+VIC,199,Batman,32039,Melbourne (Batman),96,0,33,0,129,-1.96
+VIC,199,Batman,3095,Merrilands,1201,0,420,0,1621,-2.38
+VIC,199,Batman,35015,Murray (Batman),144,0,59,0,203,-3.13
+VIC,199,Batman,5107,Newlands (Batman),505,0,185,0,690,-4.74
+VIC,199,Batman,3096,Northcote,2106,0,459,0,2565,0.36
+VIC,199,Batman,3097,Northcote North,1232,0,284,0,1516,0.79
+VIC,199,Batman,3098,Northcote South,2147,0,421,0,2568,0.08
+VIC,199,Batman,3099,Northcote West,788,0,155,0,943,-0.23
+VIC,199,Batman,31810,Oakhill,840,0,349,0,1189,-1.18
+VIC,199,Batman,3101,Preston,927,0,279,0,1206,-0.06
+VIC,199,Batman,3102,Preston East,1120,0,604,0,1724,-11.24
+VIC,199,Batman,3104,Preston North East,1185,0,307,0,1492,-1.57
+VIC,199,Batman,3105,Preston South,818,0,596,0,1414,-23.42
+VIC,199,Batman,5114,Preston West,1875,0,618,0,2493,-0.06
+VIC,199,Batman,3107,Regent,1758,0,504,0,2262,-0.66
+VIC,199,Batman,5115,Regent West,608,0,290,0,898,-0.5
+VIC,199,Batman,3108,Reservoir,913,0,348,0,1261,-2.19
+VIC,199,Batman,3109,Reservoir Central,1268,0,546,0,1814,-0.72
+VIC,199,Batman,3110,Reservoir East,742,0,249,0,991,1.59
+VIC,199,Batman,3111,Reservoir North,1704,0,588,0,2292,0.38
+VIC,199,Batman,3112,Reservoir North East,953,0,311,0,1264,-4
+VIC,199,Batman,3113,Reservoir South,658,0,276,0,934,3.48
+VIC,199,Batman,5116,Reservoir West,945,0,327,0,1272,2.62
+VIC,199,Batman,3115,Ruthven,2124,0,846,0,2970,0.09
 VIC,199,Batman,31563,Special Hospital Team 1,0,0,0,0,0,-50.97
-VIC,199,Batman,5117,Thornbury,2115,78.8,569,21.2,2684,-2.55
-VIC,199,Batman,3117,Thornbury East,1657,74.07,580,25.93,2237,-1.35
+VIC,199,Batman,5117,Thornbury,2115,0,569,0,2684,-2.55
+VIC,199,Batman,3117,Thornbury East,1657,0,580,0,2237,-1.35
 VIC,199,Batman,34059,Thornbury PPVC,0,0,0,0,0,-75.17
-VIC,199,Batman,3118,Thornbury South,2064,79.88,520,20.12,2584,-0.79
-VIC,199,Batman,3119,Westgarth,1001,84.62,182,15.38,1183,0.96
+VIC,199,Batman,3118,Thornbury South,2064,0,520,0,2584,-0.79
+VIC,199,Batman,3119,Westgarth,1001,0,182,0,1183,0.96
 VIC,200,Bendigo,3251,Axedale,309,50.57,302,49.43,611,6.4
 VIC,200,Bendigo,3126,Bealiba,77,50,77,50,154,4.66
 VIC,200,Bendigo,3128,Bendigo Base Hospital,167,60.95,107,39.05,274,-0.8
@@ -6967,7 +6967,7 @@ VIC,216,Holt,31783,Maramba,2227,59.85,1494,40.15,3721,3.31
 VIC,216,Holt,31999,Melbourne (Holt),37,69.81,16,30.19,53,-1.89
 VIC,216,Holt,36442,Narre Warren South,2816,66.17,1440,33.83,4256,1.94
 VIC,216,Holt,46760,Rangebank,696,65.91,360,34.09,1056,1.92
-VIC,216,Holt,32020,Special Hospital Team 1,0,0,0,0,0,-51.06
+VIC,216,Holt,32020,Special Hospital Team 1,18,43.9,23,56.1,41,-7.16
 VIC,216,Holt,46567,Strathaird,1270,65.94,656,34.06,1926,4.23
 VIC,216,Holt,46568,Thomas Mitchell,936,56.59,718,43.41,1654,-3.53
 VIC,217,Hotham,3887,Bentleigh Central (Hotham),1011,54.53,843,45.47,1854,1.82
@@ -7143,7 +7143,7 @@ VIC,219,Isaacs,3979,Skye (Isaacs),969,60.71,627,39.29,1596,3.78
 VIC,219,Isaacs,4007,Southvale (Isaacs),875,75.17,289,24.83,1164,-0.07
 VIC,219,Isaacs,31564,Special Hospital Team 1,48,57.14,36,42.86,84,9.11
 VIC,219,Isaacs,31568,Special Hospital Team 2,37,50.68,36,49.32,73,2.75
-VIC,219,Isaacs,38329,Special Hospital Team 3,0,0,0,0,0,-47.77
+VIC,219,Isaacs,38329,Special Hospital Team 3,117,53.92,100,46.08,217,6.15
 VIC,219,Isaacs,58536,Springvale South (Isaacs),363,77.23,107,22.77,470,16.11
 VIC,219,Isaacs,3981,Wallarano,1897,66.63,950,33.37,2847,-1.48
 VIC,219,Isaacs,36375,Willow Lodge,234,66.29,119,33.71,353,4.09
@@ -7203,7 +7203,7 @@ VIC,221,Kooyong,58743,Box Hill KOOYONG PPVC,168,40.19,250,59.81,418,-1.12
 VIC,221,Kooyong,4209,Camberwell East,409,37.8,673,62.2,1082,3.71
 VIC,221,Kooyong,4210,Camberwell North,468,35.67,844,64.33,1312,-0.28
 VIC,221,Kooyong,4212,Canterbury North,711,40.74,1034,59.26,1745,1.77
-VIC,221,Kooyong,38306,Canterbury PPVC,932,35.64,1683,64.36,2615,-5.57
+VIC,221,Kooyong,38306,Canterbury PPVC,933,35.61,1687,64.39,2620,-5.6
 VIC,221,Kooyong,4213,Canterbury South,1340,43.31,1754,56.69,3094,3.56
 VIC,221,Kooyong,3427,Chatham,701,46.3,813,53.7,1514,1.88
 VIC,221,Kooyong,4214,Cotham,643,32.87,1313,67.13,1956,3.55
@@ -8509,8 +8509,8 @@ WA,305,Hasluck,7949,Midland,758,56.57,582,43.43,1340,-4.39
 WA,305,Hasluck,58748,Midland HASLUCK PPVC,1211,46.81,1376,53.19,2587,-1.53
 WA,305,Hasluck,34105,Perth (Hasluck),32,49.23,33,50.77,65,-0.77
 WA,305,Hasluck,34106,Rottnest (Hasluck),7,43.75,9,56.25,16,16.48
-WA,305,Hasluck,34079,Special Hospital Team 1,0,0,0,0,0,-47.06
-WA,305,Hasluck,34194,Special Hospital Team 2,0,0,0,0,0,-47.1
+WA,305,Hasluck,34079,Special Hospital Team 1,70,48.28,75,51.72,145,1.22
+WA,305,Hasluck,34194,Special Hospital Team 2,78,54.93,64,45.07,142,7.83
 WA,305,Hasluck,34195,Special Hospital Team 3,0,0,0,0,0,-46.67
 WA,305,Hasluck,32540,Swan View (Hasluck),181,65.34,96,34.66,277,6.08
 WA,305,Hasluck,8279,Thornlie,1683,49.9,1690,50.1,3373,-0.91
