@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T11:06:10 Cycle:4e742955-a753-4154-9884-bdc54d2dd0a6 Created:2010-08-22T10:44:56 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T11:32:30 Cycle:bd1346d3-b8b8-40c0-8c7e-5ec3e7c991d1 Created:2010-08-22T11:24:17 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -5546,8 +5546,8 @@ SA,189,Port Adelaide,7062,Seaton Park,1400,64.9,757,35.1,2157,-1.93
 SA,189,Port Adelaide,31426,Seaton West (Port Adelaide),634,62.46,381,37.54,1015,1.43
 SA,189,Port Adelaide,7270,Semaphore,1272,72.64,479,27.36,1751,2.84
 SA,189,Port Adelaide,7273,Semaphore South,1017,70.67,422,29.33,1439,4.3
-SA,189,Port Adelaide,33216,Special Hospital Team 1,0,0,0,0,0,-66.67
-SA,189,Port Adelaide,33217,Special Hospital Team 2,0,0,0,0,0,-65.71
+SA,189,Port Adelaide,33216,Special Hospital Team 1,33,64.71,18,35.29,51,-1.96
+SA,189,Port Adelaide,33217,Special Hospital Team 2,37,80.43,9,19.57,46,14.72
 SA,189,Port Adelaide,33218,Special Hospital Team 3,0,0,0,0,0,-67.21
 SA,189,Port Adelaide,33219,Special Hospital Team 4,0,0,0,0,0,-66.67
 SA,189,Port Adelaide,33220,Special Hospital Team 5,0,0,0,0,0,-66.97
@@ -5863,7 +5863,7 @@ TAS,194,Denison,46859,Sandfly (Denison),151,64.81,82,35.19,233,11.38
 TAS,194,Denison,8482,Sandy Bay,791,52.11,727,47.89,1518,-1.33
 TAS,194,Denison,8483,Sandy Bay Beach,287,37.18,485,62.82,772,-5.57
 TAS,194,Denison,13315,Special Hospital Team 1,34,69.39,15,30.61,49,13.83
-TAS,194,Denison,13316,Special Hospital Team 2,0,0,0,0,0,-55.41
+TAS,194,Denison,13316,Special Hospital Team 2,75,61.98,46,38.02,121,6.57
 TAS,194,Denison,13317,Special Hospital Team 3,0,0,0,0,0,-55.71
 TAS,194,Denison,13318,Special Hospital Team 4,0,0,0,0,0,-55.56
 TAS,194,Denison,8481,St Peters,396,67.46,191,32.54,587,-1.6
@@ -6463,8 +6463,8 @@ VIC,207,Corangamite,3056,Rokewood,82,39.81,124,60.19,206,2.25
 VIC,207,Corangamite,3513,Shelford,42,32.56,87,67.44,129,-2.36
 VIC,207,Corangamite,3063,Smythesdale,460,65.9,238,34.1,698,1.06
 VIC,207,Corangamite,31548,Special Hospital Team 1,54,36.73,93,63.27,147,3.85
-VIC,207,Corangamite,32687,Special Hospital Team 2,0,0,0,0,0,-32.91
-VIC,207,Corangamite,36427,Special Hospital Team 3,0,0,0,0,0,-32.65
+VIC,207,Corangamite,32687,Special Hospital Team 2,65,43.05,86,56.95,151,10.14
+VIC,207,Corangamite,36427,Special Hospital Team 3,39,33.33,78,66.67,117,0.68
 VIC,207,Corangamite,3514,St Leonards,717,58.82,502,41.18,1219,1.76
 VIC,207,Corangamite,3517,Teesdale,480,62.58,287,37.42,767,0.24
 VIC,207,Corangamite,3518,Torquay,1443,54.87,1187,45.13,2630,-0.34
@@ -7221,9 +7221,9 @@ VIC,221,Kooyong,4225,Kew East,641,50.27,634,49.73,1275,3.94
 VIC,221,Kooyong,4226,Kew North,1222,53.48,1063,46.52,2285,5.09
 VIC,221,Kooyong,4228,Kew South,894,42.29,1220,57.71,2114,3.72
 VIC,221,Kooyong,32021,Melbourne (Kooyong),92,62.16,56,37.84,148,8.12
-VIC,221,Kooyong,31749,Special Hospital Team 1,0,0,0,0,0,-27.13
-VIC,221,Kooyong,31751,Special Hospital Team 2,0,0,0,0,0,-27.15
-VIC,221,Kooyong,31752,Special Hospital Team 3,0,0,0,0,0,-27.03
+VIC,221,Kooyong,31749,Special Hospital Team 1,40,33.61,79,66.39,119,6.48
+VIC,221,Kooyong,31751,Special Hospital Team 2,27,23.48,88,76.52,115,-3.67
+VIC,221,Kooyong,31752,Special Hospital Team 3,39,37.5,65,62.5,104,10.47
 VIC,221,Kooyong,4229,Studley Park,565,38.38,907,61.62,1472,3.26
 VIC,221,Kooyong,4230,Surrey Hills West,673,46.16,785,53.84,1458,4.63
 VIC,221,Kooyong,3948,Willison,476,43.83,610,56.17,1086,7.24
@@ -7838,7 +7838,7 @@ VIC,231,Murray,4805,Shepparton East,130,21.21,483,78.79,613,-5.44
 VIC,231,Murray,4806,Shepparton North,762,30.57,1731,69.43,2493,-1.5
 VIC,231,Murray,38335,Shepparton PPVC,1005,27.66,2629,72.34,3634,-3.98
 VIC,231,Murray,4807,Shepparton South,853,37.79,1404,62.21,2257,-0.93
-VIC,231,Murray,31585,Special Hospital Team 1,0,0,0,0,0,-26.69
+VIC,231,Murray,31585,Special Hospital Team 1,55,21.91,196,78.09,251,-4.78
 VIC,231,Murray,31586,Special Hospital Team 2,0,0,0,0,0,-26.67
 VIC,231,Murray,31587,Special Hospital Team 3,0,0,0,0,0,-27.27
 VIC,231,Murray,31588,Special Hospital Team 4,0,0,0,0,0,-26.67
