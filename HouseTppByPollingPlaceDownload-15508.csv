@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T16:55:02 Cycle:707af868-e7a7-4614-a275-e4df7585683f Created:2010-08-22T16:38:25 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-22T17:10:40 Cycle:fc06d15b-65ba-4f8d-bc22-128354c466a6 Created:2010-08-22T16:53:25 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -942,7 +942,7 @@ NSW,118,Farrer,831,Albury North Central,458,40.97,660,59.03,1118,-3.6
 NSW,118,Farrer,34273,Albury PPVC,1353,31.87,2893,68.13,4246,-12.66
 NSW,118,Farrer,749,Albury South,496,40.33,734,59.67,1230,-0.31
 NSW,118,Farrer,752,Albury West,603,37.08,1023,62.92,1626,-1.02
-NSW,118,Farrer,2493,Alma,0,0,0,0,0,-72.56
+NSW,118,Farrer,2493,Alma,897,66.35,455,33.65,1352,-6.21
 NSW,118,Farrer,754,Balldale,22,21.15,82,78.85,104,4.85
 NSW,118,Farrer,755,Balranald,168,26.58,464,73.42,632,-7.36
 NSW,118,Farrer,756,Barham,178,19.8,721,80.2,899,0.18
@@ -1011,12 +1011,12 @@ NSW,118,Farrer,824,Pleasant Hills,11,8.73,115,91.27,126,2.48
 NSW,118,Farrer,2544,Pooncarie,5,8.33,55,91.67,60,-18.46
 NSW,118,Farrer,827,Rand,19,14.96,108,85.04,127,4.4
 NSW,118,Farrer,46526,Remote Mobile Team 1,16,22.22,56,77.78,72,2.22
-NSW,118,Farrer,33619,Special Hospital Team 1,0,0,0,0,0,-32.1
+NSW,118,Farrer,33619,Special Hospital Team 1,52,32.91,106,67.09,158,0.81
 NSW,118,Farrer,33682,Special Hospital Team 2,0,0,0,0,0,-32.26
 NSW,118,Farrer,33683,Special Hospital Team 3,0,0,0,0,0,-32.26
 NSW,118,Farrer,33684,Special Hospital Team 4,0,0,0,0,0,-33.33
 NSW,118,Farrer,33685,Special Hospital Team 5,0,0,0,0,0,-33.33
-NSW,118,Farrer,44323,Special Hospital Team 6,0,0,0,0,0,-32.08
+NSW,118,Farrer,44323,Special Hospital Team 6,18,81.82,4,18.18,22,49.74
 NSW,118,Farrer,834,Springdale Heights,362,44.42,453,55.58,815,-1.52
 NSW,118,Farrer,14055,Sydney (Farrer),2,16.67,10,83.33,12,-29.48
 NSW,118,Farrer,835,Table Top,104,24.47,321,75.53,425,-0.88
@@ -3229,9 +3229,9 @@ QLD,304,Blair,31647,Rosewood,976,50.97,939,49.03,1915,-2.77
 QLD,304,Blair,6345,Sadliers Crossing,1055,57.06,794,42.94,1849,-4.25
 QLD,304,Blair,6387,Silkstone,1719,61.52,1075,38.48,2794,-4.27
 QLD,304,Blair,5508,Somerset Dam,30,36.59,52,63.41,82,-11.17
-QLD,304,Blair,32847,Special Hospital Team 1,0,0,0,0,0,-47.22
-QLD,304,Blair,47755,Special Hospital Team 2,0,0,0,0,0,-46.56
-QLD,304,Blair,47756,Special Hospital Team 3,0,0,0,0,0,-46.88
+QLD,304,Blair,32847,Special Hospital Team 1,80,54.79,66,45.21,146,7.57
+QLD,304,Blair,47755,Special Hospital Team 2,55,57.29,41,42.71,96,10.73
+QLD,304,Blair,47756,Special Hospital Team 3,56,49.12,58,50.88,114,2.24
 QLD,304,Blair,6388,Tarampa,245,43.52,318,56.48,563,-1.66
 QLD,304,Blair,6389,Tivoli,805,54.72,666,45.28,1471,-1.86
 QLD,304,Blair,5513,Toogoolawah,418,39.21,648,60.79,1066,-1.86
@@ -4428,8 +4428,8 @@ QLD,170,Maranoa,47712,Roma PPVC,44,19.73,179,80.27,223,-41.29
 QLD,170,Maranoa,6208,Roma South,268,27.1,721,72.9,989,-8.83
 QLD,170,Maranoa,6210,Roma West,114,28.08,292,71.92,406,-14.03
 QLD,170,Maranoa,6477,Ryeford,12,7.69,144,92.31,156,-7.85
-QLD,170,Maranoa,32630,Special Hospital Team 1,0,0,0,0,0,-30
-QLD,170,Maranoa,32631,Special Hospital Team 2,0,0,0,0,0,-30.77
+QLD,170,Maranoa,32630,Special Hospital Team 1,11,25,33,75,44,-5
+QLD,170,Maranoa,32631,Special Hospital Team 2,11,25,33,75,44,-5.77
 QLD,170,Maranoa,32632,Special Hospital Team 3,5,13.89,31,86.11,36,-15.74
 QLD,170,Maranoa,32633,Special Hospital Team 4,11,20.37,43,79.63,54,-10.88
 QLD,170,Maranoa,46362,Special Hospital Team 5,28,29.47,67,70.53,95,-1.12
@@ -5133,7 +5133,7 @@ SA,182,Boothby,33237,Special Hospital Team 1,55,42.31,75,57.69,130,8.34
 SA,182,Boothby,33238,Special Hospital Team 2,62,36.26,109,63.74,171,2.07
 SA,182,Boothby,33239,Special Hospital Team 3,62,48.82,65,51.18,127,14.74
 SA,182,Boothby,33240,Special Hospital Team 4,21,25.3,62,74.7,83,-8.95
-SA,182,Boothby,33241,Special Hospital Team 5,0,0,0,0,0,-34.21
+SA,182,Boothby,33241,Special Hospital Team 5,28,57.14,21,42.86,49,22.93
 SA,182,Boothby,7036,St Marys,905,59.66,612,40.34,1517,2.73
 SA,182,Boothby,7038,Tonsley Park,724,62.68,431,37.32,1155,2.76
 SA,182,Boothby,6863,Torrens Park,473,48.27,507,51.73,980,5.44
@@ -6999,7 +6999,7 @@ VIC,217,Hotham,3907,Oakleigh Central,980,71.01,400,28.99,1380,1.52
 VIC,217,Hotham,58653,Oakleigh HOTHAM PPVC,1398,61.45,877,38.55,2275,16.18
 VIC,217,Hotham,3909,Oakleigh South,1224,68.42,565,31.58,1789,1.3
 VIC,217,Hotham,31847,Southland,395,58.09,285,41.91,680,-5.26
-VIC,217,Hotham,4003,Southmoor,0,0,0,0,0,-58.17
+VIC,217,Hotham,4003,Southmoor,484,61.42,304,38.58,788,3.25
 VIC,217,Hotham,58538,Southvale (Hotham),327,76.22,102,23.78,429,14.56
 VIC,217,Hotham,31581,Special Hospital Team 1,63,40.38,93,59.62,156,-4.06
 VIC,217,Hotham,31532,Special Hospital Team 2,65,52.85,58,47.15,123,8.88
