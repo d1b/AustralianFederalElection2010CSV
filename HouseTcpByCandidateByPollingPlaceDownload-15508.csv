@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T11:05:56 Cycle:3deaec29-618e-4c82-863a-b084f330dcf0 Created:2010-08-23T10:53:42 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T11:21:20 Cycle:72781fb1-06f8-4fe6-ae7b-741f46ad479e Created:2010-08-23T11:08:48 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 ACT,101,Canberra,8829,Barton,20863,JONES,Giulia,1,N,N,LP,Liberal,790,-2.73
 ACT,101,Canberra,8829,Barton,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1399,2.73
@@ -2474,8 +2474,8 @@ NSW,122,Greenway,1053,Seven Hills North,21246,ROWLAND,Michelle,1,N,N,ALP,Labor,6
 NSW,122,Greenway,1053,Seven Hills North,21609,DIAZ,Jaymes,2,N,N,LP,Liberal,776,7.64
 NSW,122,Greenway,1054,Seven Hills West,21246,ROWLAND,Michelle,1,N,N,ALP,Labor,1084,-6.27
 NSW,122,Greenway,1054,Seven Hills West,21609,DIAZ,Jaymes,2,N,N,LP,Liberal,666,6.27
-NSW,122,Greenway,57204,Special Hospital Team 1,21246,ROWLAND,Michelle,1,N,N,ALP,Labor,0,-33.33
-NSW,122,Greenway,57204,Special Hospital Team 1,21609,DIAZ,Jaymes,2,N,N,LP,Liberal,0,-66.67
+NSW,122,Greenway,57204,Special Hospital Team 1,21246,ROWLAND,Michelle,1,N,N,ALP,Labor,32,25.93
+NSW,122,Greenway,57204,Special Hospital Team 1,21609,DIAZ,Jaymes,2,N,N,LP,Liberal,22,-25.93
 NSW,122,Greenway,47683,Stanhope Gardens,21246,ROWLAND,Michelle,1,N,N,ALP,Labor,844,0.55
 NSW,122,Greenway,47683,Stanhope Gardens,21609,DIAZ,Jaymes,2,N,N,LP,Liberal,1056,-0.55
 NSW,122,Greenway,14082,Sydney (Greenway),21246,ROWLAND,Michelle,1,N,N,ALP,Labor,0,-56.84
@@ -11636,8 +11636,8 @@ TAS,194,Denison,8440,Abbotsfield,20881,WILKIE,Andrew,1,N,N,IND,Independent,503,3
 TAS,194,Denison,8440,Abbotsfield,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,986,66.22
 TAS,194,Denison,8441,Albuera,20881,WILKIE,Andrew,1,N,N,IND,Independent,350,62.39
 TAS,194,Denison,8441,Albuera,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,211,37.61
-TAS,194,Denison,8495,Austins Ferry,20881,WILKIE,Andrew,1,N,N,IND,Independent,0,0
-TAS,194,Denison,8495,Austins Ferry,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,0,0
+TAS,194,Denison,8495,Austins Ferry,20881,WILKIE,Andrew,1,N,N,IND,Independent,708,41.65
+TAS,194,Denison,8495,Austins Ferry,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,992,58.35
 TAS,194,Denison,8442,Battery Point,20881,WILKIE,Andrew,1,N,N,IND,Independent,0,0
 TAS,194,Denison,8442,Battery Point,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,0,0
 TAS,194,Denison,8443,Bowen Road,20881,WILKIE,Andrew,1,N,N,IND,Independent,0,0
@@ -12774,14 +12774,14 @@ VIC,205,Chisholm,3908,Oakleigh North,21069,BURKE,Anna Elizabeth,2,N,Y,ALP,Austra
 VIC,205,Chisholm,3908,Oakleigh North,21050,NGUYEN,John,5,N,N,LP,Liberal,324,-0.6
 VIC,205,Chisholm,3240,Pinewood (Chisholm),21069,BURKE,Anna Elizabeth,2,N,Y,ALP,Australian Labor Party,953,-1.16
 VIC,205,Chisholm,3240,Pinewood (Chisholm),21050,NGUYEN,John,5,N,N,LP,Liberal,832,1.16
-VIC,205,Chisholm,31625,Special Hospital Team 1,21069,BURKE,Anna Elizabeth,2,N,Y,ALP,Australian Labor Party,0,-40
-VIC,205,Chisholm,31625,Special Hospital Team 1,21050,NGUYEN,John,5,N,N,LP,Liberal,0,-60
+VIC,205,Chisholm,31625,Special Hospital Team 1,21069,BURKE,Anna Elizabeth,2,N,Y,ALP,Australian Labor Party,14,30
+VIC,205,Chisholm,31625,Special Hospital Team 1,21050,NGUYEN,John,5,N,N,LP,Liberal,6,-30
 VIC,205,Chisholm,31627,Special Hospital Team 2,21069,BURKE,Anna Elizabeth,2,N,Y,ALP,Australian Labor Party,69,-4.9
 VIC,205,Chisholm,31627,Special Hospital Team 2,21050,NGUYEN,John,5,N,N,LP,Liberal,135,4.9
 VIC,205,Chisholm,32034,Special Hospital Team 3,21069,BURKE,Anna Elizabeth,2,N,Y,ALP,Australian Labor Party,21,-5.21
 VIC,205,Chisholm,32034,Special Hospital Team 3,21050,NGUYEN,John,5,N,N,LP,Liberal,41,5.21
-VIC,205,Chisholm,33184,Special Hospital Team 4,21069,BURKE,Anna Elizabeth,2,N,Y,ALP,Australian Labor Party,0,-38.75
-VIC,205,Chisholm,33184,Special Hospital Team 4,21050,NGUYEN,John,5,N,N,LP,Liberal,0,-61.25
+VIC,205,Chisholm,33184,Special Hospital Team 4,21069,BURKE,Anna Elizabeth,2,N,Y,ALP,Australian Labor Party,156,-4.01
+VIC,205,Chisholm,33184,Special Hospital Team 4,21050,NGUYEN,John,5,N,N,LP,Liberal,293,4.01
 VIC,205,Chisholm,3440,Surrey Hills,21069,BURKE,Anna Elizabeth,2,N,Y,ALP,Australian Labor Party,857,0.45
 VIC,205,Chisholm,3440,Surrey Hills,21050,NGUYEN,John,5,N,N,LP,Liberal,886,-0.45
 VIC,205,Chisholm,3241,Sussex Heights,21069,BURKE,Anna Elizabeth,2,N,Y,ALP,Australian Labor Party,1163,-0.15
@@ -12980,8 +12980,8 @@ VIC,208,Corio,3537,Fyans Park,21061,MARLES,Richard Donald,3,N,Y,ALP,Australian L
 VIC,208,Corio,3537,Fyans Park,21048,GIBSON,Don,5,N,N,LP,Liberal,595,-3.13
 VIC,208,Corio,3538,Geelong,21061,MARLES,Richard Donald,3,N,Y,ALP,Australian Labor Party,1337,3.79
 VIC,208,Corio,3538,Geelong,21048,GIBSON,Don,5,N,N,LP,Liberal,896,-3.79
-VIC,208,Corio,31536,Geelong CORIO PPVC,21061,MARLES,Richard Donald,3,N,Y,ALP,Australian Labor Party,3389,2.79
-VIC,208,Corio,31536,Geelong CORIO PPVC,21048,GIBSON,Don,5,N,N,LP,Liberal,2319,-2.79
+VIC,208,Corio,31536,Geelong CORIO PPVC,21061,MARLES,Richard Donald,3,N,Y,ALP,Australian Labor Party,3386,2.8
+VIC,208,Corio,31536,Geelong CORIO PPVC,21048,GIBSON,Don,5,N,N,LP,Liberal,2316,-2.8
 VIC,208,Corio,3531,Geelong East,21061,MARLES,Richard Donald,3,N,Y,ALP,Australian Labor Party,868,4.77
 VIC,208,Corio,3531,Geelong East,21048,GIBSON,Don,5,N,N,LP,Liberal,329,-4.77
 VIC,208,Corio,3539,Geelong West,21061,MARLES,Richard Donald,3,N,Y,ALP,Australian Labor Party,1223,3.16
@@ -13112,10 +13112,10 @@ VIC,209,Deakin,34011,Ringwood North (Deakin),21030,BARRESI,Phil,4,N,N,LP,Liberal
 VIC,209,Deakin,34011,Ringwood North (Deakin),21036,SYMON,Mike,5,N,Y,ALP,Australian Labor Party,610,4.28
 VIC,209,Deakin,2962,Ringwood South,21030,BARRESI,Phil,4,N,N,LP,Liberal,1148,-2.61
 VIC,209,Deakin,2962,Ringwood South,21036,SYMON,Mike,5,N,Y,ALP,Australian Labor Party,1514,2.61
-VIC,209,Deakin,31572,Special Hospital Team 1,21030,BARRESI,Phil,4,N,N,LP,Liberal,0,-63.8
-VIC,209,Deakin,31572,Special Hospital Team 1,21036,SYMON,Mike,5,N,Y,ALP,Australian Labor Party,0,-36.2
-VIC,209,Deakin,31583,Special Hospital Team 2,21030,BARRESI,Phil,4,N,N,LP,Liberal,0,-63.52
-VIC,209,Deakin,31583,Special Hospital Team 2,21036,SYMON,Mike,5,N,Y,ALP,Australian Labor Party,0,-36.48
+VIC,209,Deakin,31572,Special Hospital Team 1,21030,BARRESI,Phil,4,N,N,LP,Liberal,126,1.48
+VIC,209,Deakin,31572,Special Hospital Team 1,21036,SYMON,Mike,5,N,Y,ALP,Australian Labor Party,67,-1.48
+VIC,209,Deakin,31583,Special Hospital Team 2,21030,BARRESI,Phil,4,N,N,LP,Liberal,79,-5.86
+VIC,209,Deakin,31583,Special Hospital Team 2,21036,SYMON,Mike,5,N,Y,ALP,Australian Labor Party,58,5.86
 VIC,209,Deakin,3578,Springview,21030,BARRESI,Phil,4,N,N,LP,Liberal,678,-1.73
 VIC,209,Deakin,3578,Springview,21036,SYMON,Mike,5,N,Y,ALP,Australian Labor Party,782,1.73
 VIC,209,Deakin,3580,Tally Ho (Deakin),21030,BARRESI,Phil,4,N,N,LP,Liberal,814,-1.7
@@ -13866,8 +13866,8 @@ VIC,215,Higgins,3947,Toorak West,21639,CLARK,Tony,1,N,N,ALP,Australian Labor Par
 VIC,215,Higgins,3947,Toorak West,21583,O'DWYER,Kelly,5,N,Y,LP,Liberal,718,-0.42
 VIC,215,Higgins,4689,Windsor,21639,CLARK,Tony,1,N,N,ALP,Australian Labor Party,720,-2.4
 VIC,215,Higgins,4689,Windsor,21583,O'DWYER,Kelly,5,N,Y,LP,Liberal,423,2.4
-VIC,216,Holt,36440,Centre Road,21185,BALANCY,Ricardo,2,N,N,LP,Liberal,1548,-3.63
-VIC,216,Holt,36440,Centre Road,21193,BYRNE,Anthony,5,N,Y,ALP,Australian Labor Party,1811,3.63
+VIC,216,Holt,36440,Centre Road,21185,BALANCY,Ricardo,2,N,N,LP,Liberal,1463,-6.11
+VIC,216,Holt,36440,Centre Road,21193,BYRNE,Anthony,5,N,Y,ALP,Australian Labor Party,1892,6.11
 VIC,216,Holt,31050,Coral Park,21185,BALANCY,Ricardo,2,N,N,LP,Liberal,618,1.56
 VIC,216,Holt,31050,Coral Park,21193,BYRNE,Anthony,5,N,Y,ALP,Australian Labor Party,1673,-1.56
 VIC,216,Holt,32372,Courtney Gardens,21185,BALANCY,Ricardo,2,N,N,LP,Liberal,1117,-4.63
@@ -15508,12 +15508,12 @@ VIC,229,Menzies,3401,Ringwood North (Menzies),21103,ANDREWS,Kevin,3,N,Y,LP,Liber
 VIC,229,Menzies,3401,Ringwood North (Menzies),21119,BANERJI,Joy,4,N,N,ALP,Australian Labor Party,488,2.08
 VIC,229,Menzies,4710,Serpell,21103,ANDREWS,Kevin,3,N,Y,LP,Liberal,1868,9.22
 VIC,229,Menzies,4710,Serpell,21119,BANERJI,Joy,4,N,N,ALP,Australian Labor Party,879,-9.22
-VIC,229,Menzies,31723,Special Hospital Team 1,21103,ANDREWS,Kevin,3,N,Y,LP,Liberal,0,-70.32
-VIC,229,Menzies,31723,Special Hospital Team 1,21119,BANERJI,Joy,4,N,N,ALP,Australian Labor Party,0,-29.68
-VIC,229,Menzies,31724,Special Hospital Team 2,21103,ANDREWS,Kevin,3,N,Y,LP,Liberal,0,-70.13
-VIC,229,Menzies,31724,Special Hospital Team 2,21119,BANERJI,Joy,4,N,N,ALP,Australian Labor Party,0,-29.87
-VIC,229,Menzies,31725,Special Hospital Team 3,21103,ANDREWS,Kevin,3,N,Y,LP,Liberal,0,-70.21
-VIC,229,Menzies,31725,Special Hospital Team 3,21119,BANERJI,Joy,4,N,N,ALP,Australian Labor Party,0,-29.79
+VIC,229,Menzies,31723,Special Hospital Team 1,21103,ANDREWS,Kevin,3,N,Y,LP,Liberal,207,3.87
+VIC,229,Menzies,31723,Special Hospital Team 1,21119,BANERJI,Joy,4,N,N,ALP,Australian Labor Party,72,-3.87
+VIC,229,Menzies,31724,Special Hospital Team 2,21103,ANDREWS,Kevin,3,N,Y,LP,Liberal,282,2.74
+VIC,229,Menzies,31724,Special Hospital Team 2,21119,BANERJI,Joy,4,N,N,ALP,Australian Labor Party,105,-2.74
+VIC,229,Menzies,31725,Special Hospital Team 3,21103,ANDREWS,Kevin,3,N,Y,LP,Liberal,235,1.66
+VIC,229,Menzies,31725,Special Hospital Team 3,21119,BANERJI,Joy,4,N,N,ALP,Australian Labor Party,92,-1.66
 VIC,229,Menzies,4711,Templestowe,21103,ANDREWS,Kevin,3,N,Y,LP,Liberal,950,1.47
 VIC,229,Menzies,4711,Templestowe,21119,BANERJI,Joy,4,N,N,ALP,Australian Labor Party,661,-1.47
 VIC,229,Menzies,4712,Templestowe Heights,21103,ANDREWS,Kevin,3,N,Y,LP,Liberal,2451,3.42
