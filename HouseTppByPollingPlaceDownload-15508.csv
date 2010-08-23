@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T12:42:05 Cycle:29737ddc-741b-412b-9eb9-2f04a60e5ebb Created:2010-08-23T12:23:58 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T12:57:33 Cycle:c7078a15-5dd8-4994-8616-bbc8e14f28cb Created:2010-08-23T12:38:59 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -88,8 +88,8 @@ ACT,102,Fraser,8832,Page,1356,64.76,738,35.24,2094,-1.18
 ACT,102,Fraser,31626,Palmerston,1590,64.35,881,35.65,2471,4.55
 ACT,102,Fraser,8833,Reid,442,62.17,269,37.83,711,-2.44
 ACT,102,Fraser,8834,Scullin,1150,69.15,513,30.85,1663,2.66
-ACT,102,Fraser,32467,Special Hospital Team 1,0,0,0,0,0,-52.54
-ACT,102,Fraser,32468,Special Hospital Team 2,0,0,0,0,0,-51.64
+ACT,102,Fraser,32467,Special Hospital Team 1,90,54.88,74,45.12,164,2.34
+ACT,102,Fraser,32468,Special Hospital Team 2,48,47.52,53,52.48,101,-4.12
 ACT,102,Fraser,8836,Turner,1645,76.58,503,23.42,2148,-0.61
 ACT,102,Fraser,8837,Watson,2183,73.23,798,26.77,2981,1.14
 ACT,102,Fraser,8838,Weetangera,1453,63.95,819,36.05,2272,-0.82
@@ -3616,7 +3616,7 @@ QLD,160,Fairfax,55510,Montville (Fairfax),110,46.41,127,53.59,237,-1.27
 QLD,160,Fairfax,58604,Mooloolaba (Fairfax),164,46.86,186,53.14,350,-0.3
 QLD,160,Fairfax,33081,Mount Coolum,1003,51.54,943,48.46,1946,-4
 QLD,160,Fairfax,12005,Mountain Creek,1309,42.64,1761,57.36,3070,-1.24
-QLD,160,Fairfax,5439,Mudjimba,650,47.03,732,52.97,1382,-2.78
+QLD,160,Fairfax,5439,Mudjimba,649,46.93,734,53.07,1383,-2.88
 QLD,160,Fairfax,5440,Nambour,1130,52.36,1028,47.64,2158,-3.88
 QLD,160,Fairfax,32754,Nambour PPVC,1671,44.1,2118,55.9,3789,-10.02
 QLD,160,Fairfax,5442,Nambour South,330,46.94,373,53.06,703,-5.83
@@ -3861,7 +3861,7 @@ QLD,163,Griffith,5585,Norman Park South,1214,58.03,878,41.97,2092,-4.2
 QLD,163,Griffith,6326,Princess Alexandra Hospital,208,70.51,87,29.49,295,-3.51
 QLD,163,Griffith,5589,Seven Hills,603,58.43,429,41.57,1032,-5.35
 QLD,163,Griffith,5590,South Brisbane,1024,64.08,574,35.92,1598,-4.09
-QLD,163,Griffith,32707,Special Hospital Team 1,0,0,0,0,0,-56.1
+QLD,163,Griffith,32707,Special Hospital Team 1,99,69.72,43,30.28,142,13.62
 QLD,163,Griffith,38283,Special Hospital Team 2,57,54.81,47,45.19,104,-1.09
 QLD,163,Griffith,6328,Stones Corner,738,58.66,520,41.34,1258,-3.38
 QLD,163,Griffith,37608,Wellers Hill (Griffith),567,52.89,505,47.11,1072,-6.98
@@ -5556,7 +5556,7 @@ SA,189,Port Adelaide,7274,Taperoo,2599,75.09,862,24.91,3461,4.12
 SA,189,Port Adelaide,33170,Virginia (Port Adelaide),362,60.94,232,39.06,594,0.6
 SA,189,Port Adelaide,12085,West Croydon,1270,71.95,495,28.05,1765,0.12
 SA,189,Port Adelaide,7278,Woodville,1008,65.97,520,34.03,1528,0.63
-SA,189,Port Adelaide,7280,Woodville Gardens,1745,79.32,455,20.68,2200,-1.56
+SA,189,Port Adelaide,7280,Woodville Gardens,1746,79.4,453,20.6,2199,-1.48
 SA,189,Port Adelaide,7281,Woodville North,301,64.73,164,35.27,465,-6.27
 SA,189,Port Adelaide,7283,Woodville South,1220,66.92,603,33.08,1823,1.36
 SA,189,Port Adelaide,7284,Woodville West,938,67.92,443,32.08,1381,1.87
@@ -7973,10 +7973,10 @@ VIC,233,Wannon,5049,Scotts Creek,17,10.76,141,89.24,158,-4.27
 VIC,233,Wannon,5050,Simpson,78,16.02,409,83.98,487,1.79
 VIC,233,Wannon,3060,Skipton,138,38.12,224,61.88,362,3.07
 VIC,233,Wannon,3009,Snake Valley,305,56.8,232,43.2,537,2.27
-VIC,233,Wannon,32015,Special Hospital Team 1,0,0,0,0,0,-33.08
-VIC,233,Wannon,32016,Special Hospital Team 2,0,0,0,0,0,-33.33
-VIC,233,Wannon,32017,Special Hospital Team 3,0,0,0,0,0,-33.33
-VIC,233,Wannon,47779,Special Hospital Team 4,0,0,0,0,0,-33.33
+VIC,233,Wannon,32015,Special Hospital Team 1,20,30.77,45,69.23,65,-2.31
+VIC,233,Wannon,32016,Special Hospital Team 2,41,30.6,93,69.4,134,-2.73
+VIC,233,Wannon,32017,Special Hospital Team 3,62,45.59,74,54.41,136,12.26
+VIC,233,Wannon,47779,Special Hospital Team 4,42,30.66,95,69.34,137,-2.67
 VIC,233,Wannon,3199,Stawell,827,46.7,944,53.3,1771,-2.21
 VIC,233,Wannon,31611,Stawell Interstate PPVC,0,0,0,0,0,0
 VIC,233,Wannon,3202,Stawell West,657,47.89,715,52.11,1372,0.59
