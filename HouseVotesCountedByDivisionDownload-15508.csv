@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T20:59:21 Cycle:3ef48dd5-86c9-48f3-8c1e-52b1401d4b3d Created:2010-08-23T20:42:45 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T23:36:46 Cycle:fc10bed1-dc41-4d6b-8390-a3d824fa12ea Created:2010-08-23T23:28:39 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,TotalPercentage
 179,Adelaide,SA,98526,73427,0,0,0,0,73427,74.53
 197,Aston,VIC,93448,74286,0,0,0,0,74286,79.49
@@ -33,7 +33,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 112,Cook,NSW,100748,83368,0,0,0,0,83368,82.75
 207,Corangamite,VIC,101569,80786,0,0,0,0,80786,79.54
 208,Corio,VIC,91974,72717,0,0,0,0,72717,79.06
-237,Cowan,WA,89546,70074,0,0,683,0,70757,79.02
+237,Cowan,WA,89546,70076,0,0,683,0,70759,79.02
 113,Cowper,NSW,94645,77482,0,0,0,0,77482,81.87
 114,Cunningham,NSW,100698,82166,0,0,0,0,82166,81.6
 238,Curtin,WA,90400,68396,0,0,0,0,68396,75.66
@@ -59,7 +59,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 240,Fremantle,WA,93341,72303,0,0,0,0,72303,77.46
 212,Gellibrand,VIC,95611,70484,0,0,0,0,70484,73.72
 120,Gilmore,NSW,96317,79603,0,0,0,0,79603,82.65
-213,Gippsland,VIC,97543,81405,0,0,0,0,81405,83.46
+213,Gippsland,VIC,97543,81697,0,0,0,0,81697,83.75
 214,Goldstein,VIC,93945,69572,0,0,0,0,69572,74.06
 309,Gorton,VIC,113656,89636,0,0,0,0,89636,78.87
 121,Grayndler,NSW,98112,74618,0,0,0,0,74618,76.05
@@ -98,7 +98,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 133,Macquarie,NSW,97560,80879,0,0,0,0,80879,82.9
 187,Makin,SA,96263,76937,0,0,0,0,76937,79.92
 224,Mallee,VIC,89840,73815,0,0,0,0,73815,82.16
-170,Maranoa,QLD,97957,72674,0,0,0,3499,76173,77.76
+170,Maranoa,QLD,97957,72672,0,0,0,3499,76171,77.76
 225,Maribyrnong,VIC,88412,67584,0,0,0,0,67584,76.44
 188,Mayo,SA,101565,80383,0,0,0,0,80383,79.14
 226,McEwen,VIC,115783,88461,0,0,0,0,88461,76.4
@@ -116,13 +116,13 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 135,New England,NSW,99677,83816,0,0,0,0,83816,84.09
 136,Newcastle,NSW,92896,73878,0,0,0,0,73878,79.53
 137,North Sydney,NSW,97567,71081,0,0,0,0,71081,72.85
-243,O'Connor,WA,92875,72054,0,0,0,0,72054,77.58
+243,O'Connor,WA,92875,72167,0,0,0,0,72167,77.7
 174,Oxley,QLD,82782,65045,0,0,0,0,65045,78.57
 138,Page,NSW,94360,77474,0,0,0,0,77474,82.1
 139,Parkes,NSW,100169,80677,0,0,0,0,80677,80.54
 140,Parramatta,NSW,94014,70647,0,0,0,0,70647,75.15
 249,Paterson,NSW,92149,75600,0,0,0,0,75600,82.04
-244,Pearce,WA,89526,66882,0,0,0,0,66882,74.71
+244,Pearce,WA,89526,66882,0,0,520,0,67402,75.29
 245,Perth,WA,91904,68329,0,0,0,0,68329,74.35
 175,Petrie,QLD,86683,67044,0,0,0,0,67044,77.34
 189,Port Adelaide,SA,104308,82707,0,0,0,0,82707,79.29
