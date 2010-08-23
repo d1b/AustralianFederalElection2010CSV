@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T16:04:25 Cycle:7400926d-0dae-44bf-9fbe-6c6155be82cd Created:2010-08-23T15:54:51 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T16:20:22 Cycle:fadad745-f222-4e77-9cd9-35caf715b58d Created:2010-08-23T16:09:56 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -1852,9 +1852,9 @@ NSW,134,Mitchell,8876,Aminya,249,34.06,482,65.94,731,-3.5
 NSW,134,Mitchell,57720,Annangrove (Mitchell),31,10.92,253,89.08,284,-12.39
 NSW,134,Mitchell,11967,Baulkham Hills,221,43.85,283,56.15,504,-9.61
 NSW,134,Mitchell,1825,Baulkham Hills Central,620,38.44,993,61.56,1613,-9.82
-NSW,134,Mitchell,1827,Baulkham Hills North,1203,37.76,1983,62.24,3186,-4.76
-NSW,134,Mitchell,34116,Beaumont Hills,1046,30.8,2350,69.2,3396,-7.53
-NSW,134,Mitchell,47691,Bella Vista,392,29.41,941,70.59,1333,-13.51
+NSW,134,Mitchell,1827,Baulkham Hills North,1192,37.48,1988,62.52,3180,-5.04
+NSW,134,Mitchell,34116,Beaumont Hills,1050,30.93,2345,69.07,3395,-7.4
+NSW,134,Mitchell,47691,Bella Vista,394,29.58,938,70.42,1332,-13.34
 NSW,134,Mitchell,1829,Castle Hill,1177,32.69,2424,67.31,3601,-6.13
 NSW,134,Mitchell,1830,Castle Hill Central,730,31.05,1621,68.95,2351,-7.92
 NSW,134,Mitchell,11969,Castle Hill East,478,29.33,1152,70.67,1630,-9.2
@@ -1882,7 +1882,7 @@ NSW,134,Mitchell,1853,Rondelay,611,31.56,1325,68.44,1936,-6.99
 NSW,134,Mitchell,1854,Rouse Hill,890,28.16,2271,71.84,3161,-5.93
 NSW,134,Mitchell,1837,Samuel Gilbert (Mitchell),753,24.16,2364,75.84,3117,-8.71
 NSW,134,Mitchell,37049,Sherwood Ridge,879,29.69,2082,70.31,2961,-7.03
-NSW,134,Mitchell,58758,Special Hospital Team 1,0,0,0,0,0,-47.76
+NSW,134,Mitchell,58758,Special Hospital Team 1,5,31.25,11,68.75,16,-16.51
 NSW,134,Mitchell,14125,Sydney (Mitchell),29,46.77,33,53.23,62,-11.29
 NSW,134,Mitchell,1826,The Hills,47,31.13,104,68.87,151,-3.28
 NSW,134,Mitchell,45262,West Pennant Hills (Mitchell),102,25.44,299,74.56,401,-8.04
@@ -3157,7 +3157,7 @@ NT,307,Solomon,34248,Casuarina SOLOMON PPVC,1311,53.53,1138,46.47,2449,6.11
 NT,307,Solomon,8709,Darwin,674,43.23,885,56.77,1559,-3.11
 NT,307,Solomon,46407,Darwin Airport PPVC,97,45.33,117,54.67,214,-1.94
 NT,307,Solomon,34139,Darwin SOLOMON PPVC,1685,43.24,2212,56.76,3897,-4.12
-NT,307,Solomon,34135,Divisional Office (PREPOLL),46,37.7,76,62.3,122,-9.47
+NT,307,Solomon,34135,Divisional Office (PREPOLL),48,38.4,77,61.6,125,-8.77
 NT,307,Solomon,8725,Driver,858,43.95,1094,56.05,1952,-5.62
 NT,307,Solomon,32595,Durack,517,34.38,987,65.63,1504,1
 NT,307,Solomon,58818,Fort Hill Wharf PPVC,0,0,0,0,0,0
@@ -3191,7 +3191,7 @@ QLD,304,Blair,6350,Bundamba South,1333,64.43,736,35.57,2069,-4.98
 QLD,304,Blair,6353,Churchill,1428,55.48,1146,44.52,2574,-0.56
 QLD,304,Blair,47714,Chuwar,23,46.94,26,53.06,49,-0.62
 QLD,304,Blair,55256,Collingwood Park (Blair),786,61.07,501,38.93,1287,-7.38
-QLD,304,Blair,6355,Coominya,325,45.45,390,54.55,715,-8.64
+QLD,304,Blair,6355,Coominya,327,45.73,388,54.27,715,-8.36
 QLD,304,Blair,32685,Divisional Office (PREPOLL),0,0,0,0,0,-52.75
 QLD,304,Blair,6358,East Ipswich,683,63.3,396,36.7,1079,-4.9
 QLD,304,Blair,6380,Eastern Heights,1168,53.55,1013,46.45,2181,-5.66
@@ -3200,7 +3200,7 @@ QLD,304,Blair,6361,Fernvale,663,41.26,944,58.74,1607,-8.64
 QLD,304,Blair,6362,Flinders View,372,49.6,378,50.4,750,-6.17
 QLD,304,Blair,6364,Glamorgan Vale,153,39.64,233,60.36,386,-3.71
 QLD,304,Blair,6445,Grandchester,136,47.06,153,52.94,289,0.6
-QLD,304,Blair,6366,Haigslea,92,27.22,246,72.78,338,-6.01
+QLD,304,Blair,6366,Haigslea,102,30.36,234,69.64,336,-2.87
 QLD,304,Blair,6367,Ipswich,243,60.3,160,39.7,403,-0.45
 QLD,304,Blair,47733,Ipswich BLAIR PPVC,1886,51.61,1768,48.39,3654,-0.91
 QLD,304,Blair,6352,Ipswich Central,710,58.68,500,41.32,1210,0.8
@@ -3210,13 +3210,13 @@ QLD,304,Blair,6372,Leichhardt,766,63.25,445,36.75,1211,-4.08
 QLD,304,Blair,6373,Lowood,614,46.98,693,53.02,1307,-3.42
 QLD,304,Blair,6374,Marburg,168,36.21,296,63.79,464,-11.82
 QLD,304,Blair,6375,Minden,342,47.37,380,52.63,722,-3.58
-QLD,304,Blair,5495,Moore,103,37.18,174,62.82,277,-6.57
+QLD,304,Blair,5495,Moore,105,37.91,172,62.09,277,-5.84
 QLD,304,Blair,5498,Mount Kilcoy,130,33.25,261,66.75,391,-3.36
 QLD,304,Blair,6376,Mount Tarampa,107,46.72,122,53.28,229,1.39
 QLD,304,Blair,6357,Newtown Ipswich,575,59.96,384,40.04,959,2.43
 QLD,304,Blair,6377,North Booval,928,62.79,550,37.21,1478,-0.96
 QLD,304,Blair,6378,North Ipswich,632,64.1,354,35.9,986,-0.62
-QLD,304,Blair,6371,One Mile,742,62.99,436,37.01,1178,-4.36
+QLD,304,Blair,6371,One Mile,745,63.24,433,36.76,1178,-4.11
 QLD,304,Blair,58526,Peak Crossing (Blair),68,39.77,103,60.23,171,39.77
 QLD,304,Blair,6379,Pine Mountain,253,47.65,278,52.35,531,4.18
 QLD,304,Blair,6381,Raceview,1725,58.83,1207,41.17,2932,-3.11
@@ -3234,7 +3234,7 @@ QLD,304,Blair,47755,Special Hospital Team 2,55,57.29,41,42.71,96,10.73
 QLD,304,Blair,47756,Special Hospital Team 3,56,49.12,58,50.88,114,2.24
 QLD,304,Blair,6388,Tarampa,245,43.52,318,56.48,563,-1.66
 QLD,304,Blair,6389,Tivoli,805,54.72,666,45.28,1471,-1.86
-QLD,304,Blair,5513,Toogoolawah,418,39.21,648,60.79,1066,-1.86
+QLD,304,Blair,5513,Toogoolawah,417,39.23,646,60.77,1063,-1.84
 QLD,304,Blair,6390,Walloon,808,49.24,833,50.76,1641,-6.83
 QLD,304,Blair,6391,West Ipswich,220,59.14,152,40.86,372,-0.63
 QLD,304,Blair,47717,Yamanto,1001,50.89,966,49.11,1967,-1.3
@@ -3596,14 +3596,14 @@ QLD,160,Fairfax,32549,Buderim Immanuel,173,32.58,358,67.42,531,-5.83
 QLD,160,Fairfax,33108,Buderim North,539,39.09,840,60.91,1379,-3.48
 QLD,160,Fairfax,47692,Buderim PPVC,723,34.25,1388,65.75,2111,-19.85
 QLD,160,Fairfax,33103,Buderim West,502,37.24,846,62.76,1348,-0.82
-QLD,160,Fairfax,5419,Burnside,755,36.51,1313,63.49,2068,-13.32
+QLD,160,Fairfax,5419,Burnside,940,45.39,1131,54.61,2071,-4.44
 QLD,160,Fairfax,5421,Coolum Beach,1383,55.36,1115,44.64,2498,-3.36
 QLD,160,Fairfax,33085,Coolum Beach North,948,54.99,776,45.01,1724,1.17
 QLD,160,Fairfax,32753,Coolum Beach PPVC,350,43.8,449,56.2,799,-10.37
 QLD,160,Fairfax,5423,Cotton Tree,642,45.73,762,54.27,1404,-1.39
 QLD,160,Fairfax,5425,Diddillibah,450,38.23,727,61.77,1177,-5.03
 QLD,160,Fairfax,30151,Divisional Office (PREPOLL),0,0,0,0,0,-54.72
-QLD,160,Fairfax,5427,Eumundi,768,45.82,908,54.18,1676,-4.75
+QLD,160,Fairfax,5427,Eumundi,766,45.76,908,54.24,1674,-4.81
 QLD,160,Fairfax,5428,Forest Glen,228,32.39,476,67.61,704,-4.44
 QLD,160,Fairfax,5487,Kenilworth,204,38.56,325,61.44,529,-6.4
 QLD,160,Fairfax,12004,Kuluin,746,49.01,776,50.99,1522,-3.9
@@ -3631,7 +3631,7 @@ QLD,160,Fairfax,32620,Special Hospital Team 1,33,37.93,54,62.07,87,0.7
 QLD,160,Fairfax,32621,Special Hospital Team 2,54,35.29,99,64.71,153,-2.06
 QLD,160,Fairfax,32622,Special Hospital Team 3,37,37.76,61,62.24,98,0.84
 QLD,160,Fairfax,5449,Woombye,790,40.14,1178,59.86,1968,-5.29
-QLD,160,Fairfax,5450,Yandina,1269,46.97,1433,53.03,2702,-5.58
+QLD,160,Fairfax,5450,Yandina,1268,46.91,1435,53.09,2703,-5.64
 QLD,161,Fisher,32546,Alexandra Headland,172,41.05,247,58.95,419,2.16
 QLD,161,Fisher,32054,Aroona,764,50.3,755,49.7,1519,3.02
 QLD,161,Fisher,5457,Beerburrum,155,46.55,178,53.45,333,-8.97
@@ -3980,13 +3980,13 @@ QLD,166,Hinkler,14222,Brisbane City (Hinkler),10,34.48,19,65.52,29,-7.52
 QLD,166,Hinkler,5731,Bundaberg,576,43.02,763,56.98,1339,-9.6
 QLD,166,Hinkler,5732,Bundaberg East,687,40.58,1006,59.42,1693,-5.49
 QLD,166,Hinkler,46484,Bundaberg HINKLER PPVC,1153,40.83,1671,59.17,2824,-13.11
-QLD,166,Hinkler,5734,Bundaberg North,603,47.04,679,52.96,1282,-9.89
+QLD,166,Hinkler,5734,Bundaberg North,602,47.1,676,52.9,1278,-9.83
 QLD,166,Hinkler,5782,Bundaberg North West,570,42.25,779,57.75,1349,-10.61
 QLD,166,Hinkler,5736,Bundaberg South,881,45.96,1036,54.04,1917,-9.31
 QLD,166,Hinkler,5737,Bundaberg West,819,48.95,854,51.05,1673,-8.12
 QLD,166,Hinkler,5738,Burnett Heads,554,46.75,631,53.25,1185,-9.84
 QLD,166,Hinkler,6548,Burrum Heads,323,34.92,602,65.08,925,-10.2
-QLD,166,Hinkler,5740,Childers,611,39.88,921,60.12,1532,-9.57
+QLD,166,Hinkler,5740,Childers,610,39.71,926,60.29,1536,-9.74
 QLD,166,Hinkler,5743,Cordalba,122,36.64,211,63.36,333,-11.43
 QLD,166,Hinkler,30157,Divisional Office (PREPOLL),1237,40.23,1838,59.77,3075,-13.77
 QLD,166,Hinkler,5748,Elliott Heads,257,38.65,408,61.35,665,-10.78
@@ -5734,7 +5734,7 @@ TAS,192,Bass,8348,Windmill Hill,416,48.32,445,51.68,861,5.89
 TAS,192,Bass,8349,Winnaleah,79,39.7,120,60.3,199,5.4
 TAS,192,Bass,8350,Youngtown,851,59.93,569,40.07,1420,8.34
 TAS,193,Braddon,8358,Abbotsham,60,42.86,80,57.14,140,2.26
-TAS,193,Braddon,8359,Acton,1323,73.34,481,26.66,1804,3.29
+TAS,193,Braddon,8359,Acton,1320,73.25,482,26.75,1802,3.2
 TAS,193,Braddon,8360,Addison Street,541,59.45,369,40.55,910,8.46
 TAS,193,Braddon,31441,Ambleside,273,50.09,272,49.91,545,5.75
 TAS,193,Braddon,8362,Boat Harbour,180,51.14,172,48.86,352,3.3
@@ -5772,7 +5772,7 @@ TAS,193,Braddon,8395,Montagu,59,52.21,54,47.79,113,13.39
 TAS,193,Braddon,8396,Montello,634,71.64,251,28.36,885,5.43
 TAS,193,Braddon,8398,Moorleah,74,51.39,70,48.61,144,-2.72
 TAS,193,Braddon,8399,Natone,95,50.8,92,49.2,187,-1.35
-TAS,193,Braddon,8401,Nixon Street,1205,55.56,964,44.44,2169,7.36
+TAS,193,Braddon,8401,Nixon Street,1200,55.45,964,44.55,2164,7.25
 TAS,193,Braddon,8402,North Motton,114,52.29,104,47.71,218,9.31
 TAS,193,Braddon,8404,Penguin,1065,53.52,925,46.48,1990,-2.19
 TAS,193,Braddon,8406,Preston,41,46.07,48,53.93,89,-2.69
@@ -5788,7 +5788,7 @@ TAS,193,Braddon,8667,Savage River,70,74.47,24,25.53,94,5.62
 TAS,193,Braddon,8390,Shorewell Park,623,57.95,452,42.05,1075,6.65
 TAS,193,Braddon,8412,Sisters Beach,125,61.27,79,38.73,204,7.71
 TAS,193,Braddon,8413,Sisters Creek,79,47.59,87,52.41,166,5.76
-TAS,193,Braddon,8414,Smithton,1141,53.05,1010,46.95,2151,6.17
+TAS,193,Braddon,8414,Smithton,1139,53.08,1007,46.92,2146,6.2
 TAS,193,Braddon,8415,Somerset,1419,64.85,769,35.15,2188,6.75
 TAS,193,Braddon,8366,South Burnie,145,53.7,125,46.3,270,2.82
 TAS,193,Braddon,8416,South Riana,60,40,90,60,150,4.12
@@ -6560,8 +6560,8 @@ VIC,209,Deakin,31572,Special Hospital Team 1,67,34.72,126,65.28,193,-1.48
 VIC,209,Deakin,31583,Special Hospital Team 2,58,42.34,79,57.66,137,5.86
 VIC,209,Deakin,3578,Springview,782,53.56,678,46.44,1460,1.73
 VIC,209,Deakin,3580,Tally Ho (Deakin),1042,56.14,814,43.86,1856,1.7
-VIC,209,Deakin,4910,Tinternvale,1038,51.69,970,48.31,2008,3.88
-VIC,209,Deakin,3583,Vermont North,631,48.95,658,51.05,1289,-0.52
+VIC,209,Deakin,4910,Tinternvale,1048,51.8,975,48.2,2023,3.99
+VIC,209,Deakin,3583,Vermont North,629,48.91,657,51.09,1286,-0.56
 VIC,210,Dunkley,3587,Aldercourt,1057,67.37,512,32.63,1569,1.84
 VIC,210,Dunkley,3588,Baden Powell,670,36.61,1160,63.39,1830,1.49
 VIC,210,Dunkley,3589,Ballam Park,737,57,556,43,1293,2.58
@@ -7189,8 +7189,8 @@ VIC,220,Jagajaga,4328,Watsonia Heights,688,65.96,355,34.04,1043,3.72
 VIC,220,Jagajaga,4194,Watsonia South,648,65.85,336,34.15,984,1.63
 VIC,220,Jagajaga,4195,Yallambie,1239,56.17,967,43.83,2206,3.12
 VIC,221,Kooyong,4198,Auburn,610,33.95,1187,66.05,1797,-13.78
-VIC,221,Kooyong,4199,Auburn North,1228,46.43,1417,53.57,2645,2.56
-VIC,221,Kooyong,3918,Auburn South,991,39.31,1530,60.69,2521,1.98
+VIC,221,Kooyong,4199,Auburn North,1271,47.69,1394,52.31,2665,3.82
+VIC,221,Kooyong,3918,Auburn South,992,39.32,1531,60.68,2523,1.99
 VIC,221,Kooyong,4200,Balwyn,762,36.74,1312,63.26,2074,1.07
 VIC,221,Kooyong,4201,Balwyn Central,574,36.63,993,63.37,1567,-2.2
 VIC,221,Kooyong,4203,Balwyn North,1183,45.17,1436,54.83,2619,0.76
@@ -7429,8 +7429,8 @@ VIC,224,Mallee,4577,Yanac,6,8.11,68,91.89,74,2.43
 VIC,225,Maribyrnong,4580,Aberfeldie,990,58.93,690,41.07,1680,4.58
 VIC,225,Maribyrnong,4581,Airport West,1224,72.21,471,27.79,1695,4.2
 VIC,225,Maribyrnong,3346,Albion (Maribyrnong),976,75.89,310,24.11,1286,-0.88
-VIC,225,Maribyrnong,3347,Albion North,1125,77.32,330,22.68,1455,1.8
-VIC,225,Maribyrnong,3348,Avondale Heights,1269,68.56,582,31.44,1851,-3.6
+VIC,225,Maribyrnong,3347,Albion North,1123,77.24,331,22.76,1454,1.72
+VIC,225,Maribyrnong,3348,Avondale Heights,1271,69.11,568,30.89,1839,-3.05
 VIC,225,Maribyrnong,12080,Avondale Heights Central,1589,63.11,929,36.89,2518,1.2
 VIC,225,Maribyrnong,3349,Avondale Heights North,1180,71.73,465,28.27,1645,2.3
 VIC,225,Maribyrnong,4582,Buckley Park,1113,57.11,836,42.89,1949,3.32
