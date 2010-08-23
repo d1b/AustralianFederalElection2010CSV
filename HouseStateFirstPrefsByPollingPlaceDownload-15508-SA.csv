@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives First Preferences By Candidate By Polling Place for SA [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T17:05:57 Cycle:cf4454e8-3d41-46ef-8a26-7e696909651e Created:2010-08-23T16:55:07 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives First Preferences By Candidate By Polling Place for SA [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T17:21:48 Cycle:80c8cf9b-45a8-4b31-bf25-2481355722cd Created:2010-08-23T17:10:07 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 SA,179,Adelaide,6648,Adelaide (Adelaide),21457,WEEDALL,Gemma,1,N,N,SAL,Socialist Alliance,3,0.96
 SA,179,Adelaide,6648,Adelaide (Adelaide),20845,WESTLEY,Luke,2,N,N,LP,Liberal,66,-7.72
@@ -449,21 +449,21 @@ SA,179,Adelaide,33206,Special Hospital Team 4,20989,STEELE,Christopher,6,N,N,LDP
 SA,179,Adelaide,33206,Special Hospital Team 4,21364,BEACH,Ruth,7,N,N,GRN,The Greens,6,-1.41
 SA,179,Adelaide,33206,Special Hospital Team 4,999,Informal,Informal,999,N,N,,Informal,3,0.4
 SA,179,Adelaide,33207,Special Hospital Team 5,21457,WEEDALL,Gemma,1,N,N,SAL,Socialist Alliance,0,0
-SA,179,Adelaide,33207,Special Hospital Team 5,20845,WESTLEY,Luke,2,N,N,LP,Liberal,0,-50
+SA,179,Adelaide,33207,Special Hospital Team 5,20845,WESTLEY,Luke,2,N,N,LP,Liberal,8,3.33
 SA,179,Adelaide,33207,Special Hospital Team 5,20984,NEAL,Suzanne Patricia,3,N,N,FFP,Family First,0,-2.78
 SA,179,Adelaide,33207,Special Hospital Team 5,22029,NICHOLLS,Marie,4,N,N,DEM,Australian Democrats,0,-2.78
-SA,179,Adelaide,33207,Special Hospital Team 5,20987,ELLIS,Kate,5,N,Y,ALP,Australian Labor Party,0,-38.89
-SA,179,Adelaide,33207,Special Hospital Team 5,20989,STEELE,Christopher,6,N,N,LDP,Liberal Democrats (LDP),0,0
-SA,179,Adelaide,33207,Special Hospital Team 5,21364,BEACH,Ruth,7,N,N,GRN,The Greens,0,-5.56
-SA,179,Adelaide,33207,Special Hospital Team 5,999,Informal,Informal,999,N,N,,Informal,0,-2.7
-SA,179,Adelaide,38420,Special Hospital Team 6,21457,WEEDALL,Gemma,1,N,N,SAL,Socialist Alliance,0,0
-SA,179,Adelaide,38420,Special Hospital Team 6,20845,WESTLEY,Luke,2,N,N,LP,Liberal,0,-51.6
-SA,179,Adelaide,38420,Special Hospital Team 6,20984,NEAL,Suzanne Patricia,3,N,N,FFP,Family First,0,-2.28
+SA,179,Adelaide,33207,Special Hospital Team 5,20987,ELLIS,Kate,5,N,Y,ALP,Australian Labor Party,5,-5.56
+SA,179,Adelaide,33207,Special Hospital Team 5,20989,STEELE,Christopher,6,N,N,LDP,Liberal Democrats (LDP),1,6.67
+SA,179,Adelaide,33207,Special Hospital Team 5,21364,BEACH,Ruth,7,N,N,GRN,The Greens,1,1.11
+SA,179,Adelaide,33207,Special Hospital Team 5,999,Informal,Informal,999,N,N,,Informal,2,9.06
+SA,179,Adelaide,38420,Special Hospital Team 6,21457,WEEDALL,Gemma,1,N,N,SAL,Socialist Alliance,2,1.53
+SA,179,Adelaide,38420,Special Hospital Team 6,20845,WESTLEY,Luke,2,N,N,LP,Liberal,70,1.84
+SA,179,Adelaide,38420,Special Hospital Team 6,20984,NEAL,Suzanne Patricia,3,N,N,FFP,Family First,2,-0.75
 SA,179,Adelaide,38420,Special Hospital Team 6,22029,NICHOLLS,Marie,4,N,N,DEM,Australian Democrats,0,-1.37
-SA,179,Adelaide,38420,Special Hospital Team 6,20987,ELLIS,Kate,5,N,Y,ALP,Australian Labor Party,0,-37.9
-SA,179,Adelaide,38420,Special Hospital Team 6,20989,STEELE,Christopher,6,N,N,LDP,Liberal Democrats (LDP),0,0
-SA,179,Adelaide,38420,Special Hospital Team 6,21364,BEACH,Ruth,7,N,N,GRN,The Greens,0,-6.85
-SA,179,Adelaide,38420,Special Hospital Team 6,999,Informal,Informal,999,N,N,,Informal,0,-2.23
+SA,179,Adelaide,38420,Special Hospital Team 6,20987,ELLIS,Kate,5,N,Y,ALP,Australian Labor Party,55,4.08
+SA,179,Adelaide,38420,Special Hospital Team 6,20989,STEELE,Christopher,6,N,N,LDP,Liberal Democrats (LDP),1,0.76
+SA,179,Adelaide,38420,Special Hospital Team 6,21364,BEACH,Ruth,7,N,N,GRN,The Greens,1,-6.09
+SA,179,Adelaide,38420,Special Hospital Team 6,999,Informal,Informal,999,N,N,,Informal,4,0.73
 SA,179,Adelaide,6684,St Peters,21457,WEEDALL,Gemma,1,N,N,SAL,Socialist Alliance,6,0.56
 SA,179,Adelaide,6684,St Peters,20845,WESTLEY,Luke,2,N,N,LP,Liberal,500,-2.14
 SA,179,Adelaide,6684,St Peters,20984,NEAL,Suzanne Patricia,3,N,N,FFP,Family First,10,-0.24
@@ -4295,16 +4295,16 @@ SA,189,Port Adelaide,7248,Albert Park,21002,HAMBOUR,Bruce,2,N,N,FFP,Family First
 SA,189,Port Adelaide,7248,Albert Park,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,447,-4.22
 SA,189,Port Adelaide,7248,Albert Park,20826,McKENNA,Nigel,4,N,N,LP,Liberal,250,0.92
 SA,189,Port Adelaide,7248,Albert Park,999,Informal,Informal,999,N,N,,Informal,71,2.16
-SA,189,Port Adelaide,7048,Allenby Gardens,21348,MICENKO,Kalyna,1,N,N,GRN,The Greens,190,4.53
-SA,189,Port Adelaide,7048,Allenby Gardens,21002,HAMBOUR,Bruce,2,N,N,FFP,Family First,56,-0.02
-SA,189,Port Adelaide,7048,Allenby Gardens,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,726,-0.7
-SA,189,Port Adelaide,7048,Allenby Gardens,20826,McKENNA,Nigel,4,N,N,LP,Liberal,297,-2.47
-SA,189,Port Adelaide,7048,Allenby Gardens,999,Informal,Informal,999,N,N,,Informal,79,1.69
-SA,189,Port Adelaide,7249,Beverley,21348,MICENKO,Kalyna,1,N,N,GRN,The Greens,102,8.7
-SA,189,Port Adelaide,7249,Beverley,21002,HAMBOUR,Bruce,2,N,N,FFP,Family First,41,1.49
-SA,189,Port Adelaide,7249,Beverley,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,350,-5.13
-SA,189,Port Adelaide,7249,Beverley,20826,McKENNA,Nigel,4,N,N,LP,Liberal,133,-3.79
-SA,189,Port Adelaide,7249,Beverley,999,Informal,Informal,999,N,N,,Informal,70,5.62
+SA,189,Port Adelaide,7048,Allenby Gardens,21348,MICENKO,Kalyna,1,N,N,GRN,The Greens,190,4.52
+SA,189,Port Adelaide,7048,Allenby Gardens,21002,HAMBOUR,Bruce,2,N,N,FFP,Family First,55,-0.1
+SA,189,Port Adelaide,7048,Allenby Gardens,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,727,-0.67
+SA,189,Port Adelaide,7048,Allenby Gardens,20826,McKENNA,Nigel,4,N,N,LP,Liberal,298,-2.41
+SA,189,Port Adelaide,7048,Allenby Gardens,999,Informal,Informal,999,N,N,,Informal,78,1.62
+SA,189,Port Adelaide,7249,Beverley,21348,MICENKO,Kalyna,1,N,N,GRN,The Greens,102,8.68
+SA,189,Port Adelaide,7249,Beverley,21002,HAMBOUR,Bruce,2,N,N,FFP,Family First,42,1.64
+SA,189,Port Adelaide,7249,Beverley,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,350,-5.22
+SA,189,Port Adelaide,7249,Beverley,20826,McKENNA,Nigel,4,N,N,LP,Liberal,133,-3.83
+SA,189,Port Adelaide,7249,Beverley,999,Informal,Informal,999,N,N,,Informal,69,5.47
 SA,189,Port Adelaide,7250,Birkenhead,21348,MICENKO,Kalyna,1,N,N,GRN,The Greens,367,6.47
 SA,189,Port Adelaide,7250,Birkenhead,21002,HAMBOUR,Bruce,2,N,N,FFP,Family First,85,0.14
 SA,189,Port Adelaide,7250,Birkenhead,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,979,-1.71
@@ -4340,10 +4340,10 @@ SA,189,Port Adelaide,7253,Ethelton,21002,HAMBOUR,Bruce,2,N,N,FFP,Family First,85
 SA,189,Port Adelaide,7253,Ethelton,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,436,-10.11
 SA,189,Port Adelaide,7253,Ethelton,20826,McKENNA,Nigel,4,N,N,LP,Liberal,255,4.19
 SA,189,Port Adelaide,7253,Ethelton,999,Informal,Informal,999,N,N,,Informal,68,2.27
-SA,189,Port Adelaide,7254,Ferryden Park,21348,MICENKO,Kalyna,1,N,N,GRN,The Greens,208,8.95
-SA,189,Port Adelaide,7254,Ferryden Park,21002,HAMBOUR,Bruce,2,N,N,FFP,Family First,98,1.52
-SA,189,Port Adelaide,7254,Ferryden Park,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,872,-8.3
-SA,189,Port Adelaide,7254,Ferryden Park,20826,McKENNA,Nigel,4,N,N,LP,Liberal,289,-0.76
+SA,189,Port Adelaide,7254,Ferryden Park,21348,MICENKO,Kalyna,1,N,N,GRN,The Greens,207,8.89
+SA,189,Port Adelaide,7254,Ferryden Park,21002,HAMBOUR,Bruce,2,N,N,FFP,Family First,99,1.59
+SA,189,Port Adelaide,7254,Ferryden Park,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,868,-8.53
+SA,189,Port Adelaide,7254,Ferryden Park,20826,McKENNA,Nigel,4,N,N,LP,Liberal,292,-0.54
 SA,189,Port Adelaide,7254,Ferryden Park,999,Informal,Informal,999,N,N,,Informal,126,2.46
 SA,189,Port Adelaide,7057,Findon,21348,MICENKO,Kalyna,1,N,N,GRN,The Greens,275,5.4
 SA,189,Port Adelaide,7057,Findon,21002,HAMBOUR,Bruce,2,N,N,FFP,Family First,133,1.41
@@ -4440,11 +4440,11 @@ SA,189,Port Adelaide,7266,Royal Park,21002,HAMBOUR,Bruce,2,N,N,FFP,Family First,
 SA,189,Port Adelaide,7266,Royal Park,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,746,-5.08
 SA,189,Port Adelaide,7266,Royal Park,20826,McKENNA,Nigel,4,N,N,LP,Liberal,365,1.69
 SA,189,Port Adelaide,7266,Royal Park,999,Informal,Informal,999,N,N,,Informal,132,1.44
-SA,189,Port Adelaide,7268,Royal Park South (Port Adelaide),21348,MICENKO,Kalyna,1,N,N,GRN,The Greens,129,5.09
-SA,189,Port Adelaide,7268,Royal Park South (Port Adelaide),21002,HAMBOUR,Bruce,2,N,N,FFP,Family First,101,3.16
-SA,189,Port Adelaide,7268,Royal Park South (Port Adelaide),21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,617,-5.71
-SA,189,Port Adelaide,7268,Royal Park South (Port Adelaide),20826,McKENNA,Nigel,4,N,N,LP,Liberal,269,-0.63
-SA,189,Port Adelaide,7268,Royal Park South (Port Adelaide),999,Informal,Informal,999,N,N,,Informal,81,2.03
+SA,189,Port Adelaide,7268,Royal Park South (Port Adelaide),21348,MICENKO,Kalyna,1,N,N,GRN,The Greens,128,5.01
+SA,189,Port Adelaide,7268,Royal Park South (Port Adelaide),21002,HAMBOUR,Bruce,2,N,N,FFP,Family First,101,3.17
+SA,189,Port Adelaide,7268,Royal Park South (Port Adelaide),21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,617,-5.66
+SA,189,Port Adelaide,7268,Royal Park South (Port Adelaide),20826,McKENNA,Nigel,4,N,N,LP,Liberal,269,-0.6
+SA,189,Port Adelaide,7268,Royal Park South (Port Adelaide),999,Informal,Informal,999,N,N,,Informal,82,2.11
 SA,189,Port Adelaide,36883,Salisbury (Port Adelaide),21348,MICENKO,Kalyna,1,N,N,GRN,The Greens,53,9.74
 SA,189,Port Adelaide,36883,Salisbury (Port Adelaide),21002,HAMBOUR,Bruce,2,N,N,FFP,Family First,38,2.69
 SA,189,Port Adelaide,36883,Salisbury (Port Adelaide),21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,172,-6.43
@@ -4490,11 +4490,11 @@ SA,189,Port Adelaide,7270,Semaphore,21002,HAMBOUR,Bruce,2,N,N,FFP,Family First,5
 SA,189,Port Adelaide,7270,Semaphore,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,849,-1.06
 SA,189,Port Adelaide,7270,Semaphore,20826,McKENNA,Nigel,4,N,N,LP,Liberal,386,-3.3
 SA,189,Port Adelaide,7270,Semaphore,999,Informal,Informal,999,N,N,,Informal,98,2.39
-SA,189,Port Adelaide,7273,Semaphore South,21348,MICENKO,Kalyna,1,N,N,GRN,The Greens,310,7.7
-SA,189,Port Adelaide,7273,Semaphore South,21002,HAMBOUR,Bruce,2,N,N,FFP,Family First,70,0.89
-SA,189,Port Adelaide,7273,Semaphore South,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,705,-3.2
-SA,189,Port Adelaide,7273,Semaphore South,20826,McKENNA,Nigel,4,N,N,LP,Liberal,354,-3.35
-SA,189,Port Adelaide,7273,Semaphore South,999,Informal,Informal,999,N,N,,Informal,85,1.63
+SA,189,Port Adelaide,7273,Semaphore South,21348,MICENKO,Kalyna,1,N,N,GRN,The Greens,309,7.65
+SA,189,Port Adelaide,7273,Semaphore South,21002,HAMBOUR,Bruce,2,N,N,FFP,Family First,72,1.04
+SA,189,Port Adelaide,7273,Semaphore South,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,704,-3.23
+SA,189,Port Adelaide,7273,Semaphore South,20826,McKENNA,Nigel,4,N,N,LP,Liberal,353,-3.4
+SA,189,Port Adelaide,7273,Semaphore South,999,Informal,Informal,999,N,N,,Informal,88,1.82
 SA,189,Port Adelaide,33216,Special Hospital Team 1,21348,MICENKO,Kalyna,1,N,N,GRN,The Greens,4,-1.37
 SA,189,Port Adelaide,33216,Special Hospital Team 1,21002,HAMBOUR,Bruce,2,N,N,FFP,Family First,1,-3.3
 SA,189,Port Adelaide,33216,Special Hospital Team 1,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,30,3.56
