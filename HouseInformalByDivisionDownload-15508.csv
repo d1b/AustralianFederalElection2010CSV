@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T19:41:09 Cycle:6cb06856-d4aa-4d7c-86a4-ed17c3062455 Created:2010-08-23T19:27:38 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T19:56:39 Cycle:6d8485e9-9c86-4854-80ba-cb8a2ca12ded Created:2010-08-23T19:42:39 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent,InformalSwing
 107,Blaxland,NSW,62140,10283,72423,14.2,5.31
 251,Watson,NSW,63977,10034,74011,13.56,4.47
@@ -7,12 +7,12 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 315,McMahon,NSW,67671,8372,76043,11.01,3.41
 153,Werriwa,NSW,62086,7353,69439,10.59,4.01
 104,Barton,NSW,66543,7625,74168,10.28,3.71
-122,Greenway,NSW,69087,7264,76351,9.51,3.33
+122,Greenway,NSW,69082,7269,76351,9.52,3.34
 144,Reid,NSW,67336,6829,74165,9.21,3.63
 140,Parramatta,NSW,64476,6171,70647,8.73,2.11
 103,Banks,NSW,71355,6673,78028,8.55,2.79
 127,Kingsford Smith,NSW,70347,6307,76654,8.23,2.92
-128,Lindsay,NSW,73632,6408,80040,8.01,2.49
+128,Lindsay,NSW,73682,6408,80090,8,2.48
 131,Macarthur,NSW,69068,5947,75015,7.93,2.36
 176,Rankin,QLD,66742,5682,72424,7.85,3.42
 162,Forde,QLD,57398,4707,62105,7.58,2.87
@@ -36,7 +36,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 165,Herbert,QLD,69145,4707,73852,6.37,2.15
 234,Wills,VIC,69402,4687,74089,6.33,2
 159,Fadden,QLD,62293,4194,66487,6.31,2
-126,Hunter,NSW,72534,4819,77353,6.23,1.96
+126,Hunter,NSW,72518,4836,77354,6.25,1.98
 146,Robertson,NSW,72924,4816,77740,6.2,2.76
 222,Lalor,VIC,88132,5818,93950,6.19,2.7
 171,McPherson,QLD,66215,4363,70578,6.18,3.01
@@ -145,7 +145,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 230,Melbourne Ports,VIC,63454,2161,65615,3.29,1.13
 207,Corangamite,VIC,78272,2514,80786,3.11,0.58
 214,Goldstein,VIC,67465,2107,69572,3.03,0.61
-194,Denison,TAS,68814,2122,70936,2.99,0.49
+194,Denison,TAS,68811,2125,70936,3,0.5
 215,Higgins,VIC,62783,1872,64655,2.9,0.33
 238,Curtin,WA,66426,1970,68396,2.88,0.92
 221,Kooyong,VIC,64708,1918,66626,2.88,0.78

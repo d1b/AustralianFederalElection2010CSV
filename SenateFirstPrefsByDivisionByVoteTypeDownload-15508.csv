@@ -1,4 +1,4 @@
-2010 Federal Election Senate First Preferences By Division By Candidate By Vote Type  [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T19:41:41 Cycle:6cb06856-d4aa-4d7c-86a4-ed17c3062455 Created:2010-08-23T19:27:38 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate First Preferences By Division By Candidate By Vote Type  [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T19:57:13 Cycle:6d8485e9-9c86-4854-80ba-cb8a2ca12ded Created:2010-08-23T19:42:39 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,Ticket,BallotPosition,CandidateID,CandidateDetails,PartyName,PartyAb,Elected,HistoricElected,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes
 ACT,101,Canberra,A,0,22049,A Ticket Votes,Australian Labor Party,ALP,N,N,0,0,0,0,0,0
 ACT,101,Canberra,A,1,21065,"LUNDY, Kate Alexandra",Australian Labor Party,ALP,N,Y,0,0,0,0,0,0
@@ -330,11 +330,11 @@ NSW,104,Barton,UG,2,22014,"HOOPER, Norman H Joseph",Independent,IND,N,N,0,0,0,0,
 NSW,104,Barton,UG,3,21903,"SCOTT-IRVING, Stewart",Independent,IND,N,N,1,0,0,0,0,1
 NSW,104,Barton,UG,4,21268,"PAPE, Bryan",Independent,IND,N,N,0,0,0,0,0,0
 NSW,104,Barton,UG,5,21937,"WHALAN, Andrew",Independent,IND,N,N,1,0,0,0,0,1
-NSW,105,Bennelong,A,0,22214,A Ticket Votes,Socialist Alliance,SAL,N,N,2,0,0,0,0,2
+NSW,105,Bennelong,A,0,22214,A Ticket Votes,Socialist Alliance,SAL,N,N,57,0,0,0,0,57
 NSW,105,Bennelong,A,1,21446,"EVANS, Rachel",Socialist Alliance,SAL,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,A,2,21449,"ISKANDER, Soubhi",Socialist Alliance,SAL,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,A,9998,0,Unapportioned,Socialist Alliance,SAL,N,N,300,0,0,0,0,300
-NSW,105,Bennelong,B,0,22230,B Ticket Votes,,,N,N,0,0,0,0,0,0
+NSW,105,Bennelong,A,9998,0,Unapportioned,Socialist Alliance,SAL,N,N,256,0,0,0,0,256
+NSW,105,Bennelong,B,0,22230,B Ticket Votes,,,N,N,3,0,0,0,0,3
 NSW,105,Bennelong,B,1,22023,"HODGES, Robert",,,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,B,2,22024,"FRIER, Bob",,,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,B,9998,0,Unapportioned,,,N,N,21,0,0,0,0,21
@@ -342,137 +342,137 @@ NSW,105,Bennelong,C,0,22224,C Ticket Votes,,,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,C,1,21904,"ROBINSON, Tony",,,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,C,2,21907,"SELBY, Noel",,,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,C,9998,0,Unapportioned,,,N,N,5,0,0,0,0,5
-NSW,105,Bennelong,D,0,22215,D Ticket Votes,,,N,N,0,0,0,0,0,0
+NSW,105,Bennelong,D,0,22215,D Ticket Votes,,,N,N,2,0,0,0,0,2
 NSW,105,Bennelong,D,1,21429,"HODGES, Darrin",,,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,D,2,21430,"FOLKES, Nick",,,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,D,9998,0,Unapportioned,,,N,N,17,0,0,0,0,17
-NSW,105,Bennelong,E,0,22220,E Ticket Votes,Building Australia,BAP,N,N,0,0,0,0,0,0
+NSW,105,Bennelong,D,9998,0,Unapportioned,,,N,N,15,0,0,0,0,15
+NSW,105,Bennelong,E,0,22220,E Ticket Votes,Building Australia,BAP,N,N,7,0,0,0,0,7
 NSW,105,Bennelong,E,1,21798,"BROWN, Ray",Building Australia,BAP,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,E,2,21799,"O'DONNELL, Michael",Building Australia,BAP,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,E,9998,0,Unapportioned,Building Australia,BAP,N,N,107,0,0,0,0,107
-NSW,105,Bennelong,F,0,22212,F Ticket Votes,Senator On-Line,SOL,N,N,0,0,0,0,0,0
+NSW,105,Bennelong,E,9998,0,Unapportioned,Building Australia,BAP,N,N,100,0,0,0,0,100
+NSW,105,Bennelong,F,0,22212,F Ticket Votes,Senator On-Line,SOL,N,N,6,0,0,0,0,6
 NSW,105,Bennelong,F,1,21465,"BAS, Wes",Senator On-Line,SOL,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,F,2,21470,"ROACH, Brianna",Senator On-Line,SOL,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,F,9998,0,Unapportioned,Senator On-Line,SOL,N,N,50,0,0,0,0,50
-NSW,105,Bennelong,G,0,22222,G Ticket Votes,Communist,CAL,N,N,0,0,0,0,0,0
+NSW,105,Bennelong,F,9998,0,Unapportioned,Senator On-Line,SOL,N,N,44,0,0,0,0,44
+NSW,105,Bennelong,G,0,22222,G Ticket Votes,Communist,CAL,N,N,16,0,0,0,0,16
 NSW,105,Bennelong,G,1,21787,"LAWLER, Geoff",Communist,CAL,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,G,2,21789,"KELLAWAY, Brenda Anne",Communist,CAL,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,G,9998,0,Unapportioned,Communist,CAL,N,N,117,0,0,0,0,117
-NSW,105,Bennelong,H,0,22233,H Ticket Votes,,,N,N,0,0,0,0,0,0
+NSW,105,Bennelong,G,9998,0,Unapportioned,Communist,CAL,N,N,101,0,0,0,0,101
+NSW,105,Bennelong,H,0,22233,H Ticket Votes,,,N,N,2,0,0,0,0,2
 NSW,105,Bennelong,H,1,22021,"BLOOM, Nadia",,,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,H,2,22022,"IRELAND, Bede",,,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,H,9998,0,Unapportioned,,,N,N,12,0,0,0,0,12
-NSW,105,Bennelong,I,0,22211,I Ticket Votes,Citizens Electoral Council of Australia,CEC,N,N,2,0,0,0,0,2
+NSW,105,Bennelong,H,9998,0,Unapportioned,,,N,N,10,0,0,0,0,10
+NSW,105,Bennelong,I,0,22211,I Ticket Votes,Citizens Electoral Council of Australia,CEC,N,N,6,0,0,0,0,6
 NSW,105,Bennelong,I,1,21031,"BUTLER, Robert H",Citizens Electoral Council of Australia,CEC,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,I,2,21037,"McCAFFREY, Ian David",Citizens Electoral Council of Australia,CEC,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,I,9998,0,Unapportioned,Citizens Electoral Council of Australia,CEC,N,N,102,0,0,0,0,102
-NSW,105,Bennelong,J,0,22219,J Ticket Votes,Australian Democrats,DEM,N,N,3,0,0,0,0,3
+NSW,105,Bennelong,I,9998,0,Unapportioned,Citizens Electoral Council of Australia,CEC,N,N,98,0,0,0,0,98
+NSW,105,Bennelong,J,0,22219,J Ticket Votes,Australian Democrats,DEM,N,N,30,0,0,0,0,30
 NSW,105,Bennelong,J,1,21733,"CLANCY, Fiona",Australian Democrats,DEM,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,J,2,21736,"MITCHELL, Jen",Australian Democrats,DEM,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,J,9998,0,Unapportioned,Australian Democrats,DEM,N,N,373,0,0,0,0,373
+NSW,105,Bennelong,J,9998,0,Unapportioned,Australian Democrats,DEM,N,N,346,0,0,0,0,346
 NSW,105,Bennelong,K,0,22218,K Ticket Votes,,,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,K,1,21714,"SAMPSON, Meg",,,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,K,2,21718,"HINCHCLIFFE, J",,,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,K,9998,0,Unapportioned,,,N,N,4,0,0,0,0,4
-NSW,105,Bennelong,L,0,22232,L Ticket Votes,,,N,N,0,0,0,0,0,0
+NSW,105,Bennelong,L,0,22232,L Ticket Votes,,,N,N,1,0,0,0,0,1
 NSW,105,Bennelong,L,1,22019,"BELGRAVE, Leon Adrian",,,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,L,2,22020,"BEREGSZASZI, Janos",,,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,L,9998,0,Unapportioned,,,N,N,13,0,0,0,0,13
-NSW,105,Bennelong,M,0,22207,M Ticket Votes,The Climate Sceptics,TCS,N,N,1,0,0,0,0,1
+NSW,105,Bennelong,M,0,22207,M Ticket Votes,The Climate Sceptics,TCS,N,N,10,0,0,0,0,10
 NSW,105,Bennelong,M,1,21127,"KOUTALIANOS, Bill",The Climate Sceptics,TCS,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,M,2,21134,"BROWN, Geoffrey",The Climate Sceptics,TCS,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,M,9998,0,Unapportioned,The Climate Sceptics,TCS,N,N,141,0,0,0,0,141
-NSW,105,Bennelong,N,0,22213,N Ticket Votes,Secular Party of Australia,SPA,N,N,0,0,0,0,0,0
+NSW,105,Bennelong,M,9998,0,Unapportioned,The Climate Sceptics,TCS,N,N,132,0,0,0,0,132
+NSW,105,Bennelong,N,0,22213,N Ticket Votes,Secular Party of Australia,SPA,N,N,1,0,0,0,0,1
 NSW,105,Bennelong,N,1,21229,"BRYCE, Ian",Secular Party of Australia,SPA,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,N,2,21233,"WARREN, Lyle Richard",Secular Party of Australia,SPA,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,N,9998,0,Unapportioned,Secular Party of Australia,SPA,N,N,63,0,0,0,0,63
-NSW,105,Bennelong,O,0,22216,O Ticket Votes,Shooters and Fishers,ASP,N,N,2,0,0,0,0,2
+NSW,105,Bennelong,N,9998,0,Unapportioned,Secular Party of Australia,SPA,N,N,62,0,0,0,0,62
+NSW,105,Bennelong,O,0,22216,O Ticket Votes,Shooters and Fishers,ASP,N,N,53,0,0,0,0,53
 NSW,105,Bennelong,O,1,21451,"MUIRHEAD, Jim Gerard",Shooters and Fishers,ASP,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,O,2,21455,"McGLASHAN, Alistair David",Shooters and Fishers,ASP,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,O,9998,0,Unapportioned,Shooters and Fishers,ASP,N,N,625,0,0,0,0,625
-NSW,105,Bennelong,P,0,22226,P Ticket Votes,Democratic Labor Party (DLP) of Australia,DLP,N,N,3,0,0,0,0,3
+NSW,105,Bennelong,O,9998,0,Unapportioned,Shooters and Fishers,ASP,N,N,575,0,0,0,0,575
+NSW,105,Bennelong,P,0,22226,P Ticket Votes,Democratic Labor Party (DLP) of Australia,DLP,N,N,25,0,0,0,0,25
 NSW,105,Bennelong,P,1,22015,"McCAFFREY, Simon Thomas",Democratic Labor Party (DLP) of Australia,DLP,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,P,2,22016,"CULLEN, Martin",Democratic Labor Party (DLP) of Australia,DLP,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,P,9998,0,Unapportioned,Democratic Labor Party (DLP) of Australia,DLP,N,N,297,0,0,0,0,297
-NSW,105,Bennelong,Q,0,22203,Q Ticket Votes,Australian Sex Party,ASXP,N,N,5,0,0,0,0,5
+NSW,105,Bennelong,P,9998,0,Unapportioned,Democratic Labor Party (DLP) of Australia,DLP,N,N,275,0,0,0,0,275
+NSW,105,Bennelong,Q,0,22203,Q Ticket Votes,Australian Sex Party,ASXP,N,N,78,0,0,0,0,78
 NSW,105,Bennelong,Q,1,20841,"LEISHMAN, Marianne",Australian Sex Party,ASXP,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,Q,2,20947,"CAMPBELL, Huw",Australian Sex Party,ASXP,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,Q,3,20949,"ZIMMERMAN, Larissa",Australian Sex Party,ASXP,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,Q,9998,0,Unapportioned,Australian Sex Party,ASXP,N,N,876,0,0,0,0,876
-NSW,105,Bennelong,R,0,22227,R Ticket Votes,,,N,N,0,0,0,0,0,0
+NSW,105,Bennelong,Q,9998,0,Unapportioned,Australian Sex Party,ASXP,N,N,805,0,0,0,0,805
+NSW,105,Bennelong,R,0,22227,R Ticket Votes,,,N,N,2,0,0,0,0,2
 NSW,105,Bennelong,R,1,21993,"BARKER, David",,,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,R,2,21994,"ZUREIK, S G",,,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,R,9998,0,Unapportioned,,,N,N,6,0,0,0,0,6
-NSW,105,Bennelong,S,0,22204,S Ticket Votes,Socialist Equality Party,SEP,N,N,0,0,0,0,0,0
+NSW,105,Bennelong,R,9998,0,Unapportioned,,,N,N,4,0,0,0,0,4
+NSW,105,Bennelong,S,0,22204,S Ticket Votes,Socialist Equality Party,SEP,N,N,4,0,0,0,0,4
 NSW,105,Bennelong,S,1,20978,"BEAMS, Nick",Socialist Equality Party,SEP,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,S,2,20981,"ZABALA, Gabriela",Socialist Equality Party,SEP,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,S,9998,0,Unapportioned,Socialist Equality Party,SEP,N,N,64,0,0,0,0,64
-NSW,105,Bennelong,T,0,22223,T Ticket Votes,,,N,N,0,0,0,0,0,0
+NSW,105,Bennelong,S,9998,0,Unapportioned,Socialist Equality Party,SEP,N,N,60,0,0,0,0,60
+NSW,105,Bennelong,T,0,22223,T Ticket Votes,,,N,N,4,0,0,0,0,4
 NSW,105,Bennelong,T,1,21908,"BOURKE, William",,,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,T,2,21910,"O'CONNOR, Mark",,,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,T,9998,0,Unapportioned,,,N,N,32,0,0,0,0,32
-NSW,105,Bennelong,U,0,22217,U Ticket Votes,Non-Custodial Parents Party (Equal Parenting),NCP,N,N,0,0,0,0,0,0
+NSW,105,Bennelong,T,9998,0,Unapportioned,,,N,N,29,0,0,0,0,29
+NSW,105,Bennelong,U,0,22217,U Ticket Votes,Non-Custodial Parents Party (Equal Parenting),NCP,N,N,1,0,0,0,0,1
 NSW,105,Bennelong,U,1,21413,"THOMPSON, Andy",Non-Custodial Parents Party (Equal Parenting),NCP,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,U,2,21420,"FOSTER, Roland",Non-Custodial Parents Party (Equal Parenting),NCP,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,U,9998,0,Unapportioned,Non-Custodial Parents Party (Equal Parenting),NCP,N,N,15,0,0,0,0,15
-NSW,105,Bennelong,V,0,22209,V Ticket Votes,Family First,FFP,N,N,2,0,0,0,0,2
+NSW,105,Bennelong,U,9998,0,Unapportioned,Non-Custodial Parents Party (Equal Parenting),NCP,N,N,14,0,0,0,0,14
+NSW,105,Bennelong,V,0,22209,V Ticket Votes,Family First,FFP,N,N,36,0,0,0,0,36
 NSW,105,Bennelong,V,1,21178,"SWANE, Greg",Family First,FFP,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,V,2,21182,"LAMB, Phil",Family First,FFP,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,V,9998,0,Unapportioned,Family First,FFP,N,N,457,0,0,0,0,457
-NSW,105,Bennelong,W,0,22206,W Ticket Votes,Labor,ALP,N,N,124,0,0,0,0,124
+NSW,105,Bennelong,V,9998,0,Unapportioned,Family First,FFP,N,N,423,0,0,0,0,423
+NSW,105,Bennelong,W,0,22206,W Ticket Votes,Labor,ALP,N,N,2119,0,0,0,0,2119
 NSW,105,Bennelong,W,1,21012,"FAULKNER, John",Labor,ALP,N,Y,0,0,0,0,0,0
 NSW,105,Bennelong,W,2,21016,"THISTLETHWAITE, Matthew",Labor,ALP,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,W,3,21018,"HUTCHINS, Steve",Labor,ALP,N,Y,0,0,0,0,0,0
 NSW,105,Bennelong,W,4,21020,"MURNAIN, Anne",Labor,ALP,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,W,5,21022,"SEATON, Fiona",Labor,ALP,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,W,6,21025,"McDERMOTT, Hugh",Labor,ALP,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,W,9998,0,Unapportioned,Labor,ALP,N,N,23202,0,0,0,0,23202
-NSW,105,Bennelong,X,0,22231,X Ticket Votes,,,N,N,0,0,0,0,0,0
+NSW,105,Bennelong,W,9998,0,Unapportioned,Labor,ALP,N,N,21230,0,0,0,0,21230
+NSW,105,Bennelong,X,0,22231,X Ticket Votes,,,N,N,1,0,0,0,0,1
 NSW,105,Bennelong,X,1,21995,"STEFANAC, Jennifer",,,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,X,2,21997,"COOLEY, Tucky Tania",,,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,X,9998,0,Unapportioned,,,N,N,12,0,0,0,0,12
-NSW,105,Bennelong,Y,0,22228,Y Ticket Votes,Carers Alliance,CA,N,N,0,0,0,0,0,0
+NSW,105,Bennelong,X,9998,0,Unapportioned,,,N,N,11,0,0,0,0,11
+NSW,105,Bennelong,Y,0,22228,Y Ticket Votes,Carers Alliance,CA,N,N,37,0,0,0,0,37
 NSW,105,Bennelong,Y,1,21984,"CARTER, Marylou",Carers Alliance,CA,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,Y,2,21986,"BUCKWALTER, Maree",Carers Alliance,CA,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,Y,9998,0,Unapportioned,Carers Alliance,CA,N,N,287,0,0,0,0,287
-NSW,105,Bennelong,Z,0,22205,Z Ticket Votes,Christian Democratic Party (Fred Nile Group),CDP,N,N,6,0,0,0,0,6
+NSW,105,Bennelong,Y,9998,0,Unapportioned,Carers Alliance,CA,N,N,250,0,0,0,0,250
+NSW,105,Bennelong,Z,0,22205,Z Ticket Votes,Christian Democratic Party (Fred Nile Group),CDP,N,N,119,0,0,0,0,119
 NSW,105,Bennelong,Z,1,20990,"GREEN, Paul",Christian Democratic Party (Fred Nile Group),CDP,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,Z,2,20992,"PEEBLES, Robyn",Christian Democratic Party (Fred Nile Group),CDP,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,Z,3,20994,"NILE, Elaine",Christian Democratic Party (Fred Nile Group),CDP,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,Z,9998,0,Unapportioned,Christian Democratic Party (Fred Nile Group),CDP,N,N,1514,0,0,0,0,1514
-NSW,105,Bennelong,AA,0,22210,AA Ticket Votes,Liberal/Nationals,LNP,N,N,191,0,0,0,0,191
+NSW,105,Bennelong,Z,9998,0,Unapportioned,Christian Democratic Party (Fred Nile Group),CDP,N,N,1404,0,0,0,0,1404
+NSW,105,Bennelong,AA,0,22210,AA Ticket Votes,Liberal/Nationals,LNP,N,N,2856,0,0,0,0,2856
 NSW,105,Bennelong,AA,1,21762,"FIERRAVANTI-WELLS, Concetta",Liberal,LP,N,Y,0,0,0,0,0,0
 NSW,105,Bennelong,AA,2,21766,"HEFFERNAN, William",Liberal,LP,N,Y,0,0,0,0,0,0
 NSW,105,Bennelong,AA,3,21768,"NASH, Fiona",The Nationals,NP,N,Y,0,0,0,0,0,0
 NSW,105,Bennelong,AA,4,21771,"HUGHES, Hollie",Liberal,LP,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,AA,5,21774,"DENNIS, Joe",The Nationals,NP,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,AA,6,21776,"BILIC, George",Liberal,LP,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,AA,9998,0,Unapportioned,Liberal/Nationals,LNP,N,N,32465,0,0,0,0,32465
-NSW,105,Bennelong,AB,0,22221,AB Ticket Votes,,,N,N,0,0,0,0,0,0
+NSW,105,Bennelong,AA,9998,0,Unapportioned,Liberal/Nationals,LNP,N,N,29822,0,0,0,0,29822
+NSW,105,Bennelong,AB,0,22221,AB Ticket Votes,,,N,N,3,0,0,0,0,3
 NSW,105,Bennelong,AB,1,21901,"ECKFORD, Michael",,,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,AB,2,21902,"STEVENS, Criselee",,,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,AB,9998,0,Unapportioned,,,N,N,21,0,0,0,0,21
-NSW,105,Bennelong,AC,0,22225,AC Ticket Votes,One Nation,ON,N,N,1,0,0,0,0,1
+NSW,105,Bennelong,AB,9998,0,Unapportioned,,,N,N,20,0,0,0,0,20
+NSW,105,Bennelong,AC,0,22225,AC Ticket Votes,One Nation,ON,N,N,17,0,0,0,0,17
 NSW,105,Bennelong,AC,1,21824,"WEBBER, Andrew",One Nation,ON,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,AC,2,21827,"BRETT, John",One Nation,ON,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,AC,9998,0,Unapportioned,One Nation,ON,N,N,183,0,0,0,0,183
-NSW,105,Bennelong,AD,0,22208,AD Ticket Votes,The Greens,GRN,N,N,47,0,0,0,0,47
+NSW,105,Bennelong,AC,9998,0,Unapportioned,One Nation,ON,N,N,168,0,0,0,0,168
+NSW,105,Bennelong,AD,0,22208,AD Ticket Votes,The Greens,GRN,N,N,668,0,0,0,0,668
 NSW,105,Bennelong,AD,1,21147,"RHIANNON, Lee",The Greens,GRN,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,AD,2,21677,"McILROY, Keith",The Greens,GRN,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,AD,3,21152,"JEGATHEESWARAN, Brami",The Greens,GRN,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,AD,4,21160,"SWIFT, Harriett",The Greens,GRN,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,AD,5,21163,"MORRISSEY, Simone",The Greens,GRN,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,AD,6,21169,"KANAK, Dominic Wy",The Greens,GRN,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,AD,9998,0,Unapportioned,The Greens,GRN,N,N,8018,0,0,0,0,8018
-NSW,105,Bennelong,AE,0,22234,AE Ticket Votes,,,N,N,2,0,0,0,0,2
+NSW,105,Bennelong,AD,9998,0,Unapportioned,The Greens,GRN,N,N,7445,0,0,0,0,7445
+NSW,105,Bennelong,AE,0,22234,AE Ticket Votes,,,N,N,15,0,0,0,0,15
 NSW,105,Bennelong,AE,1,22202,"KERNOT, Cheryl",,,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,AE,2,22201,"CANT, Simon",,,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,AE,9998,0,Unapportioned,,,N,N,153,0,0,0,0,153
-NSW,105,Bennelong,AF,0,22229,AF Ticket Votes,Liberal Democrats (LDP),LDP,N,N,8,0,0,0,0,8
+NSW,105,Bennelong,AE,9998,0,Unapportioned,,,N,N,143,0,0,0,0,143
+NSW,105,Bennelong,AF,0,22229,AF Ticket Votes,Liberal Democrats (LDP),LDP,N,N,108,0,0,0,0,108
 NSW,105,Bennelong,AF,1,22006,"DRUERY, Glenn",Liberal Democrats (LDP),LDP,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,AF,2,22008,"GABB, Lucy",Liberal Democrats (LDP),LDP,N,N,0,0,0,0,0,0
 NSW,105,Bennelong,AF,3,22010,"STITT, Peter",Liberal Democrats (LDP),LDP,N,N,0,0,0,0,0,0
-NSW,105,Bennelong,AF,9998,0,Unapportioned,Liberal Democrats (LDP),LDP,N,N,1067,0,0,0,0,1067
+NSW,105,Bennelong,AF,9998,0,Unapportioned,Liberal Democrats (LDP),LDP,N,N,973,0,0,0,0,973
 NSW,105,Bennelong,UG,1,22011,"RICHARDSON, Hamish",Independent,IND,N,N,7,0,0,0,0,7
 NSW,105,Bennelong,UG,2,22014,"HOOPER, Norman H Joseph",Independent,IND,N,N,2,0,0,0,0,2
 NSW,105,Bennelong,UG,3,21903,"SCOTT-IRVING, Stewart",Independent,IND,N,N,0,0,0,0,0,0
@@ -774,149 +774,149 @@ NSW,107,Blaxland,UG,2,22014,"HOOPER, Norman H Joseph",Independent,IND,N,N,0,0,0,
 NSW,107,Blaxland,UG,3,21903,"SCOTT-IRVING, Stewart",Independent,IND,N,N,0,0,0,0,0,0
 NSW,107,Blaxland,UG,4,21268,"PAPE, Bryan",Independent,IND,N,N,1,0,0,0,0,1
 NSW,107,Blaxland,UG,5,21937,"WHALAN, Andrew",Independent,IND,N,N,1,0,0,0,0,1
-NSW,108,Bradfield,A,0,22214,A Ticket Votes,Socialist Alliance,SAL,N,N,7,0,0,0,0,7
+NSW,108,Bradfield,A,0,22214,A Ticket Votes,Socialist Alliance,SAL,N,N,32,0,0,0,0,32
 NSW,108,Bradfield,A,1,21446,"EVANS, Rachel",Socialist Alliance,SAL,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,A,2,21449,"ISKANDER, Soubhi",Socialist Alliance,SAL,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,A,9998,0,Unapportioned,Socialist Alliance,SAL,N,N,291,0,0,0,0,291
-NSW,108,Bradfield,B,0,22230,B Ticket Votes,,,N,N,0,0,0,0,0,0
+NSW,108,Bradfield,A,9998,0,Unapportioned,Socialist Alliance,SAL,N,N,268,0,0,0,0,268
+NSW,108,Bradfield,B,0,22230,B Ticket Votes,,,N,N,2,0,0,0,0,2
 NSW,108,Bradfield,B,1,22023,"HODGES, Robert",,,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,B,2,22024,"FRIER, Bob",,,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,B,9998,0,Unapportioned,,,N,N,13,0,0,0,0,13
-NSW,108,Bradfield,C,0,22224,C Ticket Votes,,,N,N,0,0,0,0,0,0
+NSW,108,Bradfield,B,9998,0,Unapportioned,,,N,N,11,0,0,0,0,11
+NSW,108,Bradfield,C,0,22224,C Ticket Votes,,,N,N,1,0,0,0,0,1
 NSW,108,Bradfield,C,1,21904,"ROBINSON, Tony",,,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,C,2,21907,"SELBY, Noel",,,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,C,9998,0,Unapportioned,,,N,N,10,0,0,0,0,10
-NSW,108,Bradfield,D,0,22215,D Ticket Votes,,,N,N,0,0,0,0,0,0
+NSW,108,Bradfield,C,9998,0,Unapportioned,,,N,N,9,0,0,0,0,9
+NSW,108,Bradfield,D,0,22215,D Ticket Votes,,,N,N,1,0,0,0,0,1
 NSW,108,Bradfield,D,1,21429,"HODGES, Darrin",,,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,D,2,21430,"FOLKES, Nick",,,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,D,9998,0,Unapportioned,,,N,N,17,0,0,0,0,17
-NSW,108,Bradfield,E,0,22220,E Ticket Votes,Building Australia,BAP,N,N,2,0,0,0,0,2
+NSW,108,Bradfield,D,9998,0,Unapportioned,,,N,N,16,0,0,0,0,16
+NSW,108,Bradfield,E,0,22220,E Ticket Votes,Building Australia,BAP,N,N,12,0,0,0,0,12
 NSW,108,Bradfield,E,1,21798,"BROWN, Ray",Building Australia,BAP,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,E,2,21799,"O'DONNELL, Michael",Building Australia,BAP,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,E,9998,0,Unapportioned,Building Australia,BAP,N,N,87,0,0,0,0,87
-NSW,108,Bradfield,F,0,22212,F Ticket Votes,Senator On-Line,SOL,N,N,0,0,0,0,0,0
+NSW,108,Bradfield,E,9998,0,Unapportioned,Building Australia,BAP,N,N,77,0,0,0,0,77
+NSW,108,Bradfield,F,0,22212,F Ticket Votes,Senator On-Line,SOL,N,N,6,0,0,0,0,6
 NSW,108,Bradfield,F,1,21465,"BAS, Wes",Senator On-Line,SOL,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,F,2,21470,"ROACH, Brianna",Senator On-Line,SOL,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,F,9998,0,Unapportioned,Senator On-Line,SOL,N,N,68,0,0,0,0,68
-NSW,108,Bradfield,G,0,22222,G Ticket Votes,Communist,CAL,N,N,1,0,0,0,0,1
+NSW,108,Bradfield,F,9998,0,Unapportioned,Senator On-Line,SOL,N,N,62,0,0,0,0,62
+NSW,108,Bradfield,G,0,22222,G Ticket Votes,Communist,CAL,N,N,17,0,0,0,0,17
 NSW,108,Bradfield,G,1,21787,"LAWLER, Geoff",Communist,CAL,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,G,2,21789,"KELLAWAY, Brenda Anne",Communist,CAL,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,G,9998,0,Unapportioned,Communist,CAL,N,N,121,0,0,0,0,121
+NSW,108,Bradfield,G,9998,0,Unapportioned,Communist,CAL,N,N,108,0,0,0,0,108
 NSW,108,Bradfield,H,0,22233,H Ticket Votes,,,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,H,1,22021,"BLOOM, Nadia",,,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,H,2,22022,"IRELAND, Bede",,,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,H,9998,0,Unapportioned,,,N,N,21,0,0,0,0,21
-NSW,108,Bradfield,I,0,22211,I Ticket Votes,Citizens Electoral Council of Australia,CEC,N,N,0,0,0,0,0,0
+NSW,108,Bradfield,I,0,22211,I Ticket Votes,Citizens Electoral Council of Australia,CEC,N,N,11,0,0,0,0,11
 NSW,108,Bradfield,I,1,21031,"BUTLER, Robert H",Citizens Electoral Council of Australia,CEC,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,I,2,21037,"McCAFFREY, Ian David",Citizens Electoral Council of Australia,CEC,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,I,9998,0,Unapportioned,Citizens Electoral Council of Australia,CEC,N,N,45,0,0,0,0,45
-NSW,108,Bradfield,J,0,22219,J Ticket Votes,Australian Democrats,DEM,N,N,10,0,0,0,0,10
+NSW,108,Bradfield,I,9998,0,Unapportioned,Citizens Electoral Council of Australia,CEC,N,N,34,0,0,0,0,34
+NSW,108,Bradfield,J,0,22219,J Ticket Votes,Australian Democrats,DEM,N,N,41,0,0,0,0,41
 NSW,108,Bradfield,J,1,21733,"CLANCY, Fiona",Australian Democrats,DEM,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,J,2,21736,"MITCHELL, Jen",Australian Democrats,DEM,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,J,9998,0,Unapportioned,Australian Democrats,DEM,N,N,433,0,0,0,0,433
-NSW,108,Bradfield,K,0,22218,K Ticket Votes,,,N,N,0,0,0,0,0,0
+NSW,108,Bradfield,J,9998,0,Unapportioned,Australian Democrats,DEM,N,N,402,0,0,0,0,402
+NSW,108,Bradfield,K,0,22218,K Ticket Votes,,,N,N,1,0,0,0,0,1
 NSW,108,Bradfield,K,1,21714,"SAMPSON, Meg",,,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,K,2,21718,"HINCHCLIFFE, J",,,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,K,9998,0,Unapportioned,,,N,N,14,0,0,0,0,14
-NSW,108,Bradfield,L,0,22232,L Ticket Votes,,,N,N,0,0,0,0,0,0
+NSW,108,Bradfield,K,9998,0,Unapportioned,,,N,N,13,0,0,0,0,13
+NSW,108,Bradfield,L,0,22232,L Ticket Votes,,,N,N,1,0,0,0,0,1
 NSW,108,Bradfield,L,1,22019,"BELGRAVE, Leon Adrian",,,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,L,2,22020,"BEREGSZASZI, Janos",,,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,L,9998,0,Unapportioned,,,N,N,5,0,0,0,0,5
-NSW,108,Bradfield,M,0,22207,M Ticket Votes,The Climate Sceptics,TCS,N,N,1,0,0,0,0,1
+NSW,108,Bradfield,L,9998,0,Unapportioned,,,N,N,4,0,0,0,0,4
+NSW,108,Bradfield,M,0,22207,M Ticket Votes,The Climate Sceptics,TCS,N,N,16,0,0,0,0,16
 NSW,108,Bradfield,M,1,21127,"KOUTALIANOS, Bill",The Climate Sceptics,TCS,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,M,2,21134,"BROWN, Geoffrey",The Climate Sceptics,TCS,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,M,9998,0,Unapportioned,The Climate Sceptics,TCS,N,N,176,0,0,0,0,176
-NSW,108,Bradfield,N,0,22213,N Ticket Votes,Secular Party of Australia,SPA,N,N,3,0,0,0,0,3
+NSW,108,Bradfield,M,9998,0,Unapportioned,The Climate Sceptics,TCS,N,N,161,0,0,0,0,161
+NSW,108,Bradfield,N,0,22213,N Ticket Votes,Secular Party of Australia,SPA,N,N,8,0,0,0,0,8
 NSW,108,Bradfield,N,1,21229,"BRYCE, Ian",Secular Party of Australia,SPA,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,N,2,21233,"WARREN, Lyle Richard",Secular Party of Australia,SPA,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,N,9998,0,Unapportioned,Secular Party of Australia,SPA,N,N,79,0,0,0,0,79
-NSW,108,Bradfield,O,0,22216,O Ticket Votes,Shooters and Fishers,ASP,N,N,22,0,0,0,0,22
+NSW,108,Bradfield,N,9998,0,Unapportioned,Secular Party of Australia,SPA,N,N,74,0,0,0,0,74
+NSW,108,Bradfield,O,0,22216,O Ticket Votes,Shooters and Fishers,ASP,N,N,71,0,0,0,0,71
 NSW,108,Bradfield,O,1,21451,"MUIRHEAD, Jim Gerard",Shooters and Fishers,ASP,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,O,2,21455,"McGLASHAN, Alistair David",Shooters and Fishers,ASP,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,O,9998,0,Unapportioned,Shooters and Fishers,ASP,N,N,574,0,0,0,0,574
-NSW,108,Bradfield,P,0,22226,P Ticket Votes,Democratic Labor Party (DLP) of Australia,DLP,N,N,13,0,0,0,0,13
+NSW,108,Bradfield,O,9998,0,Unapportioned,Shooters and Fishers,ASP,N,N,526,0,0,0,0,526
+NSW,108,Bradfield,P,0,22226,P Ticket Votes,Democratic Labor Party (DLP) of Australia,DLP,N,N,44,0,0,0,0,44
 NSW,108,Bradfield,P,1,22015,"McCAFFREY, Simon Thomas",Democratic Labor Party (DLP) of Australia,DLP,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,P,2,22016,"CULLEN, Martin",Democratic Labor Party (DLP) of Australia,DLP,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,P,9998,0,Unapportioned,Democratic Labor Party (DLP) of Australia,DLP,N,N,249,0,0,0,0,249
-NSW,108,Bradfield,Q,0,22203,Q Ticket Votes,Australian Sex Party,ASXP,N,N,30,0,0,0,0,30
+NSW,108,Bradfield,P,9998,0,Unapportioned,Democratic Labor Party (DLP) of Australia,DLP,N,N,218,0,0,0,0,218
+NSW,108,Bradfield,Q,0,22203,Q Ticket Votes,Australian Sex Party,ASXP,N,N,177,0,0,0,0,177
 NSW,108,Bradfield,Q,1,20841,"LEISHMAN, Marianne",Australian Sex Party,ASXP,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,Q,2,20947,"CAMPBELL, Huw",Australian Sex Party,ASXP,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,Q,3,20949,"ZIMMERMAN, Larissa",Australian Sex Party,ASXP,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,Q,9998,0,Unapportioned,Australian Sex Party,ASXP,N,N,1298,0,0,0,0,1298
-NSW,108,Bradfield,R,0,22227,R Ticket Votes,,,N,N,0,0,0,0,0,0
+NSW,108,Bradfield,Q,9998,0,Unapportioned,Australian Sex Party,ASXP,N,N,1151,0,0,0,0,1151
+NSW,108,Bradfield,R,0,22227,R Ticket Votes,,,N,N,1,0,0,0,0,1
 NSW,108,Bradfield,R,1,21993,"BARKER, David",,,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,R,2,21994,"ZUREIK, S G",,,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,R,9998,0,Unapportioned,,,N,N,63,0,0,0,0,63
-NSW,108,Bradfield,S,0,22204,S Ticket Votes,Socialist Equality Party,SEP,N,N,2,0,0,0,0,2
+NSW,108,Bradfield,S,0,22204,S Ticket Votes,Socialist Equality Party,SEP,N,N,4,0,0,0,0,4
 NSW,108,Bradfield,S,1,20978,"BEAMS, Nick",Socialist Equality Party,SEP,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,S,2,20981,"ZABALA, Gabriela",Socialist Equality Party,SEP,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,S,9998,0,Unapportioned,Socialist Equality Party,SEP,N,N,28,0,0,0,0,28
-NSW,108,Bradfield,T,0,22223,T Ticket Votes,,,N,N,0,0,0,0,0,0
+NSW,108,Bradfield,S,9998,0,Unapportioned,Socialist Equality Party,SEP,N,N,27,0,0,0,0,27
+NSW,108,Bradfield,T,0,22223,T Ticket Votes,,,N,N,16,0,0,0,0,16
 NSW,108,Bradfield,T,1,21908,"BOURKE, William",,,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,T,2,21910,"O'CONNOR, Mark",,,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,T,9998,0,Unapportioned,,,N,N,72,0,0,0,0,72
-NSW,108,Bradfield,U,0,22217,U Ticket Votes,Non-Custodial Parents Party (Equal Parenting),NCP,N,N,0,0,0,0,0,0
+NSW,108,Bradfield,T,9998,0,Unapportioned,,,N,N,56,0,0,0,0,56
+NSW,108,Bradfield,U,0,22217,U Ticket Votes,Non-Custodial Parents Party (Equal Parenting),NCP,N,N,2,0,0,0,0,2
 NSW,108,Bradfield,U,1,21413,"THOMPSON, Andy",Non-Custodial Parents Party (Equal Parenting),NCP,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,U,2,21420,"FOSTER, Roland",Non-Custodial Parents Party (Equal Parenting),NCP,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,U,9998,0,Unapportioned,Non-Custodial Parents Party (Equal Parenting),NCP,N,N,28,0,0,0,0,28
-NSW,108,Bradfield,V,0,22209,V Ticket Votes,Family First,FFP,N,N,10,0,0,0,0,10
+NSW,108,Bradfield,U,9998,0,Unapportioned,Non-Custodial Parents Party (Equal Parenting),NCP,N,N,27,0,0,0,0,27
+NSW,108,Bradfield,V,0,22209,V Ticket Votes,Family First,FFP,N,N,58,0,0,0,0,58
 NSW,108,Bradfield,V,1,21178,"SWANE, Greg",Family First,FFP,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,V,2,21182,"LAMB, Phil",Family First,FFP,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,V,9998,0,Unapportioned,Family First,FFP,N,N,401,0,0,0,0,401
-NSW,108,Bradfield,W,0,22206,W Ticket Votes,Labor,ALP,N,N,401,0,0,0,0,401
+NSW,108,Bradfield,V,9998,0,Unapportioned,Family First,FFP,N,N,360,0,0,0,0,360
+NSW,108,Bradfield,W,0,22206,W Ticket Votes,Labor,ALP,N,N,1829,0,0,0,0,1829
 NSW,108,Bradfield,W,1,21012,"FAULKNER, John",Labor,ALP,N,Y,0,0,0,0,0,0
 NSW,108,Bradfield,W,2,21016,"THISTLETHWAITE, Matthew",Labor,ALP,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,W,3,21018,"HUTCHINS, Steve",Labor,ALP,N,Y,0,0,0,0,0,0
 NSW,108,Bradfield,W,4,21020,"MURNAIN, Anne",Labor,ALP,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,W,5,21022,"SEATON, Fiona",Labor,ALP,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,W,6,21025,"McDERMOTT, Hugh",Labor,ALP,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,W,9998,0,Unapportioned,Labor,ALP,N,N,12927,0,0,0,0,12927
-NSW,108,Bradfield,X,0,22231,X Ticket Votes,,,N,N,0,0,0,0,0,0
+NSW,108,Bradfield,W,9998,0,Unapportioned,Labor,ALP,N,N,11499,0,0,0,0,11499
+NSW,108,Bradfield,X,0,22231,X Ticket Votes,,,N,N,1,0,0,0,0,1
 NSW,108,Bradfield,X,1,21995,"STEFANAC, Jennifer",,,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,X,2,21997,"COOLEY, Tucky Tania",,,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,X,9998,0,Unapportioned,,,N,N,16,0,0,0,0,16
-NSW,108,Bradfield,Y,0,22228,Y Ticket Votes,Carers Alliance,CA,N,N,2,0,0,0,0,2
+NSW,108,Bradfield,Y,0,22228,Y Ticket Votes,Carers Alliance,CA,N,N,17,0,0,0,0,17
 NSW,108,Bradfield,Y,1,21984,"CARTER, Marylou",Carers Alliance,CA,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,Y,2,21986,"BUCKWALTER, Maree",Carers Alliance,CA,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,Y,9998,0,Unapportioned,Carers Alliance,CA,N,N,344,0,0,0,0,344
-NSW,108,Bradfield,Z,0,22205,Z Ticket Votes,Christian Democratic Party (Fred Nile Group),CDP,N,N,24,0,0,0,0,24
+NSW,108,Bradfield,Y,9998,0,Unapportioned,Carers Alliance,CA,N,N,329,0,0,0,0,329
+NSW,108,Bradfield,Z,0,22205,Z Ticket Votes,Christian Democratic Party (Fred Nile Group),CDP,N,N,152,0,0,0,0,152
 NSW,108,Bradfield,Z,1,20990,"GREEN, Paul",Christian Democratic Party (Fred Nile Group),CDP,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,Z,2,20992,"PEEBLES, Robyn",Christian Democratic Party (Fred Nile Group),CDP,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,Z,3,20994,"NILE, Elaine",Christian Democratic Party (Fred Nile Group),CDP,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,Z,9998,0,Unapportioned,Christian Democratic Party (Fred Nile Group),CDP,N,N,1051,0,0,0,0,1051
-NSW,108,Bradfield,AA,0,22210,AA Ticket Votes,Liberal/Nationals,LNP,N,N,558,0,0,0,0,558
+NSW,108,Bradfield,Z,9998,0,Unapportioned,Christian Democratic Party (Fred Nile Group),CDP,N,N,924,0,0,0,0,924
+NSW,108,Bradfield,AA,0,22210,AA Ticket Votes,Liberal/Nationals,LNP,N,N,3958,0,0,0,0,3958
 NSW,108,Bradfield,AA,1,21762,"FIERRAVANTI-WELLS, Concetta",Liberal,LP,N,Y,0,0,0,0,0,0
 NSW,108,Bradfield,AA,2,21766,"HEFFERNAN, William",Liberal,LP,N,Y,0,0,0,0,0,0
 NSW,108,Bradfield,AA,3,21768,"NASH, Fiona",The Nationals,NP,N,Y,0,0,0,0,0,0
 NSW,108,Bradfield,AA,4,21771,"HUGHES, Hollie",Liberal,LP,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,AA,5,21774,"DENNIS, Joe",The Nationals,NP,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,AA,6,21776,"BILIC, George",Liberal,LP,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,AA,9998,0,Unapportioned,Liberal/Nationals,LNP,N,N,40158,0,0,0,0,40158
-NSW,108,Bradfield,AB,0,22221,AB Ticket Votes,,,N,N,0,0,0,0,0,0
+NSW,108,Bradfield,AA,9998,0,Unapportioned,Liberal/Nationals,LNP,N,N,36758,0,0,0,0,36758
+NSW,108,Bradfield,AB,0,22221,AB Ticket Votes,,,N,N,4,0,0,0,0,4
 NSW,108,Bradfield,AB,1,21901,"ECKFORD, Michael",,,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,AB,2,21902,"STEVENS, Criselee",,,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,AB,9998,0,Unapportioned,,,N,N,192,0,0,0,0,192
-NSW,108,Bradfield,AC,0,22225,AC Ticket Votes,One Nation,ON,N,N,4,0,0,0,0,4
+NSW,108,Bradfield,AB,9998,0,Unapportioned,,,N,N,188,0,0,0,0,188
+NSW,108,Bradfield,AC,0,22225,AC Ticket Votes,One Nation,ON,N,N,20,0,0,0,0,20
 NSW,108,Bradfield,AC,1,21824,"WEBBER, Andrew",One Nation,ON,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,AC,2,21827,"BRETT, John",One Nation,ON,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,AC,9998,0,Unapportioned,One Nation,ON,N,N,145,0,0,0,0,145
-NSW,108,Bradfield,AD,0,22208,AD Ticket Votes,The Greens,GRN,N,N,203,0,0,0,0,203
+NSW,108,Bradfield,AC,9998,0,Unapportioned,One Nation,ON,N,N,129,0,0,0,0,129
+NSW,108,Bradfield,AD,0,22208,AD Ticket Votes,The Greens,GRN,N,N,1129,0,0,0,0,1129
 NSW,108,Bradfield,AD,1,21147,"RHIANNON, Lee",The Greens,GRN,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,AD,2,21677,"McILROY, Keith",The Greens,GRN,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,AD,3,21152,"JEGATHEESWARAN, Brami",The Greens,GRN,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,AD,4,21160,"SWIFT, Harriett",The Greens,GRN,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,AD,5,21163,"MORRISSEY, Simone",The Greens,GRN,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,AD,6,21169,"KANAK, Dominic Wy",The Greens,GRN,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,AD,9998,0,Unapportioned,The Greens,GRN,N,N,9731,0,0,0,0,9731
-NSW,108,Bradfield,AE,0,22234,AE Ticket Votes,,,N,N,2,0,0,0,0,2
+NSW,108,Bradfield,AD,9998,0,Unapportioned,The Greens,GRN,N,N,8805,0,0,0,0,8805
+NSW,108,Bradfield,AE,0,22234,AE Ticket Votes,,,N,N,11,0,0,0,0,11
 NSW,108,Bradfield,AE,1,22202,"KERNOT, Cheryl",,,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,AE,2,22201,"CANT, Simon",,,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,AE,9998,0,Unapportioned,,,N,N,249,0,0,0,0,249
-NSW,108,Bradfield,AF,0,22229,AF Ticket Votes,Liberal Democrats (LDP),LDP,N,N,35,0,0,0,0,35
+NSW,108,Bradfield,AE,9998,0,Unapportioned,,,N,N,240,0,0,0,0,240
+NSW,108,Bradfield,AF,0,22229,AF Ticket Votes,Liberal Democrats (LDP),LDP,N,N,209,0,0,0,0,209
 NSW,108,Bradfield,AF,1,22006,"DRUERY, Glenn",Liberal Democrats (LDP),LDP,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,AF,2,22008,"GABB, Lucy",Liberal Democrats (LDP),LDP,N,N,0,0,0,0,0,0
 NSW,108,Bradfield,AF,3,22010,"STITT, Peter",Liberal Democrats (LDP),LDP,N,N,0,0,0,0,0,0
-NSW,108,Bradfield,AF,9998,0,Unapportioned,Liberal Democrats (LDP),LDP,N,N,1711,0,0,0,0,1711
+NSW,108,Bradfield,AF,9998,0,Unapportioned,Liberal Democrats (LDP),LDP,N,N,1546,0,0,0,0,1546
 NSW,108,Bradfield,UG,1,22011,"RICHARDSON, Hamish",Independent,IND,N,N,13,0,0,0,0,13
 NSW,108,Bradfield,UG,2,22014,"HOOPER, Norman H Joseph",Independent,IND,N,N,1,0,0,0,0,1
 NSW,108,Bradfield,UG,3,21903,"SCOTT-IRVING, Stewart",Independent,IND,N,N,0,0,0,0,0,0
