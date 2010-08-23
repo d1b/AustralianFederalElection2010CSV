@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T13:28:30 Cycle:b73a562e-4b02-4ccb-bc0c-bbda697864a3 Created:2010-08-23T13:09:09 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T13:43:47 Cycle:879389ef-d1c3-42f0-8bbe-8cf4ca68057a Created:2010-08-23T13:24:09 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -436,7 +436,7 @@ NSW,109,Calare,256,Hill End,38,52.05,35,47.95,73,-12.89
 NSW,109,Calare,260,Kelso,1129,42.99,1497,57.01,2626,-9.89
 NSW,109,Calare,262,Lithgow,818,59.45,558,40.55,1376,-9.93
 NSW,109,Calare,263,Lithgow Hospital,73,59.35,50,40.65,123,-8.24
-NSW,109,Calare,33864,Lithgow PPVC,0,0,0,0,0,-46.25
+NSW,109,Calare,33864,Lithgow PPVC,951,57.71,697,42.29,1648,11.46
 NSW,109,Calare,264,Littleton,249,55.46,200,44.54,449,-12.61
 NSW,109,Calare,265,Lucknow,68,28.22,173,71.78,241,-10.6
 NSW,109,Calare,267,Lyndhurst,55,25.82,158,74.18,213,-14.39
@@ -3544,7 +3544,7 @@ QLD,252,Dickson,5506,Petrie,1128,44.96,1381,55.04,2509,-9.18
 QLD,252,Dickson,6522,Samford,1491,37.54,2481,62.46,3972,-4.88
 QLD,252,Dickson,32609,Special Hospital Team 1,0,0,0,0,0,-46.07
 QLD,252,Dickson,5509,Strathpine,1293,52.01,1193,47.99,2486,-7.06
-QLD,252,Dickson,46594,Strathpine DICKSON PPVC,2020,43.72,2600,56.28,4620,-5.08
+QLD,252,Dickson,46594,Strathpine DICKSON PPVC,2019,43.72,2599,56.28,4618,-5.08
 QLD,252,Dickson,5511,Strathpine West,978,53.8,840,46.2,1818,-7.89
 QLD,252,Dickson,32542,Warner,1339,39.99,2009,60.01,3348,-5.84
 QLD,159,Fadden,6253,Alberton,81,21.72,292,78.28,373,-10.87
@@ -4884,7 +4884,7 @@ QLD,316,Wright,6469,Peak Crossing (Wright),226,37.17,382,62.83,608,-4.34
 QLD,316,Wright,6286,Rathdowney,92,23.9,293,76.1,385,-16.27
 QLD,316,Wright,6474,Roadvale,122,30.42,279,69.58,401,-10.33
 QLD,316,Wright,58507,Special Hospital Team 1,25,27.17,67,72.83,92,-23.19
-QLD,316,Wright,58508,Special Hospital Team 2,0,0,0,0,0,-50.46
+QLD,316,Wright,58508,Special Hospital Team 2,15,22.73,51,77.27,66,-27.73
 QLD,316,Wright,58509,Special Hospital Team 3,0,0,0,0,0,-50.46
 QLD,316,Wright,58510,Special Hospital Team 4,0,0,0,0,0,-50
 QLD,316,Wright,6098,Springbrook,167,61.4,105,38.6,272,4.36
@@ -4953,9 +4953,9 @@ SA,179,Adelaide,6682,Prospect South,905,54.82,746,45.18,1651,0.83
 SA,179,Adelaide,7077,Renown Park,1096,74.97,366,25.03,1462,1.63
 SA,179,Adelaide,6888,Rose Park,786,43.19,1034,56.81,1820,0.93
 SA,179,Adelaide,33202,Special Hospital Team 1,30,34.88,56,65.12,86,-10.12
-SA,179,Adelaide,33203,Special Hospital Team 2,0,0,0,0,0,-45.33
+SA,179,Adelaide,33203,Special Hospital Team 2,26,49.06,27,50.94,53,3.73
 SA,179,Adelaide,33205,Special Hospital Team 3,0,0,0,0,0,-45.29
-SA,179,Adelaide,33206,Special Hospital Team 4,0,0,0,0,0,-45.11
+SA,179,Adelaide,33206,Special Hospital Team 4,43,38.39,69,61.61,112,-6.72
 SA,179,Adelaide,33207,Special Hospital Team 5,0,0,0,0,0,-44.44
 SA,179,Adelaide,38420,Special Hospital Team 6,0,0,0,0,0,-45.21
 SA,179,Adelaide,6684,St Peters,512,48.17,551,51.83,1063,0.88
@@ -5516,13 +5516,13 @@ SA,189,Port Adelaide,12084,Croydon Park West (Port Adelaide),187,57.01,141,42.99
 SA,189,Port Adelaide,30180,Divisional Office (PREPOLL),0,0,0,0,0,0
 SA,189,Port Adelaide,7253,Ethelton,632,65.9,327,34.1,959,-4.76
 SA,189,Port Adelaide,7254,Ferryden Park,1107,75.46,360,24.54,1467,-0.19
-SA,189,Port Adelaide,7057,Findon,1343,67.73,640,32.27,1983,-0.34
+SA,189,Port Adelaide,7057,Findon,1339,67.63,641,32.37,1980,-0.44
 SA,189,Port Adelaide,7255,Kilkenny,746,67.7,356,32.3,1102,-3.04
 SA,189,Port Adelaide,7256,Largs Bay,2176,70.86,895,29.14,3071,-0.6
 SA,189,Port Adelaide,31429,Largs Bay Central,225,65.41,119,34.59,344,-0.99
 SA,189,Port Adelaide,33098,Mansfield Park,917,79.53,236,20.47,1153,1.24
 SA,189,Port Adelaide,38234,Mawson Lakes,1931,54.18,1633,45.82,3564,3.26
-SA,189,Port Adelaide,7259,North Haven,1230,63.4,710,36.6,1940,-2.52
+SA,189,Port Adelaide,7259,North Haven,1229,63.38,710,36.62,1939,-2.54
 SA,189,Port Adelaide,7264,Ottoway,1106,77.34,324,22.66,1430,-1.58
 SA,189,Port Adelaide,6838,Parafield Gardens,1504,73.4,545,26.6,2049,0.39
 SA,189,Port Adelaide,6839,Parafield Gardens Central,2612,75.14,864,24.86,3476,0.59
