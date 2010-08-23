@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T13:59:15 Cycle:3c58c3e5-ae84-4642-b1d5-44b281ffda10 Created:2010-08-23T13:39:14 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T14:14:37 Cycle:164c3ed3-4b2f-4737-a2a1-e35c1966deab Created:2010-08-23T13:54:20 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -329,8 +329,8 @@ NSW,107,Blaxland,56671,Merrylands (Blaxland),153,43.97,195,56.03,348,-16.13
 NSW,107,Blaxland,2349,Old Guildford,399,55.42,321,44.58,720,-10.33
 NSW,107,Blaxland,2391,Regents Park,904,67.61,433,32.39,1337,-4.16
 NSW,107,Blaxland,2393,Sefton,1277,63.41,737,36.59,2014,-1.59
-NSW,107,Blaxland,33600,Special Hospital Team 1,0,0,0,0,0,-53.62
-NSW,107,Blaxland,33723,Special Hospital Team 2,0,0,0,0,0,-54.84
+NSW,107,Blaxland,33600,Special Hospital Team 1,40,47.62,44,52.38,84,-6
+NSW,107,Blaxland,33723,Special Hospital Team 2,38,63.33,22,36.67,60,8.49
 NSW,107,Blaxland,32339,Sydney (Blaxland),46,61.33,29,38.67,75,-8.11
 NSW,107,Blaxland,2358,Villawood,1140,71.03,465,28.97,1605,-1.99
 NSW,107,Blaxland,2396,Villawood East,781,72.79,292,27.21,1073,-3.83
@@ -2431,7 +2431,7 @@ NSW,249,Paterson,31510,North Arm Cove,100,39.06,156,60.94,256,-1.71
 NSW,249,Paterson,1626,Pacific Palms,432,49.48,441,50.52,873,-1.6
 NSW,249,Paterson,1403,Paterson Central,183,45.98,215,54.02,398,-6.34
 NSW,249,Paterson,1628,Raymond Terrace,787,54.16,666,45.84,1453,-6.15
-NSW,249,Paterson,1629,Raymond Terrace Central,680,49.93,682,50.07,1362,-5.03
+NSW,249,Paterson,1629,Raymond Terrace Central,670,49.23,691,50.77,1361,-5.73
 NSW,249,Paterson,1630,Raymond Terrace East,790,54,673,46,1463,-5.53
 NSW,249,Paterson,1407,Raymond Terrace North,708,57.14,531,42.86,1239,-5.6
 NSW,249,Paterson,33890,Raymond Terrace PPVC,891,44.84,1096,55.16,1987,-0.35
@@ -2457,7 +2457,7 @@ NSW,249,Paterson,1426,Vacy,155,34.22,298,65.78,453,-10.12
 NSW,249,Paterson,1652,Wallarobba,43,33.08,87,66.92,130,1.87
 NSW,249,Paterson,1653,Wards River,43,38.39,69,61.61,112,-5.42
 NSW,249,Paterson,31511,Wirreanda Medowie,1095,50,1095,50,2190,-0.27
-NSW,249,Paterson,1431,Woodville,220,43.56,285,56.44,505,-4.79
+NSW,249,Paterson,1431,Woodville,220,43.82,282,56.18,502,-4.53
 NSW,249,Paterson,1658,Wootton,37,40.66,54,59.34,91,-5.32
 NSW,144,Reid,1515,Abbotsford,1676,47.69,1838,52.31,3514,-5.98
 NSW,144,Reid,2365,Auburn,1321,67.78,628,32.22,1949,-12.83
@@ -3251,7 +3251,7 @@ QLD,310,Bonner,5137,Hemmant,462,62.77,274,37.23,736,-6.71
 QLD,310,Bonner,6317,Holland Park West (Bonner),663,48.39,707,51.61,1370,-4.19
 QLD,310,Bonner,5139,Lindum,710,58.34,507,41.66,1217,-7.92
 QLD,310,Bonner,5140,Lota,873,54.87,718,45.13,1591,-4.21
-QLD,310,Bonner,5143,Manly,481,44.17,608,55.83,1089,-6.04
+QLD,310,Bonner,5143,Manly,479,44.23,604,55.77,1083,-5.98
 QLD,310,Bonner,5144,Manly Central,545,49.05,566,50.95,1111,-5.11
 QLD,310,Bonner,5145,Manly West,1033,49.76,1043,50.24,2076,-5.64
 QLD,310,Bonner,31471,Mansfield,1847,41.99,2552,58.01,4399,-8.07
@@ -3528,7 +3528,7 @@ QLD,252,Dickson,5468,Closeburn,512,36.62,886,63.38,1398,-4.7
 QLD,252,Dickson,32583,Dayboro,792,40.57,1160,59.43,1952,-4.04
 QLD,252,Dickson,30403,Divisional Office (PREPOLL),0,0,0,0,0,-49.15
 QLD,252,Dickson,31507,Eatons Hill,962,35.3,1763,64.7,2725,-7.37
-QLD,252,Dickson,47709,Eatons Hill West,937,40.62,1370,59.38,2307,-2.03
+QLD,252,Dickson,47709,Eatons Hill West,938,40.66,1369,59.34,2307,-1.99
 QLD,252,Dickson,12054,Everton Hills,949,42.84,1266,57.16,2215,-7.41
 QLD,252,Dickson,6505,Ferny Hills,1208,49.53,1231,50.47,2439,-7.9
 QLD,252,Dickson,6506,Ferny Hills North,1632,47.29,1819,52.71,3451,-4.47
@@ -3542,7 +3542,7 @@ QLD,252,Dickson,6517,Mount Nebo,265,76.37,82,23.63,347,-1.25
 QLD,252,Dickson,11998,Murrumba Downs (Dickson),1761,42.63,2370,57.37,4131,-6.24
 QLD,252,Dickson,5506,Petrie,1128,44.96,1381,55.04,2509,-9.18
 QLD,252,Dickson,6522,Samford,1491,37.54,2481,62.46,3972,-4.88
-QLD,252,Dickson,32609,Special Hospital Team 1,0,0,0,0,0,-46.07
+QLD,252,Dickson,32609,Special Hospital Team 1,36,41.38,51,58.62,87,-4.69
 QLD,252,Dickson,5509,Strathpine,1293,52.01,1193,47.99,2486,-7.06
 QLD,252,Dickson,46594,Strathpine DICKSON PPVC,2019,43.72,2599,56.28,4618,-5.08
 QLD,252,Dickson,5511,Strathpine West,978,53.8,840,46.2,1818,-7.89
@@ -3611,7 +3611,7 @@ QLD,160,Fairfax,5432,Kureelpa,105,31.82,225,68.18,330,-12.87
 QLD,160,Fairfax,5493,Mapleton,675,44.58,839,55.42,1514,-5.39
 QLD,160,Fairfax,31504,Maroochydore,998,46.01,1171,53.99,2169,-4.05
 QLD,160,Fairfax,5435,Maroochydore East,1158,46.81,1316,53.19,2474,-2.05
-QLD,160,Fairfax,38294,Maroochydore FAIRFAX PPVC,1400,40.18,2084,59.82,3484,-13.99
+QLD,160,Fairfax,38294,Maroochydore FAIRFAX PPVC,1401,40.15,2088,59.85,3489,-14.02
 QLD,160,Fairfax,55510,Montville (Fairfax),110,46.41,127,53.59,237,-1.27
 QLD,160,Fairfax,58604,Mooloolaba (Fairfax),164,46.86,186,53.14,350,-0.3
 QLD,160,Fairfax,33081,Mount Coolum,1003,51.54,943,48.46,1946,-4
@@ -4313,7 +4313,7 @@ QLD,170,Maranoa,6105,Amby,7,10.45,60,89.55,67,-16.22
 QLD,170,Maranoa,6106,Amiens,53,24.09,167,75.91,220,-14.05
 QLD,170,Maranoa,6108,Applethorpe,142,34.89,265,65.11,407,-12.02
 QLD,170,Maranoa,5806,Aramac,42,21.11,157,78.89,199,-9.92
-QLD,170,Maranoa,6109,Augathella,66,26.4,184,73.6,250,-13.24
+QLD,170,Maranoa,6109,Augathella,65,26,185,74,250,-13.64
 QLD,170,Maranoa,6110,Ballandean,118,41.55,166,58.45,284,-0.48
 QLD,170,Maranoa,5809,Barcaldine,312,41.6,438,58.4,750,-14.03
 QLD,170,Maranoa,31635,Bedourie,4,10.81,33,89.19,37,-24.9
@@ -4358,7 +4358,7 @@ QLD,170,Maranoa,30161,Divisional Office (PREPOLL),205,25.25,607,74.75,812,-36.01
 QLD,170,Maranoa,6148,Drillham,9,11.11,72,88.89,81,-2.89
 QLD,170,Maranoa,6150,Dulacca,7,7,93,93,100,-0.87
 QLD,170,Maranoa,31634,Eukey,65,42.21,89,57.79,154,-7.47
-QLD,170,Maranoa,6153,Eulo,7,18.92,30,81.08,37,-2.65
+QLD,170,Maranoa,6153,Eulo,8,21.62,29,78.38,37,0.05
 QLD,170,Maranoa,6154,Eumamurrin,0,0,38,100,38,-1.72
 QLD,170,Maranoa,6158,Glen Aplin,89,27.99,229,72.01,318,-10.3
 QLD,170,Maranoa,6444,Goomburra,16,10.13,142,89.87,158,-12.57
@@ -4445,7 +4445,7 @@ QLD,170,Maranoa,6222,Stanthorpe South,129,31.16,285,68.84,414,-11.53
 QLD,170,Maranoa,6221,Stanthorpe West,193,34.59,365,65.41,558,-15.07
 QLD,170,Maranoa,6223,Surat,83,27.85,215,72.15,298,-0.09
 QLD,170,Maranoa,6623,Taabinga,652,33.73,1281,66.27,1933,-4.57
-QLD,170,Maranoa,6224,Talwood,27,23.68,87,76.32,114,-5.38
+QLD,170,Maranoa,6224,Talwood,28,24.56,86,75.44,114,-4.5
 QLD,170,Maranoa,6225,Tambo,48,19.28,201,80.72,249,-9.89
 QLD,170,Maranoa,6226,Tara,282,32.68,581,67.32,863,-5.94
 QLD,170,Maranoa,6228,Texas,155,31.76,333,68.24,488,-9.15
@@ -6562,12 +6562,12 @@ VIC,209,Deakin,3578,Springview,782,53.56,678,46.44,1460,1.73
 VIC,209,Deakin,3580,Tally Ho (Deakin),1042,56.14,814,43.86,1856,1.7
 VIC,209,Deakin,4910,Tinternvale,1038,51.69,970,48.31,2008,3.88
 VIC,209,Deakin,3583,Vermont North,631,48.95,658,51.05,1289,-0.52
-VIC,210,Dunkley,3587,Aldercourt,1048,66.71,523,33.29,1571,1.18
-VIC,210,Dunkley,3588,Baden Powell,670,36.39,1171,63.61,1841,1.27
+VIC,210,Dunkley,3587,Aldercourt,1057,67.37,512,32.63,1569,1.84
+VIC,210,Dunkley,3588,Baden Powell,670,36.61,1160,63.39,1830,1.49
 VIC,210,Dunkley,3589,Ballam Park,737,57,556,43,1293,2.58
-VIC,210,Dunkley,35287,Baxter (Dunkley),293,42.9,390,57.1,683,11.17
-VIC,210,Dunkley,31462,Belvedere Park,1628,59.7,1099,40.3,2727,3.6
-VIC,210,Dunkley,3592,Bruce Park,436,35.48,793,64.52,1229,-11.1
+VIC,210,Dunkley,35287,Baxter (Dunkley),294,43.05,389,56.95,683,11.32
+VIC,210,Dunkley,31462,Belvedere Park,1625,59.68,1098,40.32,2723,3.58
+VIC,210,Dunkley,3592,Bruce Park,636,51.75,593,48.25,1229,5.17
 VIC,210,Dunkley,3593,Derinya,786,39.16,1221,60.84,2007,3.6
 VIC,210,Dunkley,30201,Divisional Office (PREPOLL),980,44.63,1216,55.37,2196,-0.19
 VIC,210,Dunkley,3594,Frankston,763,54.97,625,45.03,1388,5.11
@@ -8744,13 +8744,13 @@ WA,244,Pearce,58476,Northam PPVC,0,0,0,0,0,-42.17
 WA,244,Pearce,7958,Parkerville,498,40.72,725,59.28,1223,-1.54
 WA,244,Pearce,13985,Perth (Pearce),30,42.86,40,57.14,70,-14.59
 WA,244,Pearce,7551,Pickering Brook,91,26.69,250,73.31,341,-0.67
-WA,244,Pearce,34204,Prison Mobile Team 1,0,0,0,0,0,-70
+WA,244,Pearce,34204,Prison Mobile Team 1,11,50,11,50,22,-20
 WA,244,Pearce,7959,Quinns Rocks,937,32.68,1930,67.32,2867,-10.07
 WA,244,Pearce,32266,Rottnest (Pearce),4,28.57,10,71.43,14,-13.1
 WA,244,Pearce,7960,Sawyers Valley,274,42.35,373,57.65,647,0.98
 WA,244,Pearce,7961,Seabird,23,34.85,43,65.15,66,14.3
-WA,244,Pearce,34085,Special Hospital Team 1,0,0,0,0,0,-38.71
-WA,244,Pearce,34196,Special Hospital Team 2,0,0,0,0,0,-40
+WA,244,Pearce,34085,Special Hospital Team 1,21,30,49,70,70,-8.71
+WA,244,Pearce,34196,Special Hospital Team 2,11,39.29,17,60.71,28,-0.71
 WA,244,Pearce,47783,Special Hospital Team 3,0,0,0,0,0,-39.36
 WA,244,Pearce,7962,Stoneville,378,39.66,575,60.34,953,-1.56
 WA,244,Pearce,11901,Stratton,1235,54.67,1024,45.33,2259,3.75
