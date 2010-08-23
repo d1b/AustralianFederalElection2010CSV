@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T15:32:57 Cycle:e3230a40-69e4-4c4f-b22b-9119b7a3593b Created:2010-08-23T15:24:41 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T15:48:35 Cycle:3297cbe6-71a1-45fc-8b7b-9846740b9b27 Created:2010-08-23T15:39:46 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -822,7 +822,7 @@ NSW,115,Dobell,607,Ourimbah,1032,50.51,1011,49.49,2043,0.54
 NSW,115,Dobell,573,Shelly Beach,1339,55.26,1084,44.74,2423,0.24
 NSW,115,Dobell,33616,Special Hospital Team 1,55,59.14,38,40.86,93,12.2
 NSW,115,Dobell,33812,Special Hospital Team 2,0,0,0,0,0,-46.28
-NSW,115,Dobell,38425,Special Hospital Team 3,0,0,0,0,0,-46.36
+NSW,115,Dobell,38425,Special Hospital Team 3,24,42.86,32,57.14,56,-3.5
 NSW,115,Dobell,46466,Special Hospital Team 4,55,59.14,38,40.86,93,12.59
 NSW,115,Dobell,14048,Sydney (Dobell),26,59.09,18,40.91,44,-2.31
 NSW,115,Dobell,610,Tacoma,319,60.19,211,39.81,530,0.33
@@ -3150,7 +3150,7 @@ NT,306,Lingiari,8736,West Island,25,59.52,17,40.48,42,-6.05
 NT,306,Lingiari,8710,Yirara,198,51.3,188,48.7,386,11.15
 NT,306,Lingiari,8737,Yulara,104,59.09,72,40.91,176,-0.99
 NT,306,Lingiari,34185,Yulara PPVC,30,61.22,19,38.78,49,5.66
-NT,307,Solomon,8703,Anula,710,52.17,651,47.83,1361,-2.17
+NT,307,Solomon,8703,Anula,716,52.34,652,47.66,1368,-2
 NT,307,Solomon,33137,Bakewell,1152,42.04,1588,57.96,2740,-2.38
 NT,307,Solomon,8705,Berrimah,204,34.93,380,65.07,584,-1.1
 NT,307,Solomon,34248,Casuarina SOLOMON PPVC,1311,53.53,1138,46.47,2449,6.11
@@ -3310,7 +3310,7 @@ QLD,155,Bowman,32084,Victoria Point South,1100,39.47,1687,60.53,2787,-10.99
 QLD,155,Bowman,5155,Vienna Woods,961,47.81,1049,52.19,2010,-11
 QLD,155,Bowman,5156,Wellington Point,831,36.79,1428,63.21,2259,-13.24
 QLD,155,Bowman,32918,Wellington Point West,887,38.84,1397,61.16,2284,-8.78
-QLD,156,Brisbane,5167,Alderley,984,55.31,795,44.69,1779,-4.42
+QLD,156,Brisbane,5167,Alderley,980,55.34,791,44.66,1771,-4.39
 QLD,156,Brisbane,6017,Ascot,514,20.19,2032,79.81,2546,-8.27
 QLD,156,Brisbane,5168,Ashgrove,1471,52.39,1337,47.61,2808,-3.01
 QLD,156,Brisbane,55316,Ashgrove West (Brisbane),573,45.37,690,54.63,1263,-7.43
@@ -3864,7 +3864,7 @@ QLD,163,Griffith,5590,South Brisbane,1024,64.08,574,35.92,1598,-4.09
 QLD,163,Griffith,32707,Special Hospital Team 1,99,69.72,43,30.28,142,13.62
 QLD,163,Griffith,38283,Special Hospital Team 2,57,54.81,47,45.19,104,-1.09
 QLD,163,Griffith,6328,Stones Corner,738,58.66,520,41.34,1258,-3.38
-QLD,163,Griffith,37608,Wellers Hill (Griffith),567,52.89,505,47.11,1072,-6.98
+QLD,163,Griffith,37608,Wellers Hill (Griffith),568,53.03,503,46.97,1071,-6.84
 QLD,163,Griffith,5592,West End,1874,71.55,745,28.45,2619,-3.77
 QLD,163,Griffith,6306,Whites Hill,1822,56.9,1380,43.1,3202,-3.1
 QLD,164,Groom,31430,Baker Street,124,33.79,243,66.21,367,-5.51
@@ -4310,7 +4310,7 @@ QLD,302,Longman,5520,Woorim,525,44.6,652,55.4,1177,-6.28
 QLD,170,Maranoa,6430,Allora,232,21.85,830,78.15,1062,-10.23
 QLD,170,Maranoa,5805,Alpha,52,23.96,165,76.04,217,-8.82
 QLD,170,Maranoa,6105,Amby,7,10.45,60,89.55,67,-16.22
-QLD,170,Maranoa,6106,Amiens,53,24.09,167,75.91,220,-14.05
+QLD,170,Maranoa,6106,Amiens,57,25.79,164,74.21,221,-12.35
 QLD,170,Maranoa,6108,Applethorpe,142,34.89,265,65.11,407,-12.02
 QLD,170,Maranoa,5806,Aramac,42,21.11,157,78.89,199,-9.92
 QLD,170,Maranoa,6109,Augathella,65,26,185,74,250,-13.64
@@ -4326,7 +4326,7 @@ QLD,170,Maranoa,6116,Bollon,27,21.26,100,78.74,127,-20.41
 QLD,170,Maranoa,6120,Brigalow,15,12.4,106,87.6,121,-3.51
 QLD,170,Maranoa,6121,Bringalily South,5,8.33,55,91.67,60,1.43
 QLD,170,Maranoa,14227,Brisbane City (Maranoa),14,29.79,33,70.21,47,-12.58
-QLD,170,Maranoa,6122,Broadwater Crossing,120,28.1,307,71.9,427,-9.5
+QLD,170,Maranoa,6122,Broadwater Crossing,120,28.3,304,71.7,424,-9.3
 QLD,170,Maranoa,33105,Brooklands,73,41.95,101,58.05,174,4.51
 QLD,170,Maranoa,6127,Burra Burri,8,16.33,41,83.67,49,-2.64
 QLD,170,Maranoa,6129,Cecil Plains,38,18.72,165,81.28,203,-2.65
@@ -4360,7 +4360,7 @@ QLD,170,Maranoa,6150,Dulacca,7,7,93,93,100,-0.87
 QLD,170,Maranoa,31634,Eukey,65,42.21,89,57.79,154,-7.47
 QLD,170,Maranoa,6153,Eulo,8,21.62,29,78.38,37,0.05
 QLD,170,Maranoa,6154,Eumamurrin,0,0,38,100,38,-1.72
-QLD,170,Maranoa,6158,Glen Aplin,89,27.99,229,72.01,318,-10.3
+QLD,170,Maranoa,6158,Glen Aplin,92,28.93,226,71.07,318,-9.36
 QLD,170,Maranoa,6444,Goomburra,16,10.13,142,89.87,158,-12.57
 QLD,170,Maranoa,6161,Goondiwindi,307,23.1,1022,76.9,1329,-6.31
 QLD,170,Maranoa,46670,Goondiwindi Interstate PPVC,0,0,0,0,0,0
@@ -4371,7 +4371,7 @@ QLD,170,Maranoa,6166,Haden,18,16.22,93,83.78,111,-7.63
 QLD,170,Maranoa,6169,Hebel,5,12.2,36,87.8,41,-2.35
 QLD,170,Maranoa,5845,Ilfracombe,23,19.66,94,80.34,117,-6.84
 QLD,170,Maranoa,6172,Inglestone,3,6.98,40,93.02,43,4.71
-QLD,170,Maranoa,6173,Inglewood,215,32.98,437,67.02,652,-17.36
+QLD,170,Maranoa,6173,Inglewood,215,32.92,438,67.08,653,-17.42
 QLD,170,Maranoa,6174,Injune,37,12.63,256,87.37,293,-4.94
 QLD,170,Maranoa,6582,Inverlaw,31,17.61,145,82.39,176,-9.21
 QLD,170,Maranoa,5850,Isisford,19,20.88,72,79.12,91,-16.62
@@ -4409,7 +4409,7 @@ QLD,170,Maranoa,6195,Moonie,18,18,82,82,100,7.03
 QLD,170,Maranoa,6196,Morven,29,24.58,89,75.42,118,4.17
 QLD,170,Maranoa,6198,Muckadilla,1,2.5,39,97.5,40,-1.5
 QLD,170,Maranoa,6199,Mungallala,8,17.02,39,82.98,47,0.07
-QLD,170,Maranoa,6200,Mungindi,18,24.66,55,75.34,73,-5.64
+QLD,170,Maranoa,6200,Mungindi,17,23.61,55,76.39,72,-6.69
 QLD,170,Maranoa,6465,Murrays Bridge,20,13.42,129,86.58,149,-11.95
 QLD,170,Maranoa,5884,Muttaburra,15,20,60,80,75,-16.36
 QLD,170,Maranoa,6608,Nanango,707,46.82,803,53.18,1510,-8.83
@@ -4453,7 +4453,7 @@ QLD,170,Maranoa,58614,Texas Interstate PPVC,0,0,0,0,0,0
 QLD,170,Maranoa,58601,Texas PPVC,0,0,0,0,0,-62.5
 QLD,170,Maranoa,6229,Thallon,19,24.68,58,75.32,77,-7
 QLD,170,Maranoa,6230,Thargomindah,27,22.88,91,77.12,118,-14.29
-QLD,170,Maranoa,6231,The Gums,2,2.13,92,97.87,94,-5.87
+QLD,170,Maranoa,6231,The Gums,2,2.11,93,97.89,95,-5.89
 QLD,170,Maranoa,6232,The Summit,136,27.76,354,72.24,490,-18.05
 QLD,170,Maranoa,6233,Toobeah,14,13.86,87,86.14,101,3.15
 QLD,170,Maranoa,6235,Wallangarra,98,38.13,159,61.87,257,-14.63
@@ -4473,8 +4473,8 @@ QLD,170,Maranoa,47711,Wooroolin,51,21.34,188,78.66,239,-18.8
 QLD,170,Maranoa,6243,Wyandra,11,22,39,78,50,4.46
 QLD,170,Maranoa,6488,Yangan,93,20.13,369,79.87,462,-5.72
 QLD,170,Maranoa,5521,Yarraman,214,35.37,391,64.63,605,-9.42
-QLD,170,Maranoa,6246,Yelarbon,61,31.77,131,68.23,192,-3.47
-QLD,170,Maranoa,6247,Yuleba,20,12.58,139,87.42,159,-10.75
+QLD,170,Maranoa,6246,Yelarbon,61,31.61,132,68.39,193,-3.63
+QLD,170,Maranoa,6247,Yuleba,20,12.74,137,87.26,157,-10.59
 QLD,171,McPherson,55961,Bonogin (McPherson),118,29.57,281,70.43,399,-4.23
 QLD,171,McPherson,14226,Brisbane City (McPherson),13,33.33,26,66.67,39,-22.55
 QLD,171,McPherson,6063,Broadbeach (McPherson),74,38.95,116,61.05,190,2.42
@@ -5505,7 +5505,7 @@ SA,188,Mayo,7242,Woodside,481,37.03,818,62.97,1299,-0.1
 SA,188,Mayo,7243,Yankalilla,662,44.43,828,55.57,1490,-2.76
 SA,189,Port Adelaide,14253,Adelaide (Port Adelaide),50,65.79,26,34.21,76,-8.35
 SA,189,Port Adelaide,58759,Adelaide PORT ADELAIDE PPVC,213,66.56,107,33.44,320,0.17
-SA,189,Port Adelaide,7248,Albert Park,573,65.19,306,34.81,879,-1.7
+SA,189,Port Adelaide,7248,Albert Park,572,65.22,305,34.78,877,-1.67
 SA,189,Port Adelaide,7048,Allenby Gardens,924,72.81,345,27.19,1269,3.27
 SA,189,Port Adelaide,7249,Beverley,457,73,169,27,626,2.11
 SA,189,Port Adelaide,7250,Birkenhead,1334,77.88,379,22.12,1713,2.11
@@ -5744,7 +5744,7 @@ TAS,193,Braddon,33832,Burnie PPVC,848,57.53,626,42.47,1474,3.74
 TAS,193,Braddon,8367,Calder,71,56.35,55,43.65,126,-7.39
 TAS,193,Braddon,8368,Cooee,524,58.68,369,41.32,893,5.62
 TAS,193,Braddon,8370,Currie,314,46.52,361,53.48,675,5.54
-TAS,193,Braddon,8371,Devonport Central,922,55.14,750,44.86,1672,8.86
+TAS,193,Braddon,8371,Devonport Central,923,55.27,747,44.73,1670,8.99
 TAS,193,Braddon,8373,Devonport North,463,54.86,381,45.14,844,10.06
 TAS,193,Braddon,33831,Devonport PPVC,822,56.3,638,43.7,1460,2.6
 TAS,193,Braddon,34286,Devonport South,712,59.73,480,40.27,1192,5.48
@@ -5776,7 +5776,7 @@ TAS,193,Braddon,8401,Nixon Street,1205,55.56,964,44.44,2169,7.36
 TAS,193,Braddon,8402,North Motton,114,52.29,104,47.71,218,9.31
 TAS,193,Braddon,8404,Penguin,1065,53.52,925,46.48,1990,-2.19
 TAS,193,Braddon,8406,Preston,41,46.07,48,53.93,89,-2.69
-TAS,193,Braddon,8652,Queenstown,622,68.58,285,31.42,907,2.43
+TAS,193,Braddon,8652,Queenstown,620,68.58,284,31.42,904,2.43
 TAS,193,Braddon,58806,Queenstown Interstate PPVC,0,0,0,0,0,0
 TAS,193,Braddon,34052,Queenstown PPVC,127,63.18,74,36.82,201,9.16
 TAS,193,Braddon,8408,Reekara,31,46.97,35,53.03,66,15.32
@@ -5785,7 +5785,7 @@ TAS,193,Braddon,8410,Ridgley,364,58.33,260,41.67,624,3.88
 TAS,193,Braddon,8411,Rocky Cape,181,49.18,187,50.82,368,-2.23
 TAS,193,Braddon,8658,Rosebery,266,65.68,139,34.32,405,3.62
 TAS,193,Braddon,8667,Savage River,70,74.47,24,25.53,94,5.62
-TAS,193,Braddon,8390,Shorewell Park,624,57.94,453,42.06,1077,6.64
+TAS,193,Braddon,8390,Shorewell Park,623,57.95,452,42.05,1075,6.65
 TAS,193,Braddon,8412,Sisters Beach,125,61.27,79,38.73,204,7.71
 TAS,193,Braddon,8413,Sisters Creek,79,47.59,87,52.41,166,5.76
 TAS,193,Braddon,8414,Smithton,1141,53.05,1010,46.95,2151,6.17
@@ -5797,7 +5797,7 @@ TAS,193,Braddon,33838,Special Hospital Team 2,0,0,0,0,0,-41.92
 TAS,193,Braddon,33839,Special Hospital Team 3,41,51.9,38,48.1,79,9.56
 TAS,193,Braddon,33840,Special Hospital Team 4,0,0,0,0,0,-41.92
 TAS,193,Braddon,8417,Sprent,103,46.61,118,53.39,221,-4.34
-TAS,193,Braddon,8418,Spreyton,760,59.1,526,40.9,1286,12.05
+TAS,193,Braddon,8418,Spreyton,759,59.02,527,40.98,1286,11.97
 TAS,193,Braddon,8419,Stanley,228,57.72,167,42.28,395,4.09
 TAS,193,Braddon,8420,Stowport,116,51.33,110,48.67,226,1.33
 TAS,193,Braddon,8673,Strahan,210,55.26,170,44.74,380,-1.92
@@ -6527,14 +6527,14 @@ VIC,209,Deakin,3560,Blackburn North,946,51.89,877,48.11,1823,-0.22
 VIC,209,Deakin,3420,Blackburn South,1506,52.36,1370,47.64,2876,-0.52
 VIC,209,Deakin,3561,Blackburn West,2039,54.55,1699,45.45,3738,0.98
 VIC,209,Deakin,58637,Box Hill DEAKIN PPVC,789,50.9,761,49.1,1550,2.09
-VIC,209,Deakin,3562,Burwood Heights,1599,56.48,1232,43.52,2831,-1.69
+VIC,209,Deakin,3562,Burwood Heights,1586,56.18,1237,43.82,2823,-1.99
 VIC,209,Deakin,56448,Croydon (Deakin),233,51.43,220,48.57,453,-2.8
 VIC,209,Deakin,4877,Croydon South,714,49.48,729,50.52,1443,0.44
-VIC,209,Deakin,11525,Croydon Town (Deakin),681,51.4,644,48.6,1325,6.16
+VIC,209,Deakin,11525,Croydon Town (Deakin),679,51.25,646,48.75,1325,6.01
 VIC,209,Deakin,30200,Divisional Office (PREPOLL),443,48.73,466,51.27,909,-0.17
-VIC,209,Deakin,4879,Eastwood,1222,54.8,1008,45.2,2230,2.99
+VIC,209,Deakin,4879,Eastwood,1219,54.71,1009,45.29,2228,2.9
 VIC,209,Deakin,12078,Eley Park,891,55.1,726,44.9,1617,-1.13
-VIC,209,Deakin,3565,Forest Hill,690,52.11,634,47.89,1324,-1.75
+VIC,209,Deakin,3565,Forest Hill,686,52.01,633,47.99,1319,-1.85
 VIC,209,Deakin,12079,Glen Park,547,60.91,351,39.09,898,4.01
 VIC,209,Deakin,3568,Heatherdale,821,56.43,634,43.57,1455,-1.98
 VIC,209,Deakin,2953,Heathmont,848,50.69,825,49.31,1673,2.73
@@ -8148,7 +8148,7 @@ WA,237,Cowan,32474,Banksia Grove,415,48.42,442,51.58,857,-3.07
 WA,237,Cowan,36411,Darch,1005,37.77,1656,62.23,2661,-6.11
 WA,237,Cowan,30228,Divisional Office (PREPOLL),987,38.39,1584,61.61,2571,-7.8
 WA,237,Cowan,7570,Girrawheen,939,60.89,603,39.11,1542,-4.76
-WA,237,Cowan,7572,Girrawheen East,608,61.98,373,38.02,981,-5.94
+WA,237,Cowan,7572,Girrawheen East,609,62.02,373,37.98,982,-5.9
 WA,237,Cowan,7573,Greenwood,1575,45.1,1917,54.9,3492,-1.62
 WA,237,Cowan,7574,Greenwood East,621,39.63,946,60.37,1567,-11.41
 WA,237,Cowan,47761,Hocking,919,39.71,1395,60.29,2314,-3.52
@@ -8918,7 +8918,7 @@ WA,248,Tangney,8256,Applecross,751,23.73,2414,76.27,3165,-1.69
 WA,248,Tangney,8258,Ardross,300,28.74,744,71.26,1044,-2.46
 WA,248,Tangney,8259,Ardross West,426,33.31,853,66.69,1279,-3.15
 WA,248,Tangney,7755,Attadale,738,27.93,1904,72.07,2642,-2.27
-WA,248,Tangney,8260,Bateman,747,38.05,1216,61.95,1963,-3.27
+WA,248,Tangney,8260,Bateman,748,38.1,1215,61.9,1963,-3.22
 WA,248,Tangney,8261,Booragoon,913,38.75,1443,61.25,2356,2.77
 WA,248,Tangney,8262,Brentwood,929,35.88,1660,64.12,2589,-2.16
 WA,248,Tangney,8263,Bull Creek,603,38.36,969,61.64,1572,-1.71
