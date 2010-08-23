@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T17:53:15 Cycle:058b5879-ea26-42ae-bd93-87ed502155d7 Created:2010-08-23T17:38:28 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T18:09:13 Cycle:a8649ccc-e0d7-42a7-b317-b55e26b9c961 Created:2010-08-23T17:49:43 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -2938,10 +2938,10 @@ NSW,151,Warringah,2841,North Balgowlah,767,38.27,1237,61.73,2004,-3.82
 NSW,151,Warringah,2843,Queenscliff,663,37.31,1114,62.69,1777,-5.86
 NSW,151,Warringah,2844,Seaforth,716,34.13,1382,65.87,2098,-4.55
 NSW,151,Warringah,2845,Seaforth East,598,30.14,1386,69.86,1984,-6.1
-NSW,151,Warringah,33633,Special Hospital Team 1,0,0,0,0,0,-27.78
-NSW,151,Warringah,33694,Special Hospital Team 2,0,0,0,0,0,-27.78
-NSW,151,Warringah,33695,Special Hospital Team 3,0,0,0,0,0,-27.66
-NSW,151,Warringah,58318,Special Hospital Team 4,0,0,0,0,0,-27.42
+NSW,151,Warringah,33633,Special Hospital Team 1,15,22.39,52,77.61,67,-5.39
+NSW,151,Warringah,33694,Special Hospital Team 2,10,18.52,44,81.48,54,-9.26
+NSW,151,Warringah,33695,Special Hospital Team 3,20,32.26,42,67.74,62,4.6
+NSW,151,Warringah,58318,Special Hospital Team 4,18,38.3,29,61.7,47,10.88
 NSW,151,Warringah,2846,Spit Junction,455,38.53,726,61.47,1181,-2.92
 NSW,151,Warringah,31263,Sydney (Warringah),61,51.69,57,48.31,118,-10.72
 NSW,151,Warringah,2847,Wingala,1010,40.42,1489,59.58,2499,-4.17
@@ -3420,7 +3420,7 @@ QLD,157,Capricornia,33990,Sarina East,531,64.21,296,35.79,827,-5.55
 QLD,157,Capricornia,46727,Sarina Interstate PPVC,0,0,0,0,0,0
 QLD,157,Capricornia,46726,Sarina PPVC,223,54.39,187,45.61,410,17.88
 QLD,157,Capricornia,5369,Sarina Range,53,50,53,50,106,1.35
-QLD,157,Capricornia,32578,Special Hospital Team 1,0,0,0,0,0,-61.31
+QLD,157,Capricornia,32578,Special Hospital Team 1,88,49.72,89,50.28,177,-11.59
 QLD,157,Capricornia,32579,Special Hospital Team 2,111,58.73,78,41.27,189,-2.6
 QLD,157,Capricornia,32580,Special Hospital Team 3,46,56.1,36,43.9,82,-5.08
 QLD,157,Capricornia,32581,Special Hospital Team 4,17,68,8,32,25,6.1
@@ -4682,7 +4682,7 @@ QLD,175,Petrie,58727,Strathpine PETRIE PPVC,423,49.07,439,50.93,862,-0.93
 QLD,175,Petrie,33993,Taigum (Petrie),767,64.35,425,35.65,1192,3.83
 QLD,175,Petrie,6423,Woody Point,791,56.58,607,43.42,1398,-0.67
 QLD,175,Petrie,47775,Woody Point North,773,51.81,719,48.19,1492,-6.15
-QLD,176,Rankin,5527,Algester,1698,53.38,1483,46.62,3181,-2.47
+QLD,176,Rankin,5527,Algester,1697,53.38,1482,46.62,3179,-2.47
 QLD,176,Rankin,47723,Algester South,1466,49.48,1497,50.52,2963,-5.9
 QLD,176,Rankin,58755,Beenleigh RANKIN PPVC,146,52.9,130,47.1,276,-8.27
 QLD,176,Rankin,5528,Berrinba East,1340,71.28,540,28.72,1880,-5.54
@@ -6611,10 +6611,10 @@ VIC,211,Flinders,3618,Blairgowrie,459,37.29,772,62.71,1231,-1.42
 VIC,211,Flinders,33295,Blind Bight,396,47.2,443,52.8,839,1.52
 VIC,211,Flinders,3619,Boneo,378,41.27,538,58.73,916,-0.54
 VIC,211,Flinders,35328,Cardinia,54,35.53,98,64.47,152,2.57
-VIC,211,Flinders,3621,Catani,32,18.82,138,81.18,170,-7.08
+VIC,211,Flinders,3621,Catani,33,19.41,137,80.59,170,-6.49
 VIC,211,Flinders,35329,Clyde (Flinders),83,30.86,186,69.14,269,-5.33
-VIC,211,Flinders,3622,Corinella,338,47.08,380,52.92,718,-2.38
-VIC,211,Flinders,3623,Cowes,761,44.95,932,55.05,1693,-3.68
+VIC,211,Flinders,3622,Corinella,337,46.87,382,53.13,719,-2.59
+VIC,211,Flinders,3623,Cowes,768,44.81,946,55.19,1714,-3.82
 VIC,211,Flinders,46625,Cowes PPVC,657,46.4,759,53.6,1416,2.08
 VIC,211,Flinders,3624,Cranbourne South,470,36.95,802,63.05,1272,3.35
 VIC,211,Flinders,3625,Crib Point,410,45.35,494,54.65,904,-0.17
@@ -8538,13 +8538,13 @@ WA,242,Moore,7577,Hillarys,1204,35.61,2177,64.39,3381,-1.57
 WA,242,Moore,32453,Hillarys North,277,20.94,1046,79.06,1323,-5.59
 WA,242,Moore,38452,Iluka,258,33.03,523,66.97,781,1.38
 WA,242,Moore,11903,Joondalup,1069,42.9,1423,57.1,2492,-3.84
-WA,242,Moore,38453,Joondalup Central,529,44.34,664,55.66,1193,1.89
+WA,242,Moore,38453,Joondalup Central,513,43.04,679,56.96,1192,0.59
 WA,242,Moore,7942,Kallaroo,927,34.23,1781,65.77,2708,-2.27
 WA,242,Moore,31962,Kinross,1351,43.95,1723,56.05,3074,-1.63
 WA,242,Moore,7581,Marmion,563,34.88,1051,65.12,1614,-0.45
 WA,242,Moore,32452,Mindarie,1040,33.01,2111,66.99,3151,0.63
 WA,242,Moore,7955,Mullaloo,1005,39.3,1552,60.7,2557,-3.28
-WA,242,Moore,7957,Ocean Reef,942,35.01,1749,64.99,2691,-2.86
+WA,242,Moore,7957,Ocean Reef,942,35.08,1743,64.92,2685,-2.79
 WA,242,Moore,31061,Ocean Reef North,845,32.98,1717,67.02,2562,-3.55
 WA,242,Moore,7584,Padbury,904,49.59,919,50.41,1823,-0.48
 WA,242,Moore,7585,Padbury South,1084,42.02,1496,57.98,2580,-4.21
@@ -8552,8 +8552,8 @@ WA,242,Moore,13978,Perth (Moore),35,47.3,39,52.7,74,-9.04
 WA,242,Moore,32134,Rottnest (Moore),15,41.67,21,58.33,36,6.95
 WA,242,Moore,32376,Sorrento,528,33.02,1071,66.98,1599,-2.76
 WA,242,Moore,32446,Sorrento Beach,487,22.05,1722,77.95,2209,-5.4
-WA,242,Moore,34082,Special Hospital Team 1,60,34.48,114,65.52,174,-4.41
-WA,242,Moore,47262,Special Hospital Team 2,9,34.62,17,65.38,26,-2.88
+WA,242,Moore,34082,Special Hospital Team 1,62,35.63,112,64.37,174,-3.26
+WA,242,Moore,47262,Special Hospital Team 2,10,38.46,16,61.54,26,0.96
 WA,243,O'Connor,7645,Albany,0,0,0,0,0,0
 WA,243,O'Connor,32815,Albany 1 PPVC,0,0,0,0,0,0
 WA,243,O'Connor,32816,Albany 2 PPVC,0,0,0,0,0,0
