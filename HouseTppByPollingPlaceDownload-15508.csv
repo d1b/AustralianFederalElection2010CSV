@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T15:01:32 Cycle:0b0c77b6-b344-4142-ab01-cfa5b869cc50 Created:2010-08-23T14:39:35 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T15:17:17 Cycle:66f5009b-8139-4c5a-8687-f47d0d5487dc Created:2010-08-23T14:54:40 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -52,13 +52,13 @@ ACT,102,Fraser,8804,Ainslie South,635,76.78,192,23.22,827,2.07
 ACT,102,Fraser,38197,Amaroo,1688,55.67,1344,44.33,3032,4.3
 ACT,102,Fraser,8803,Aranda,2037,73.12,749,26.88,2786,-1.27
 ACT,102,Fraser,8805,Belconnen,1632,65.31,867,34.69,2499,-1.57
-ACT,102,Fraser,32464,Belconnen PPVC,0,0,0,0,0,-65.88
+ACT,102,Fraser,32464,Belconnen PPVC,4257,58.12,3068,41.88,7325,-7.76
 ACT,102,Fraser,8802,Braddon,1364,72.51,517,27.49,1881,0.24
 ACT,102,Fraser,12073,Bruce,546,61.01,349,38.99,895,0
 ACT,102,Fraser,8806,Campbell,1031,48.91,1077,51.09,2108,-6.34
 ACT,102,Fraser,8807,Charnwood,2222,63.59,1272,36.41,3494,-0.7
 ACT,102,Fraser,8808,City,1042,70.6,434,29.4,1476,-0.44
-ACT,102,Fraser,32465,City FRASER PPVC,0,0,0,0,0,-65.88
+ACT,102,Fraser,32465,City FRASER PPVC,2920,67.64,1397,32.36,4317,1.76
 ACT,102,Fraser,8809,Dickson,1093,69.62,477,30.38,1570,0.64
 ACT,102,Fraser,30093,Divisional Office (PREPOLL),0,0,0,0,0,-65.9
 ACT,102,Fraser,8810,Downer,853,68.68,389,31.32,1242,-4.19
@@ -68,7 +68,7 @@ ACT,102,Fraser,8814,Florey,1286,63.66,734,36.34,2020,-2.38
 ACT,102,Fraser,34238,Fraser Central,1885,61.14,1198,38.86,3083,-1.72
 ACT,102,Fraser,8816,Giralang,1208,63.78,686,36.22,1894,-5.12
 ACT,102,Fraser,34240,Gungahlin,1493,55.15,1214,44.85,2707,6.43
-ACT,102,Fraser,38504,Gungahlin PPVC,0,0,0,0,0,-65.89
+ACT,102,Fraser,38504,Gungahlin PPVC,1883,52.44,1708,47.56,3591,-13.45
 ACT,102,Fraser,8819,Hall,137,51.7,128,48.3,265,5.38
 ACT,102,Fraser,47681,Harrison,1069,52.66,961,47.34,2030,2.37
 ACT,102,Fraser,8821,Holt,1428,53.56,1238,46.44,2666,-11.63
@@ -3293,7 +3293,7 @@ QLD,155,Bowman,5133,Coochiemudlo Island,181,53.87,155,46.13,336,-4.18
 QLD,155,Bowman,12037,Coolnwynpin,1159,39.81,1752,60.19,2911,-11.24
 QLD,155,Bowman,30146,Divisional Office (PREPOLL),0,0,0,0,0,-53.94
 QLD,155,Bowman,5134,Dunwich,240,51.28,228,48.72,468,-15.2
-QLD,155,Bowman,12038,Hilliard,713,39.28,1102,60.72,1815,-11.95
+QLD,155,Bowman,12038,Hilliard,715,39.33,1103,60.67,1818,-11.9
 QLD,155,Bowman,5138,Lake Sherrin,392,31.56,850,68.44,1242,-8.27
 QLD,155,Bowman,31796,Lamb Island,88,46.07,103,53.93,191,-14.34
 QLD,155,Bowman,5142,Macleay Island,501,47.71,549,52.29,1050,-11.34
@@ -3657,7 +3657,7 @@ QLD,161,Fisher,5492,Maleny,1248,47.08,1403,52.92,2651,-4.88
 QLD,161,Fisher,58740,Maroochydore FISHER PPVC,422,43.42,550,56.58,972,-2.06
 QLD,161,Fisher,46384,Meridan Plains,1018,48.64,1075,51.36,2093,4.42
 QLD,161,Fisher,33094,Minyama,325,32.57,673,67.43,998,-0.33
-QLD,161,Fisher,5494,Montville (Fisher),228,43.26,299,56.74,527,-4.51
+QLD,161,Fisher,5494,Montville (Fisher),229,43.37,299,56.63,528,-4.4
 QLD,161,Fisher,5437,Mooloolaba (Fisher),1015,44.13,1285,55.87,2300,-1
 QLD,161,Fisher,33095,Mooloolaba West,529,46.81,601,53.19,1130,1.64
 QLD,161,Fisher,5438,Mooloolah,759,49.8,765,50.2,1524,0.73
@@ -3761,7 +3761,7 @@ QLD,311,Flynn,5764,South Kolan,244,42.29,333,57.71,577,-11.01
 QLD,311,Flynn,46440,Special Hospital Team 1,35,61.4,22,38.6,57,-6.29
 QLD,311,Flynn,46441,Special Hospital Team 2,8,57.14,6,42.86,14,-12.86
 QLD,311,Flynn,58499,Special Hospital Team 3,0,0,0,0,0,-67.86
-QLD,311,Flynn,58500,Special Hospital Team 4,0,0,0,0,0,-67.86
+QLD,311,Flynn,58500,Special Hospital Team 4,14,77.78,4,22.22,18,9.92
 QLD,311,Flynn,6219,Springsure,129,21.18,480,78.82,609,-6.55
 QLD,311,Flynn,5274,Stanwell,91,36.55,158,63.45,249,-5.87
 QLD,311,Flynn,5784,Tannum Sands,790,55.01,646,44.99,1436,-4.98
@@ -6410,7 +6410,7 @@ VIC,207,Corangamite,3455,Barongarook,52,53.61,45,46.39,97,6.11
 VIC,207,Corangamite,3457,Barwon Heads,999,52.55,902,47.45,1901,-4.48
 VIC,207,Corangamite,3458,Beeac,125,38.82,197,61.18,322,-0.76
 VIC,207,Corangamite,3462,Bellbrae,524,62.09,320,37.91,844,6.57
-VIC,207,Corangamite,3463,Belmont,830,54.11,704,45.89,1534,3.14
+VIC,207,Corangamite,3463,Belmont,836,54.64,694,45.36,1530,3.67
 VIC,207,Corangamite,3464,Belmont North,1148,58.04,830,41.96,1978,1.08
 VIC,207,Corangamite,34013,Belmont PPVC,2636,45.09,3210,54.91,5846,-1.74
 VIC,207,Corangamite,3465,Birregurra,253,45.1,308,54.9,561,-1.47
@@ -7269,7 +7269,7 @@ VIC,223,La Trobe,46529,Pakenham Lakeside,570,50.71,554,49.29,1124,3.96
 VIC,223,La Trobe,47818,Pakenham Shearwater,633,56.52,487,43.48,1120,9.86
 VIC,223,La Trobe,4905,Pakenham Upper (La Trobe),73,38.42,117,61.58,190,-1.46
 VIC,223,La Trobe,46528,Parkhill,586,43.18,771,56.82,1357,2.01
-VIC,223,La Trobe,4298,Sassafras,443,57.61,326,42.39,769,1.53
+VIC,223,La Trobe,4298,Sassafras,441,57.5,326,42.5,767,1.42
 VIC,223,La Trobe,4299,Selby,539,64.86,292,35.14,831,-1.07
 VIC,223,La Trobe,31552,Special Hospital Team 1,34,42.5,46,57.5,80,-3.5
 VIC,223,La Trobe,31554,Special Hospital Team 2,72,43.9,92,56.1,164,-1.55

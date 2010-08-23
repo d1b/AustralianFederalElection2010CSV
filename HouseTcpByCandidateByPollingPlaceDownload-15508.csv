@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T15:01:27 Cycle:0b0c77b6-b344-4142-ab01-cfa5b869cc50 Created:2010-08-23T14:39:35 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T15:17:12 Cycle:66f5009b-8139-4c5a-8687-f47d0d5487dc Created:2010-08-23T14:54:40 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 ACT,101,Canberra,8829,Barton,20863,JONES,Giulia,1,N,N,LP,Liberal,790,-2.73
 ACT,101,Canberra,8829,Barton,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1399,2.73
@@ -104,8 +104,8 @@ ACT,102,Fraser,8803,Aranda,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,749,1.27
 ACT,102,Fraser,8803,Aranda,21210,LEIGH,Andrew,3,N,N,ALP,Australian Labor Party,2037,-1.27
 ACT,102,Fraser,8805,Belconnen,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,867,1.57
 ACT,102,Fraser,8805,Belconnen,21210,LEIGH,Andrew,3,N,N,ALP,Australian Labor Party,1632,-1.57
-ACT,102,Fraser,32464,Belconnen PPVC,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,0,-34.12
-ACT,102,Fraser,32464,Belconnen PPVC,21210,LEIGH,Andrew,3,N,N,ALP,Australian Labor Party,0,-65.88
+ACT,102,Fraser,32464,Belconnen PPVC,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,3068,7.76
+ACT,102,Fraser,32464,Belconnen PPVC,21210,LEIGH,Andrew,3,N,N,ALP,Australian Labor Party,4257,-7.76
 ACT,102,Fraser,8802,Braddon,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,517,-0.24
 ACT,102,Fraser,8802,Braddon,21210,LEIGH,Andrew,3,N,N,ALP,Australian Labor Party,1364,0.24
 ACT,102,Fraser,12073,Bruce,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,349,0
@@ -116,8 +116,8 @@ ACT,102,Fraser,8807,Charnwood,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,1272,0
 ACT,102,Fraser,8807,Charnwood,21210,LEIGH,Andrew,3,N,N,ALP,Australian Labor Party,2222,-0.7
 ACT,102,Fraser,8808,City,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,434,0.44
 ACT,102,Fraser,8808,City,21210,LEIGH,Andrew,3,N,N,ALP,Australian Labor Party,1042,-0.44
-ACT,102,Fraser,32465,City FRASER PPVC,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,0,-34.12
-ACT,102,Fraser,32465,City FRASER PPVC,21210,LEIGH,Andrew,3,N,N,ALP,Australian Labor Party,0,-65.88
+ACT,102,Fraser,32465,City FRASER PPVC,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,1397,-1.76
+ACT,102,Fraser,32465,City FRASER PPVC,21210,LEIGH,Andrew,3,N,N,ALP,Australian Labor Party,2920,1.76
 ACT,102,Fraser,8809,Dickson,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,477,-0.64
 ACT,102,Fraser,8809,Dickson,21210,LEIGH,Andrew,3,N,N,ALP,Australian Labor Party,1093,0.64
 ACT,102,Fraser,30093,Divisional Office (PREPOLL),20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,0,-34.1
@@ -136,8 +136,8 @@ ACT,102,Fraser,8816,Giralang,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,686,5.1
 ACT,102,Fraser,8816,Giralang,21210,LEIGH,Andrew,3,N,N,ALP,Australian Labor Party,1208,-5.12
 ACT,102,Fraser,34240,Gungahlin,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,1214,-6.43
 ACT,102,Fraser,34240,Gungahlin,21210,LEIGH,Andrew,3,N,N,ALP,Australian Labor Party,1493,6.43
-ACT,102,Fraser,38504,Gungahlin PPVC,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,0,-34.11
-ACT,102,Fraser,38504,Gungahlin PPVC,21210,LEIGH,Andrew,3,N,N,ALP,Australian Labor Party,0,-65.89
+ACT,102,Fraser,38504,Gungahlin PPVC,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,1708,13.45
+ACT,102,Fraser,38504,Gungahlin PPVC,21210,LEIGH,Andrew,3,N,N,ALP,Australian Labor Party,1883,-13.45
 ACT,102,Fraser,8819,Hall,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,128,-5.38
 ACT,102,Fraser,8819,Hall,21210,LEIGH,Andrew,3,N,N,ALP,Australian Labor Party,137,5.38
 ACT,102,Fraser,47681,Harrison,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,961,-2.37
@@ -6586,8 +6586,8 @@ QLD,155,Bowman,30146,Divisional Office (PREPOLL),20782,LAMING,Andrew,1,N,Y,LNQ,L
 QLD,155,Bowman,30146,Divisional Office (PREPOLL),21641,PETERS,Jenny,3,N,N,ALP,Australian Labor Party,0,-53.94
 QLD,155,Bowman,5134,Dunwich,20782,LAMING,Andrew,1,N,Y,LNQ,Liberal National Party of Queensland,228,15.2
 QLD,155,Bowman,5134,Dunwich,21641,PETERS,Jenny,3,N,N,ALP,Australian Labor Party,240,-15.2
-QLD,155,Bowman,12038,Hilliard,20782,LAMING,Andrew,1,N,Y,LNQ,Liberal National Party of Queensland,1102,11.95
-QLD,155,Bowman,12038,Hilliard,21641,PETERS,Jenny,3,N,N,ALP,Australian Labor Party,713,-11.95
+QLD,155,Bowman,12038,Hilliard,20782,LAMING,Andrew,1,N,Y,LNQ,Liberal National Party of Queensland,1103,11.9
+QLD,155,Bowman,12038,Hilliard,21641,PETERS,Jenny,3,N,N,ALP,Australian Labor Party,715,-11.9
 QLD,155,Bowman,5138,Lake Sherrin,20782,LAMING,Andrew,1,N,Y,LNQ,Liberal National Party of Queensland,850,8.27
 QLD,155,Bowman,5138,Lake Sherrin,21641,PETERS,Jenny,3,N,N,ALP,Australian Labor Party,392,-8.27
 QLD,155,Bowman,31796,Lamb Island,20782,LAMING,Andrew,1,N,Y,LNQ,Liberal National Party of Queensland,103,14.34
@@ -7314,8 +7314,8 @@ QLD,161,Fisher,46384,Meridan Plains,21466,CUMMINS,Chris,1,N,N,ALP,Australian Lab
 QLD,161,Fisher,46384,Meridan Plains,20759,SLIPPER,Peter,4,N,Y,LNQ,Liberal National Party of Queensland,1075,-4.42
 QLD,161,Fisher,33094,Minyama,21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor Party,325,-0.33
 QLD,161,Fisher,33094,Minyama,20759,SLIPPER,Peter,4,N,Y,LNQ,Liberal National Party of Queensland,673,0.33
-QLD,161,Fisher,5494,Montville (Fisher),21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor Party,228,-4.51
-QLD,161,Fisher,5494,Montville (Fisher),20759,SLIPPER,Peter,4,N,Y,LNQ,Liberal National Party of Queensland,299,4.51
+QLD,161,Fisher,5494,Montville (Fisher),21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor Party,229,-4.4
+QLD,161,Fisher,5494,Montville (Fisher),20759,SLIPPER,Peter,4,N,Y,LNQ,Liberal National Party of Queensland,299,4.4
 QLD,161,Fisher,5437,Mooloolaba (Fisher),21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor Party,1015,-1
 QLD,161,Fisher,5437,Mooloolaba (Fisher),20759,SLIPPER,Peter,4,N,Y,LNQ,Liberal National Party of Queensland,1285,1
 QLD,161,Fisher,33095,Mooloolaba West,21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor Party,529,1.64
@@ -7522,8 +7522,8 @@ QLD,311,Flynn,46441,Special Hospital Team 2,20809,O'DOWD,Ken,2,N,N,LNQ,Liberal N
 QLD,311,Flynn,46441,Special Hospital Team 2,21781,TREVOR,Chris,4,N,Y,ALP,Australian Labor Party,8,-12.86
 QLD,311,Flynn,58499,Special Hospital Team 3,20809,O'DOWD,Ken,2,N,N,LNQ,Liberal National Party of Queensland,0,-32.14
 QLD,311,Flynn,58499,Special Hospital Team 3,21781,TREVOR,Chris,4,N,Y,ALP,Australian Labor Party,0,-67.86
-QLD,311,Flynn,58500,Special Hospital Team 4,20809,O'DOWD,Ken,2,N,N,LNQ,Liberal National Party of Queensland,0,-32.14
-QLD,311,Flynn,58500,Special Hospital Team 4,21781,TREVOR,Chris,4,N,Y,ALP,Australian Labor Party,0,-67.86
+QLD,311,Flynn,58500,Special Hospital Team 4,20809,O'DOWD,Ken,2,N,N,LNQ,Liberal National Party of Queensland,4,-9.92
+QLD,311,Flynn,58500,Special Hospital Team 4,21781,TREVOR,Chris,4,N,Y,ALP,Australian Labor Party,14,9.92
 QLD,311,Flynn,6219,Springsure,20809,O'DOWD,Ken,2,N,N,LNQ,Liberal National Party of Queensland,480,6.55
 QLD,311,Flynn,6219,Springsure,21781,TREVOR,Chris,4,N,Y,ALP,Australian Labor Party,129,-6.55
 QLD,311,Flynn,5274,Stanwell,20809,O'DOWD,Ken,2,N,N,LNQ,Liberal National Party of Queensland,158,5.87
@@ -11656,8 +11656,8 @@ TAS,194,Denison,8450,Cosgrove,20881,WILKIE,Andrew,1,N,N,IND,Independent,228,34.5
 TAS,194,Denison,8450,Cosgrove,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,432,65.45
 TAS,194,Denison,8451,Creek Road,20881,WILKIE,Andrew,1,N,N,IND,Independent,862,52.85
 TAS,194,Denison,8451,Creek Road,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,769,47.15
-TAS,194,Denison,8452,Cross Street,20881,WILKIE,Andrew,1,N,N,IND,Independent,0,0
-TAS,194,Denison,8452,Cross Street,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,0,0
+TAS,194,Denison,8452,Cross Street,20881,WILKIE,Andrew,1,N,N,IND,Independent,942,53.28
+TAS,194,Denison,8452,Cross Street,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,826,46.72
 TAS,194,Denison,30185,Divisional Office (PREPOLL),20881,WILKIE,Andrew,1,N,N,IND,Independent,0,0
 TAS,194,Denison,30185,Divisional Office (PREPOLL),20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,0,0
 TAS,194,Denison,8453,Dynnyrne,20881,WILKIE,Andrew,1,N,N,IND,Independent,0,0
@@ -12820,8 +12820,8 @@ VIC,207,Corangamite,3458,Beeac,21234,HENDERSON,Sarah,2,N,N,LP,Liberal,197,0.76
 VIC,207,Corangamite,3458,Beeac,21312,CHEESEMAN,Darren,3,N,Y,ALP,Australian Labor Party,125,-0.76
 VIC,207,Corangamite,3462,Bellbrae,21234,HENDERSON,Sarah,2,N,N,LP,Liberal,320,-6.57
 VIC,207,Corangamite,3462,Bellbrae,21312,CHEESEMAN,Darren,3,N,Y,ALP,Australian Labor Party,524,6.57
-VIC,207,Corangamite,3463,Belmont,21234,HENDERSON,Sarah,2,N,N,LP,Liberal,704,-3.14
-VIC,207,Corangamite,3463,Belmont,21312,CHEESEMAN,Darren,3,N,Y,ALP,Australian Labor Party,830,3.14
+VIC,207,Corangamite,3463,Belmont,21234,HENDERSON,Sarah,2,N,N,LP,Liberal,694,-3.67
+VIC,207,Corangamite,3463,Belmont,21312,CHEESEMAN,Darren,3,N,Y,ALP,Australian Labor Party,836,3.67
 VIC,207,Corangamite,3464,Belmont North,21234,HENDERSON,Sarah,2,N,N,LP,Liberal,830,-1.08
 VIC,207,Corangamite,3464,Belmont North,21312,CHEESEMAN,Darren,3,N,Y,ALP,Australian Labor Party,1148,1.08
 VIC,207,Corangamite,34013,Belmont PPVC,21234,HENDERSON,Sarah,2,N,N,LP,Liberal,3210,1.74
@@ -14538,8 +14538,8 @@ VIC,223,La Trobe,4905,Pakenham Upper (La Trobe),21197,WOOD,Jason,2,N,Y,LP,Libera
 VIC,223,La Trobe,4905,Pakenham Upper (La Trobe),21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,73,-1.46
 VIC,223,La Trobe,46528,Parkhill,21197,WOOD,Jason,2,N,Y,LP,Liberal,771,-2.01
 VIC,223,La Trobe,46528,Parkhill,21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,586,2.01
-VIC,223,La Trobe,4298,Sassafras,21197,WOOD,Jason,2,N,Y,LP,Liberal,326,-1.53
-VIC,223,La Trobe,4298,Sassafras,21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,443,1.53
+VIC,223,La Trobe,4298,Sassafras,21197,WOOD,Jason,2,N,Y,LP,Liberal,326,-1.42
+VIC,223,La Trobe,4298,Sassafras,21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,441,1.42
 VIC,223,La Trobe,4299,Selby,21197,WOOD,Jason,2,N,Y,LP,Liberal,292,1.07
 VIC,223,La Trobe,4299,Selby,21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,539,-1.07
 VIC,223,La Trobe,31552,Special Hospital Team 1,21197,WOOD,Jason,2,N,Y,LP,Liberal,46,3.5
