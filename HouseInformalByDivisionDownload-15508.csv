@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T17:37:10 Cycle:cf0b22a8-91aa-43fb-982f-758caea248d1 Created:2010-08-23T17:25:12 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T17:52:49 Cycle:058b5879-ea26-42ae-bd93-87ed502155d7 Created:2010-08-23T17:38:28 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent,InformalSwing
 107,Blaxland,NSW,62140,10283,72423,14.2,5.31
 251,Watson,NSW,63977,10034,74011,13.56,4.47
@@ -15,10 +15,10 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 128,Lindsay,NSW,73641,6403,80044,8,2.48
 131,Macarthur,NSW,69068,5947,75015,7.93,2.36
 176,Rankin,QLD,66744,5682,72426,7.85,3.42
-162,Forde,QLD,57400,4703,62103,7.57,2.86
+162,Forde,QLD,57398,4707,62105,7.58,2.87
 306,Lingiari,NT,38484,3077,41561,7.4,2.55
 189,Port Adelaide,SA,76727,5980,82707,7.23,2.27
-121,Grayndler,NSW,69271,5347,74618,7.17,1.19
+121,Grayndler,NSW,69316,5347,74663,7.16,1.18
 110,Charlton,NSW,70365,5385,75750,7.11,2.44
 302,Longman,QLD,63888,4814,68702,7.01,3.49
 150,Throsby,NSW,74622,5622,80244,7.01,2.14
@@ -51,7 +51,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 225,Maribyrnong,VIC,63570,4014,67584,5.94,1.96
 216,Holt,VIC,78675,4884,83559,5.84,2.28
 136,Newcastle,NSW,69579,4299,73878,5.82,1.39
-166,Hinkler,QLD,68980,4233,73213,5.78,1.88
+166,Hinkler,QLD,68978,4235,73213,5.78,1.88
 112,Cook,NSW,78590,4778,83368,5.73,1.92
 114,Cunningham,NSW,77457,4709,82166,5.73,1.82
 311,Flynn,QLD,63732,3835,67567,5.68,1.73
@@ -59,7 +59,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 180,Barker,SA,80215,4772,84987,5.61,1.76
 183,Grey,SA,74555,4378,78933,5.55,1.3
 240,Fremantle,WA,68008,3988,71996,5.54,1.29
-243,O'Connor,WA,67904,3934,71838,5.48,1.22
+243,O'Connor,WA,68051,3956,72007,5.49,1.23
 249,Paterson,NSW,71471,4129,75600,5.46,1.86
 155,Bowman,QLD,70217,4049,74266,5.45,2.07
 161,Fisher,QLD,61439,3530,64969,5.43,2.62
@@ -111,7 +111,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 102,Fraser,ACT,98906,4677,103583,4.52,2.16
 138,Page,NSW,74001,3473,77474,4.48,0.18
 252,Dickson,QLD,67611,3161,70772,4.47,1.68
-197,Aston,VIC,70991,3296,74287,4.44,1.5
+197,Aston,VIC,70988,3298,74286,4.44,1.5
 106,Berowra,NSW,72875,3385,76260,4.44,-0.24
 152,Wentworth,NSW,69129,3201,72330,4.43,-0.47
 226,McEwen,VIC,84570,3891,88461,4.4,0.44
@@ -119,13 +119,13 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 224,Mallee,VIC,70584,3231,73815,4.38,0.79
 182,Boothby,SA,73863,3346,77209,4.33,1.46
 113,Cowper,NSW,74141,3341,77482,4.31,0.34
-211,Flinders,VIC,72422,3261,75683,4.31,1.53
+211,Flinders,VIC,72425,3263,75688,4.31,1.53
 164,Groom,QLD,71529,3225,74754,4.31,1.25
 204,Casey,VIC,70274,3120,73394,4.25,1.47
 108,Bradfield,NSW,70664,3121,73785,4.23,0.26
 192,Bass,TAS,56299,2462,58761,4.19,0.96
 223,La Trobe,VIC,71471,3104,74575,4.16,0.88
-242,Moore,WA,68460,2971,71431,4.16,1.07
+242,Moore,WA,68462,2972,71434,4.16,1.07
 220,Jagajaga,VIC,71728,3076,74804,4.11,1.66
 229,Menzies,VIC,68295,2844,71139,4,1.24
 227,McMillan,VIC,73552,3060,76612,3.99,0.56
@@ -136,7 +136,6 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 198,Ballarat,VIC,75894,2981,78875,3.78,1.37
 156,Brisbane,QLD,63004,2434,65438,3.72,0.84
 130,Lyne,NSW,74268,2830,77098,3.67,-1.36
-194,Denison,TAS,55682,2118,57800,3.66,1.16
 195,Franklin,TAS,55277,2077,57354,3.62,0.97
 135,New England,NSW,80801,3015,83816,3.6,0.63
 209,Deakin,VIC,65655,2417,68072,3.55,1.46
@@ -146,6 +145,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 230,Melbourne Ports,VIC,63454,2161,65615,3.29,1.13
 207,Corangamite,VIC,78272,2514,80786,3.11,0.58
 214,Goldstein,VIC,67465,2107,69572,3.03,0.61
+194,Denison,TAS,68818,2118,70936,2.99,0.49
 215,Higgins,VIC,62783,1872,64655,2.9,0.33
 238,Curtin,WA,66426,1970,68396,2.88,0.92
 221,Kooyong,VIC,64708,1916,66624,2.88,0.78
