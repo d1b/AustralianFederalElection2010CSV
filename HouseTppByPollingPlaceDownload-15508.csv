@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T16:35:48 Cycle:9ab5c0b8-4188-44e9-8f1c-2698da701951 Created:2010-08-23T16:24:56 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T16:51:10 Cycle:533cd34c-29b7-484c-9c0a-1e77b04d3653 Created:2010-08-23T16:40:01 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -820,8 +820,8 @@ NSW,115,Dobell,2614,Niagara Park (Dobell),221,61.05,141,38.95,362,5.09
 NSW,115,Dobell,605,Norah Head,400,52.7,359,47.3,759,-4.41
 NSW,115,Dobell,607,Ourimbah,1032,50.51,1011,49.49,2043,0.54
 NSW,115,Dobell,573,Shelly Beach,1339,55.26,1084,44.74,2423,0.24
-NSW,115,Dobell,33616,Special Hospital Team 1,55,59.14,38,40.86,93,12.2
-NSW,115,Dobell,33812,Special Hospital Team 2,0,0,0,0,0,-46.28
+NSW,115,Dobell,33616,Special Hospital Team 1,71,48.63,75,51.37,146,1.69
+NSW,115,Dobell,33812,Special Hospital Team 2,83,54.61,69,45.39,152,8.33
 NSW,115,Dobell,38425,Special Hospital Team 3,24,42.86,32,57.14,56,-3.5
 NSW,115,Dobell,46466,Special Hospital Team 4,55,59.14,38,40.86,93,12.59
 NSW,115,Dobell,14048,Sydney (Dobell),26,59.09,18,40.91,44,-2.31
@@ -3108,7 +3108,7 @@ NT,306,Lingiari,8714,Humpty Doo,1081,52.63,973,47.37,2054,4.37
 NT,306,Lingiari,46750,Humpty Doo Central PPVC,262,42.53,354,57.47,616,-16.01
 NT,306,Lingiari,8715,Jabiru,157,60.15,104,39.85,261,2.74
 NT,306,Lingiari,34178,Jabiru PPVC,71,56.35,55,43.65,126,-2.19
-NT,306,Lingiari,8717,Katherine,448,46.47,516,53.53,964,5.72
+NT,306,Lingiari,8717,Katherine,448,46.57,514,53.43,962,5.82
 NT,306,Lingiari,12068,Katherine East,407,49.76,411,50.24,818,4.57
 NT,306,Lingiari,34179,Katherine PPVC,774,43.7,997,56.3,1771,-14.74
 NT,306,Lingiari,12069,Larapinta,563,52.67,506,47.33,1069,7.93
@@ -3134,7 +3134,7 @@ NT,306,Lingiari,46752,Remote Mobile Team 22,100,42.74,134,57.26,234,-44.97
 NT,306,Lingiari,34149,Remote Mobile Team 3,250,59.52,170,40.48,420,-28.18
 NT,306,Lingiari,34150,Remote Mobile Team 4,482,65.94,249,34.06,731,-21.61
 NT,306,Lingiari,34151,Remote Mobile Team 5,716,65.33,380,34.67,1096,-22.27
-NT,306,Lingiari,34152,Remote Mobile Team 6,820,63.32,475,36.68,1295,-24.29
+NT,306,Lingiari,34152,Remote Mobile Team 6,822,64.22,458,35.78,1280,-23.39
 NT,306,Lingiari,34153,Remote Mobile Team 7,135,57.94,98,42.06,233,-29.74
 NT,306,Lingiari,34154,Remote Mobile Team 8,125,39.56,191,60.44,316,-48.01
 NT,306,Lingiari,34155,Remote Mobile Team 9,374,59.94,250,40.06,624,-27.72
@@ -3312,8 +3312,8 @@ QLD,155,Bowman,5156,Wellington Point,831,36.79,1428,63.21,2259,-13.24
 QLD,155,Bowman,32918,Wellington Point West,887,38.84,1397,61.16,2284,-8.78
 QLD,156,Brisbane,5167,Alderley,980,55.34,791,44.66,1771,-4.39
 QLD,156,Brisbane,6017,Ascot,569,22.3,1982,77.7,2551,-6.16
-QLD,156,Brisbane,5168,Ashgrove,1471,52.39,1337,47.61,2808,-3.01
-QLD,156,Brisbane,55316,Ashgrove West (Brisbane),573,45.37,690,54.63,1263,-7.43
+QLD,156,Brisbane,5168,Ashgrove,1463,52.21,1339,47.79,2802,-3.19
+QLD,156,Brisbane,55316,Ashgrove West (Brisbane),568,44.97,695,55.03,1263,-7.83
 QLD,156,Brisbane,5170,Ballymore,455,54.23,384,45.77,839,-2.75
 QLD,156,Brisbane,5566,Brisbane City (Brisbane),1100,51.16,1050,48.84,2150,-6.38
 QLD,156,Brisbane,32606,Brisbane City BRISBANE PPVC,1294,64.35,717,35.65,2011,9.79
@@ -3321,9 +3321,9 @@ QLD,156,Brisbane,6029,Clayfield,702,37.93,1149,62.07,1851,-3.39
 QLD,156,Brisbane,6030,Clayfield West,926,39.39,1425,60.61,2351,-5.79
 QLD,156,Brisbane,30147,Divisional Office (PREPOLL),315,42.92,419,57.08,734,-11.66
 QLD,156,Brisbane,5171,Dorrington,535,47.77,585,52.23,1120,-7.13
-QLD,156,Brisbane,5174,Enoggera,551,48.33,589,51.67,1140,-8.08
+QLD,156,Brisbane,5174,Enoggera,550,48.29,589,51.71,1139,-8.12
 QLD,156,Brisbane,5576,Fortitude Valley,752,55.33,607,44.67,1359,-3.46
-QLD,156,Brisbane,5177,Gaythorne (Brisbane),537,56.59,412,43.41,949,-2.57
+QLD,156,Brisbane,5177,Gaythorne (Brisbane),537,56.65,411,43.35,948,-2.51
 QLD,156,Brisbane,38318,Gordon Park,815,53.03,722,46.97,1537,-3.37
 QLD,156,Brisbane,6034,Hamilton,773,36.95,1319,63.05,2092,-5.7
 QLD,156,Brisbane,6035,Hendra,460,31.31,1009,68.69,1469,-7.55
@@ -3547,9 +3547,9 @@ QLD,252,Dickson,5509,Strathpine,1293,52.01,1193,47.99,2486,-7.06
 QLD,252,Dickson,46594,Strathpine DICKSON PPVC,2019,43.72,2599,56.28,4618,-5.08
 QLD,252,Dickson,5511,Strathpine West,978,53.8,840,46.2,1818,-7.89
 QLD,252,Dickson,32542,Warner,1339,39.99,2009,60.01,3348,-5.84
-QLD,159,Fadden,6253,Alberton,81,21.72,292,78.28,373,-10.87
+QLD,159,Fadden,6253,Alberton,82,21.98,291,78.02,373,-10.61
 QLD,159,Fadden,31650,Arundel,1999,36.09,3540,63.91,5539,-2.59
-QLD,159,Fadden,32499,Arundel East,401,40.96,578,59.04,979,-0.38
+QLD,159,Fadden,32499,Arundel East,402,41.02,578,58.98,980,-0.32
 QLD,159,Fadden,37405,Ashmore (Fadden),237,39.37,365,60.63,602,-7.53
 QLD,159,Fadden,37412,Ashmore West (Fadden),575,40.1,859,59.9,1434,-2.22
 QLD,159,Fadden,58754,Beenleigh FADDEN PPVC,115,37.58,191,62.42,306,-23.66
@@ -3576,7 +3576,7 @@ QLD,159,Fadden,58495,Ormeau,451,40.34,667,59.66,1118,-1.57
 QLD,159,Fadden,6282,Oxenford (Fadden),627,31.56,1360,68.44,1987,-5.16
 QLD,159,Fadden,33989,Pacific Pines (Fadden),1414,40.35,2090,59.65,3504,-2.02
 QLD,159,Fadden,58549,Pacific Pines North,291,38.19,471,61.81,762,-5.97
-QLD,159,Fadden,58548,Pacific Pines West (Fadden),137,39.37,211,60.63,348,-3.8
+QLD,159,Fadden,58548,Pacific Pines West (Fadden),138,39.66,210,60.34,348,-3.51
 QLD,159,Fadden,6283,Paradise Lakes,587,43.48,763,56.52,1350,-3.33
 QLD,159,Fadden,12001,Paradise Point,730,25.44,2140,74.56,2870,-3.57
 QLD,159,Fadden,12003,Runaway Bay,981,27.79,2549,72.21,3530,-1.54
@@ -3977,15 +3977,15 @@ QLD,166,Hinkler,46376,Bargara South,870,40.85,1260,59.15,2130,-3.93
 QLD,166,Hinkler,5723,Booyal,33,36.67,57,63.33,90,1.92
 QLD,166,Hinkler,5727,Branyan,481,36.27,845,63.73,1326,-11.76
 QLD,166,Hinkler,14222,Brisbane City (Hinkler),10,34.48,19,65.52,29,-7.52
-QLD,166,Hinkler,5731,Bundaberg,576,43.02,763,56.98,1339,-9.6
+QLD,166,Hinkler,5731,Bundaberg,573,42.86,764,57.14,1337,-9.76
 QLD,166,Hinkler,5732,Bundaberg East,687,40.58,1006,59.42,1693,-5.49
 QLD,166,Hinkler,46484,Bundaberg HINKLER PPVC,1153,40.83,1671,59.17,2824,-13.11
 QLD,166,Hinkler,5734,Bundaberg North,602,47.1,676,52.9,1278,-9.83
 QLD,166,Hinkler,5782,Bundaberg North West,566,42.27,773,57.73,1339,-10.59
-QLD,166,Hinkler,5736,Bundaberg South,881,45.96,1036,54.04,1917,-9.31
+QLD,166,Hinkler,5736,Bundaberg South,882,45.96,1037,54.04,1919,-9.31
 QLD,166,Hinkler,5737,Bundaberg West,817,48.86,855,51.14,1672,-8.21
 QLD,166,Hinkler,5738,Burnett Heads,554,46.75,631,53.25,1185,-9.84
-QLD,166,Hinkler,6548,Burrum Heads,323,34.92,602,65.08,925,-10.2
+QLD,166,Hinkler,6548,Burrum Heads,326,35.09,603,64.91,929,-10.03
 QLD,166,Hinkler,5740,Childers,610,39.71,926,60.29,1536,-9.74
 QLD,166,Hinkler,5743,Cordalba,122,36.64,211,63.36,333,-11.43
 QLD,166,Hinkler,30157,Divisional Office (PREPOLL),1237,40.23,1838,59.77,3075,-13.77
@@ -4676,17 +4676,17 @@ QLD,175,Petrie,11642,Rothwell,903,43.33,1181,56.67,2084,-2.14
 QLD,175,Petrie,6417,Scarborough,1325,49.77,1337,50.23,2662,-3.59
 QLD,175,Petrie,6418,Scarborough North,559,48.74,588,51.26,1147,-5.42
 QLD,175,Petrie,32587,Special Hospital Team 1,51,45.95,60,54.05,111,1.16
-QLD,175,Petrie,46458,Special Hospital Team 2,0,0,0,0,0,-44.87
+QLD,175,Petrie,46458,Special Hospital Team 2,88,61.97,54,38.03,142,17.1
 QLD,175,Petrie,58563,Special Hospital Team 3,75,51.37,71,48.63,146,6.83
 QLD,175,Petrie,58727,Strathpine PETRIE PPVC,423,49.07,439,50.93,862,-0.93
 QLD,175,Petrie,33993,Taigum (Petrie),767,64.35,425,35.65,1192,3.83
 QLD,175,Petrie,6423,Woody Point,791,56.58,607,43.42,1398,-0.67
 QLD,175,Petrie,47775,Woody Point North,773,51.81,719,48.19,1492,-6.15
-QLD,176,Rankin,5527,Algester,1722,53.15,1518,46.85,3240,-2.7
-QLD,176,Rankin,47723,Algester South,1564,52.86,1395,47.14,2959,-2.52
+QLD,176,Rankin,5527,Algester,1698,53.38,1483,46.62,3181,-2.47
+QLD,176,Rankin,47723,Algester South,1466,49.48,1497,50.52,2963,-5.9
 QLD,176,Rankin,58755,Beenleigh RANKIN PPVC,146,52.9,130,47.1,276,-8.27
 QLD,176,Rankin,5528,Berrinba East,1340,71.28,540,28.72,1880,-5.54
-QLD,176,Rankin,56194,Boronia Heights (Rankin),435,58.7,306,41.3,741,-6.18
+QLD,176,Rankin,56194,Boronia Heights (Rankin),436,58.68,307,41.32,743,-6.2
 QLD,176,Rankin,14232,Brisbane City (Rankin),83,55.7,66,44.3,149,-9.09
 QLD,176,Rankin,6433,Browns Plains (Rankin),1591,61.6,992,38.4,2583,-2.8
 QLD,176,Rankin,47736,Browns Plains PPVC,723,49.86,727,50.14,1450,-11.25
@@ -5239,7 +5239,7 @@ SA,183,Grey,33198,Special Hospital Team 4,0,0,0,0,0,-41.96
 SA,183,Grey,33199,Special Hospital Team 5,0,0,0,0,0,-42.25
 SA,183,Grey,33200,Special Hospital Team 6,0,0,0,0,0,-41.84
 SA,183,Grey,33201,Special Hospital Team 7,0,0,0,0,0,-42.01
-SA,183,Grey,33204,Special Hospital Team 8,0,0,0,0,0,-42.05
+SA,183,Grey,33204,Special Hospital Team 8,65,66.33,33,33.67,98,24.28
 SA,183,Grey,7422,Stansbury,142,36.22,250,63.78,392,0.28
 SA,183,Grey,6965,Stirling North,327,38.29,527,61.71,854,-16.56
 SA,183,Grey,6966,Streaky Bay,199,27.26,531,72.74,730,-1.85
@@ -5799,7 +5799,7 @@ TAS,193,Braddon,33840,Special Hospital Team 4,0,0,0,0,0,-41.92
 TAS,193,Braddon,8417,Sprent,103,46.61,118,53.39,221,-4.34
 TAS,193,Braddon,8418,Spreyton,759,59.02,527,40.98,1286,11.97
 TAS,193,Braddon,8419,Stanley,228,57.72,167,42.28,395,4.09
-TAS,193,Braddon,8420,Stowport,116,51.33,110,48.67,226,1.33
+TAS,193,Braddon,8420,Stowport,117,51.54,110,48.46,227,1.54
 TAS,193,Braddon,8673,Strahan,210,55.26,170,44.74,380,-1.92
 TAS,193,Braddon,8421,Sulphur Creek,222,44.05,282,55.95,504,-8.12
 TAS,193,Braddon,8422,Togari,26,32.1,55,67.9,81,2.1
@@ -6030,11 +6030,11 @@ TAS,196,Lyons,8693,Wilmot,136,58.62,96,41.38,232,-1.02
 VIC,197,Aston,2942,Bayswater,1226,54.59,1020,45.41,2246,3.6
 VIC,197,Aston,2944,Bayswater South,470,54.02,400,45.98,870,3.36
 VIC,197,Aston,2945,Bayswater West,948,52.61,854,47.39,1802,7.89
-VIC,197,Aston,2947,Blackwood Park,696,52.69,625,47.31,1321,6.18
-VIC,197,Aston,3564,Charlesworth Park,1390,46.32,1611,53.68,3001,-0.73
+VIC,197,Aston,2947,Blackwood Park,696,52.73,624,47.27,1320,6.22
+VIC,197,Aston,3564,Charlesworth Park,1395,46.5,1605,53.5,3000,-0.55
 VIC,197,Aston,30188,Divisional Office (PREPOLL),1248,40.13,1862,59.87,3110,-2.46
-VIC,197,Aston,2949,Eastmont,674,48.14,726,51.86,1400,2.52
-VIC,197,Aston,2952,Flamingo,875,41.14,1252,58.86,2127,1.37
+VIC,197,Aston,2949,Eastmont,587,41.9,814,58.1,1401,-3.72
+VIC,197,Aston,2952,Flamingo,873,41.08,1252,58.92,2125,1.31
 VIC,197,Aston,31743,Heany Park,2071,47.83,2259,52.17,4330,1.74
 VIC,197,Aston,31744,Karoo,1598,43.78,2052,56.22,3650,2.57
 VIC,197,Aston,2957,Kent Park,675,54.09,573,45.91,1248,5.63
@@ -6437,7 +6437,7 @@ VIC,207,Corangamite,3487,Grovedale,1863,55.46,1496,44.54,3359,0.87
 VIC,207,Corangamite,32829,Grovedale East,1300,53.96,1109,46.04,2409,0.55
 VIC,207,Corangamite,32828,Highton,1053,46.27,1223,53.73,2276,0.42
 VIC,207,Corangamite,3488,Highton North,1075,48.8,1128,51.2,2203,1.15
-VIC,207,Corangamite,3460,Highton South,1163,51.48,1096,48.52,2259,0.43
+VIC,207,Corangamite,3460,Highton South,1164,51.57,1093,48.43,2257,0.52
 VIC,207,Corangamite,46542,Highton West,885,42.3,1207,57.7,2092,0.51
 VIC,207,Corangamite,3490,Inverleigh,316,46.2,368,53.8,684,-3.41
 VIC,207,Corangamite,3492,Irrewillipe,61,30.5,139,69.5,200,1.22
