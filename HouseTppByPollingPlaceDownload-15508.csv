@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T19:03:41 Cycle:b5f07f46-ecb9-4fef-85d1-0b1ae2db21c8 Created:2010-08-24T18:47:38 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T19:19:29 Cycle:65845a72-84df-4e65-88d0-49bbba08956c Created:2010-08-24T19:02:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -1881,7 +1881,7 @@ NSW,134,Mitchell,11974,Oakhill Drive (Mitchell),460,30.01,1073,69.99,1533,-10.5
 NSW,134,Mitchell,1853,Rondelay,611,31.56,1325,68.44,1936,-6.99
 NSW,134,Mitchell,1854,Rouse Hill,890,28.16,2271,71.84,3161,-5.93
 NSW,134,Mitchell,1837,Samuel Gilbert (Mitchell),753,24.16,2364,75.84,3117,-8.71
-NSW,134,Mitchell,37049,Sherwood Ridge,879,29.69,2082,70.31,2961,-7.03
+NSW,134,Mitchell,37049,Sherwood Ridge,883,29.8,2080,70.2,2963,-6.92
 NSW,134,Mitchell,58758,Special Hospital Team 1,5,31.25,11,68.75,16,-16.51
 NSW,134,Mitchell,14125,Sydney (Mitchell),29,46.77,33,53.23,62,-11.29
 NSW,134,Mitchell,1826,The Hills,47,31.13,104,68.87,151,-3.28
@@ -3810,18 +3810,18 @@ QLD,162,Forde,6278,Mount Warren Park,1287,50.87,1243,49.13,2530,-3.66
 QLD,162,Forde,47720,Norfolk Village,800,41.6,1123,58.4,1923,-1.55
 QLD,162,Forde,55683,Oxenford (Forde),134,31.83,287,68.17,421,-4.86
 QLD,162,Forde,6468,Park Ridge (Forde),1329,46.91,1504,53.09,2833,-6.96
-QLD,162,Forde,6285,Pimpama,214,32.08,453,67.92,667,-3.3
+QLD,162,Forde,6285,Pimpama,214,32.18,451,67.82,665,-3.2
 QLD,162,Forde,5405,Shailer Park,1626,43.76,2090,56.24,3716,-4.67
-QLD,162,Forde,55732,Slacks Creek (Forde),500,42.99,663,57.01,1163,-6.46
-QLD,162,Forde,32716,Special Hospital Team 1,60,48,65,52,125,-7
-QLD,162,Forde,32717,Special Hospital Team 2,56,49.56,57,50.44,113,-6.21
+QLD,162,Forde,55732,Slacks Creek (Forde),502,43.09,663,56.91,1165,-6.36
+QLD,162,Forde,32716,Special Hospital Team 1,59,47.2,66,52.8,125,-7.8
+QLD,162,Forde,32717,Special Hospital Team 2,55,48.67,58,51.33,113,-7.1
 QLD,162,Forde,58483,Special Hospital Team 3,19,65.52,10,34.48,29,9.64
 QLD,162,Forde,6277,Upper Coomera,522,40.15,778,59.85,1300,1.62
 QLD,162,Forde,38301,Upper Coomera North,1372,49.96,1374,50.04,2746,4.65
-QLD,162,Forde,6259,Waterford,366,45.86,432,54.14,798,-11.04
+QLD,162,Forde,6259,Waterford,366,45.81,433,54.19,799,-11.09
 QLD,162,Forde,6486,Waterford West,1229,52.91,1094,47.09,2323,-9.64
-QLD,162,Forde,38308,Windaroo,301,55.43,242,44.57,543,2.88
-QLD,162,Forde,31805,Windaroo Valley,908,39.79,1374,60.21,2282,-3.95
+QLD,162,Forde,38308,Windaroo,299,55.27,242,44.73,541,2.72
+QLD,162,Forde,31805,Windaroo Valley,909,39.85,1372,60.15,2281,-3.89
 QLD,163,Griffith,6303,Annerley (Griffith),506,64.21,282,35.79,788,4.37
 QLD,163,Griffith,5564,Balmoral,914,55.03,747,44.97,1661,-6.07
 QLD,163,Griffith,14217,Brisbane City (Griffith),366,70.25,155,29.75,521,-2.71
@@ -8539,7 +8539,7 @@ WA,242,Moore,32453,Hillarys North,302,22.76,1025,77.24,1327,-3.77
 WA,242,Moore,38452,Iluka,258,33.03,523,66.97,781,1.38
 WA,242,Moore,11903,Joondalup,1069,42.9,1423,57.1,2492,-3.84
 WA,242,Moore,38453,Joondalup Central,513,43.04,679,56.96,1192,0.59
-WA,242,Moore,7942,Kallaroo,927,34.23,1781,65.77,2708,-2.27
+WA,242,Moore,7942,Kallaroo,927,34.26,1779,65.74,2706,-2.24
 WA,242,Moore,31962,Kinross,1351,43.95,1723,56.05,3074,-1.63
 WA,242,Moore,7581,Marmion,526,32.57,1089,67.43,1615,-2.76
 WA,242,Moore,32452,Mindarie,1040,33.01,2111,66.99,3151,0.63
