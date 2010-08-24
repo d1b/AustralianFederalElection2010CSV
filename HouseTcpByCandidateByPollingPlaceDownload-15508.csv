@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T17:29:24 Cycle:620fecce-8063-43cf-bb8f-66019f80dbc5 Created:2010-08-24T17:17:22 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T17:45:05 Cycle:0c748493-e6f3-4215-a7aa-0192ba61f3cc Created:2010-08-24T17:32:28 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 ACT,101,Canberra,8829,Barton,20863,JONES,Giulia,1,N,N,LP,Liberal,790,-2.73
 ACT,101,Canberra,8829,Barton,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1399,2.73
@@ -3118,16 +3118,16 @@ NSW,128,Lindsay,1494,Nepean High,21283,BRADBURY,David,1,N,Y,ALP,Labor,700,-8.05
 NSW,128,Lindsay,1494,Nepean High,21622,SCOTT,Fiona,7,N,N,LP,Liberal,848,8.05
 NSW,128,Lindsay,1495,Nepean Hospital,21283,BRADBURY,David,1,N,Y,ALP,Labor,270,-6.37
 NSW,128,Lindsay,1495,Nepean Hospital,21622,SCOTT,Fiona,7,N,N,LP,Liberal,191,6.37
-NSW,128,Lindsay,1496,Orchard Hills,21283,BRADBURY,David,1,N,Y,ALP,Labor,202,-7.42
-NSW,128,Lindsay,1496,Orchard Hills,21622,SCOTT,Fiona,7,N,N,LP,Liberal,651,7.42
+NSW,128,Lindsay,1496,Orchard Hills,21283,BRADBURY,David,1,N,Y,ALP,Labor,205,-7.43
+NSW,128,Lindsay,1496,Orchard Hills,21622,SCOTT,Fiona,7,N,N,LP,Liberal,661,7.43
 NSW,128,Lindsay,1497,Oxley Park,21283,BRADBURY,David,1,N,Y,ALP,Labor,1253,-5.45
 NSW,128,Lindsay,1497,Oxley Park,21622,SCOTT,Fiona,7,N,N,LP,Liberal,954,5.45
 NSW,128,Lindsay,1498,Penrith,21283,BRADBURY,David,1,N,Y,ALP,Labor,733,-4.9
 NSW,128,Lindsay,1498,Penrith,21622,SCOTT,Fiona,7,N,N,LP,Liberal,557,4.9
 NSW,128,Lindsay,1499,Penrith Central,21283,BRADBURY,David,1,N,Y,ALP,Labor,461,-2.78
 NSW,128,Lindsay,1499,Penrith Central,21622,SCOTT,Fiona,7,N,N,LP,Liberal,373,2.78
-NSW,128,Lindsay,1501,Penrith North,21283,BRADBURY,David,1,N,Y,ALP,Labor,614,-4.05
-NSW,128,Lindsay,1501,Penrith North,21622,SCOTT,Fiona,7,N,N,LP,Liberal,495,4.05
+NSW,128,Lindsay,1501,Penrith North,21283,BRADBURY,David,1,N,Y,ALP,Labor,608,-4.05
+NSW,128,Lindsay,1501,Penrith North,21622,SCOTT,Fiona,7,N,N,LP,Liberal,490,4.05
 NSW,128,Lindsay,33841,Penrith PPVC,21283,BRADBURY,David,1,N,Y,ALP,Labor,2038,-6.87
 NSW,128,Lindsay,33841,Penrith PPVC,21622,SCOTT,Fiona,7,N,N,LP,Liberal,2296,6.87
 NSW,128,Lindsay,1502,Penrith South,21283,BRADBURY,David,1,N,Y,ALP,Labor,1638,-6.36
@@ -3138,8 +3138,8 @@ NSW,128,Lindsay,33630,Special Hospital Team 1,21283,BRADBURY,David,1,N,Y,ALP,Lab
 NSW,128,Lindsay,33630,Special Hospital Team 1,21622,SCOTT,Fiona,7,N,N,LP,Liberal,15,-7.81
 NSW,128,Lindsay,1504,St Marys,21283,BRADBURY,David,1,N,Y,ALP,Labor,813,-6.3
 NSW,128,Lindsay,1504,St Marys,21622,SCOTT,Fiona,7,N,N,LP,Liberal,499,6.3
-NSW,128,Lindsay,410,St Marys North,21283,BRADBURY,David,1,N,Y,ALP,Labor,1031,-6.84
-NSW,128,Lindsay,410,St Marys North,21622,SCOTT,Fiona,7,N,N,LP,Liberal,612,6.84
+NSW,128,Lindsay,410,St Marys North,21283,BRADBURY,David,1,N,Y,ALP,Labor,1025,-6.55
+NSW,128,Lindsay,410,St Marys North,21622,SCOTT,Fiona,7,N,N,LP,Liberal,601,6.55
 NSW,128,Lindsay,1506,St Marys South,21283,BRADBURY,David,1,N,Y,ALP,Labor,1406,-4.11
 NSW,128,Lindsay,1506,St Marys South,21622,SCOTT,Fiona,7,N,N,LP,Liberal,989,4.11
 NSW,128,Lindsay,1507,Stuart Street,21283,BRADBURY,David,1,N,Y,ALP,Labor,521,-6.28
@@ -6742,10 +6742,10 @@ QLD,157,Capricornia,5226,Coppabella,21456,LIVERMORE,Kirsten,5,N,Y,ALP,Australian
 QLD,157,Capricornia,5226,Coppabella,20817,LANDRY,Michelle,6,N,N,LNQ,Liberal National Party of Queensland,45,-1.27
 QLD,157,Capricornia,46437,Coppabella Mac Camp PPVC,21456,LIVERMORE,Kirsten,5,N,Y,ALP,Australian Labor Party,24,18.37
 QLD,157,Capricornia,46437,Coppabella Mac Camp PPVC,20817,LANDRY,Michelle,6,N,N,LNQ,Liberal National Party of Queensland,20,-18.37
-QLD,157,Capricornia,5227,Crescent Lagoon,21456,LIVERMORE,Kirsten,5,N,Y,ALP,Australian Labor Party,575,-7.58
-QLD,157,Capricornia,5227,Crescent Lagoon,20817,LANDRY,Michelle,6,N,N,LNQ,Liberal National Party of Queensland,367,7.58
-QLD,157,Capricornia,5228,Depot Hill,21456,LIVERMORE,Kirsten,5,N,Y,ALP,Australian Labor Party,351,-8.48
-QLD,157,Capricornia,5228,Depot Hill,20817,LANDRY,Michelle,6,N,N,LNQ,Liberal National Party of Queensland,140,8.48
+QLD,157,Capricornia,5227,Crescent Lagoon,21456,LIVERMORE,Kirsten,5,N,Y,ALP,Australian Labor Party,576,-7.54
+QLD,157,Capricornia,5227,Crescent Lagoon,20817,LANDRY,Michelle,6,N,N,LNQ,Liberal National Party of Queensland,367,7.54
+QLD,157,Capricornia,5228,Depot Hill,21456,LIVERMORE,Kirsten,5,N,Y,ALP,Australian Labor Party,347,-8.42
+QLD,157,Capricornia,5228,Depot Hill,20817,LANDRY,Michelle,6,N,N,LNQ,Liberal National Party of Queensland,138,8.42
 QLD,157,Capricornia,30148,Divisional Office (PREPOLL),21456,LIVERMORE,Kirsten,5,N,Y,ALP,Australian Labor Party,193,15.23
 QLD,157,Capricornia,30148,Divisional Office (PREPOLL),20817,LANDRY,Michelle,6,N,N,LNQ,Liberal National Party of Queensland,180,-15.23
 QLD,157,Capricornia,5230,Dysart,21456,LIVERMORE,Kirsten,5,N,Y,ALP,Australian Labor Party,631,-4.84
@@ -8032,8 +8032,8 @@ QLD,166,Hinkler,5795,Woodgate,21655,MCNEVEN,Belinda,2,N,N,ALP,Australian Labor P
 QLD,166,Hinkler,5795,Woodgate,20748,NEVILLE,Paul,5,N,Y,LNQ,Liberal National Party of Queensland,390,6.81
 QLD,166,Hinkler,5797,Woongarra,21655,MCNEVEN,Belinda,2,N,N,ALP,Australian Labor Party,357,-7.01
 QLD,166,Hinkler,5797,Woongarra,20748,NEVILLE,Paul,5,N,Y,LNQ,Liberal National Party of Queensland,658,7.01
-QLD,166,Hinkler,38275,Yarrilee,21655,MCNEVEN,Belinda,2,N,N,ALP,Australian Labor Party,822,-9.59
-QLD,166,Hinkler,38275,Yarrilee,20748,NEVILLE,Paul,5,N,Y,LNQ,Liberal National Party of Queensland,1624,9.59
+QLD,166,Hinkler,38275,Yarrilee,21655,MCNEVEN,Belinda,2,N,N,ALP,Australian Labor Party,820,-9.69
+QLD,166,Hinkler,38275,Yarrilee,20748,NEVILLE,Paul,5,N,Y,LNQ,Liberal National Party of Queensland,1627,9.69
 QLD,167,Kennedy,5804,Abergowrie,13270,KATTER,Bob,4,N,Y,IND,Independent,108,63.53
 QLD,167,Kennedy,5804,Abergowrie,20781,MORRISON,Ed,5,N,N,LNQ,Liberal National Party of Queensland,62,36.47
 QLD,167,Kennedy,12019,Alice River (Kennedy),13270,KATTER,Bob,4,N,Y,IND,Independent,644,65.58
@@ -11502,8 +11502,8 @@ TAS,193,Braddon,30184,Divisional Office (PREPOLL),20953,CARPENTER,Garry William,
 TAS,193,Braddon,30184,Divisional Office (PREPOLL),20935,SIDEBOTTOM,Sid,3,N,Y,ALP,Australian Labor Party,184,2.38
 TAS,193,Braddon,8375,Don,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,411,-8.93
 TAS,193,Braddon,8375,Don,20935,SIDEBOTTOM,Sid,3,N,Y,ALP,Australian Labor Party,472,8.93
-TAS,193,Braddon,8372,East Devonport,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,674,-10.07
-TAS,193,Braddon,8372,East Devonport,20935,SIDEBOTTOM,Sid,3,N,Y,ALP,Australian Labor Party,1286,10.07
+TAS,193,Braddon,8372,East Devonport,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,673,-10.09
+TAS,193,Braddon,8372,East Devonport,20935,SIDEBOTTOM,Sid,3,N,Y,ALP,Australian Labor Party,1285,10.09
 TAS,193,Braddon,8376,Edith Creek,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,80,-8.29
 TAS,193,Braddon,8376,Edith Creek,20935,SIDEBOTTOM,Sid,3,N,Y,ALP,Australian Labor Party,98,8.29
 TAS,193,Braddon,8378,Elliott,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,102,-5.26
@@ -12582,8 +12582,8 @@ VIC,203,Calwell,30194,Divisional Office (PREPOLL),21159,VAMVAKINOU,Maria,4,N,Y,A
 VIC,203,Calwell,30194,Divisional Office (PREPOLL),21153,TSENG,Wayne,5,N,N,LP,Liberal,0,-35.48
 VIC,203,Calwell,4588,Gladstone Park,21159,VAMVAKINOU,Maria,4,N,Y,ALP,Australian Labor Party,2331,4.44
 VIC,203,Calwell,4588,Gladstone Park,21153,TSENG,Wayne,5,N,N,LP,Liberal,1025,-4.44
-VIC,203,Calwell,4589,Gladstone Views,21159,VAMVAKINOU,Maria,4,N,Y,ALP,Australian Labor Party,1689,3.28
-VIC,203,Calwell,4589,Gladstone Views,21153,TSENG,Wayne,5,N,N,LP,Liberal,710,-3.28
+VIC,203,Calwell,4589,Gladstone Views,21159,VAMVAKINOU,Maria,4,N,Y,ALP,Australian Labor Party,1688,3.27
+VIC,203,Calwell,4589,Gladstone Views,21153,TSENG,Wayne,5,N,N,LP,Liberal,710,-3.27
 VIC,203,Calwell,58714,Glenroy CALWELL PPVC,21159,VAMVAKINOU,Maria,4,N,Y,ALP,Australian Labor Party,2248,9.19
 VIC,203,Calwell,58714,Glenroy CALWELL PPVC,21153,TSENG,Wayne,5,N,N,LP,Liberal,795,-9.19
 VIC,203,Calwell,3288,Greenvale,21159,VAMVAKINOU,Maria,4,N,Y,ALP,Australian Labor Party,2062,3.04
@@ -12640,24 +12640,24 @@ VIC,204,Casey,3372,Bimbadeen Heights,21201,SMITH,Tony,1,N,Y,LP,Liberal,1078,0.22
 VIC,204,Casey,3372,Bimbadeen Heights,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,942,-0.22
 VIC,204,Casey,4870,Birmingham,21201,SMITH,Tony,1,N,Y,LP,Liberal,1546,-3.85
 VIC,204,Casey,4870,Birmingham,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,1556,3.85
-VIC,204,Casey,3373,Chirnside Park,21201,SMITH,Tony,1,N,Y,LP,Liberal,1809,-2.29
-VIC,204,Casey,3373,Chirnside Park,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,1305,2.29
+VIC,204,Casey,3373,Chirnside Park,21201,SMITH,Tony,1,N,Y,LP,Liberal,1827,-1.69
+VIC,204,Casey,3373,Chirnside Park,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,1286,1.69
 VIC,204,Casey,3375,Coldstream,21201,SMITH,Tony,1,N,Y,LP,Liberal,659,-4.66
 VIC,204,Casey,3375,Coldstream,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,549,4.66
-VIC,204,Casey,4875,Croydon (Casey),21201,SMITH,Tony,1,N,Y,LP,Liberal,449,-4.53
-VIC,204,Casey,4875,Croydon (Casey),21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,509,4.53
-VIC,204,Casey,3376,Croydon Central,21201,SMITH,Tony,1,N,Y,LP,Liberal,1335,-2.1
-VIC,204,Casey,3376,Croydon Central,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,1299,2.1
-VIC,204,Casey,4876,Croydon East,21201,SMITH,Tony,1,N,Y,LP,Liberal,1288,-1.41
-VIC,204,Casey,4876,Croydon East,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,1264,1.41
-VIC,204,Casey,3377,Croydon Hills,21201,SMITH,Tony,1,N,Y,LP,Liberal,1825,-3.5
-VIC,204,Casey,3377,Croydon Hills,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,1188,3.5
-VIC,204,Casey,3378,Croydon North,21201,SMITH,Tony,1,N,Y,LP,Liberal,793,-0.48
-VIC,204,Casey,3378,Croydon North,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,648,0.48
-VIC,204,Casey,56447,Croydon Town (Casey),21201,SMITH,Tony,1,N,Y,LP,Liberal,311,-2.78
-VIC,204,Casey,56447,Croydon Town (Casey),21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,323,2.78
-VIC,204,Casey,3379,Croydon West,21201,SMITH,Tony,1,N,Y,LP,Liberal,778,-2.37
-VIC,204,Casey,3379,Croydon West,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,712,2.37
+VIC,204,Casey,4875,Croydon (Casey),21201,SMITH,Tony,1,N,Y,LP,Liberal,449,-4.48
+VIC,204,Casey,4875,Croydon (Casey),21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,508,4.48
+VIC,204,Casey,3376,Croydon Central,21201,SMITH,Tony,1,N,Y,LP,Liberal,1334,-2.1
+VIC,204,Casey,3376,Croydon Central,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,1298,2.1
+VIC,204,Casey,4876,Croydon East,21201,SMITH,Tony,1,N,Y,LP,Liberal,1284,-1.43
+VIC,204,Casey,4876,Croydon East,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,1261,1.43
+VIC,204,Casey,3377,Croydon Hills,21201,SMITH,Tony,1,N,Y,LP,Liberal,1827,-3.45
+VIC,204,Casey,3377,Croydon Hills,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,1187,3.45
+VIC,204,Casey,3378,Croydon North,21201,SMITH,Tony,1,N,Y,LP,Liberal,790,-0.65
+VIC,204,Casey,3378,Croydon North,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,650,0.65
+VIC,204,Casey,56447,Croydon Town (Casey),21201,SMITH,Tony,1,N,Y,LP,Liberal,310,-2.7
+VIC,204,Casey,56447,Croydon Town (Casey),21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,321,2.7
+VIC,204,Casey,3379,Croydon West,21201,SMITH,Tony,1,N,Y,LP,Liberal,779,-2.3
+VIC,204,Casey,3379,Croydon West,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,711,2.3
 VIC,204,Casey,30195,Divisional Office (PREPOLL),21201,SMITH,Tony,1,N,Y,LP,Liberal,244,0.98
 VIC,204,Casey,30195,Divisional Office (PREPOLL),21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,168,-0.98
 VIC,204,Casey,3384,Gruyere,21201,SMITH,Tony,1,N,Y,LP,Liberal,238,-0.83
@@ -15440,10 +15440,10 @@ VIC,230,Melbourne Ports,4687,South Melbourne,21579,EKENDAHL,Kevin,1,N,N,LP,Liber
 VIC,230,Melbourne Ports,4687,South Melbourne,21599,DANBY,Michael David,3,N,Y,ALP,Australian Labor Party,1263,-0.55
 VIC,230,Melbourne Ports,36435,Southbank,21579,EKENDAHL,Kevin,1,N,N,LP,Liberal,666,-5.3
 VIC,230,Melbourne Ports,36435,Southbank,21599,DANBY,Michael David,3,N,Y,ALP,Australian Labor Party,758,5.3
-VIC,230,Melbourne Ports,4690,Special Hospital Team 1,21579,EKENDAHL,Kevin,1,N,N,LP,Liberal,0,-49.03
-VIC,230,Melbourne Ports,4690,Special Hospital Team 1,21599,DANBY,Michael David,3,N,Y,ALP,Australian Labor Party,0,-50.97
-VIC,230,Melbourne Ports,11584,Special Hospital Team 2,21579,EKENDAHL,Kevin,1,N,N,LP,Liberal,0,-48.08
-VIC,230,Melbourne Ports,11584,Special Hospital Team 2,21599,DANBY,Michael David,3,N,Y,ALP,Australian Labor Party,0,-51.92
+VIC,230,Melbourne Ports,4690,Special Hospital Team 1,21579,EKENDAHL,Kevin,1,N,N,LP,Liberal,46,-7.96
+VIC,230,Melbourne Ports,4690,Special Hospital Team 1,21599,DANBY,Michael David,3,N,Y,ALP,Australian Labor Party,66,7.96
+VIC,230,Melbourne Ports,11584,Special Hospital Team 2,21579,EKENDAHL,Kevin,1,N,N,LP,Liberal,12,-13.79
+VIC,230,Melbourne Ports,11584,Special Hospital Team 2,21599,DANBY,Michael David,3,N,Y,ALP,Australian Labor Party,23,13.79
 VIC,230,Melbourne Ports,4681,St Kilda,21579,EKENDAHL,Kevin,1,N,N,LP,Liberal,857,1.97
 VIC,230,Melbourne Ports,4681,St Kilda,21599,DANBY,Michael David,3,N,Y,ALP,Australian Labor Party,2010,-1.97
 VIC,230,Melbourne Ports,4682,St Kilda Beach,21579,EKENDAHL,Kevin,1,N,N,LP,Liberal,321,4.56
@@ -16866,16 +16866,16 @@ WA,240,Fremantle,32965,Atwell,20856,TAYLOR,Matt,1,N,N,LP,Liberal,1635,1.88
 WA,240,Fremantle,32965,Atwell,20885,PARKE,Melissa,5,N,Y,ALP,Australian Labor Party,1443,-1.88
 WA,240,Fremantle,38501,Atwell South,20856,TAYLOR,Matt,1,N,N,LP,Liberal,1159,3.99
 WA,240,Fremantle,38501,Atwell South,20885,PARKE,Melissa,5,N,Y,ALP,Australian Labor Party,883,-3.99
-WA,240,Fremantle,7756,Beaconsfield,20856,TAYLOR,Matt,1,N,N,LP,Liberal,679,3.73
-WA,240,Fremantle,7756,Beaconsfield,20885,PARKE,Melissa,5,N,Y,ALP,Australian Labor Party,1309,-3.73
-WA,240,Fremantle,33059,Beeliar,20856,TAYLOR,Matt,1,N,N,LP,Liberal,704,7.04
-WA,240,Fremantle,33059,Beeliar,20885,PARKE,Melissa,5,N,Y,ALP,Australian Labor Party,807,-7.04
-WA,240,Fremantle,36770,Beeliar West,20856,TAYLOR,Matt,1,N,N,LP,Liberal,620,3.05
-WA,240,Fremantle,36770,Beeliar West,20885,PARKE,Melissa,5,N,Y,ALP,Australian Labor Party,788,-3.05
-WA,240,Fremantle,7757,Bibra Lake,20856,TAYLOR,Matt,1,N,N,LP,Liberal,1127,0.88
-WA,240,Fremantle,7757,Bibra Lake,20885,PARKE,Melissa,5,N,Y,ALP,Australian Labor Party,1255,-0.88
-WA,240,Fremantle,7758,Bicton,20856,TAYLOR,Matt,1,N,N,LP,Liberal,1663,0.96
-WA,240,Fremantle,7758,Bicton,20885,PARKE,Melissa,5,N,Y,ALP,Australian Labor Party,1142,-0.96
+WA,240,Fremantle,7756,Beaconsfield,20856,TAYLOR,Matt,1,N,N,LP,Liberal,680,3.68
+WA,240,Fremantle,7756,Beaconsfield,20885,PARKE,Melissa,5,N,Y,ALP,Australian Labor Party,1314,-3.68
+WA,240,Fremantle,33059,Beeliar,20856,TAYLOR,Matt,1,N,N,LP,Liberal,703,6.98
+WA,240,Fremantle,33059,Beeliar,20885,PARKE,Melissa,5,N,Y,ALP,Australian Labor Party,808,-6.98
+WA,240,Fremantle,36770,Beeliar West,20856,TAYLOR,Matt,1,N,N,LP,Liberal,620,3.12
+WA,240,Fremantle,36770,Beeliar West,20885,PARKE,Melissa,5,N,Y,ALP,Australian Labor Party,786,-3.12
+WA,240,Fremantle,7757,Bibra Lake,20856,TAYLOR,Matt,1,N,N,LP,Liberal,1076,-1.16
+WA,240,Fremantle,7757,Bibra Lake,20885,PARKE,Melissa,5,N,Y,ALP,Australian Labor Party,1301,1.16
+WA,240,Fremantle,7758,Bicton,20856,TAYLOR,Matt,1,N,N,LP,Liberal,1667,1.08
+WA,240,Fremantle,7758,Bicton,20885,PARKE,Melissa,5,N,Y,ALP,Australian Labor Party,1139,-1.08
 WA,240,Fremantle,7760,Coogee Beach,20856,TAYLOR,Matt,1,N,N,LP,Liberal,1338,4.15
 WA,240,Fremantle,7760,Coogee Beach,20885,PARKE,Melissa,5,N,Y,ALP,Australian Labor Party,1225,-4.15
 WA,240,Fremantle,7761,Coolbellup,20856,TAYLOR,Matt,1,N,N,LP,Liberal,641,5.65
@@ -17854,8 +17854,8 @@ WA,248,Tangney,46570,Canning Vale East,20893,DOEPEL,David,2,N,N,ALP,Australian L
 WA,248,Tangney,46570,Canning Vale East,20859,JENSEN,Dennis,4,N,Y,LP,Liberal,2098,0.16
 WA,248,Tangney,47763,Canning Vale North,20893,DOEPEL,David,2,N,N,ALP,Australian Labor Party,716,2.54
 WA,248,Tangney,47763,Canning Vale North,20859,JENSEN,Dennis,4,N,Y,LP,Liberal,953,-2.54
-WA,248,Tangney,33054,Canning Vale South,20893,DOEPEL,David,2,N,N,ALP,Australian Labor Party,923,-1.48
-WA,248,Tangney,33054,Canning Vale South,20859,JENSEN,Dennis,4,N,Y,LP,Liberal,1574,1.48
+WA,248,Tangney,33054,Canning Vale South,20893,DOEPEL,David,2,N,N,ALP,Australian Labor Party,910,-1.85
+WA,248,Tangney,33054,Canning Vale South,20859,JENSEN,Dennis,4,N,Y,LP,Liberal,1577,1.85
 WA,248,Tangney,30239,Divisional Office (PREPOLL),20893,DOEPEL,David,2,N,N,ALP,Australian Labor Party,1154,-9.33
 WA,248,Tangney,30239,Divisional Office (PREPOLL),20859,JENSEN,Dennis,4,N,Y,LP,Liberal,2399,9.33
 WA,248,Tangney,7772,Kardinya (Tangney),20893,DOEPEL,David,2,N,N,ALP,Australian Labor Party,721,-4.25

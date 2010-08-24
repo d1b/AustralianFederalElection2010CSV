@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T17:29:29 Cycle:620fecce-8063-43cf-bb8f-66019f80dbc5 Created:2010-08-24T17:17:22 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T17:45:10 Cycle:0c748493-e6f3-4215-a7aa-0192ba61f3cc Created:2010-08-24T17:32:28 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -1559,17 +1559,17 @@ NSW,128,Lindsay,11958,Londonderry,702,37.24,1183,62.76,1885,-8.49
 NSW,128,Lindsay,889,Mulgoa,318,30.37,729,69.63,1047,-3.28
 NSW,128,Lindsay,1494,Nepean High,700,45.22,848,54.78,1548,-8.05
 NSW,128,Lindsay,1495,Nepean Hospital,270,58.57,191,41.43,461,-6.37
-NSW,128,Lindsay,1496,Orchard Hills,202,23.68,651,76.32,853,-7.42
+NSW,128,Lindsay,1496,Orchard Hills,205,23.67,661,76.33,866,-7.43
 NSW,128,Lindsay,1497,Oxley Park,1253,56.77,954,43.23,2207,-5.45
 NSW,128,Lindsay,1498,Penrith,733,56.82,557,43.18,1290,-4.9
 NSW,128,Lindsay,1499,Penrith Central,461,55.28,373,44.72,834,-2.78
-NSW,128,Lindsay,1501,Penrith North,614,55.37,495,44.63,1109,-4.05
+NSW,128,Lindsay,1501,Penrith North,608,55.37,490,44.63,1098,-4.05
 NSW,128,Lindsay,33841,Penrith PPVC,2038,47.02,2296,52.98,4334,-6.87
 NSW,128,Lindsay,1502,Penrith South,1638,51.14,1565,48.86,3203,-6.36
 NSW,128,Lindsay,1503,Regentville,947,43.72,1219,56.28,2166,-5.21
 NSW,128,Lindsay,33630,Special Hospital Team 1,20,57.14,15,42.86,35,7.81
 NSW,128,Lindsay,1504,St Marys,813,61.97,499,38.03,1312,-6.3
-NSW,128,Lindsay,410,St Marys North,1031,62.75,612,37.25,1643,-6.84
+NSW,128,Lindsay,410,St Marys North,1025,63.04,601,36.96,1626,-6.55
 NSW,128,Lindsay,1506,St Marys South,1406,58.71,989,41.29,2395,-4.11
 NSW,128,Lindsay,1507,Stuart Street,521,46.6,597,53.4,1118,-6.28
 NSW,128,Lindsay,32328,Sydney (Lindsay),26,53.06,23,46.94,49,-6.94
@@ -3371,8 +3371,8 @@ QLD,157,Capricornia,46725,Collinsville Interstate PPVC,0,0,0,0,0,0
 QLD,157,Capricornia,46724,Collinsville PPVC,198,80.16,49,19.84,247,43.65
 QLD,157,Capricornia,5226,Coppabella,93,67.39,45,32.61,138,1.27
 QLD,157,Capricornia,46437,Coppabella Mac Camp PPVC,24,54.55,20,45.45,44,18.37
-QLD,157,Capricornia,5227,Crescent Lagoon,575,61.04,367,38.96,942,-7.58
-QLD,157,Capricornia,5228,Depot Hill,351,71.49,140,28.51,491,-8.48
+QLD,157,Capricornia,5227,Crescent Lagoon,576,61.08,367,38.92,943,-7.54
+QLD,157,Capricornia,5228,Depot Hill,347,71.55,138,28.45,485,-8.42
 QLD,157,Capricornia,30148,Divisional Office (PREPOLL),193,51.74,180,48.26,373,15.23
 QLD,157,Capricornia,5230,Dysart,631,71.14,256,28.86,887,-4.84
 QLD,157,Capricornia,46485,Dysart Mac Camp PPVC,193,74.81,65,25.19,258,38.85
@@ -4016,7 +4016,7 @@ QLD,166,Hinkler,31798,Urraween,650,31.1,1440,68.9,2090,-7.41
 QLD,166,Hinkler,5792,Walkervale,858,48.75,902,51.25,1760,-9.56
 QLD,166,Hinkler,5795,Woodgate,192,32.99,390,67.01,582,-6.81
 QLD,166,Hinkler,5797,Woongarra,357,35.17,658,64.83,1015,-7.01
-QLD,166,Hinkler,38275,Yarrilee,822,33.61,1624,66.39,2446,-9.59
+QLD,166,Hinkler,38275,Yarrilee,820,33.51,1627,66.49,2447,-9.69
 QLD,167,Kennedy,5804,Abergowrie,0,0,0,0,0,0
 QLD,167,Kennedy,12019,Alice River (Kennedy),0,0,0,0,0,0
 QLD,167,Kennedy,5921,Aloomba,0,0,0,0,0,0
@@ -5751,7 +5751,7 @@ TAS,193,Braddon,34286,Devonport South,712,59.73,480,40.27,1192,5.48
 TAS,193,Braddon,8432,Devonport West,798,60.78,515,39.22,1313,10.69
 TAS,193,Braddon,30184,Divisional Office (PREPOLL),184,56.1,144,43.9,328,2.38
 TAS,193,Braddon,8375,Don,472,53.45,411,46.55,883,8.93
-TAS,193,Braddon,8372,East Devonport,1286,65.61,674,34.39,1960,10.07
+TAS,193,Braddon,8372,East Devonport,1285,65.63,673,34.37,1958,10.09
 TAS,193,Braddon,8376,Edith Creek,98,55.06,80,44.94,178,8.29
 TAS,193,Braddon,8378,Elliott,126,55.26,102,44.74,228,5.26
 TAS,193,Braddon,8379,Forest,188,46.31,218,53.69,406,9.76
@@ -6291,7 +6291,7 @@ VIC,203,Calwell,31044,Craigieburn South,2566,78.02,723,21.98,3289,3.19
 VIC,203,Calwell,46546,Craigieburn West,903,74.32,312,25.68,1215,0.79
 VIC,203,Calwell,30194,Divisional Office (PREPOLL),0,0,0,0,0,-64.52
 VIC,203,Calwell,4588,Gladstone Park,2331,69.46,1025,30.54,3356,4.44
-VIC,203,Calwell,4589,Gladstone Views,1689,70.4,710,29.6,2399,3.28
+VIC,203,Calwell,4589,Gladstone Views,1688,70.39,710,29.61,2398,3.27
 VIC,203,Calwell,58714,Glenroy CALWELL PPVC,2248,73.87,795,26.13,3043,9.19
 VIC,203,Calwell,3288,Greenvale,2062,60.05,1372,39.95,3434,3.04
 VIC,203,Calwell,46547,Greenvale South,1390,59.5,946,40.5,2336,1.07
@@ -6320,15 +6320,15 @@ VIC,203,Calwell,4607,Westmeadows,2307,69.91,993,30.09,3300,2.65
 VIC,204,Casey,4869,Bayswater North,1596,51.7,1491,48.3,3087,3.69
 VIC,204,Casey,3372,Bimbadeen Heights,942,46.63,1078,53.37,2020,-0.22
 VIC,204,Casey,4870,Birmingham,1556,50.16,1546,49.84,3102,3.85
-VIC,204,Casey,3373,Chirnside Park,1305,41.91,1809,58.09,3114,2.29
+VIC,204,Casey,3373,Chirnside Park,1286,41.31,1827,58.69,3113,1.69
 VIC,204,Casey,3375,Coldstream,549,45.45,659,54.55,1208,4.66
-VIC,204,Casey,4875,Croydon (Casey),509,53.13,449,46.87,958,4.53
-VIC,204,Casey,3376,Croydon Central,1299,49.32,1335,50.68,2634,2.1
-VIC,204,Casey,4876,Croydon East,1264,49.53,1288,50.47,2552,1.41
-VIC,204,Casey,3377,Croydon Hills,1188,39.43,1825,60.57,3013,3.5
-VIC,204,Casey,3378,Croydon North,648,44.97,793,55.03,1441,0.48
-VIC,204,Casey,56447,Croydon Town (Casey),323,50.95,311,49.05,634,2.78
-VIC,204,Casey,3379,Croydon West,712,47.79,778,52.21,1490,2.37
+VIC,204,Casey,4875,Croydon (Casey),508,53.08,449,46.92,957,4.48
+VIC,204,Casey,3376,Croydon Central,1298,49.32,1334,50.68,2632,2.1
+VIC,204,Casey,4876,Croydon East,1261,49.55,1284,50.45,2545,1.43
+VIC,204,Casey,3377,Croydon Hills,1187,39.38,1827,60.62,3014,3.45
+VIC,204,Casey,3378,Croydon North,650,45.14,790,54.86,1440,0.65
+VIC,204,Casey,56447,Croydon Town (Casey),321,50.87,310,49.13,631,2.7
+VIC,204,Casey,3379,Croydon West,711,47.72,779,52.28,1490,2.3
 VIC,204,Casey,30195,Divisional Office (PREPOLL),168,40.78,244,59.22,412,-0.98
 VIC,204,Casey,3384,Gruyere,102,30,238,70,340,0.83
 VIC,204,Casey,36429,Kalinda (Casey),569,44.11,721,55.89,1290,0.25
@@ -7720,8 +7720,8 @@ VIC,230,Melbourne Ports,3880,Ripponlea North,1064,69.82,460,30.18,1524,1.18
 VIC,230,Melbourne Ports,4686,Sandridge,945,67.99,445,32.01,1390,-3.32
 VIC,230,Melbourne Ports,4687,South Melbourne,1263,54.49,1055,45.51,2318,-0.55
 VIC,230,Melbourne Ports,36435,Southbank,758,53.23,666,46.77,1424,5.3
-VIC,230,Melbourne Ports,4690,Special Hospital Team 1,0,0,0,0,0,-50.97
-VIC,230,Melbourne Ports,11584,Special Hospital Team 2,0,0,0,0,0,-51.92
+VIC,230,Melbourne Ports,4690,Special Hospital Team 1,66,58.93,46,41.07,112,7.96
+VIC,230,Melbourne Ports,11584,Special Hospital Team 2,23,65.71,12,34.29,35,13.79
 VIC,230,Melbourne Ports,4681,St Kilda,2010,70.11,857,29.89,2867,-1.97
 VIC,230,Melbourne Ports,4682,St Kilda Beach,636,66.46,321,33.54,957,-4.56
 VIC,230,Melbourne Ports,4683,St Kilda North,1190,70.37,501,29.63,1691,4.52
@@ -8433,11 +8433,11 @@ WA,239,Forrest,7514,Yarloop,0,0,0,0,0,-48.35
 WA,239,Forrest,7744,Yoongarillup,61,20.82,232,79.18,293,0.41
 WA,240,Fremantle,32965,Atwell,1443,46.88,1635,53.12,3078,-1.88
 WA,240,Fremantle,38501,Atwell South,883,43.24,1159,56.76,2042,-3.99
-WA,240,Fremantle,7756,Beaconsfield,1309,65.85,679,34.15,1988,-3.73
-WA,240,Fremantle,33059,Beeliar,807,53.41,704,46.59,1511,-7.04
-WA,240,Fremantle,36770,Beeliar West,788,55.97,620,44.03,1408,-3.05
-WA,240,Fremantle,7757,Bibra Lake,1255,52.69,1127,47.31,2382,-0.88
-WA,240,Fremantle,7758,Bicton,1142,40.71,1663,59.29,2805,-0.96
+WA,240,Fremantle,7756,Beaconsfield,1314,65.9,680,34.1,1994,-3.68
+WA,240,Fremantle,33059,Beeliar,808,53.47,703,46.53,1511,-6.98
+WA,240,Fremantle,36770,Beeliar West,786,55.9,620,44.1,1406,-3.12
+WA,240,Fremantle,7757,Bibra Lake,1301,54.73,1076,45.27,2377,1.16
+WA,240,Fremantle,7758,Bicton,1139,40.59,1667,59.41,2806,-1.08
 WA,240,Fremantle,7760,Coogee Beach,1225,47.8,1338,52.2,2563,-4.15
 WA,240,Fremantle,7761,Coolbellup,1411,68.76,641,31.24,2052,-5.65
 WA,240,Fremantle,30231,Divisional Office (PREPOLL),0,0,0,0,0,0
@@ -8927,7 +8927,7 @@ WA,248,Tangney,8265,Bull Creek North,392,32.83,802,67.17,1194,-5.67
 WA,248,Tangney,31066,Canning Vale,1346,39.21,2087,60.79,3433,-0.69
 WA,248,Tangney,46570,Canning Vale East,1522,42.04,2098,57.96,3620,-0.16
 WA,248,Tangney,47763,Canning Vale North,716,42.9,953,57.1,1669,2.54
-WA,248,Tangney,33054,Canning Vale South,923,36.96,1574,63.04,2497,-1.48
+WA,248,Tangney,33054,Canning Vale South,910,36.59,1577,63.41,2487,-1.85
 WA,248,Tangney,30239,Divisional Office (PREPOLL),1154,32.48,2399,67.52,3553,-9.33
 WA,248,Tangney,7772,Kardinya (Tangney),721,44.02,917,55.98,1638,-4.25
 WA,248,Tangney,8270,Leeming,893,40.3,1323,59.7,2216,-1.72
