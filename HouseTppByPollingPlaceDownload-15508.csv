@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T18:16:52 Cycle:1156ec49-ba92-419f-ad74-e269ebab66f1 Created:2010-08-24T18:02:33 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T18:32:17 Cycle:30d87785-a9a5-491a-a953-f73d9ba7fcb6 Created:2010-08-24T18:17:33 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -35,8 +35,8 @@ ACT,101,Canberra,58809,Prison Mobile Team 1,6,60,4,40,10,4.44
 ACT,101,Canberra,8785,Red Hill,1258,56.77,958,43.23,2216,-1.97
 ACT,101,Canberra,8786,Richardson,1033,58.83,723,41.17,1756,-4.55
 ACT,101,Canberra,32712,Special Hospital Team 1,65,51.18,62,48.82,127,2.32
-ACT,101,Canberra,58810,Special Hospital Team 2,0,0,0,0,0,-48.84
-ACT,101,Canberra,58811,Special Hospital Team 3,0,0,0,0,0,-49.09
+ACT,101,Canberra,58810,Special Hospital Team 2,54,38.03,88,61.97,142,-10.81
+ACT,101,Canberra,58811,Special Hospital Team 3,48,47.52,53,52.48,101,-1.57
 ACT,101,Canberra,46425,Stirling,548,58.05,396,41.95,944,-9.9
 ACT,101,Canberra,8788,Tharwa,60,47.62,66,52.38,126,-1.34
 ACT,101,Canberra,11878,Theodore,1044,59.18,720,40.82,1764,-0.97
@@ -2591,9 +2591,9 @@ NSW,250,Riverina,2484,Beelbangera,83,20.6,320,79.4,403,-9.43
 NSW,250,Riverina,1249,Bethungra,19,27.14,51,72.86,70,-7.92
 NSW,250,Riverina,2485,Bilbul,24,13.95,148,86.05,172,-14.91
 NSW,250,Riverina,2486,Binya,7,10.14,62,89.86,69,-2.68
-NSW,250,Riverina,1257,Brungle,32,28.83,79,71.17,111,-13.34
+NSW,250,Riverina,1257,Brungle,36,32.43,75,67.57,111,-9.74
 NSW,250,Riverina,2496,Carrathool,9,15,51,85,60,-1.95
-NSW,250,Riverina,1311,Charles Sturt University,86,33.59,170,66.41,256,0.64
+NSW,250,Riverina,1311,Charles Sturt University,85,33.2,171,66.8,256,0.25
 NSW,250,Riverina,2498,Coleambally,72,14.55,423,85.45,495,-3.66
 NSW,250,Riverina,769,Collingullie,43,19.91,173,80.09,216,0.28
 NSW,250,Riverina,1261,Coolac,47,27.65,123,72.35,170,-4.91
@@ -6349,16 +6349,16 @@ VIC,204,Casey,4896,Mooroolbark,818,51.09,783,48.91,1601,1.75
 VIC,204,Casey,4897,Mooroolbark East,1061,44.34,1332,55.66,2393,1.47
 VIC,204,Casey,4898,Mooroolbark South,937,49.55,954,50.45,1891,2.91
 VIC,204,Casey,31545,Mount Dandenong (Casey),359,61.16,228,38.84,587,-0.01
-VIC,204,Casey,4900,Mount Evelyn,620,44.44,775,55.56,1395,0.95
+VIC,204,Casey,4900,Mount Evelyn,626,44.84,770,55.16,1396,1.35
 VIC,204,Casey,58639,Ringwood CASEY PPVC,637,43.16,839,56.84,1476,1.78
-VIC,204,Casey,3402,Rolling Hills,897,47.04,1010,52.96,1907,4.76
-VIC,204,Casey,4907,Seville,667,45.78,790,54.22,1457,3.01
-VIC,204,Casey,4909,Silvan,295,40.63,431,59.37,726,4.95
+VIC,204,Casey,3402,Rolling Hills,898,47.11,1008,52.89,1906,4.83
+VIC,204,Casey,4907,Seville,668,45.88,788,54.12,1456,3.11
+VIC,204,Casey,4909,Silvan,285,39.26,441,60.74,726,3.58
 VIC,204,Casey,31529,Special Hospital Team 1,162,26.13,458,73.87,620,-5.42
 VIC,204,Casey,31843,Special Hospital Team 2,165,34.38,315,65.63,480,2.84
-VIC,204,Casey,4302,The Patch,304,60.44,199,39.56,503,3.11
+VIC,204,Casey,4302,The Patch,309,61.43,194,38.57,503,4.1
 VIC,204,Casey,4914,Wandin Yallock,608,39.45,933,60.55,1541,4.34
-VIC,204,Casey,31766,Yarra Road,674,38.71,1067,61.29,1741,3.77
+VIC,204,Casey,31766,Yarra Road,674,38.74,1066,61.26,1740,3.8
 VIC,205,Chisholm,3417,Ashwood,1777,58.3,1271,41.7,3048,-0.81
 VIC,205,Chisholm,11521,Bennettswood,1024,54.76,846,45.24,1870,-2.3
 VIC,205,Chisholm,3421,Box Hill,874,59.38,598,40.63,1472,-3.88
@@ -6619,9 +6619,9 @@ VIC,211,Flinders,46625,Cowes PPVC,657,46.4,759,53.6,1416,2.08
 VIC,211,Flinders,3624,Cranbourne South,470,36.95,802,63.05,1272,3.35
 VIC,211,Flinders,3625,Crib Point,410,45.35,494,54.65,904,-0.17
 VIC,211,Flinders,3627,Dalyston,136,43.17,179,56.83,315,1.58
-VIC,211,Flinders,3628,Devon Meadows,468,40.41,690,59.59,1158,1.81
+VIC,211,Flinders,3628,Devon Meadows,468,40.38,691,59.62,1159,1.78
 VIC,211,Flinders,30202,Divisional Office (PREPOLL),0,0,0,0,0,-44.37
-VIC,211,Flinders,3629,Dromana,1084,43.94,1383,56.06,2467,-2.37
+VIC,211,Flinders,3629,Dromana,1082,43.97,1379,56.03,2461,-2.34
 VIC,211,Flinders,31295,Dromana Beach,172,42.47,233,57.53,405,1.43
 VIC,211,Flinders,31518,Dromana PPVC,1999,40.38,2951,59.62,4950,-3.97
 VIC,211,Flinders,3631,Flinders,190,34.8,356,65.2,546,-4.75
@@ -8772,7 +8772,7 @@ WA,245,Perth,8130,Bayswater,1752,63.57,1004,36.43,2756,0.85
 WA,245,Perth,8143,Bayswater North,1327,59.56,901,40.44,2228,-1.97
 WA,245,Perth,8131,Bedford Park,858,57.97,622,42.03,1480,-1.06
 WA,245,Perth,8132,Bedford West,512,60.45,335,39.55,847,1.68
-WA,245,Perth,8855,Beechboro,1097,66.12,562,33.88,1659,-1.58
+WA,245,Perth,8855,Beechboro,1099,66.2,561,33.8,1660,-1.5
 WA,245,Perth,7918,Beechboro East,951,61.35,599,38.65,1550,-3.29
 WA,245,Perth,11910,Beechboro West (Perth),978,59.42,668,40.58,1646,-3.75
 WA,245,Perth,8133,Camboon,1169,43.93,1492,56.07,2661,0.91
@@ -8780,7 +8780,7 @@ WA,245,Perth,8135,Dianella,518,52.97,460,47.03,978,-1
 WA,245,Perth,8136,Dianella Central,790,50.9,762,49.1,1552,-2.55
 WA,245,Perth,8151,Dianella North,651,52.29,594,47.71,1245,-1.74
 WA,245,Perth,30236,Divisional Office (PREPOLL),0,0,0,0,0,0
-WA,245,Perth,8137,East Perth,667,41.17,953,58.83,1620,0.33
+WA,245,Perth,8137,East Perth,667,41.15,954,58.85,1621,0.31
 WA,245,Perth,7931,Eden Hill,1507,64.48,830,35.52,2337,0.24
 WA,245,Perth,8138,Embleton,865,60.66,561,39.34,1426,0.43
 WA,245,Perth,32518,Hampton Park,862,52.66,775,47.34,1637,-2.49
@@ -8812,7 +8812,7 @@ WA,245,Perth,8162,Royal Perth Hospital,229,57.83,167,42.17,396,-4.52
 WA,245,Perth,34081,Special Hospital Team 1,46,44.66,57,55.34,103,-6.48
 WA,245,Perth,34190,Special Hospital Team 2,47,51.09,45,48.91,92,0.19
 WA,245,Perth,34206,Special Hospital Team 3,12,33.33,24,66.67,36,-17.95
-WA,245,Perth,11595,West Perth (Perth),205,55.41,165,44.59,370,0.79
+WA,245,Perth,11595,West Perth (Perth),207,55.65,165,44.35,372,1.03
 WA,246,Stirling,8174,Balcatta,1045,44.95,1280,55.05,2325,-6.58
 WA,246,Stirling,8175,Balcatta Central,1214,41.28,1727,58.72,2941,-6.69
 WA,246,Stirling,33195,Balcatta East,331,51.96,306,48.04,637,-2.6
@@ -8931,10 +8931,10 @@ WA,248,Tangney,33054,Canning Vale South,910,36.59,1577,63.41,2487,-1.85
 WA,248,Tangney,30239,Divisional Office (PREPOLL),1154,32.48,2399,67.52,3553,-9.33
 WA,248,Tangney,7772,Kardinya (Tangney),721,44.02,917,55.98,1638,-4.25
 WA,248,Tangney,8270,Leeming,893,40.3,1323,59.7,2216,-1.72
-WA,248,Tangney,11600,Leeming East,602,34.94,1121,65.06,1723,0.63
-WA,248,Tangney,8271,Leeming West,763,37.02,1298,62.98,2061,-4.94
-WA,248,Tangney,7774,Melville (Tangney),237,42.55,320,57.45,557,-2.44
-WA,248,Tangney,7777,Melville East,972,43.76,1249,56.24,2221,-0.07
+WA,248,Tangney,11600,Leeming East,593,34.42,1130,65.58,1723,0.11
+WA,248,Tangney,8271,Leeming West,764,37.05,1298,62.95,2062,-4.91
+WA,248,Tangney,7774,Melville (Tangney),236,42.45,320,57.55,556,-2.54
+WA,248,Tangney,7777,Melville East,960,43.46,1249,56.54,2209,-0.37
 WA,248,Tangney,7775,Melville South,384,43.39,501,56.61,885,-0.4
 WA,248,Tangney,8274,Mt Pleasant,619,28.62,1544,71.38,2163,-2.66
 WA,248,Tangney,8273,Parkwood (Tangney),1410,55.29,1140,44.71,2550,1.21

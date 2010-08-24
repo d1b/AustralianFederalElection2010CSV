@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T18:16:47 Cycle:1156ec49-ba92-419f-ad74-e269ebab66f1 Created:2010-08-24T18:02:33 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T18:32:12 Cycle:30d87785-a9a5-491a-a953-f73d9ba7fcb6 Created:2010-08-24T18:17:33 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 ACT,101,Canberra,8829,Barton,20863,JONES,Giulia,1,N,N,LP,Liberal,790,-2.73
 ACT,101,Canberra,8829,Barton,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1399,2.73
@@ -70,10 +70,10 @@ ACT,101,Canberra,8786,Richardson,20863,JONES,Giulia,1,N,N,LP,Liberal,723,4.55
 ACT,101,Canberra,8786,Richardson,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1033,-4.55
 ACT,101,Canberra,32712,Special Hospital Team 1,20863,JONES,Giulia,1,N,N,LP,Liberal,62,-2.32
 ACT,101,Canberra,32712,Special Hospital Team 1,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,65,2.32
-ACT,101,Canberra,58810,Special Hospital Team 2,20863,JONES,Giulia,1,N,N,LP,Liberal,0,-51.16
-ACT,101,Canberra,58810,Special Hospital Team 2,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,0,-48.84
-ACT,101,Canberra,58811,Special Hospital Team 3,20863,JONES,Giulia,1,N,N,LP,Liberal,0,-50.91
-ACT,101,Canberra,58811,Special Hospital Team 3,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,0,-49.09
+ACT,101,Canberra,58810,Special Hospital Team 2,20863,JONES,Giulia,1,N,N,LP,Liberal,88,10.81
+ACT,101,Canberra,58810,Special Hospital Team 2,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,54,-10.81
+ACT,101,Canberra,58811,Special Hospital Team 3,20863,JONES,Giulia,1,N,N,LP,Liberal,53,1.57
+ACT,101,Canberra,58811,Special Hospital Team 3,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,48,-1.57
 ACT,101,Canberra,46425,Stirling,20863,JONES,Giulia,1,N,N,LP,Liberal,396,9.9
 ACT,101,Canberra,46425,Stirling,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,548,-9.9
 ACT,101,Canberra,8788,Tharwa,20863,JONES,Giulia,1,N,N,LP,Liberal,66,1.34
@@ -5182,12 +5182,12 @@ NSW,250,Riverina,2485,Bilbul,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,148,
 NSW,250,Riverina,2485,Bilbul,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,24,-14.91
 NSW,250,Riverina,2486,Binya,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,62,2.68
 NSW,250,Riverina,2486,Binya,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,7,-2.68
-NSW,250,Riverina,1257,Brungle,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,79,13.34
-NSW,250,Riverina,1257,Brungle,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,32,-13.34
+NSW,250,Riverina,1257,Brungle,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,75,9.74
+NSW,250,Riverina,1257,Brungle,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,36,-9.74
 NSW,250,Riverina,2496,Carrathool,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,51,1.95
 NSW,250,Riverina,2496,Carrathool,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,9,-1.95
-NSW,250,Riverina,1311,Charles Sturt University,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,170,-0.64
-NSW,250,Riverina,1311,Charles Sturt University,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,86,0.64
+NSW,250,Riverina,1311,Charles Sturt University,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,171,-0.25
+NSW,250,Riverina,1311,Charles Sturt University,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,85,0.25
 NSW,250,Riverina,2498,Coleambally,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,423,3.66
 NSW,250,Riverina,2498,Coleambally,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,72,-3.66
 NSW,250,Riverina,769,Collingullie,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,173,-0.28
@@ -12698,26 +12698,26 @@ VIC,204,Casey,4898,Mooroolbark South,21201,SMITH,Tony,1,N,Y,LP,Liberal,954,-2.91
 VIC,204,Casey,4898,Mooroolbark South,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,937,2.91
 VIC,204,Casey,31545,Mount Dandenong (Casey),21201,SMITH,Tony,1,N,Y,LP,Liberal,228,0.01
 VIC,204,Casey,31545,Mount Dandenong (Casey),21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,359,-0.01
-VIC,204,Casey,4900,Mount Evelyn,21201,SMITH,Tony,1,N,Y,LP,Liberal,775,-0.95
-VIC,204,Casey,4900,Mount Evelyn,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,620,0.95
+VIC,204,Casey,4900,Mount Evelyn,21201,SMITH,Tony,1,N,Y,LP,Liberal,770,-1.35
+VIC,204,Casey,4900,Mount Evelyn,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,626,1.35
 VIC,204,Casey,58639,Ringwood CASEY PPVC,21201,SMITH,Tony,1,N,Y,LP,Liberal,839,-1.78
 VIC,204,Casey,58639,Ringwood CASEY PPVC,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,637,1.78
-VIC,204,Casey,3402,Rolling Hills,21201,SMITH,Tony,1,N,Y,LP,Liberal,1010,-4.76
-VIC,204,Casey,3402,Rolling Hills,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,897,4.76
-VIC,204,Casey,4907,Seville,21201,SMITH,Tony,1,N,Y,LP,Liberal,790,-3.01
-VIC,204,Casey,4907,Seville,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,667,3.01
-VIC,204,Casey,4909,Silvan,21201,SMITH,Tony,1,N,Y,LP,Liberal,431,-4.95
-VIC,204,Casey,4909,Silvan,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,295,4.95
+VIC,204,Casey,3402,Rolling Hills,21201,SMITH,Tony,1,N,Y,LP,Liberal,1008,-4.83
+VIC,204,Casey,3402,Rolling Hills,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,898,4.83
+VIC,204,Casey,4907,Seville,21201,SMITH,Tony,1,N,Y,LP,Liberal,788,-3.11
+VIC,204,Casey,4907,Seville,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,668,3.11
+VIC,204,Casey,4909,Silvan,21201,SMITH,Tony,1,N,Y,LP,Liberal,441,-3.58
+VIC,204,Casey,4909,Silvan,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,285,3.58
 VIC,204,Casey,31529,Special Hospital Team 1,21201,SMITH,Tony,1,N,Y,LP,Liberal,458,5.42
 VIC,204,Casey,31529,Special Hospital Team 1,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,162,-5.42
 VIC,204,Casey,31843,Special Hospital Team 2,21201,SMITH,Tony,1,N,Y,LP,Liberal,315,-2.83
 VIC,204,Casey,31843,Special Hospital Team 2,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,165,2.84
-VIC,204,Casey,4302,The Patch,21201,SMITH,Tony,1,N,Y,LP,Liberal,199,-3.11
-VIC,204,Casey,4302,The Patch,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,304,3.11
+VIC,204,Casey,4302,The Patch,21201,SMITH,Tony,1,N,Y,LP,Liberal,194,-4.1
+VIC,204,Casey,4302,The Patch,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,309,4.1
 VIC,204,Casey,4914,Wandin Yallock,21201,SMITH,Tony,1,N,Y,LP,Liberal,933,-4.34
 VIC,204,Casey,4914,Wandin Yallock,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,608,4.34
-VIC,204,Casey,31766,Yarra Road,21201,SMITH,Tony,1,N,Y,LP,Liberal,1067,-3.77
-VIC,204,Casey,31766,Yarra Road,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,674,3.77
+VIC,204,Casey,31766,Yarra Road,21201,SMITH,Tony,1,N,Y,LP,Liberal,1066,-3.8
+VIC,204,Casey,31766,Yarra Road,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,674,3.8
 VIC,205,Chisholm,3417,Ashwood,21069,BURKE,Anna Elizabeth,2,N,Y,ALP,Australian Labor Party,1777,-0.81
 VIC,205,Chisholm,3417,Ashwood,21050,NGUYEN,John,5,N,N,LP,Liberal,1271,0.81
 VIC,205,Chisholm,11521,Bennettswood,21069,BURKE,Anna Elizabeth,2,N,Y,ALP,Australian Labor Party,1024,-2.3
@@ -13238,12 +13238,12 @@ VIC,211,Flinders,3625,Crib Point,21118,GAGLIANO-VENTURA,Francis,1,N,N,ALP,Austra
 VIC,211,Flinders,3625,Crib Point,21107,HUNT,Greg,3,N,Y,LP,Liberal,494,0.17
 VIC,211,Flinders,3627,Dalyston,21118,GAGLIANO-VENTURA,Francis,1,N,N,ALP,Australian Labor Party,136,1.58
 VIC,211,Flinders,3627,Dalyston,21107,HUNT,Greg,3,N,Y,LP,Liberal,179,-1.58
-VIC,211,Flinders,3628,Devon Meadows,21118,GAGLIANO-VENTURA,Francis,1,N,N,ALP,Australian Labor Party,468,1.81
-VIC,211,Flinders,3628,Devon Meadows,21107,HUNT,Greg,3,N,Y,LP,Liberal,690,-1.81
+VIC,211,Flinders,3628,Devon Meadows,21118,GAGLIANO-VENTURA,Francis,1,N,N,ALP,Australian Labor Party,468,1.78
+VIC,211,Flinders,3628,Devon Meadows,21107,HUNT,Greg,3,N,Y,LP,Liberal,691,-1.78
 VIC,211,Flinders,30202,Divisional Office (PREPOLL),21118,GAGLIANO-VENTURA,Francis,1,N,N,ALP,Australian Labor Party,0,-44.37
 VIC,211,Flinders,30202,Divisional Office (PREPOLL),21107,HUNT,Greg,3,N,Y,LP,Liberal,0,-55.63
-VIC,211,Flinders,3629,Dromana,21118,GAGLIANO-VENTURA,Francis,1,N,N,ALP,Australian Labor Party,1084,-2.37
-VIC,211,Flinders,3629,Dromana,21107,HUNT,Greg,3,N,Y,LP,Liberal,1383,2.37
+VIC,211,Flinders,3629,Dromana,21118,GAGLIANO-VENTURA,Francis,1,N,N,ALP,Australian Labor Party,1082,-2.34
+VIC,211,Flinders,3629,Dromana,21107,HUNT,Greg,3,N,Y,LP,Liberal,1379,2.34
 VIC,211,Flinders,31295,Dromana Beach,21118,GAGLIANO-VENTURA,Francis,1,N,N,ALP,Australian Labor Party,172,1.43
 VIC,211,Flinders,31295,Dromana Beach,21107,HUNT,Greg,3,N,Y,LP,Liberal,233,-1.43
 VIC,211,Flinders,31518,Dromana PPVC,21118,GAGLIANO-VENTURA,Francis,1,N,N,ALP,Australian Labor Party,1999,-3.97
@@ -15286,8 +15286,8 @@ VIC,228,Melbourne,3085,Alphington (Melbourne),21657,BANDT,Adam,2,N,N,GRN,Austral
 VIC,228,Melbourne,3085,Alphington (Melbourne),21650,BOWTELL,Cath,6,N,N,ALP,Australian Labor Party,462,-7.73
 VIC,228,Melbourne,58528,Anstey (Melbourne),21657,BANDT,Adam,2,N,N,GRN,Australian Greens,329,5.17
 VIC,228,Melbourne,58528,Anstey (Melbourne),21650,BOWTELL,Cath,6,N,N,ALP,Australian Labor Party,272,-5.17
-VIC,228,Melbourne,4611,Ascot Vale,21657,BANDT,Adam,2,N,N,GRN,Australian Greens,385,11.58
-VIC,228,Melbourne,4611,Ascot Vale,21650,BOWTELL,Cath,6,N,N,ALP,Australian Labor Party,609,-11.58
+VIC,228,Melbourne,4611,Ascot Vale,21657,BANDT,Adam,2,N,N,GRN,Australian Greens,388,12.08
+VIC,228,Melbourne,4611,Ascot Vale,21650,BOWTELL,Cath,6,N,N,ALP,Australian Labor Party,601,-12.08
 VIC,228,Melbourne,4612,Ascot Vale Central,21657,BANDT,Adam,2,N,N,GRN,Australian Greens,960,6.04
 VIC,228,Melbourne,4612,Ascot Vale Central,21650,BOWTELL,Cath,6,N,N,ALP,Australian Labor Party,912,-6.04
 VIC,228,Melbourne,4613,Ascot Vale East,21657,BANDT,Adam,2,N,N,GRN,Australian Greens,719,7.02
@@ -17544,8 +17544,8 @@ WA,245,Perth,8131,Bedford Park,20904,SMITH,Stephen Francis,3,N,Y,ALP,Australian 
 WA,245,Perth,8131,Bedford Park,20878,FERRANTE,Joe,6,N,N,LP,Liberal,622,1.06
 WA,245,Perth,8132,Bedford West,20904,SMITH,Stephen Francis,3,N,Y,ALP,Australian Labor Party,512,1.68
 WA,245,Perth,8132,Bedford West,20878,FERRANTE,Joe,6,N,N,LP,Liberal,335,-1.68
-WA,245,Perth,8855,Beechboro,20904,SMITH,Stephen Francis,3,N,Y,ALP,Australian Labor Party,1097,-1.58
-WA,245,Perth,8855,Beechboro,20878,FERRANTE,Joe,6,N,N,LP,Liberal,562,1.58
+WA,245,Perth,8855,Beechboro,20904,SMITH,Stephen Francis,3,N,Y,ALP,Australian Labor Party,1099,-1.5
+WA,245,Perth,8855,Beechboro,20878,FERRANTE,Joe,6,N,N,LP,Liberal,561,1.5
 WA,245,Perth,7918,Beechboro East,20904,SMITH,Stephen Francis,3,N,Y,ALP,Australian Labor Party,951,-3.29
 WA,245,Perth,7918,Beechboro East,20878,FERRANTE,Joe,6,N,N,LP,Liberal,599,3.29
 WA,245,Perth,11910,Beechboro West (Perth),20904,SMITH,Stephen Francis,3,N,Y,ALP,Australian Labor Party,978,-3.75
@@ -17560,8 +17560,8 @@ WA,245,Perth,8151,Dianella North,20904,SMITH,Stephen Francis,3,N,Y,ALP,Australia
 WA,245,Perth,8151,Dianella North,20878,FERRANTE,Joe,6,N,N,LP,Liberal,594,1.74
 WA,245,Perth,30236,Divisional Office (PREPOLL),20904,SMITH,Stephen Francis,3,N,Y,ALP,Australian Labor Party,0,0
 WA,245,Perth,30236,Divisional Office (PREPOLL),20878,FERRANTE,Joe,6,N,N,LP,Liberal,0,0
-WA,245,Perth,8137,East Perth,20904,SMITH,Stephen Francis,3,N,Y,ALP,Australian Labor Party,667,0.33
-WA,245,Perth,8137,East Perth,20878,FERRANTE,Joe,6,N,N,LP,Liberal,953,-0.33
+WA,245,Perth,8137,East Perth,20904,SMITH,Stephen Francis,3,N,Y,ALP,Australian Labor Party,667,0.31
+WA,245,Perth,8137,East Perth,20878,FERRANTE,Joe,6,N,N,LP,Liberal,954,-0.31
 WA,245,Perth,7931,Eden Hill,20904,SMITH,Stephen Francis,3,N,Y,ALP,Australian Labor Party,1507,0.24
 WA,245,Perth,7931,Eden Hill,20878,FERRANTE,Joe,6,N,N,LP,Liberal,830,-0.24
 WA,245,Perth,8138,Embleton,20904,SMITH,Stephen Francis,3,N,Y,ALP,Australian Labor Party,865,0.43
@@ -17624,8 +17624,8 @@ WA,245,Perth,34190,Special Hospital Team 2,20904,SMITH,Stephen Francis,3,N,Y,ALP
 WA,245,Perth,34190,Special Hospital Team 2,20878,FERRANTE,Joe,6,N,N,LP,Liberal,45,-0.19
 WA,245,Perth,34206,Special Hospital Team 3,20904,SMITH,Stephen Francis,3,N,Y,ALP,Australian Labor Party,12,-17.95
 WA,245,Perth,34206,Special Hospital Team 3,20878,FERRANTE,Joe,6,N,N,LP,Liberal,24,17.95
-WA,245,Perth,11595,West Perth (Perth),20904,SMITH,Stephen Francis,3,N,Y,ALP,Australian Labor Party,205,0.79
-WA,245,Perth,11595,West Perth (Perth),20878,FERRANTE,Joe,6,N,N,LP,Liberal,165,-0.79
+WA,245,Perth,11595,West Perth (Perth),20904,SMITH,Stephen Francis,3,N,Y,ALP,Australian Labor Party,207,1.03
+WA,245,Perth,11595,West Perth (Perth),20878,FERRANTE,Joe,6,N,N,LP,Liberal,165,-1.03
 WA,246,Stirling,8174,Balcatta,20952,DURACK,Louise,2,N,N,ALP,Australian Labor Party,1045,-6.58
 WA,246,Stirling,8174,Balcatta,20868,KEENAN,Michael,6,N,Y,LP,Liberal,1280,6.58
 WA,246,Stirling,8175,Balcatta Central,20952,DURACK,Louise,2,N,N,ALP,Australian Labor Party,1214,-6.69
@@ -17862,14 +17862,14 @@ WA,248,Tangney,7772,Kardinya (Tangney),20893,DOEPEL,David,2,N,N,ALP,Australian L
 WA,248,Tangney,7772,Kardinya (Tangney),20859,JENSEN,Dennis,4,N,Y,LP,Liberal,917,4.25
 WA,248,Tangney,8270,Leeming,20893,DOEPEL,David,2,N,N,ALP,Australian Labor Party,893,-1.72
 WA,248,Tangney,8270,Leeming,20859,JENSEN,Dennis,4,N,Y,LP,Liberal,1323,1.72
-WA,248,Tangney,11600,Leeming East,20893,DOEPEL,David,2,N,N,ALP,Australian Labor Party,602,0.63
-WA,248,Tangney,11600,Leeming East,20859,JENSEN,Dennis,4,N,Y,LP,Liberal,1121,-0.63
-WA,248,Tangney,8271,Leeming West,20893,DOEPEL,David,2,N,N,ALP,Australian Labor Party,763,-4.94
-WA,248,Tangney,8271,Leeming West,20859,JENSEN,Dennis,4,N,Y,LP,Liberal,1298,4.94
-WA,248,Tangney,7774,Melville (Tangney),20893,DOEPEL,David,2,N,N,ALP,Australian Labor Party,237,-2.44
-WA,248,Tangney,7774,Melville (Tangney),20859,JENSEN,Dennis,4,N,Y,LP,Liberal,320,2.44
-WA,248,Tangney,7777,Melville East,20893,DOEPEL,David,2,N,N,ALP,Australian Labor Party,972,-0.07
-WA,248,Tangney,7777,Melville East,20859,JENSEN,Dennis,4,N,Y,LP,Liberal,1249,0.07
+WA,248,Tangney,11600,Leeming East,20893,DOEPEL,David,2,N,N,ALP,Australian Labor Party,593,0.11
+WA,248,Tangney,11600,Leeming East,20859,JENSEN,Dennis,4,N,Y,LP,Liberal,1130,-0.11
+WA,248,Tangney,8271,Leeming West,20893,DOEPEL,David,2,N,N,ALP,Australian Labor Party,764,-4.91
+WA,248,Tangney,8271,Leeming West,20859,JENSEN,Dennis,4,N,Y,LP,Liberal,1298,4.91
+WA,248,Tangney,7774,Melville (Tangney),20893,DOEPEL,David,2,N,N,ALP,Australian Labor Party,236,-2.54
+WA,248,Tangney,7774,Melville (Tangney),20859,JENSEN,Dennis,4,N,Y,LP,Liberal,320,2.54
+WA,248,Tangney,7777,Melville East,20893,DOEPEL,David,2,N,N,ALP,Australian Labor Party,960,-0.37
+WA,248,Tangney,7777,Melville East,20859,JENSEN,Dennis,4,N,Y,LP,Liberal,1249,0.37
 WA,248,Tangney,7775,Melville South,20893,DOEPEL,David,2,N,N,ALP,Australian Labor Party,384,-0.4
 WA,248,Tangney,7775,Melville South,20859,JENSEN,Dennis,4,N,Y,LP,Liberal,501,0.4
 WA,248,Tangney,8274,Mt Pleasant,20893,DOEPEL,David,2,N,N,ALP,Australian Labor Party,619,-2.66

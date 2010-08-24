@@ -1,4 +1,4 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T18:16:55 Cycle:1156ec49-ba92-419f-ad74-e269ebab66f1 Created:2010-08-24T18:02:33 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T18:32:20 Cycle:30d87785-a9a5-491a-a953-f73d9ba7fcb6 Created:2010-08-24T18:17:33 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 179,Adelaide,SA,98526,72646,73.73
 197,Aston,VIC,93448,74073,79.27
@@ -12,7 +12,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 105,Bennelong,NSW,98900,74223,75.05
 106,Berowra,NSW,95115,74280,78.09
 304,Blair,QLD,83071,66141,79.62
-107,Blaxland,NSW,95354,72408,75.67
+107,Blaxland,NSW,95354,72408,75.94
 310,Bonner,QLD,92684,69151,74.61
 182,Boothby,SA,97898,71656,73.19
 155,Bowman,QLD,91892,73631,80.13
@@ -49,7 +49,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 160,Fairfax,QLD,89743,70529,78.59
 118,Farrer,NSW,94061,74290,78.98
 161,Fisher,QLD,83754,62609,74.75
-211,Flinders,VIC,100875,74211,73.51
+211,Flinders,VIC,100875,74211,73.57
 311,Flynn,QLD,91377,65801,72.01
 162,Forde,QLD,82558,60891,73.76
 239,Forrest,WA,89636,67797,75.64
@@ -59,9 +59,9 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 240,Fremantle,WA,93341,68252,73.12
 212,Gellibrand,VIC,95611,69815,73.02
 120,Gilmore,NSW,96317,65773,68.29
-213,Gippsland,VIC,97543,81354,83.27
+213,Gippsland,VIC,97543,81354,83.4
 214,Goldstein,VIC,93945,68986,73.43
-309,Gorton,VIC,113656,80652,66.51
+309,Gorton,VIC,113656,86046,70.96
 121,Grayndler,NSW,98112,70028,71.38
 122,Greenway,NSW,93828,69046,73.59
 183,Grey,SA,99817,76596,76.74
@@ -135,7 +135,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 232,Scullin,VIC,90822,71515,78.74
 148,Shortland,NSW,94245,76179,80.83
 307,Solomon,NT,59879,44655,74.58
-246,Stirling,WA,91728,69354,75.49
+246,Stirling,WA,91728,69360,75.61
 190,Sturt,SA,99061,71973,72.66
 247,Swan,WA,90766,64149,70.68
 149,Sydney,NSW,95277,51401,53.95
@@ -144,7 +144,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 191,Wakefield,SA,100209,79293,79.13
 233,Wannon,VIC,92264,74528,80.78
 151,Warringah,NSW,96706,63545,65.71
-251,Watson,NSW,97765,74218,75.85
+251,Watson,NSW,97765,74655,75.91
 152,Wentworth,NSW,101464,65123,64.18
 153,Werriwa,NSW,90994,64198,70.55
 178,Wide Bay,QLD,92636,69281,74.79
