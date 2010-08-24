@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T17:13:17 Cycle:bc80c00b-0f68-4d88-bf2c-0bae72468aa7 Created:2010-08-24T17:02:22 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T17:29:29 Cycle:620fecce-8063-43cf-bb8f-66019f80dbc5 Created:2010-08-24T17:17:22 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -31,10 +31,10 @@ ACT,101,Canberra,8782,Narrabundah,1354,65.28,720,34.72,2074,-3.82
 ACT,101,Canberra,32706,Norfolk Island PPVC,0,0,0,0,0,-37.18
 ACT,101,Canberra,8783,Oaks Estate,98,72.06,38,27.94,136,3.27
 ACT,101,Canberra,8784,Pearce,1870,60.91,1200,39.09,3070,-3.81
-ACT,101,Canberra,58809,Prison Mobile Team 1,0,0,0,0,0,-55.56
+ACT,101,Canberra,58809,Prison Mobile Team 1,6,60,4,40,10,4.44
 ACT,101,Canberra,8785,Red Hill,1258,56.77,958,43.23,2216,-1.97
 ACT,101,Canberra,8786,Richardson,1033,58.83,723,41.17,1756,-4.55
-ACT,101,Canberra,32712,Special Hospital Team 1,0,0,0,0,0,-48.86
+ACT,101,Canberra,32712,Special Hospital Team 1,65,51.18,62,48.82,127,2.32
 ACT,101,Canberra,58810,Special Hospital Team 2,0,0,0,0,0,-48.84
 ACT,101,Canberra,58811,Special Hospital Team 3,0,0,0,0,0,-49.09
 ACT,101,Canberra,46425,Stirling,548,58.05,396,41.95,944,-9.9
@@ -3112,7 +3112,7 @@ NT,306,Lingiari,8717,Katherine,448,46.57,514,53.43,962,5.82
 NT,306,Lingiari,12068,Katherine East,407,49.76,411,50.24,818,4.57
 NT,306,Lingiari,34179,Katherine PPVC,774,43.7,997,56.3,1771,-14.74
 NT,306,Lingiari,12069,Larapinta,563,52.67,506,47.33,1069,7.93
-NT,306,Lingiari,8723,Nhulunbuy,812,66.94,401,33.06,1213,0.56
+NT,306,Lingiari,8723,Nhulunbuy,807,66.8,401,33.2,1208,0.42
 NT,306,Lingiari,34181,Nhulunbuy PPVC,233,65.45,123,34.55,356,7.12
 NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,365,44.08,463,55.92,828,-14.51
 NT,306,Lingiari,8727,Pine Creek,54,47.79,59,52.21,113,3.85
@@ -6112,10 +6112,10 @@ VIC,198,Ballarat,3057,Ross Creek,429,62.26,260,37.74,689,8.78
 VIC,198,Ballarat,3059,Sebastopol,1792,69.3,794,30.7,2586,4.65
 VIC,198,Ballarat,3062,Smeaton,70,38.89,110,61.11,180,-1.27
 VIC,198,Ballarat,3064,Soldiers Hill,503,68.44,232,31.56,735,6.36
-VIC,198,Ballarat,31562,Special Hospital Team 1,0,0,0,0,0,-52.7
-VIC,198,Ballarat,31594,Special Hospital Team 2,0,0,0,0,0,-52.44
-VIC,198,Ballarat,31595,Special Hospital Team 3,0,0,0,0,0,-52.5
-VIC,198,Ballarat,31596,Special Hospital Team 4,0,0,0,0,0,-52.45
+VIC,198,Ballarat,31562,Special Hospital Team 1,61,54.95,50,45.05,111,2.25
+VIC,198,Ballarat,31594,Special Hospital Team 2,87,52.1,80,47.9,167,-0.34
+VIC,198,Ballarat,31595,Special Hospital Team 3,84,71.19,34,28.81,118,18.69
+VIC,198,Ballarat,31596,Special Hospital Team 4,28,53.85,24,46.15,52,1.4
 VIC,198,Ballarat,3065,Springbank,99,44,126,56,225,1.92
 VIC,198,Ballarat,3068,The Stockade,940,65.05,505,34.95,1445,5.26
 VIC,198,Ballarat,3335,Trentham,444,59.36,304,40.64,748,-0.61
@@ -6317,9 +6317,9 @@ VIC,203,Calwell,3330,Sunbury West,2367,61.51,1481,38.49,3848,4.59
 VIC,203,Calwell,4606,Tullamarine,1925,68.6,881,31.4,2806,1.16
 VIC,203,Calwell,4866,Upfield,1159,75.41,378,24.59,1537,-11.01
 VIC,203,Calwell,4607,Westmeadows,2307,69.91,993,30.09,3300,2.65
-VIC,204,Casey,4869,Bayswater North,1598,51.7,1493,48.3,3091,3.69
-VIC,204,Casey,3372,Bimbadeen Heights,944,46.59,1082,53.41,2026,-0.26
-VIC,204,Casey,4870,Birmingham,1551,50.02,1550,49.98,3101,3.71
+VIC,204,Casey,4869,Bayswater North,1596,51.7,1491,48.3,3087,3.69
+VIC,204,Casey,3372,Bimbadeen Heights,942,46.63,1078,53.37,2020,-0.22
+VIC,204,Casey,4870,Birmingham,1556,50.16,1546,49.84,3102,3.85
 VIC,204,Casey,3373,Chirnside Park,1305,41.91,1809,58.09,3114,2.29
 VIC,204,Casey,3375,Coldstream,549,45.45,659,54.55,1208,4.66
 VIC,204,Casey,4875,Croydon (Casey),509,53.13,449,46.87,958,4.53
@@ -7258,7 +7258,7 @@ VIC,223,La Trobe,4289,Harkaway,307,35.41,560,64.59,867,3.06
 VIC,223,La Trobe,4290,Kallista (La Trobe),168,59.57,114,40.43,282,0.16
 VIC,223,La Trobe,4889,Macclesfield,372,52.03,343,47.97,715,6.66
 VIC,223,La Trobe,32003,Melbourne (La Trobe),42,60,28,40,70,15.74
-VIC,223,La Trobe,4291,Menzies Creek,262,53.91,224,46.09,486,-2.19
+VIC,223,La Trobe,4291,Menzies Creek,261,53.93,223,46.07,484,-2.17
 VIC,223,La Trobe,4899,Mount Dandenong (La Trobe),270,56.49,208,43.51,478,2.74
 VIC,223,La Trobe,4294,Narre Warren East,83,24.78,252,75.22,335,2.59
 VIC,223,La Trobe,4295,Narre Warren North,456,36.63,789,63.37,1245,0
@@ -7321,8 +7321,8 @@ VIC,224,Mallee,4447,Antwerp,12,12,88,88,100,1.09
 VIC,224,Mallee,4934,Apsley,75,30.24,173,69.76,248,-5.03
 VIC,224,Mallee,4451,Berriwillock,18,14.88,103,85.12,121,-7.09
 VIC,224,Mallee,4452,Beulah,34,13.82,212,86.18,246,-1.54
-VIC,224,Mallee,4453,Beverford,59,20.42,230,79.58,289,-0.65
-VIC,224,Mallee,4454,Birchip,92,17.59,431,82.41,523,-3.29
+VIC,224,Mallee,4453,Beverford,62,21.45,227,78.55,289,0.38
+VIC,224,Mallee,4454,Birchip,93,17.82,429,82.18,522,-3.06
 VIC,224,Mallee,4455,Boundary Bend,19,18.1,86,81.9,105,-8.26
 VIC,224,Mallee,4457,Brim,16,13.68,101,86.32,117,-1.06
 VIC,224,Mallee,4460,Cabarita,118,18.97,504,81.03,622,-9.79
@@ -7402,7 +7402,7 @@ VIC,224,Mallee,4545,Rupanyup,86,28.01,221,71.99,307,-3.37
 VIC,224,Mallee,4546,Sea Lake,92,21.55,335,78.45,427,-2.16
 VIC,224,Mallee,4547,Serviceton,12,14.29,72,85.71,84,-1.68
 VIC,224,Mallee,31602,Special Hospital Team 1,44,29.33,106,70.67,150,6.06
-VIC,224,Mallee,31604,Special Hospital Team 2,0,0,0,0,0,-22.92
+VIC,224,Mallee,31604,Special Hospital Team 2,48,25.4,141,74.6,189,2.48
 VIC,224,Mallee,31606,Special Hospital Team 3,32,28.07,82,71.93,114,5.15
 VIC,224,Mallee,33280,Special Hospital Team 4,36,19.78,146,80.22,182,-3.25
 VIC,224,Mallee,4549,Speed,14,14,86,86,100,3.81
@@ -8431,8 +8431,8 @@ WA,239,Forrest,7740,Wollaston,404,43.21,531,56.79,935,0.73
 WA,239,Forrest,7742,Yallingup,182,32.91,371,67.09,553,-12.61
 WA,239,Forrest,7514,Yarloop,0,0,0,0,0,-48.35
 WA,239,Forrest,7744,Yoongarillup,61,20.82,232,79.18,293,0.41
-WA,240,Fremantle,32965,Atwell,1442,46.83,1637,53.17,3079,-1.93
-WA,240,Fremantle,38501,Atwell South,889,43.47,1156,56.53,2045,-3.76
+WA,240,Fremantle,32965,Atwell,1443,46.88,1635,53.12,3078,-1.88
+WA,240,Fremantle,38501,Atwell South,883,43.24,1159,56.76,2042,-3.99
 WA,240,Fremantle,7756,Beaconsfield,1309,65.85,679,34.15,1988,-3.73
 WA,240,Fremantle,33059,Beeliar,807,53.41,704,46.59,1511,-7.04
 WA,240,Fremantle,36770,Beeliar West,788,55.97,620,44.03,1408,-3.05
@@ -8529,7 +8529,7 @@ WA,242,Moore,32450,Currambine,1074,37.42,1796,62.58,2870,-1.73
 WA,242,Moore,30233,Divisional Office (PREPOLL),1305,36.69,2252,63.31,3557,-4.85
 WA,242,Moore,7566,Duncraig,922,38.72,1459,61.28,2381,-4.23
 WA,242,Moore,7567,Duncraig East,522,31.69,1125,68.31,1647,0.13
-WA,242,Moore,7568,Duncraig North,870,39.35,1341,60.65,2211,0.06
+WA,242,Moore,7568,Duncraig North,869,39.34,1340,60.66,2209,0.05
 WA,242,Moore,7569,Duncraig South,616,31.38,1347,68.62,1963,-0.65
 WA,242,Moore,7932,Edgewater,1002,43.7,1291,56.3,2293,-1.96
 WA,242,Moore,7938,Heathridge,1012,49.1,1049,50.9,2061,-4.2
