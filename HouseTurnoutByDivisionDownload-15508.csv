@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T19:50:42 Cycle:79f430fc-816d-4766-8597-78c1090ba250 Created:2010-08-24T19:32:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T20:06:33 Cycle:6bdd976f-176b-4580-b2da-0af47a6bbf09 Created:2010-08-24T19:47:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 179,Adelaide,SA,98526,73427,74.53,-20.06
 197,Aston,VIC,93448,74337,79.55,-16.84
@@ -37,7 +37,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 113,Cowper,NSW,94645,77482,81.87,-13.21
 114,Cunningham,NSW,100698,82166,81.6,-14.53
 238,Curtin,WA,90400,69517,76.9,-16.98
-158,Dawson,QLD,94553,72823,77.02,-18.39
+158,Dawson,QLD,94553,72859,77.06,-18.35
 209,Deakin,VIC,87744,68067,77.57,-18.32
 194,Denison,TAS,71349,57800,81.01,-14.52
 252,Dickson,QLD,90111,70773,78.54,-16.83
@@ -45,7 +45,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 210,Dunkley,VIC,95324,77390,81.19,-14.04
 312,Durack,WA,85782,60216,70.2,-16.96
 117,Eden-Monaro,NSW,96465,78804,81.69,-14.21
-159,Fadden,QLD,85236,66487,78,-14.24
+159,Fadden,QLD,85236,66493,78.01,-14.23
 160,Fairfax,QLD,89743,70825,78.92,-14.2
 118,Farrer,NSW,94061,76577,81.41,-14.83
 161,Fisher,QLD,83754,64966,77.57,-15.54
@@ -90,7 +90,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 169,Lilley,QLD,97415,75544,77.55,-18.3
 128,Lindsay,NSW,95975,80114,83.47,-12.41
 306,Lingiari,NT,61126,41641,68.12,-13.14
-302,Longman,QLD,87062,68712,78.92,-14.36
+302,Longman,QLD,87062,68720,78.93,-14.35
 130,Lyne,NSW,92565,77098,83.29,-12.3
 196,Lyons,TAS,72865,58044,79.66,-15.18
 131,Macarthur,NSW,90059,75015,83.3,-11.66
@@ -137,7 +137,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 307,Solomon,NT,59879,49495,82.66,-9.4
 246,Stirling,WA,91728,70504,76.86,-16.74
 190,Sturt,SA,99061,77979,78.72,-16.86
-247,Swan,WA,90766,67983,74.9,-18.1
+247,Swan,WA,90766,67986,74.9,-18.1
 149,Sydney,NSW,95277,61943,65.01,-26.8
 248,Tangney,WA,92176,72195,78.32,-16.76
 150,Throsby,NSW,95874,80244,83.7,-12.16
