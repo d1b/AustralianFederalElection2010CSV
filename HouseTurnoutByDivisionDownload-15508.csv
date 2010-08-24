@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T18:31:51 Cycle:30d87785-a9a5-491a-a953-f73d9ba7fcb6 Created:2010-08-24T18:17:33 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T18:47:37 Cycle:e88bf968-7409-4278-9532-0df5d89503f6 Created:2010-08-24T18:32:33 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 179,Adelaide,SA,98526,73427,74.53,-20.06
 197,Aston,VIC,93448,74337,79.55,-16.84
@@ -49,14 +49,14 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 160,Fairfax,QLD,89743,70825,78.92,-14.2
 118,Farrer,NSW,94061,76577,81.41,-14.83
 161,Fisher,QLD,83754,64966,77.57,-15.54
-211,Flinders,VIC,100875,75691,75.03,-20.41
+211,Flinders,VIC,100875,75695,75.04,-20.4
 311,Flynn,QLD,91377,67573,73.95,-21.16
-162,Forde,QLD,82558,62105,75.23,-17.46
+162,Forde,QLD,82558,62104,75.22,-17.47
 239,Forrest,WA,89636,72232,80.58,-13.92
 119,Fowler,NSW,95561,74013,77.45,-15.89
 195,Franklin,TAS,71090,57354,80.68,-15.18
 102,Fraser,ACT,123444,103583,83.91,-11.76
-240,Fremantle,WA,93341,72341,77.5,-16.28
+240,Fremantle,WA,93341,72343,77.5,-16.28
 212,Gellibrand,VIC,95611,70484,73.72,-20.44
 120,Gilmore,NSW,96317,79617,82.66,-13.15
 213,Gippsland,VIC,97543,81978,84.04,-11.63
@@ -67,7 +67,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 183,Grey,SA,99817,79438,79.58,-15.37
 163,Griffith,QLD,92588,68803,74.31,-19.31
 164,Groom,QLD,93374,75103,80.43,-15.03
-305,Hasluck,WA,93892,74389,79.23,-14.44
+305,Hasluck,WA,93892,75119,80.01,-13.66
 165,Herbert,QLD,91044,75720,83.17,-10.49
 215,Higgins,VIC,90398,64654,71.52,-22.25
 185,Hindmarsh,SA,100245,76689,76.5,-18.87
@@ -80,7 +80,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 218,Indi,VIC,92956,74214,79.84,-15.96
 219,Isaacs,VIC,102790,77406,75.3,-19.88
 220,Jagajaga,VIC,95202,74804,78.57,-17.15
-167,Kennedy,QLD,94465,70569,74.7,-19.2
+167,Kennedy,QLD,94465,70851,75,-18.9
 127,Kingsford Smith,NSW,97747,76654,78.42,-15.85
 186,Kingston,SA,102296,81636,79.8,-16.17
 221,Kooyong,VIC,89659,66637,74.32,-20.48
@@ -96,7 +96,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 131,Macarthur,NSW,90059,75015,83.3,-11.66
 132,Mackellar,NSW,98556,79305,80.47,-14.81
 133,Macquarie,NSW,97560,80878,82.9,-13.01
-187,Makin,SA,96263,79508,82.59,-13.08
+187,Makin,SA,96263,79509,82.6,-13.07
 224,Mallee,VIC,89840,74472,82.89,-13
 170,Maranoa,QLD,97957,76171,77.76,-17.16
 225,Maribyrnong,VIC,88412,67589,76.45,-17.7
@@ -105,7 +105,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 315,McMahon,NSW,96058,76043,79.16,-14.37
 227,McMillan,VIC,93323,76612,82.09,-13.79
 171,McPherson,QLD,90090,70578,78.34,-16.39
-228,Melbourne,VIC,102879,76111,73.98,-17.52
+228,Melbourne,VIC,102879,76139,74.01,-17.49
 230,Melbourne Ports,VIC,97765,65772,67.28,-24.44
 229,Menzies,VIC,90966,71139,78.2,-17.95
 134,Mitchell,NSW,93588,77329,82.63,-12.34
@@ -116,14 +116,14 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 135,New England,NSW,99677,83816,84.09,-12.01
 136,Newcastle,NSW,92896,73878,79.53,-15.72
 137,North Sydney,NSW,97567,71081,72.85,-21.36
-243,O'Connor,WA,92875,72217,77.76,-15.29
+243,O'Connor,WA,92875,72216,77.76,-15.29
 174,Oxley,QLD,82782,65050,78.58,-14.83
 138,Page,NSW,94360,77474,82.1,-13.99
 139,Parkes,NSW,100169,80677,80.54,-15.98
 140,Parramatta,NSW,94014,70647,75.15,-17.44
 249,Paterson,NSW,92149,75617,82.06,-13.67
 244,Pearce,WA,89526,67402,75.29,-17.89
-245,Perth,WA,91904,68581,74.62,-18.57
+245,Perth,WA,91904,68575,74.62,-18.57
 175,Petrie,QLD,86683,67043,77.34,-16.76
 189,Port Adelaide,SA,104308,84757,81.26,-13.61
 176,Rankin,QLD,94602,72424,76.56,-17.15
