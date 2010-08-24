@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T09:19:21 Cycle:c6a55833-6950-4f55-8164-046867a6eaca Created:2010-08-25T09:02:38 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T09:35:02 Cycle:67322275-ead4-472d-8dd0-4d0f7af268ec Created:2010-08-25T09:17:43 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,Swing
 ACT,101,Canberra,20863,JONES,Giulia,1,N,N,LP,Liberal,39113,0,0,0,0,39113,2.36
 ACT,101,Canberra,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,57358,0,0,0,0,57358,-2.36
@@ -46,8 +46,8 @@ NSW,124,Hughes,21467,KELLY,Craig,2,N,N,LP,Liberal,40519,0,0,0,0,40519,4.66
 NSW,124,Hughes,21256,THOMAS,Brent,7,N,N,ALP,Labor,32883,0,0,0,0,32883,-4.66
 NSW,125,Hume,21245,SAVILLE,Robin,3,N,N,ALP,Labor,30782,0,0,0,722,31504,-3.52
 NSW,125,Hume,21647,SCHULTZ,Alby,7,N,Y,LP,Liberal,43380,0,0,0,1710,45090,3.52
-NSW,126,Hunter,21454,FITZGIBBON,Joel,3,N,Y,ALP,Labor,45438,0,0,0,0,45438,-3.01
-NSW,126,Hunter,21167,JOHNSEN,Michael,5,N,N,NP,The Nationals,27060,0,0,0,0,27060,3.01
+NSW,126,Hunter,21454,FITZGIBBON,Joel,3,N,Y,ALP,Labor,45441,0,0,0,0,45441,-3
+NSW,126,Hunter,21167,JOHNSEN,Michael,5,N,N,NP,The Nationals,27053,0,0,0,0,27053,3
 NSW,127,Kingsford Smith,21662,FENELEY,Michael,1,N,N,LP,Liberal,31552,0,0,0,0,31552,8.16
 NSW,127,Kingsford Smith,21368,GARRETT,Peter,2,N,Y,ALP,Labor,38727,0,0,0,0,38727,-8.16
 NSW,128,Lindsay,21283,BRADBURY,David,1,N,Y,ALP,Labor,37340,0,0,0,0,37340,-5.53
@@ -58,8 +58,8 @@ NSW,131,Macarthur,21596,BLEASDALE,Nick,2,N,N,ALP,Labor,32349,0,0,0,0,32349,-3.63
 NSW,131,Macarthur,21649,MATHESON,Russell,4,N,N,LP,Liberal,36662,0,0,0,0,36662,3.63
 NSW,132,Mackellar,21419,BEATTIE,Linda,2,N,N,ALP,Labor,24589,0,0,0,0,24589,-3.16
 NSW,132,Mackellar,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,46763,0,0,0,0,46763,3.16
-NSW,133,Macquarie,21792,TEMPLEMAN,Susan,5,N,N,ALP,Labor,37320,0,0,0,0,37320,-1.49
-NSW,133,Macquarie,21790,MARKUS,Louise,9,N,Y,LP,Liberal,39174,0,0,0,0,39174,1.49
+NSW,133,Macquarie,21792,TEMPLEMAN,Susan,5,N,N,ALP,Labor,37337,0,0,0,0,37337,-1.45
+NSW,133,Macquarie,21790,MARKUS,Louise,9,N,Y,LP,Liberal,39128,0,0,0,0,39128,1.45
 NSW,315,McMahon,21703,ELISHE,Jamal,2,N,N,LP,Liberal,28454,0,0,0,0,28454,5.82
 NSW,315,McMahon,21260,BOWEN,Chris,4,N,Y,ALP,Labor,39217,0,0,0,0,39217,-5.82
 NSW,134,Mitchell,21408,GOULD,Nigel,2,N,N,ALP,Labor,23623,0,0,0,0,23623,-7.97
@@ -124,8 +124,8 @@ QLD,160,Fairfax,21607,McINTYRE,Dan,1,N,N,ALP,Australian Labor Party,29284,0,0,0,
 QLD,160,Fairfax,20738,SOMLYAY,Alex,4,N,Y,LNQ,Liberal National Party of Queensland,37841,0,0,0,0,37841,3.4
 QLD,161,Fisher,21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor Party,28575,0,0,0,0,28575,0.04
 QLD,161,Fisher,20759,SLIPPER,Peter,4,N,Y,LNQ,Liberal National Party of Queensland,32862,0,0,0,0,32862,-0.04
-QLD,311,Flynn,20809,O'DOWD,Ken,2,N,N,LNQ,Liberal National Party of Queensland,32410,0,0,0,0,32410,3.84
-QLD,311,Flynn,21781,TREVOR,Chris,4,N,Y,ALP,Australian Labor Party,30403,0,0,0,0,30403,-3.84
+QLD,311,Flynn,20809,O'DOWD,Ken,2,N,N,LNQ,Liberal National Party of Queensland,32740,0,0,0,0,32740,3.94
+QLD,311,Flynn,21781,TREVOR,Chris,4,N,Y,ALP,Australian Labor Party,30588,0,0,0,0,30588,-3.94
 QLD,162,Forde,21769,VAN MANEN,Bert,2,N,N,LNQ,Liberal National Party of Queensland,29087,0,0,492,0,29579,4.89
 QLD,162,Forde,21853,RAGUSE,Brett,3,N,Y,ALP,Australian Labor Party,27420,0,0,398,0,27818,-4.89
 QLD,163,Griffith,20820,DOCHERTY,Rebecca,4,N,N,LNQ,Liberal National Party of Queensland,27325,0,0,0,0,27325,4.11
@@ -230,8 +230,8 @@ VIC,214,Goldstein,21566,EDEN,Nick,1,N,N,ALP,Australian Labor Party,29698,0,0,0,0
 VIC,214,Goldstein,21571,ROBB,Andrew,3,N,Y,LP,Liberal,37761,0,0,0,0,37761,-0.07
 VIC,309,Gorton,21226,O'CONNOR,Brendan,2,N,Y,ALP,Australian Labor Party,60563,0,0,0,0,60563,1.4
 VIC,309,Gorton,21202,RYDER,Damon,4,N,N,LP,Liberal,22838,0,0,0,0,22838,-1.4
-VIC,215,Higgins,21639,CLARK,Tony,1,N,N,ALP,Australian Labor Party,27006,0,0,0,0,27006,0.06
-VIC,215,Higgins,21583,O'DWYER,Kelly,5,N,Y,LP,Liberal,35774,0,0,0,0,35774,-0.06
+VIC,215,Higgins,21639,CLARK,Tony,1,N,N,ALP,Australian Labor Party,27046,0,0,0,0,27046,0.04
+VIC,215,Higgins,21583,O'DWYER,Kelly,5,N,Y,LP,Liberal,35850,0,0,0,0,35850,-0.04
 VIC,216,Holt,21185,BALANCY,Ricardo,2,N,N,LP,Liberal,28382,0,0,0,0,28382,-2.28
 VIC,216,Holt,21193,BYRNE,Anthony,5,N,Y,ALP,Australian Labor Party,50269,0,0,0,0,50269,2.28
 VIC,217,Hotham,21141,CADER,Fazal,1,N,N,LP,Liberal,22798,0,0,0,0,22798,-1.53
@@ -288,8 +288,8 @@ WA,305,Hasluck,20876,WYATT,Ken,5,N,N,LP,Liberal,33286,328,0,855,1342,35811,1.24
 WA,305,Hasluck,20892,JACKSON,Sharryn,6,N,Y,ALP,Australian Labor Party,32900,376,0,771,1204,35251,-1.24
 WA,242,Moore,20854,WASHER,Mal,2,N,Y,LP,Liberal,41658,0,0,1040,0,42698,2.03
 WA,242,Moore,20890,BROWN,Jeremy,6,N,N,ALP,Australian Labor Party,26814,0,0,527,0,27341,-2.03
-WA,243,O'Connor,20880,TUCKEY,Wilson,3,N,Y,LP,Liberal,31167,0,0,0,0,31167,45.7
-WA,243,O'Connor,21139,CROOK,Tony,6,N,N,NP,The Nationals,37038,0,0,0,0,37038,54.3
+WA,243,O'Connor,20880,TUCKEY,Wilson,3,N,Y,LP,Liberal,31166,0,0,0,0,31166,45.7
+WA,243,O'Connor,21139,CROOK,Tony,6,N,N,NP,The Nationals,37036,0,0,0,0,37036,54.3
 WA,244,Pearce,20894,LEADBETTER,Bill,1,N,N,ALP,Australian Labor Party,25566,0,0,187,0,25753,-1.59
 WA,244,Pearce,20861,MOYLAN,Judi,2,N,Y,LP,Liberal,37174,0,0,319,0,37493,1.59
 WA,245,Perth,20904,SMITH,Stephen Francis,3,N,Y,ALP,Australian Labor Party,36517,0,0,0,0,36517,-1.65

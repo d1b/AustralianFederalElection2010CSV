@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T09:19:46 Cycle:c6a55833-6950-4f55-8164-046867a6eaca Created:2010-08-25T09:02:38 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T09:35:26 Cycle:67322275-ead4-472d-8dd0-4d0f7af268ec Created:2010-08-25T09:17:43 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -1421,8 +1421,8 @@ NSW,126,Hunter,33978,East Maitland HUNTER PPVC,1185,62.14,722,37.86,1907,29.17
 NSW,126,Hunter,1366,East Maitland South,409,57.04,308,42.96,717,-2.06
 NSW,126,Hunter,1369,Elderslie,124,51.45,117,48.55,241,0.27
 NSW,126,Hunter,1370,Ellalong,311,59.92,208,40.08,519,-2.83
-NSW,126,Hunter,1372,Gillieston Heights,301,66.89,149,33.11,450,-3.95
-NSW,126,Hunter,33177,Glendon,80,38.28,129,61.72,209,-1.31
+NSW,126,Hunter,1372,Gillieston Heights,301,67.34,146,32.66,447,-3.5
+NSW,126,Hunter,33177,Glendon,83,39.9,125,60.1,208,0.31
 NSW,126,Hunter,33272,Glendon Brook,56,39.16,87,60.84,143,-2.68
 NSW,126,Hunter,1355,Greenlands,46,34.33,88,65.67,134,-8.53
 NSW,126,Hunter,1375,Greta,894,70.5,374,29.5,1268,0.59
@@ -1776,24 +1776,24 @@ NSW,133,Macquarie,1777,Kurrajong,588,38.81,927,61.19,1515,-5.5
 NSW,133,Macquarie,1778,Kurrajong East,261,35.9,466,64.1,727,-0.29
 NSW,133,Macquarie,1779,Kurrajong Heights,167,37.61,277,62.39,444,-6.88
 NSW,133,Macquarie,1490,Lapstone,753,52.92,670,47.08,1423,3.2
-NSW,133,Macquarie,1780,Lawson,1145,66.96,565,33.04,1710,4.24
+NSW,133,Macquarie,1780,Lawson,1140,66.98,562,33.02,1702,4.26
 NSW,133,Macquarie,1781,Leura,892,67.78,424,32.22,1316,1.59
 NSW,133,Macquarie,1782,Leura Central,340,58.22,244,41.78,584,2.8
 NSW,133,Macquarie,1787,Maraylya,125,26.1,354,73.9,479,-5.05
 NSW,133,Macquarie,1786,McGraths Hill,328,32.06,695,67.94,1023,-5.41
 NSW,133,Macquarie,1790,Medlow Bath,270,66.18,138,33.82,408,1.28
-NSW,133,Macquarie,1493,Mount Riverview,739,46.45,852,53.55,1591,0.79
+NSW,133,Macquarie,1493,Mount Riverview,738,46.39,853,53.61,1591,0.73
 NSW,133,Macquarie,1792,Mount Victoria,280,59.2,193,40.8,473,-5.49
 NSW,133,Macquarie,1793,Mount Wilson,48,49.48,49,50.52,97,-3.15
 NSW,133,Macquarie,1802,North Richmond,846,38.33,1361,61.67,2207,-2.44
 NSW,133,Macquarie,1794,Oakville,241,19.67,984,80.33,1225,-5.87
 NSW,133,Macquarie,1797,Pitt Town,281,23.71,904,76.29,1185,-5.8
-NSW,133,Macquarie,1800,Richmond,763,39.66,1161,60.34,1924,-3.29
+NSW,133,Macquarie,1800,Richmond,783,41.06,1124,58.94,1907,-1.89
 NSW,133,Macquarie,1801,Richmond Central,192,40.68,280,59.32,472,-3.35
 NSW,133,Macquarie,47782,Richmond PPVC,1079,35.15,1991,64.85,3070,-15.68
 NSW,133,Macquarie,58573,Special Hospital Team 1,0,0,0,0,0,-53.57
 NSW,133,Macquarie,1805,Springwood,1332,58.34,951,41.66,2283,0.63
-NSW,133,Macquarie,8875,Springwood North,1266,51.65,1185,48.35,2451,2.07
+NSW,133,Macquarie,8875,Springwood North,1269,51.86,1178,48.14,2447,2.28
 NSW,133,Macquarie,34038,Springwood PPVC,1332,53.17,1173,46.83,2505,2.38
 NSW,133,Macquarie,1806,Springwood South,748,59.7,505,40.3,1253,3.1
 NSW,133,Macquarie,1804,St Albans,78,46.15,91,53.85,169,-4.57
@@ -3700,9 +3700,9 @@ QLD,311,Flynn,5219,Bouldercombe,232,46.68,265,53.32,497,-16.27
 QLD,311,Flynn,5725,Boyne Island,1412,57.73,1034,42.27,2446,-3.08
 QLD,311,Flynn,46390,Brisbane City (Flynn),12,26.67,33,73.33,45,-8.05
 QLD,311,Flynn,5730,Bullyard,117,37.62,194,62.38,311,-4.3
-QLD,311,Flynn,58726,Bundaberg FLYNN PPVC,0,0,0,0,0,-44.3
+QLD,311,Flynn,58726,Bundaberg FLYNN PPVC,180,37.82,296,62.18,476,-6.48
 QLD,311,Flynn,5739,Calliope,967,52.7,868,47.3,1835,-5.19
-QLD,311,Flynn,5816,Capella,170,31.78,365,68.22,535,-1.49
+QLD,311,Flynn,5816,Capella,171,31.96,364,68.04,535,-1.31
 QLD,311,Flynn,5741,Clinton,1661,63.49,955,36.51,2616,-2.32
 QLD,311,Flynn,33062,Clinton St John's,1098,61.75,680,38.25,1778,-2.01
 QLD,311,Flynn,5742,Coalstoun Lakes,13,14.44,77,85.56,90,1.33
@@ -3712,7 +3712,7 @@ QLD,311,Flynn,40206,Divisional Office (PREPOLL),429,55.64,342,44.36,771,11.4
 QLD,311,Flynn,6149,Duaringa,51,29.48,122,70.52,173,-1.64
 QLD,311,Flynn,5229,Dululu,27,20.45,105,79.55,132,1.7
 QLD,311,Flynn,46634,Durong,26,23.85,83,76.15,109,-2.12
-QLD,311,Flynn,5747,Eidsvold,148,50,148,50,296,6.68
+QLD,311,Flynn,5747,Eidsvold,147,49.66,149,50.34,296,6.34
 QLD,311,Flynn,6151,Emerald,764,37.34,1282,62.66,2046,-3.73
 QLD,311,Flynn,46700,Emerald Interstate PPVC,0,0,0,0,0,0
 QLD,311,Flynn,6152,Emerald North,718,47.9,781,52.1,1499,-1.39
@@ -3725,7 +3725,7 @@ QLD,311,Flynn,6157,Gindie,12,17.65,56,82.35,68,1.96
 QLD,311,Flynn,5753,Gladstone,802,59.63,543,40.37,1345,-4.07
 QLD,311,Flynn,32711,Gladstone PPVC,1728,59.44,1179,40.56,2907,15.22
 QLD,311,Flynn,5755,Gladstone South,1279,66.24,652,33.76,1931,-5.91
-QLD,311,Flynn,5787,Gladstone Valley,637,62.7,379,37.3,1016,-2.85
+QLD,311,Flynn,5787,Gladstone Valley,640,60.61,416,39.39,1056,-4.94
 QLD,311,Flynn,5756,Gladstone West,1229,61.14,781,38.86,2010,-6.8
 QLD,311,Flynn,5757,Gooburrum,264,33.25,530,66.75,794,-10.85
 QLD,311,Flynn,5236,Goovigen,25,20.66,96,79.34,121,-9.87
@@ -3754,10 +3754,10 @@ QLD,311,Flynn,6617,Proston,130,33.68,256,66.32,386,-4.04
 QLD,311,Flynn,5264,Ridgelands,35,21.6,127,78.4,162,-15.41
 QLD,311,Flynn,6207,Rolleston,21,16.15,109,83.85,130,-7.16
 QLD,311,Flynn,5781,Rosedale,153,43.47,199,56.53,352,-4.58
-QLD,311,Flynn,6212,Rubyvale,118,45.04,144,54.96,262,-4.6
+QLD,311,Flynn,6212,Rubyvale,119,45.42,143,54.58,262,-4.22
 QLD,311,Flynn,6217,Sapphire,120,49.18,124,50.82,244,-3.55
 QLD,311,Flynn,5783,Sharon,235,39.76,356,60.24,591,-8.27
-QLD,311,Flynn,5764,South Kolan,244,42.29,333,57.71,577,-11.01
+QLD,311,Flynn,5764,South Kolan,245,42.53,331,57.47,576,-10.77
 QLD,311,Flynn,46440,Special Hospital Team 1,35,61.4,22,38.6,57,-6.29
 QLD,311,Flynn,46441,Special Hospital Team 2,8,57.14,6,42.86,14,-12.86
 QLD,311,Flynn,58499,Special Hospital Team 3,0,0,0,0,0,-67.86
@@ -6927,8 +6927,8 @@ VIC,215,Higgins,4673,Prahran,904,63.31,524,36.69,1428,0.83
 VIC,215,Higgins,4674,Prahran East,1438,60.6,935,39.4,2373,1.67
 VIC,215,Higgins,4688,South Yarra,317,55.81,251,44.19,568,-0.21
 VIC,215,Higgins,11526,South Yarra Central,447,47.4,496,52.6,943,2.3
-VIC,215,Higgins,31597,Special Hospital Team 1,0,0,0,0,0,-19.29
-VIC,215,Higgins,31598,Special Hospital Team 2,0,0,0,0,0,-19.29
+VIC,215,Higgins,31597,Special Hospital Team 1,35,37.23,59,62.77,94,17.94
+VIC,215,Higgins,31598,Special Hospital Team 2,5,22.73,17,77.27,22,3.44
 VIC,215,Higgins,3945,Toorak,483,21.29,1786,78.71,2269,-2.83
 VIC,215,Higgins,3946,Toorak Central,565,36.4,987,63.6,1552,0.99
 VIC,215,Higgins,3947,Toorak West,246,25.52,718,74.48,964,0.42

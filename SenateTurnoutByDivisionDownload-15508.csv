@@ -1,4 +1,4 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T09:19:49 Cycle:c6a55833-6950-4f55-8164-046867a6eaca Created:2010-08-25T09:02:38 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T09:35:29 Cycle:67322275-ead4-472d-8dd0-4d0f7af268ec Created:2010-08-25T09:17:43 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 179,Adelaide,SA,98526,72646,73.73
 197,Aston,VIC,93448,74115,79.31
@@ -30,7 +30,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 110,Charlton,NSW,94480,73373,77.66
 111,Chifley,NSW,97605,61825,63.34
 205,Chisholm,VIC,86275,61426,71.2
-112,Cook,NSW,100748,66951,64.73
+112,Cook,NSW,100748,66984,66.45
 207,Corangamite,VIC,101569,78836,77.62
 208,Corio,VIC,91974,70633,76.8
 237,Cowan,WA,89546,66549,74.32
@@ -48,7 +48,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 159,Fadden,QLD,85236,63613,74.63
 160,Fairfax,QLD,89743,70529,78.59
 118,Farrer,NSW,94061,74290,78.98
-161,Fisher,QLD,83754,62609,74.75
+161,Fisher,QLD,83754,62612,74.75
 211,Flinders,VIC,100875,74211,73.57
 311,Flynn,QLD,91377,65801,72.01
 162,Forde,QLD,82558,60891,73.76
@@ -120,7 +120,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 174,Oxley,QLD,82782,64083,77.41
 138,Page,NSW,94360,77031,81.64
 139,Parkes,NSW,100169,74524,74.4
-140,Parramatta,NSW,94014,69935,74.39
+140,Parramatta,NSW,94014,70225,74.39
 249,Paterson,NSW,92149,75182,81.59
 244,Pearce,WA,89526,62061,69.32
 245,Perth,WA,91904,68086,74.08
@@ -147,6 +147,6 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 251,Watson,NSW,97765,74722,76.43
 152,Wentworth,NSW,101464,65123,64.18
 153,Werriwa,NSW,90994,64256,70.62
-178,Wide Bay,QLD,92636,69301,74.8
+178,Wide Bay,QLD,92636,69309,74.81
 234,Wills,VIC,98599,72084,73.11
 316,Wright,QLD,85304,62507,73.28
