@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T16:56:59 Cycle:d777cb40-45e6-47f7-a462-d4191c330429 Created:2010-08-24T16:47:22 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T17:12:51 Cycle:bc80c00b-0f68-4d88-bf2c-0bae72468aa7 Created:2010-08-24T17:02:22 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,TotalPercentage
 179,Adelaide,SA,98526,73427,0,0,0,0,73427,74.53
 197,Aston,VIC,93448,74320,0,0,0,0,74320,79.53
@@ -14,7 +14,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 304,Blair,QLD,83071,66468,414,0,0,0,66882,80.51
 107,Blaxland,NSW,95354,72423,0,0,0,0,72423,75.95
 310,Bonner,QLD,92684,69745,0,0,0,0,69745,75.25
-182,Boothby,SA,97898,76299,1948,0,0,1550,79797,81.51
+182,Boothby,SA,97898,76299,1948,0,0,3099,81346,83.09
 155,Bowman,QLD,91892,74261,0,0,0,0,74261,80.81
 193,Braddon,TAS,71574,59985,0,0,0,3556,63541,88.78
 108,Bradfield,NSW,97251,73785,0,0,0,0,73785,75.87
@@ -37,7 +37,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 113,Cowper,NSW,94645,77482,0,0,0,0,77482,81.87
 114,Cunningham,NSW,100698,82166,0,0,0,0,82166,81.6
 238,Curtin,WA,90400,68396,0,0,0,0,68396,75.66
-158,Dawson,QLD,94553,72608,0,0,0,0,72608,76.79
+158,Dawson,QLD,94553,72637,0,0,0,0,72637,76.82
 209,Deakin,VIC,87744,68067,0,0,0,0,68067,77.57
 194,Denison,TAS,71349,57800,0,0,0,0,57800,81.01
 252,Dickson,QLD,90111,70773,0,0,0,0,70773,78.54
@@ -111,7 +111,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 134,Mitchell,NSW,93588,77329,0,0,0,0,77329,82.63
 172,Moncrieff,QLD,89087,67275,0,0,0,0,67275,75.52
 242,Moore,WA,92295,71655,0,0,0,0,71655,77.64
-173,Moreton,QLD,92733,69243,534,0,0,0,69777,75.25
+173,Moreton,QLD,92733,69250,534,0,0,0,69784,75.25
 231,Murray,VIC,90218,74507,0,0,0,0,74507,82.59
 135,New England,NSW,99677,83816,0,0,0,0,83816,84.09
 136,Newcastle,NSW,92896,73878,0,0,0,0,73878,79.53
@@ -134,12 +134,12 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 177,Ryan,QLD,98224,74765,0,0,0,0,74765,76.12
 232,Scullin,VIC,90822,72040,0,0,0,0,72040,79.32
 148,Shortland,NSW,94245,76324,0,0,0,0,76324,80.98
-307,Solomon,NT,59879,48728,0,0,0,0,48728,81.38
+307,Solomon,NT,59879,48725,770,0,0,0,49495,82.66
 246,Stirling,WA,91728,69805,699,0,0,0,70504,76.86
 190,Sturt,SA,99061,76758,0,0,0,0,76758,77.49
 247,Swan,WA,90766,67978,0,0,0,0,67978,74.89
 149,Sydney,NSW,95277,61943,0,0,0,0,61943,65.01
-248,Tangney,WA,92176,71893,0,0,0,0,71893,78
+248,Tangney,WA,92176,71895,0,0,0,0,71895,78
 150,Throsby,NSW,95874,80244,0,0,0,0,80244,83.7
 191,Wakefield,SA,100209,79856,0,0,0,2397,82253,82.08
 233,Wannon,VIC,92264,75033,0,0,0,0,75033,81.32
