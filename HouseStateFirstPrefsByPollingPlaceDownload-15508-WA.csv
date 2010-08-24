@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives First Preferences By Candidate By Polling Place for WA [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T16:25:51 Cycle:e29311bb-939f-4177-a277-0b42f1678d19 Created:2010-08-24T16:17:17 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives First Preferences By Candidate By Polling Place for WA [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T16:41:29 Cycle:06cf0a0e-05f7-4b9c-bddc-704099852ac4 Created:2010-08-24T16:32:17 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 WA,235,Brand,7472,Baldivis,20799,JECKS,Dawn,1,N,N,GRN,The Greens,553,2.49
 WA,235,Brand,7472,Baldivis,20857,GORDIN,Donna,2,N,N,LP,Liberal,2064,-0.55
@@ -529,20 +529,20 @@ WA,236,Canning,7509,Serpentine,20806,HARDIE,Denise,4,N,N,GRN,The Greens,97,-0.23
 WA,236,Canning,7509,Serpentine,21297,VAN BURGEL,Jamie,5,N,N,CDP,Christian Democratic Party,35,0.24
 WA,236,Canning,7509,Serpentine,20936,TUFFNELL,Ian,6,N,N,CEC,Citizens Electoral Council,3,0.1
 WA,236,Canning,7509,Serpentine,999,Informal,Informal,999,N,N,,Informal,66,2.29
-WA,236,Canning,34078,Special Hospital Team 1,20913,MacTIERNAN,Alannah,1,N,N,ALP,Australian Labor Party,0,-39.57
-WA,236,Canning,34078,Special Hospital Team 1,20865,RANDALL,Don,2,N,Y,LP,Liberal,0,-48.92
-WA,236,Canning,34078,Special Hospital Team 1,21308,VERNEDE,Darren,3,N,N,FFP,Family First,0,-1.44
-WA,236,Canning,34078,Special Hospital Team 1,20806,HARDIE,Denise,4,N,N,GRN,The Greens,0,-4.32
+WA,236,Canning,34078,Special Hospital Team 1,20913,MacTIERNAN,Alannah,1,N,N,ALP,Australian Labor Party,51,9.47
+WA,236,Canning,34078,Special Hospital Team 1,20865,RANDALL,Don,2,N,Y,LP,Liberal,44,-6.61
+WA,236,Canning,34078,Special Hospital Team 1,21308,VERNEDE,Darren,3,N,N,FFP,Family First,2,0.48
+WA,236,Canning,34078,Special Hospital Team 1,20806,HARDIE,Denise,4,N,N,GRN,The Greens,6,1.45
 WA,236,Canning,34078,Special Hospital Team 1,21297,VAN BURGEL,Jamie,5,N,N,CDP,Christian Democratic Party,0,-2.88
-WA,236,Canning,34078,Special Hospital Team 1,20936,TUFFNELL,Ian,6,N,N,CEC,Citizens Electoral Council,0,-1.44
-WA,236,Canning,34078,Special Hospital Team 1,999,Informal,Informal,999,N,N,,Informal,0,-10.9
-WA,236,Canning,34207,Special Hospital Team 2,20913,MacTIERNAN,Alannah,1,N,N,ALP,Australian Labor Party,0,-39.56
-WA,236,Canning,34207,Special Hospital Team 2,20865,RANDALL,Don,2,N,Y,LP,Liberal,0,-50
-WA,236,Canning,34207,Special Hospital Team 2,21308,VERNEDE,Darren,3,N,N,FFP,Family First,0,-1.1
-WA,236,Canning,34207,Special Hospital Team 2,20806,HARDIE,Denise,4,N,N,GRN,The Greens,0,-3.85
-WA,236,Canning,34207,Special Hospital Team 2,21297,VAN BURGEL,Jamie,5,N,N,CDP,Christian Democratic Party,0,-2.75
+WA,236,Canning,34078,Special Hospital Team 1,20936,TUFFNELL,Ian,6,N,N,CEC,Citizens Electoral Council,1,-0.48
+WA,236,Canning,34078,Special Hospital Team 1,999,Informal,Informal,999,N,N,,Informal,7,-4.59
+WA,236,Canning,34207,Special Hospital Team 2,20913,MacTIERNAN,Alannah,1,N,N,ALP,Australian Labor Party,87,6.96
+WA,236,Canning,34207,Special Hospital Team 2,20865,RANDALL,Don,2,N,Y,LP,Liberal,91,-1.34
+WA,236,Canning,34207,Special Hospital Team 2,21308,VERNEDE,Darren,3,N,N,FFP,Family First,2,-0.03
+WA,236,Canning,34207,Special Hospital Team 2,20806,HARDIE,Denise,4,N,N,GRN,The Greens,6,-0.64
+WA,236,Canning,34207,Special Hospital Team 2,21297,VAN BURGEL,Jamie,5,N,N,CDP,Christian Democratic Party,1,-2.22
 WA,236,Canning,34207,Special Hospital Team 2,20936,TUFFNELL,Ian,6,N,N,CEC,Citizens Electoral Council,0,-1.1
-WA,236,Canning,34207,Special Hospital Team 2,999,Informal,Informal,999,N,N,,Informal,0,-10.78
+WA,236,Canning,34207,Special Hospital Team 2,999,Informal,Informal,999,N,N,,Informal,12,-4.75
 WA,236,Canning,11898,Strawberry Fields,20913,MacTIERNAN,Alannah,1,N,N,ALP,Australian Labor Party,1333,5.28
 WA,236,Canning,11898,Strawberry Fields,20865,RANDALL,Don,2,N,Y,LP,Liberal,954,-5.58
 WA,236,Canning,11898,Strawberry Fields,21308,VERNEDE,Darren,3,N,N,FFP,Family First,44,0.35
@@ -3296,12 +3296,12 @@ WA,242,Moore,7938,Heathridge,20787,YOUNG,Sheridan,5,N,N,GRN,The Greens,368,7.25
 WA,242,Moore,7938,Heathridge,20890,BROWN,Jeremy,6,N,N,ALP,Australian Labor Party,657,-9.79
 WA,242,Moore,7938,Heathridge,999,Informal,Informal,999,N,N,,Informal,123,2.06
 WA,242,Moore,11594,Heathridge East,21848,GAULT,George,1,N,N,ON,One Nation,25,0.03
-WA,242,Moore,11594,Heathridge East,20854,WASHER,Mal,2,N,Y,LP,Liberal,630,-3.03
-WA,242,Moore,11594,Heathridge East,21237,BIRCH,Meg,3,N,N,CDP,Christian Democratic Party,35,0.81
-WA,242,Moore,11594,Heathridge East,21264,BARRETT,Paul,4,N,N,FFP,Family First,41,1.05
-WA,242,Moore,11594,Heathridge East,20787,YOUNG,Sheridan,5,N,N,GRN,The Greens,330,10.59
-WA,242,Moore,11594,Heathridge East,20890,BROWN,Jeremy,6,N,N,ALP,Australian Labor Party,614,-9.09
-WA,242,Moore,11594,Heathridge East,999,Informal,Informal,999,N,N,,Informal,119,2.27
+WA,242,Moore,11594,Heathridge East,20854,WASHER,Mal,2,N,Y,LP,Liberal,634,-2.92
+WA,242,Moore,11594,Heathridge East,21237,BIRCH,Meg,3,N,N,CDP,Christian Democratic Party,34,0.74
+WA,242,Moore,11594,Heathridge East,21264,BARRETT,Paul,4,N,N,FFP,Family First,41,1.04
+WA,242,Moore,11594,Heathridge East,20787,YOUNG,Sheridan,5,N,N,GRN,The Greens,329,10.46
+WA,242,Moore,11594,Heathridge East,20890,BROWN,Jeremy,6,N,N,ALP,Australian Labor Party,618,-8.99
+WA,242,Moore,11594,Heathridge East,999,Informal,Informal,999,N,N,,Informal,121,2.35
 WA,242,Moore,7577,Hillarys,21848,GAULT,George,1,N,N,ON,One Nation,41,0.63
 WA,242,Moore,7577,Hillarys,20854,WASHER,Mal,2,N,Y,LP,Liberal,1985,-0.46
 WA,242,Moore,7577,Hillarys,21237,BIRCH,Meg,3,N,N,CDP,Christian Democratic Party,65,0.26
@@ -3422,12 +3422,12 @@ WA,242,Moore,32376,Sorrento,20787,YOUNG,Sheridan,5,N,N,GRN,The Greens,170,1.78
 WA,242,Moore,32376,Sorrento,20890,BROWN,Jeremy,6,N,N,ALP,Australian Labor Party,373,-4.6
 WA,242,Moore,32376,Sorrento,999,Informal,Informal,999,N,N,,Informal,48,0.88
 WA,242,Moore,32446,Sorrento Beach,21848,GAULT,George,1,N,N,ON,One Nation,23,0.9
-WA,242,Moore,32446,Sorrento Beach,20854,WASHER,Mal,2,N,Y,LP,Liberal,1613,4.22
+WA,242,Moore,32446,Sorrento Beach,20854,WASHER,Mal,2,N,Y,LP,Liberal,1624,4.62
 WA,242,Moore,32446,Sorrento Beach,21237,BIRCH,Meg,3,N,N,CDP,Christian Democratic Party,31,-0.37
 WA,242,Moore,32446,Sorrento Beach,21264,BARRETT,Paul,4,N,N,FFP,Family First,17,0.25
-WA,242,Moore,32446,Sorrento Beach,20787,YOUNG,Sheridan,5,N,N,GRN,The Greens,216,2.29
-WA,242,Moore,32446,Sorrento Beach,20890,BROWN,Jeremy,6,N,N,ALP,Australian Labor Party,309,-7.05
-WA,242,Moore,32446,Sorrento Beach,999,Informal,Informal,999,N,N,,Informal,58,-0.98
+WA,242,Moore,32446,Sorrento Beach,20787,YOUNG,Sheridan,5,N,N,GRN,The Greens,207,1.87
+WA,242,Moore,32446,Sorrento Beach,20890,BROWN,Jeremy,6,N,N,ALP,Australian Labor Party,310,-7.03
+WA,242,Moore,32446,Sorrento Beach,999,Informal,Informal,999,N,N,,Informal,60,-0.9
 WA,242,Moore,34082,Special Hospital Team 1,21848,GAULT,George,1,N,N,ON,One Nation,8,4.04
 WA,242,Moore,34082,Special Hospital Team 1,20854,WASHER,Mal,2,N,Y,LP,Liberal,97,-3.14
 WA,242,Moore,34082,Special Hospital Team 1,21237,BIRCH,Meg,3,N,N,CDP,Christian Democratic Party,4,-0.48
@@ -3472,16 +3472,16 @@ WA,243,O'Connor,32816,Albany 2 PPVC,21981,STOKES,Geoffrey,7,N,N,IND,Independent,
 WA,243,O'Connor,32816,Albany 2 PPVC,20917,BISHOP,Ian,8,N,N,ALP,Australian Labor Party,0,0
 WA,243,O'Connor,32816,Albany 2 PPVC,20767,SMITHSON,Neil Ramsay,9,N,N,IND,Independent,0,0
 WA,243,O'Connor,32816,Albany 2 PPVC,999,Informal,Informal,999,N,N,,Informal,0,0
-WA,243,O'Connor,7671,Albany Centennial Park,20796,HUNTLEY,Andy,1,N,N,GRN,The Greens,145,0.81
+WA,243,O'Connor,7671,Albany Centennial Park,20796,HUNTLEY,Andy,1,N,N,GRN,The Greens,144,0.78
 WA,243,O'Connor,7671,Albany Centennial Park,20925,ROBINSON,Jean,2,N,N,CEC,Citizens Electoral Council,5,0.01
-WA,243,O'Connor,7671,Albany Centennial Park,20880,TUCKEY,Wilson,3,N,Y,LP,Liberal,706,-3.07
-WA,243,O'Connor,7671,Albany Centennial Park,21313,SCALLAN,Pat,4,N,N,FFP,Family First,26,0.24
-WA,243,O'Connor,7671,Albany Centennial Park,21296,YOUNG,Jacky,5,N,N,CDP,Christian Democratic Party,111,0.56
-WA,243,O'Connor,7671,Albany Centennial Park,21139,CROOK,Tony,6,N,N,NP,The Nationals,378,10.51
-WA,243,O'Connor,7671,Albany Centennial Park,21981,STOKES,Geoffrey,7,N,N,IND,Independent,10,0.59
-WA,243,O'Connor,7671,Albany Centennial Park,20917,BISHOP,Ian,8,N,N,ALP,Australian Labor Party,310,-6.65
+WA,243,O'Connor,7671,Albany Centennial Park,20880,TUCKEY,Wilson,3,N,Y,LP,Liberal,701,-3.26
+WA,243,O'Connor,7671,Albany Centennial Park,21313,SCALLAN,Pat,4,N,N,FFP,Family First,27,0.3
+WA,243,O'Connor,7671,Albany Centennial Park,21296,YOUNG,Jacky,5,N,N,CDP,Christian Democratic Party,111,0.57
+WA,243,O'Connor,7671,Albany Centennial Park,21139,CROOK,Tony,6,N,N,NP,The Nationals,378,10.56
+WA,243,O'Connor,7671,Albany Centennial Park,21981,STOKES,Geoffrey,7,N,N,IND,Independent,11,0.65
+WA,243,O'Connor,7671,Albany Centennial Park,20917,BISHOP,Ian,8,N,N,ALP,Australian Labor Party,310,-6.6
 WA,243,O'Connor,7671,Albany Centennial Park,20767,SMITHSON,Neil Ramsay,9,N,N,IND,Independent,10,0.59
-WA,243,O'Connor,7671,Albany Centennial Park,999,Informal,Informal,999,N,N,,Informal,101,-0.43
+WA,243,O'Connor,7671,Albany Centennial Park,999,Informal,Informal,999,N,N,,Informal,105,-0.2
 WA,243,O'Connor,7646,Albany Central,20796,HUNTLEY,Andy,1,N,N,GRN,The Greens,236,-0.86
 WA,243,O'Connor,7646,Albany Central,20925,ROBINSON,Jean,2,N,N,CEC,Citizens Electoral Council,8,0.14
 WA,243,O'Connor,7646,Albany Central,20880,TUCKEY,Wilson,3,N,Y,LP,Liberal,511,-6.15
@@ -3602,16 +3602,16 @@ WA,243,O'Connor,7656,Boyup Brook,21981,STOKES,Geoffrey,7,N,N,IND,Independent,3,0
 WA,243,O'Connor,7656,Boyup Brook,20917,BISHOP,Ian,8,N,N,ALP,Australian Labor Party,74,-6.6
 WA,243,O'Connor,7656,Boyup Brook,20767,SMITHSON,Neil Ramsay,9,N,N,IND,Independent,4,0.7
 WA,243,O'Connor,7656,Boyup Brook,999,Informal,Informal,999,N,N,,Informal,32,1.42
-WA,243,O'Connor,7990,Bremer Bay,20796,HUNTLEY,Andy,1,N,N,GRN,The Greens,17,1.1
+WA,243,O'Connor,7990,Bremer Bay,20796,HUNTLEY,Andy,1,N,N,GRN,The Greens,16,0.51
 WA,243,O'Connor,7990,Bremer Bay,20925,ROBINSON,Jean,2,N,N,CEC,Citizens Electoral Council,0,0
-WA,243,O'Connor,7990,Bremer Bay,20880,TUCKEY,Wilson,3,N,Y,LP,Liberal,80,-0.79
+WA,243,O'Connor,7990,Bremer Bay,20880,TUCKEY,Wilson,3,N,Y,LP,Liberal,81,-0.2
 WA,243,O'Connor,7990,Bremer Bay,21313,SCALLAN,Pat,4,N,N,FFP,Family First,0,-0.61
 WA,243,O'Connor,7990,Bremer Bay,21296,YOUNG,Jacky,5,N,N,CDP,Christian Democratic Party,4,1.43
 WA,243,O'Connor,7990,Bremer Bay,21139,CROOK,Tony,6,N,N,NP,The Nationals,46,-2.39
 WA,243,O'Connor,7990,Bremer Bay,21981,STOKES,Geoffrey,7,N,N,IND,Independent,0,0
 WA,243,O'Connor,7990,Bremer Bay,20917,BISHOP,Ian,8,N,N,ALP,Australian Labor Party,23,4.02
 WA,243,O'Connor,7990,Bremer Bay,20767,SMITHSON,Neil Ramsay,9,N,N,IND,Independent,0,0
-WA,243,O'Connor,7990,Bremer Bay,999,Informal,Informal,999,N,N,,Informal,6,-1.27
+WA,243,O'Connor,7990,Bremer Bay,999,Informal,Informal,999,N,N,,Informal,7,-0.73
 WA,243,O'Connor,7657,Bridgetown,20796,HUNTLEY,Andy,1,N,N,GRN,The Greens,245,2.94
 WA,243,O'Connor,7657,Bridgetown,20925,ROBINSON,Jean,2,N,N,CEC,Citizens Electoral Council,1,0
 WA,243,O'Connor,7657,Bridgetown,20880,TUCKEY,Wilson,3,N,Y,LP,Liberal,605,-6.88

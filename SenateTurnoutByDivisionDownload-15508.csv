@@ -1,4 +1,4 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T16:26:15 Cycle:e29311bb-939f-4177-a277-0b42f1678d19 Created:2010-08-24T16:17:17 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T16:41:54 Cycle:06cf0a0e-05f7-4b9c-bddc-704099852ac4 Created:2010-08-24T16:32:17 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 179,Adelaide,SA,98526,72646,73.73
 197,Aston,VIC,93448,74073,79.27
@@ -21,11 +21,11 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 235,Brand,WA,88203,31039,35.19
 156,Brisbane,QLD,92222,64960,70.44
 201,Bruce,VIC,88171,64060,72.65
-109,Calare,NSW,98504,71239,72.31
+109,Calare,NSW,98504,71329,72.32
 203,Calwell,VIC,101314,73014,72.07
 101,Canberra,ACT,124215,90226,72.64
 236,Canning,WA,90107,60620,67.28
-157,Capricornia,QLD,91962,59748,62.64
+157,Capricornia,QLD,91962,59748,64.97
 204,Casey,VIC,92357,72311,78.3
 110,Charlton,NSW,94480,73373,77.66
 111,Chifley,NSW,97605,61825,63.34
@@ -41,14 +41,14 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 209,Deakin,VIC,87744,67320,76.72
 194,Denison,TAS,71349,52824,74.04
 252,Dickson,QLD,90111,65688,72.9
-115,Dobell,NSW,93661,68500,73.09
+115,Dobell,NSW,93661,68500,73.14
 210,Dunkley,VIC,95324,71234,74.73
 312,Durack,WA,85782,54153,63.13
 117,Eden-Monaro,NSW,96465,65189,67.58
 159,Fadden,QLD,85236,63575,74.59
 160,Fairfax,QLD,89743,70510,78.57
-118,Farrer,NSW,94061,74203,78.74
-161,Fisher,QLD,83754,62606,74.75
+118,Farrer,NSW,94061,74215,78.89
+161,Fisher,QLD,83754,62609,74.75
 211,Flinders,VIC,100875,74119,73.48
 311,Flynn,QLD,91377,65801,72.01
 162,Forde,QLD,82558,60891,73.76
@@ -56,7 +56,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 119,Fowler,NSW,95561,70840,74.13
 195,Franklin,TAS,71090,57009,80.19
 102,Fraser,ACT,123444,84257,68.26
-240,Fremantle,WA,93341,67539,72.07
+240,Fremantle,WA,93341,67545,72.36
 212,Gellibrand,VIC,95611,69815,73.02
 120,Gilmore,NSW,96317,65773,68.29
 213,Gippsland,VIC,97543,81130,83.17
@@ -109,7 +109,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 230,Melbourne Ports,VIC,97765,57108,58.41
 229,Menzies,VIC,90966,68782,75.61
 134,Mitchell,NSW,93588,76915,82.18
-172,Moncrieff,QLD,89087,67108,75.33
+172,Moncrieff,QLD,89087,67113,75.33
 242,Moore,WA,92295,71296,77.25
 173,Moreton,QLD,92733,68052,73.38
 231,Murray,VIC,90218,70810,78.49
@@ -120,14 +120,14 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 174,Oxley,QLD,82782,64083,77.41
 138,Page,NSW,94360,77031,81.64
 139,Parkes,NSW,100169,74524,74.4
-140,Parramatta,NSW,94014,69976,74.43
+140,Parramatta,NSW,94014,69980,74.43
 249,Paterson,NSW,92149,75155,81.56
 244,Pearce,WA,89526,62061,69.32
 245,Perth,WA,91904,68086,74.08
 175,Petrie,QLD,86683,61505,70.95
 189,Port Adelaide,SA,104308,82279,78.88
 176,Rankin,QLD,94602,72183,76.3
-144,Reid,NSW,95873,68996,71.54
+144,Reid,NSW,95873,68996,71.97
 145,Richmond,NSW,92384,64591,69.92
 250,Riverina,NSW,98594,72417,73.45
 146,Robertson,NSW,96593,66380,68.72
