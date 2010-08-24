@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives First Preferences By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T09:03:33 Cycle:cbb8968c-53a1-4048-b526-6cac68bd4876 Created:2010-08-25T08:47:33 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives First Preferences By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T09:19:21 Cycle:c6a55833-6950-4f55-8164-046867a6eaca Created:2010-08-25T09:02:38 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,Swing
 ACT,101,Canberra,20863,JONES,Giulia,1,N,N,LP,Liberal,37228,0,0,0,0,37228,2.11
 ACT,101,Canberra,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,18056,0,0,0,0,18056,5.11
@@ -157,14 +157,14 @@ NSW,124,Hughes,21004,NAILON,Scott,5,N,N,CDP,Christian Democratic Party (Fred Nil
 NSW,124,Hughes,21618,NGUYEN,Don,6,N,N,LDP,Liberal Democrats (LDP),681,0,0,0,0,681,0.84
 NSW,124,Hughes,21256,THOMAS,Brent,7,N,N,ALP,Labor,27932,0,0,0,0,27932,-5.69
 NSW,124,Hughes,999,Informal,Informal,999,N,N,,Informal,5336,0,0,0,0,5336,2.34
-NSW,125,Hume,21625,LIPTAK,Charles,1,N,N,FFP,Family First,1686,0,0,0,0,1686,0.42
-NSW,125,Hume,21849,BUTLER,Greg,2,N,N,DEM,Australian Democrats,1059,0,0,0,0,1059,1.32
-NSW,125,Hume,21245,SAVILLE,Robin,3,N,N,ALP,Labor,24522,0,0,0,0,24522,-4.27
-NSW,125,Hume,21652,MILAT,Lisa,4,N,N,LDP,Liberal Democrats (LDP),878,0,0,0,0,878,1.17
-NSW,125,Hume,21840,WATCHIRS,Kevin,5,N,N,GRN,The Greens,5392,0,0,0,0,5392,1.02
-NSW,125,Hume,21049,BUTTIGIEG,Karen,6,N,N,CDP,Christian Democratic Party (Fred Nile Group),1323,0,0,0,0,1323,0.09
-NSW,125,Hume,21647,SCHULTZ,Alby,7,N,Y,LP,Liberal,40235,0,0,0,0,40235,12.98
-NSW,125,Hume,999,Informal,Informal,999,N,N,,Informal,4065,0,0,0,0,4065,1.57
+NSW,125,Hume,21625,LIPTAK,Charles,1,N,N,FFP,Family First,1686,0,0,0,43,1729,0.4
+NSW,125,Hume,21849,BUTLER,Greg,2,N,N,DEM,Australian Democrats,1059,0,0,0,25,1084,1.31
+NSW,125,Hume,21245,SAVILLE,Robin,3,N,N,ALP,Labor,24522,0,0,0,555,25077,-4.57
+NSW,125,Hume,21652,MILAT,Lisa,4,N,N,LDP,Liberal Democrats (LDP),878,0,0,0,20,898,1.16
+NSW,125,Hume,21840,WATCHIRS,Kevin,5,N,N,GRN,The Greens,5392,0,0,0,156,5548,1
+NSW,125,Hume,21049,BUTTIGIEG,Karen,6,N,N,CDP,Christian Democratic Party (Fred Nile Group),1323,0,0,0,34,1357,0.08
+NSW,125,Hume,21647,SCHULTZ,Alby,7,N,Y,LP,Liberal,40235,0,0,0,1599,41834,13.36
+NSW,125,Hume,999,Informal,Informal,999,N,N,,Informal,4065,0,0,0,65,4130,1.49
 NSW,126,Hunter,20850,PARKER,Chris,1,N,N,GRN,The Greens,6145,0,0,0,0,6145,2.16
 NSW,126,Hunter,21697,LEAYR,Jennifer,2,N,N,ON,One Nation,2393,0,0,0,0,2393,3.3
 NSW,126,Hunter,21454,FITZGIBBON,Joel,3,N,Y,ALP,Labor,39810,0,0,0,0,39810,-4.68
@@ -205,26 +205,26 @@ NSW,132,Mackellar,21398,KING,Jonathan,1,N,N,GRN,The Greens,12300,0,0,0,0,12300,4
 NSW,132,Mackellar,21419,BEATTIE,Linda,2,N,N,ALP,Labor,16454,0,0,0,0,16454,-2.53
 NSW,132,Mackellar,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,46372,0,0,0,0,46372,5.35
 NSW,132,Mackellar,999,Informal,Informal,999,N,N,,Informal,4179,0,0,0,0,4179,0.6
-NSW,133,Macquarie,21784,WHELAN,Peter,1,N,N,LDP,Liberal Democrats (LDP),1637,0,0,0,0,1637,1.94
+NSW,133,Macquarie,21784,WHELAN,Peter,1,N,N,LDP,Liberal Democrats (LDP),1638,0,0,0,0,1638,1.94
 NSW,133,Macquarie,21795,BELL,Amy,2,N,N,IND,Independent,1480,0,0,0,0,1480,1.93
-NSW,133,Macquarie,21293,McCALLUM,Carmel,3,N,N,GRN,The Greens,10599,0,0,0,0,10599,2.87
+NSW,133,Macquarie,21293,McCALLUM,Carmel,3,N,N,GRN,The Greens,10599,0,0,0,0,10599,2.88
 NSW,133,Macquarie,21796,TREMETHICK,Terry,4,N,N,CA,Carers Alliance,485,0,0,0,0,485,0.63
-NSW,133,Macquarie,21792,TEMPLEMAN,Susan,5,N,N,ALP,Labor,25081,0,0,0,0,25081,-5.33
+NSW,133,Macquarie,21792,TEMPLEMAN,Susan,5,N,N,ALP,Labor,25080,0,0,0,0,25080,-5.32
 NSW,133,Macquarie,20927,BATES,John,6,N,N,AFN,Australia First Party,570,0,0,0,0,570,0.75
 NSW,133,Macquarie,21780,PORTELLI,Luke,7,N,N,CDP,Christian Democratic Party (Fred Nile Group),1630,0,0,0,0,1630,-0.12
 NSW,133,Macquarie,21786,CORNELIUS,Jason,8,N,N,FFP,Family First,744,0,0,0,0,744,-0.1
-NSW,133,Macquarie,21790,MARKUS,Louise,9,N,Y,LP,Liberal,34282,0,0,0,0,34282,0.11
-NSW,133,Macquarie,999,Informal,Informal,999,N,N,,Informal,4381,0,0,0,0,4381,1.77
+NSW,133,Macquarie,21790,MARKUS,Louise,9,N,Y,LP,Liberal,34268,0,0,0,0,34268,0.1
+NSW,133,Macquarie,999,Informal,Informal,999,N,N,,Informal,4395,0,0,0,0,4395,1.78
 NSW,315,McMahon,21131,O'NEILL,Astrid,1,N,N,GRN,The Greens,5156,0,0,0,0,5156,2.94
 NSW,315,McMahon,21703,ELISHE,Jamal,2,N,N,LP,Liberal,24631,0,0,0,0,24631,5.44
 NSW,315,McMahon,21008,POULARAS,Manny,3,N,N,CDP,Christian Democratic Party (Fred Nile Group),2880,0,0,0,0,2880,1.54
 NSW,315,McMahon,21260,BOWEN,Chris,4,N,Y,ALP,Labor,35004,0,0,0,0,35004,-6.94
 NSW,315,McMahon,999,Informal,Informal,999,N,N,,Informal,8372,0,0,0,0,8372,3.41
-NSW,134,Mitchell,21034,PRENTICE,Brendon Phillip,1,N,N,CDP,Christian Democratic Party (Fred Nile Group),2342,0,0,0,0,2342,0.62
-NSW,134,Mitchell,21408,GOULD,Nigel,2,N,N,ALP,Labor,19249,0,0,0,0,19249,-6.66
-NSW,134,Mitchell,21595,HAWKE,Alex,3,N,Y,LP,Liberal,46107,0,0,0,0,46107,8.4
-NSW,134,Mitchell,20867,DAWSON,Colin,4,N,N,GRN,The Greens,5265,0,0,0,0,5265,1.94
-NSW,134,Mitchell,999,Informal,Informal,999,N,N,,Informal,4371,0,0,0,0,4371,1.58
+NSW,134,Mitchell,21034,PRENTICE,Brendon Phillip,1,N,N,CDP,Christian Democratic Party (Fred Nile Group),2343,0,0,0,0,2343,0.62
+NSW,134,Mitchell,21408,GOULD,Nigel,2,N,N,ALP,Labor,19248,0,0,0,0,19248,-6.66
+NSW,134,Mitchell,21595,HAWKE,Alex,3,N,Y,LP,Liberal,46109,0,0,0,0,46109,8.4
+NSW,134,Mitchell,20867,DAWSON,Colin,4,N,N,GRN,The Greens,5266,0,0,0,0,5266,1.94
+NSW,134,Mitchell,999,Informal,Informal,999,N,N,,Informal,4379,0,0,0,0,4379,1.59
 NSW,135,New England,21190,SMITH,Greg,1,N,N,ALP,Country Labor,6472,0,0,0,0,6472,-2.89
 NSW,135,New England,21350,SCHULTZ,Pat,2,N,N,GRN,The Greens,2714,0,0,0,0,2714,0.05
 NSW,135,New England,20823,DETTMANN,Brian Charles,3,N,N,ON,One Nation,673,0,0,0,0,673,-0.33
@@ -268,14 +268,14 @@ NSW,140,Parramatta,21489,RODEN,Duncan,6,N,N,SAL,Socialist Alliance,253,0,0,0,0,2
 NSW,140,Parramatta,21479,CAMENZULI,Charles,7,N,N,LP,Liberal,26400,0,0,0,0,26400,6.37
 NSW,140,Parramatta,999,Informal,Informal,999,N,N,,Informal,6171,0,0,0,0,6171,2.11
 NSW,249,Paterson,21690,LEAYR,Kevin,1,N,N,ON,One Nation,857,0,0,0,0,857,0.25
-NSW,249,Paterson,21102,BALFOUR,Anna,2,N,N,CDP,Christian Democratic Party (Fred Nile Group),739,0,0,0,0,739,-0.17
+NSW,249,Paterson,21102,BALFOUR,Anna,2,N,N,CDP,Christian Democratic Party (Fred Nile Group),738,0,0,0,0,738,-0.18
 NSW,249,Paterson,21673,LAMBERT,Veronica,3,N,N,FFP,Family First,536,0,0,0,0,536,0.09
 NSW,249,Paterson,20730,DAVIS,Jan,4,N,N,GRN,The Greens,4100,0,0,0,0,4100,0.47
-NSW,249,Paterson,21675,BALDWIN,Bob,5,N,Y,LP,Liberal,36639,0,0,0,0,36639,4.75
-NSW,249,Paterson,21418,ARNEMAN,Jim,6,N,N,ALP,Labor,27633,0,0,0,0,27633,-4.24
+NSW,249,Paterson,21675,BALDWIN,Bob,5,N,Y,LP,Liberal,36444,0,0,0,0,36444,4.48
+NSW,249,Paterson,21418,ARNEMAN,Jim,6,N,N,ALP,Labor,27823,0,0,0,0,27823,-3.97
 NSW,249,Paterson,18109,HENNELLY,Paul,7,N,N,NAFD,,332,0,0,0,0,332,0.47
 NSW,249,Paterson,20728,WIEDENHORN,Josef,8,N,N,IND,Independent,554,0,0,0,0,554,0.78
-NSW,249,Paterson,999,Informal,Informal,999,N,N,,Informal,4227,0,0,0,0,4227,1.99
+NSW,249,Paterson,999,Informal,Informal,999,N,N,,Informal,4230,0,0,0,0,4230,1.99
 NSW,144,Reid,21422,SHAILER,Bill,1,N,N,CDP,Christian Democratic Party (Fred Nile Group),1970,0,0,0,0,1970,0.62
 NSW,144,Reid,21438,MURPHY,John,2,N,Y,ALP,Labor,28249,0,0,0,0,28249,-10.91
 NSW,144,Reid,21757,BUTLER,Adam,3,N,N,GRN,The Greens,7156,0,0,0,0,7156,2.72
@@ -875,15 +875,15 @@ VIC,232,Scullin,21183,SEKHON,Gurm,3,N,N,GRN,Australian Greens,5452,0,0,0,0,5452,
 VIC,232,Scullin,21062,WILLIAMS,Max,4,N,N,LP,Liberal,15943,0,0,0,0,15943,-0.81
 VIC,232,Scullin,999,Informal,Informal,999,N,N,,Informal,4439,0,0,0,0,4439,2.1
 VIC,233,Wannon,21810,PURCELL,James,1,N,N,IND,Independent,4110,0,0,0,0,4110,5.77
-VIC,233,Wannon,21669,LEUTTON,Ralph,2,N,N,IND,Independent,2357,0,0,0,0,2357,3.31
-VIC,233,Wannon,21063,TEHAN,Dan,3,N,N,LP,Liberal,32899,0,0,0,0,32899,-6.35
+VIC,233,Wannon,21669,LEUTTON,Ralph,2,N,N,IND,Independent,2356,0,0,0,0,2356,3.31
+VIC,233,Wannon,21063,TEHAN,Dan,3,N,N,LP,Liberal,32891,0,0,0,0,32891,-6.35
 VIC,233,Wannon,21960,MARSH,Allan,4,N,N,IND,Independent,962,0,0,0,0,962,1.35
-VIC,233,Wannon,21070,McNAMARA,Judith,5,N,N,ALP,Australian Labor Party,21250,0,0,0,0,21250,-6.32
-VIC,233,Wannon,21080,CONCEPCION,Jahzeel,6,N,N,FFP,Family First,1532,0,0,0,0,1532,-2.14
-VIC,233,Wannon,21436,OWEN,Lisa,7,N,N,GRN,Australian Greens,3912,0,0,0,0,3912,-1.48
-VIC,233,Wannon,21376,O'BRIEN,Robert,8,N,N,IND,Independent,663,0,0,0,0,663,0.93
-VIC,233,Wannon,20940,RAINSFORD,Katrina,9,N,N,IND,Independent,3505,0,0,0,0,3505,4.92
-VIC,233,Wannon,999,Informal,Informal,999,N,N,,Informal,3843,0,0,0,0,3843,2.53
+VIC,233,Wannon,21070,McNAMARA,Judith,5,N,N,ALP,Australian Labor Party,21248,0,0,0,0,21248,-6.32
+VIC,233,Wannon,21080,CONCEPCION,Jahzeel,6,N,N,FFP,Family First,1533,0,0,0,0,1533,-2.14
+VIC,233,Wannon,21436,OWEN,Lisa,7,N,N,GRN,Australian Greens,3914,0,0,0,0,3914,-1.48
+VIC,233,Wannon,21376,O'BRIEN,Robert,8,N,N,IND,Independent,661,0,0,0,0,661,0.93
+VIC,233,Wannon,20940,RAINSFORD,Katrina,9,N,N,IND,Independent,3503,0,0,0,0,3503,4.92
+VIC,233,Wannon,999,Informal,Informal,999,N,N,,Informal,3856,0,0,0,0,3856,2.55
 VIC,234,Wills,21060,TOMISICH,Claude,1,N,N,LP,Liberal,16458,0,0,0,0,16458,-0.84
 VIC,234,Wills,21073,THOMSON,Kelvin,2,N,Y,ALP,Australian Labor Party,36947,0,0,0,0,36947,-3.65
 VIC,234,Wills,21142,MUMBY,Daniel,3,N,N,FFP,Family First,1066,0,0,0,0,1066,0.11
