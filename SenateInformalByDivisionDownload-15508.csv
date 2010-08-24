@@ -1,8 +1,8 @@
-2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-23T23:37:23 Cycle:fc10bed1-dc41-4d6b-8390-a3d824fa12ea Created:2010-08-23T23:28:39 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T10:05:51 Cycle:ef7ca83b-66f2-4040-9384-fa11079c04b5 Created:2010-08-24T09:57:23 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent
 119,Fowler,NSW,62623,8217,70840,11.6
-251,Watson,NSW,65501,8414,73915,11.38
-107,Blaxland,NSW,64409,7588,71997,10.54
+251,Watson,NSW,65662,8414,74076,11.36
+107,Blaxland,NSW,64537,7588,72125,10.52
 309,Gorton,VIC,67908,7640,75548,10.11
 315,McMahon,NSW,65431,6766,72197,9.37
 153,Werriwa,NSW,58673,5525,64198,8.61
@@ -43,7 +43,6 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 307,Solomon,NT,42293,2362,44655,5.29
 158,Dawson,QLD,63418,3527,66945,5.27
 245,Perth,WA,64498,3588,68086,5.27
-118,Farrer,NSW,67374,3736,71110,5.25
 139,Parkes,NSW,70612,3912,74524,5.25
 229,Menzies,VIC,65223,3559,68782,5.17
 226,McEwen,VIC,77284,4192,81476,5.15
@@ -53,6 +52,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 316,Wright,QLD,59305,3202,62507,5.12
 208,Corio,VIC,67024,3609,70633,5.11
 168,Leichhardt,QLD,60052,3206,63258,5.07
+118,Farrer,NSW,70299,3736,74035,5.05
 115,Dobell,NSW,65034,3423,68457,5
 172,Moncrieff,QLD,63756,3352,67108,4.99
 148,Shortland,NSW,72399,3780,76179,4.96
@@ -68,8 +68,8 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 166,Hinkler,QLD,61116,3018,64134,4.71
 197,Aston,VIC,70386,3474,73860,4.7
 117,Eden-Monaro,NSW,62123,3066,65189,4.7
-178,Wide Bay,QLD,65955,3250,69205,4.7
 237,Cowan,WA,63431,3118,66549,4.69
+178,Wide Bay,QLD,66016,3250,69266,4.69
 193,Braddon,TAS,56670,2770,59440,4.66
 227,McMillan,VIC,60377,2951,63328,4.66
 191,Wakefield,SA,75594,3699,79293,4.66
@@ -96,7 +96,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 195,Franklin,TAS,54578,2431,57009,4.26
 198,Ballarat,VIC,72356,3184,75540,4.21
 169,Lilley,QLD,72462,3181,75643,4.21
-136,Newcastle,NSW,70372,3094,73466,4.21
+136,Newcastle,NSW,70410,3094,73504,4.21
 194,Denison,TAS,50598,2218,52816,4.2
 223,La Trobe,VIC,66771,2929,69700,4.2
 204,Casey,VIC,69106,2998,72104,4.16
