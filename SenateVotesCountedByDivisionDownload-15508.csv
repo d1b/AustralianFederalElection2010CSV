@@ -1,7 +1,7 @@
-2010 Federal Election Senate Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T19:19:33 Cycle:65845a72-84df-4e65-88d0-49bbba08956c Created:2010-08-24T19:02:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T19:35:26 Cycle:5d6cfa93-1380-4b8c-8aea-23921e749b1c Created:2010-08-24T19:17:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,TotalPercentage
 179,Adelaide,SA,98526,72646,0,0,0,0,72646,73.73
-197,Aston,VIC,93448,74115,0,0,0,0,74115,79.27
+197,Aston,VIC,93448,74115,0,0,0,0,74115,79.31
 198,Ballarat,VIC,97802,77796,0,0,0,0,77796,79.54
 103,Banks,NSW,98762,70225,0,0,0,0,70225,71.11
 180,Barker,SA,104888,84600,0,0,0,0,84600,80.66
@@ -9,7 +9,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 192,Bass,TAS,71689,57814,0,0,0,0,57814,80.65
 199,Batman,VIC,89160,61424,0,0,0,0,61424,68.89
 200,Bendigo,VIC,100701,79365,0,0,0,0,79365,78.81
-105,Bennelong,NSW,98900,74257,0,0,0,0,74257,75.03
+105,Bennelong,NSW,98900,74274,0,0,0,0,74274,75.08
 106,Berowra,NSW,95115,74280,0,0,0,0,74280,78.09
 304,Blair,QLD,83071,66141,0,0,0,0,66141,79.62
 107,Blaxland,NSW,95354,72408,0,0,0,0,72408,75.94
@@ -17,7 +17,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 182,Boothby,SA,97898,71656,0,0,0,0,71656,73.19
 155,Bowman,QLD,91892,73631,0,0,0,0,73631,80.13
 193,Braddon,TAS,71574,59440,0,0,0,0,59440,83.05
-108,Bradfield,NSW,97251,74405,0,0,0,0,74405,76.51
+108,Bradfield,NSW,97251,74451,0,0,0,0,74451,76.51
 235,Brand,WA,88203,31039,0,0,0,0,31039,35.19
 156,Brisbane,QLD,92222,64960,0,0,0,0,64960,70.44
 201,Bruce,VIC,88171,64060,0,0,0,0,64060,72.65
@@ -45,7 +45,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 210,Dunkley,VIC,95324,71234,0,0,0,0,71234,74.73
 312,Durack,WA,85782,54153,0,0,0,0,54153,63.13
 117,Eden-Monaro,NSW,96465,65189,0,0,0,0,65189,67.58
-159,Fadden,QLD,85236,63575,0,0,0,0,63575,74.59
+159,Fadden,QLD,85236,63613,0,0,0,0,63613,74.59
 160,Fairfax,QLD,89743,70529,0,0,0,0,70529,78.59
 118,Farrer,NSW,94061,74290,0,0,0,0,74290,78.98
 161,Fisher,QLD,83754,62609,0,0,0,0,62609,74.75
@@ -72,7 +72,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 215,Higgins,VIC,90398,48018,0,0,0,0,48018,53.12
 185,Hindmarsh,SA,100245,73395,0,0,0,0,73395,73.22
 166,Hinkler,QLD,91397,64134,0,0,0,0,64134,70.17
-216,Holt,VIC,108893,83332,0,0,0,0,83332,76.16
+216,Holt,VIC,108893,83332,0,0,0,0,83332,76.53
 217,Hotham,VIC,89581,62512,0,0,0,0,62512,69.78
 124,Hughes,NSW,97995,67633,0,0,0,0,67633,69.02
 125,Hume,NSW,97698,77624,0,0,0,0,77624,79.45
@@ -93,7 +93,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 302,Longman,QLD,87062,65475,0,0,0,0,65475,75.21
 130,Lyne,NSW,92565,71660,0,0,0,0,71660,77.42
 196,Lyons,TAS,72865,56825,0,0,0,0,56825,77.99
-131,Macarthur,NSW,90059,69424,0,0,0,0,69424,77.04
+131,Macarthur,NSW,90059,69424,0,0,0,0,69424,77.09
 132,Mackellar,NSW,98556,78273,0,0,0,0,78273,79.42
 133,Macquarie,NSW,97560,79759,0,0,0,0,79759,81.75
 187,Makin,SA,96263,76630,0,0,0,0,76630,79.6
@@ -146,7 +146,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 151,Warringah,NSW,96706,63545,0,0,0,0,63545,65.71
 251,Watson,NSW,97765,74722,0,0,0,0,74722,76.43
 152,Wentworth,NSW,101464,65123,0,0,0,0,65123,64.18
-153,Werriwa,NSW,90994,64198,0,0,0,0,64198,70.55
+153,Werriwa,NSW,90994,64256,0,0,0,0,64256,70.55
 178,Wide Bay,QLD,92636,69281,0,0,0,0,69281,74.79
 234,Wills,VIC,98599,72084,0,0,0,0,72084,73.11
 316,Wright,QLD,85304,62507,0,0,0,0,62507,73.28

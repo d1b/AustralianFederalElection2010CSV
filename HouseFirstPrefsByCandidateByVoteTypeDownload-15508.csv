@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives First Preferences By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T19:19:04 Cycle:65845a72-84df-4e65-88d0-49bbba08956c Created:2010-08-24T19:02:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives First Preferences By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-24T19:34:52 Cycle:5d6cfa93-1380-4b8c-8aea-23921e749b1c Created:2010-08-24T19:17:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,Swing
 ACT,101,Canberra,20863,JONES,Giulia,1,N,N,LP,Liberal,37228,0,0,0,0,37228,2.11
 ACT,101,Canberra,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,18056,0,0,0,0,18056,5.11
@@ -611,11 +611,11 @@ SA,187,Makin,999,Informal,Informal,999,N,N,,Informal,4733,0,0,0,67,4800,1.97
 SA,188,Mayo,21007,HICKS,Bruce,1,N,N,FFP,Family First,4465,0,0,0,0,4465,1.81
 SA,188,Mayo,20816,BRIGGS,Jamie,2,N,Y,LP,Liberal,35743,0,0,0,0,35743,-4.4
 SA,188,Mayo,21845,PHILLIPS,Andrew James,3,N,N,IND,Independent,803,0,0,0,0,803,1.05
-SA,188,Mayo,21335,ATKINSON,Diane,4,N,N,GRN,The Greens,12981,0,0,0,0,12981,5.99
+SA,188,Mayo,21335,ATKINSON,Diane,4,N,N,GRN,The Greens,12980,0,0,0,0,12980,5.99
 SA,188,Mayo,21944,SPRAGG,Bill,5,N,N,IND,Independent,2100,0,0,0,0,2100,2.74
 SA,188,Mayo,21011,DAVIS,Sam,6,N,N,ALP,Australian Labor Party,19201,0,0,0,0,19201,-6.04
 SA,188,Mayo,22034,OSMOND,Rebekkah,7,N,N,DEM,Australian Democrats,751,0,0,0,0,751,-0.54
-SA,188,Mayo,21967,MICHELMORE,John Wesley,8,N,N,TCS,The Climate Sceptics,527,0,0,0,0,527,0.69
+SA,188,Mayo,21967,MICHELMORE,John Wesley,8,N,N,TCS,The Climate Sceptics,528,0,0,0,0,528,0.69
 SA,188,Mayo,999,Informal,Informal,999,N,N,,Informal,3812,0,0,0,0,3812,1.98
 SA,189,Port Adelaide,21348,MICENKO,Kalyna,1,N,N,GRN,The Greens,11447,0,0,0,176,11623,6.01
 SA,189,Port Adelaide,21002,HAMBOUR,Bruce,2,N,N,FFP,Family First,5352,0,0,0,96,5448,1.14
@@ -898,19 +898,19 @@ WA,235,Brand,21242,BURDETT,Robert,3,N,N,CDP,Christian Democratic Party,1492,0,0,
 WA,235,Brand,21275,NEWHOUSE,Andrew,4,N,N,FFP,Family First,1826,0,0,0,0,1826,0.96
 WA,235,Brand,20909,GRAY,Gary,5,N,Y,ALP,Australian Labor Party,27498,0,0,0,0,27498,-5.04
 WA,235,Brand,999,Informal,Informal,999,N,N,,Informal,3746,0,0,0,0,3746,1.46
-WA,236,Canning,20913,MacTIERNAN,Alannah,1,N,N,ALP,Australian Labor Party,27056,0,0,0,0,27056,3.57
-WA,236,Canning,20865,RANDALL,Don,2,N,Y,LP,Liberal,29856,0,0,0,0,29856,-2.84
-WA,236,Canning,21308,VERNEDE,Darren,3,N,N,FFP,Family First,905,0,0,0,0,905,0.12
-WA,236,Canning,20806,HARDIE,Denise,4,N,N,GRN,The Greens,5203,0,0,0,0,5203,0.19
-WA,236,Canning,21297,VAN BURGEL,Jamie,5,N,N,CDP,Christian Democratic Party,2153,0,0,0,0,2153,0.49
-WA,236,Canning,20936,TUFFNELL,Ian,6,N,N,CEC,Citizens Electoral Council,343,0,0,0,0,343,0.2
-WA,236,Canning,999,Informal,Informal,999,N,N,,Informal,3007,0,0,0,0,3007,0.94
-WA,237,Cowan,20783,PHILLIPS,Rob,1,N,N,GRN,The Greens,7873,0,0,77,119,8069,6.14
-WA,237,Cowan,20895,HOPKINS,Chas,2,N,N,ALP,Australian Labor Party,21803,0,0,197,340,22340,-9.58
-WA,237,Cowan,21277,KINGSTON,David,3,N,N,CDP,Christian Democratic Party,1757,0,0,22,27,1806,0.75
-WA,237,Cowan,20848,SIMPKINS,Luke,4,N,Y,LP,Liberal,33465,0,0,359,598,34422,5.2
-WA,237,Cowan,21286,LEACH,Alan,5,N,N,FFP,Family First,1457,0,0,15,36,1508,0.49
-WA,237,Cowan,999,Informal,Informal,999,N,N,,Informal,3725,0,0,13,41,3779,1.09
+WA,236,Canning,20913,MacTIERNAN,Alannah,1,N,N,ALP,Australian Labor Party,27056,587,0,0,0,27643,3.54
+WA,236,Canning,20865,RANDALL,Don,2,N,Y,LP,Liberal,29856,713,0,0,0,30569,-2.77
+WA,236,Canning,21308,VERNEDE,Darren,3,N,N,FFP,Family First,905,21,0,0,0,926,0.12
+WA,236,Canning,20806,HARDIE,Denise,4,N,N,GRN,The Greens,5203,103,0,0,0,5306,0.17
+WA,236,Canning,21297,VAN BURGEL,Jamie,5,N,N,CDP,Christian Democratic Party,2153,32,0,0,0,2185,0.46
+WA,236,Canning,20936,TUFFNELL,Ian,6,N,N,CEC,Citizens Electoral Council,343,11,0,0,0,354,0.21
+WA,236,Canning,999,Informal,Informal,999,N,N,,Informal,3007,33,0,0,0,3040,0.89
+WA,237,Cowan,20783,PHILLIPS,Rob,1,N,N,GRN,The Greens,7873,0,0,172,119,8164,6.16
+WA,237,Cowan,20895,HOPKINS,Chas,2,N,N,ALP,Australian Labor Party,21803,0,0,389,340,22532,-9.63
+WA,237,Cowan,21277,KINGSTON,David,3,N,N,CDP,Christian Democratic Party,1757,0,0,34,27,1818,0.74
+WA,237,Cowan,20848,SIMPKINS,Luke,4,N,Y,LP,Liberal,33465,0,0,736,598,34799,5.24
+WA,237,Cowan,21286,LEACH,Alan,5,N,N,FFP,Family First,1457,0,0,39,36,1532,0.51
+WA,237,Cowan,999,Informal,Informal,999,N,N,,Informal,3725,0,0,32,41,3798,1.07
 WA,238,Curtin,20851,BISHOP,Julie,1,N,Y,LP,Liberal,40918,0,0,0,0,40918,2.64
 WA,238,Curtin,20789,CRISP,George,2,N,N,GRN,The Greens,11461,0,0,0,0,11461,4.02
 WA,238,Curtin,20933,VAN DER MERWE,Sophie,3,N,N,ALP,Australian Labor Party,12800,0,0,0,0,12800,-5.71
@@ -971,13 +971,13 @@ WA,244,Pearce,20794,WARDEN,Toni,5,N,N,GRN,The Greens,7988,0,0,44,0,8032,3.67
 WA,244,Pearce,21267,ROSE,Ian,6,N,N,FFP,Family First,1223,0,0,7,0,1230,0.47
 WA,244,Pearce,21252,BROADSTOCK,Janet Elizabeth,7,N,N,CDP,Christian Democratic Party,1412,0,0,6,0,1418,0.25
 WA,244,Pearce,999,Informal,Informal,999,N,N,,Informal,3599,0,0,14,0,3613,1.37
-WA,245,Perth,20792,HALLETT,Jonathan,1,N,N,GRN,The Greens,10132,0,0,0,0,10132,5.29
-WA,245,Perth,21241,CONNELLY,Paul Michael,2,N,N,CDP,Christian Democratic Party,1706,0,0,0,0,1706,0.64
-WA,245,Perth,20904,SMITH,Stephen Francis,3,N,Y,ALP,Australian Labor Party,26590,0,0,0,0,26590,-5.32
+WA,245,Perth,20792,HALLETT,Jonathan,1,N,N,GRN,The Greens,10133,0,0,0,0,10133,5.29
+WA,245,Perth,21241,CONNELLY,Paul Michael,2,N,N,CDP,Christian Democratic Party,1705,0,0,0,0,1705,0.64
+WA,245,Perth,20904,SMITH,Stephen Francis,3,N,Y,ALP,Australian Labor Party,26592,0,0,0,0,26592,-5.32
 WA,245,Perth,21278,IRVINE,Nigel Peter,4,N,N,FFP,Family First,899,0,0,0,0,899,0.29
 WA,245,Perth,21179,BAINBRIDGE,Alex,5,N,N,SAL,Socialist Alliance,491,0,0,0,0,491,0.21
-WA,245,Perth,20878,FERRANTE,Joe,6,N,N,LP,Liberal,25050,0,0,0,0,25050,1.72
-WA,245,Perth,999,Informal,Informal,999,N,N,,Informal,3707,0,0,0,0,3707,0.82
+WA,245,Perth,20878,FERRANTE,Joe,6,N,N,LP,Liberal,25052,0,0,0,0,25052,1.72
+WA,245,Perth,999,Informal,Informal,999,N,N,,Informal,3704,0,0,0,0,3704,0.81
 WA,246,Stirling,20807,MARTIN,Chris,1,N,N,GRN,The Greens,8187,119,0,0,0,8306,4.78
 WA,246,Stirling,20952,DURACK,Louise,2,N,N,ALP,Australian Labor Party,21326,199,0,0,0,21525,-8.21
 WA,246,Stirling,21979,RE,Elizabeth,3,N,N,IND,Independent,1475,12,0,0,0,1487,2.22
@@ -985,14 +985,14 @@ WA,246,Stirling,21247,WHATELY,Jenny,4,N,N,CDP,Christian Democratic Party,1364,11
 WA,246,Stirling,21269,CLIFFORD,Peter,5,N,N,FFP,Family First,600,10,0,0,0,610,0.26
 WA,246,Stirling,20868,KEENAN,Michael,6,N,Y,LP,Liberal,33235,306,0,0,0,33541,2.98
 WA,246,Stirling,999,Informal,Informal,999,N,N,,Informal,3618,42,0,0,0,3660,0.28
-WA,247,Swan,20889,HAMMOND,Tim,1,N,N,ALP,Australian Labor Party,23215,0,0,0,0,23215,-5.06
+WA,247,Swan,20889,HAMMOND,Tim,1,N,N,ALP,Australian Labor Party,23211,0,0,0,0,23211,-5.06
 WA,247,Swan,20727,LOPEZ,Joe,2,N,N,SEP,Socialist Equality Party,302,0,0,0,0,302,0.27
 WA,247,Swan,20791,LEIGHTON,Rebecca,3,N,N,GRN,The Greens,7348,0,0,0,0,7348,1.25
 WA,247,Swan,21250,KLOMP,Steve,4,N,N,CDP,Christian Democratic Party,1346,0,0,0,0,1346,0.31
-WA,247,Swan,21280,DRENNAN,Barry,5,N,N,FFP,Family First,732,0,0,0,0,732,0.28
-WA,247,Swan,20883,IRONS,Steve,6,N,Y,LP,Liberal,30100,0,0,0,0,30100,2.81
+WA,247,Swan,21280,DRENNAN,Barry,5,N,N,FFP,Family First,731,0,0,0,0,731,0.28
+WA,247,Swan,20883,IRONS,Steve,6,N,Y,LP,Liberal,30099,0,0,0,0,30099,2.81
 WA,247,Swan,21405,TREASURE,Bret,7,N,N,ASXP,Australian Sex Party,1608,0,0,0,0,1608,2.49
-WA,247,Swan,999,Informal,Informal,999,N,N,,Informal,3328,0,0,0,0,3328,0.36
+WA,247,Swan,999,Informal,Informal,999,N,N,,Informal,3335,0,0,0,0,3335,0.37
 WA,248,Tangney,20788,BEST,Peter,1,N,N,GRN,The Greens,9041,0,0,0,0,9041,4.68
 WA,248,Tangney,20893,DOEPEL,David,2,N,N,ALP,Australian Labor Party,18086,0,0,0,0,18086,-5.57
 WA,248,Tangney,21282,RAPP,Moyna,3,N,N,FFP,Family First,1075,0,0,0,0,1075,0.4
