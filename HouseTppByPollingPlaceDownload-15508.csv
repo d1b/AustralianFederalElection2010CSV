@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T19:48:15 Cycle:d080e85d-6f8f-4e35-bd78-f0cf071031c2 Created:2010-08-25T19:34:30 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T20:04:06 Cycle:749b36f1-d639-4710-bc2a-6faca97c5778 Created:2010-08-25T19:49:45 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -389,7 +389,7 @@ NSW,108,Bradfield,145,Waitara,808,38.53,1289,61.47,2097,-8.38
 NSW,108,Bradfield,146,Waitara South,116,34.42,221,65.58,337,-2.68
 NSW,108,Bradfield,147,Warrawee,828,33.54,1641,66.46,2469,-1.99
 NSW,109,Calare,2148,Alectown,31,20.39,121,79.61,152,-7.9
-NSW,109,Calare,219,Barry,27,20.93,102,79.07,129,-15.58
+NSW,109,Calare,219,Barry,27,21.09,101,78.91,128,-15.42
 NSW,109,Calare,220,Bathurst,869,47.83,948,52.17,1817,-6.94
 NSW,109,Calare,221,Bathurst Central,517,45.11,629,54.89,1146,-6.98
 NSW,109,Calare,31071,Bathurst City,540,43.9,690,56.1,1230,-8.27
@@ -2381,19 +2381,19 @@ NSW,140,Parramatta,2282,Westmead Hospital,254,62.41,153,37.59,407,-8.08
 NSW,140,Parramatta,2283,Westmead North,480,58.68,338,41.32,818,-7.17
 NSW,140,Parramatta,640,Yates Avenue,954,51.96,882,48.04,1836,-6.81
 NSW,249,Paterson,1562,Anna Bay,987,51.19,941,48.81,1928,-6.27
-NSW,249,Paterson,1563,Bandon Grove,32,23.88,102,76.12,134,-3.58
+NSW,249,Paterson,1563,Bandon Grove,31,23.48,101,76.52,132,-3.98
 NSW,249,Paterson,1565,Bobs Farm,136,40.24,202,59.76,338,-1.46
 NSW,249,Paterson,1353,Bolwarra,494,42.04,681,57.96,1175,-3.21
 NSW,249,Paterson,1567,Booral,179,40.22,266,59.78,445,-9.17
-NSW,249,Paterson,1568,Bulahdelah,293,32.92,597,67.08,890,-7.29
+NSW,249,Paterson,1568,Bulahdelah,293,33.11,592,66.89,885,-7.1
 NSW,249,Paterson,1569,Bungwahl,97,42.36,132,57.64,229,-7.64
 NSW,249,Paterson,1575,Clarence Town,532,49.77,537,50.23,1069,-3.68
 NSW,249,Paterson,1576,Coolongolook,79,35.11,146,64.89,225,-13.1
-NSW,249,Paterson,11984,Coomba Park,160,48.93,167,51.07,327,-8.17
-NSW,249,Paterson,1578,Corlette,510,34.6,964,65.4,1474,-2.16
+NSW,249,Paterson,11984,Coomba Park,159,48.77,167,51.23,326,-8.33
+NSW,249,Paterson,1578,Corlette,510,34.72,959,65.28,1469,-2.04
 NSW,249,Paterson,30400,Divisional Office (PREPOLL),0,0,0,0,0,0
-NSW,249,Paterson,1582,Dungog,599,39.18,930,60.82,1529,-7.3
-NSW,249,Paterson,1364,East Maitland (Paterson),407,59.07,282,40.93,689,-4.59
+NSW,249,Paterson,1582,Dungog,596,39.31,920,60.69,1516,-7.17
+NSW,249,Paterson,1364,East Maitland (Paterson),403,59,280,41,683,-4.66
 NSW,249,Paterson,1386,East Maitland Central,617,56.14,482,43.86,1099,-5
 NSW,249,Paterson,58468,East Maitland Heights (Paterson),173,55.1,141,44.9,314,2.83
 NSW,249,Paterson,1387,East Maitland North,213,61.74,132,38.26,345,-1.16
@@ -3276,7 +3276,7 @@ QLD,310,Bonner,5162,Wynnum North,1263,54,1076,46,2339,-8.82
 QLD,310,Bonner,58784,Wynnum PPVC,1075,47.69,1179,52.31,2254,47.69
 QLD,310,Bonner,5158,Wynnum South,1033,53.22,908,46.78,1941,-5.32
 QLD,310,Bonner,5163,Wynnum West,1546,58.94,1077,41.06,2623,-5.98
-QLD,155,Bowman,5124,Alexandra Hills,1181,50.62,1152,49.38,2333,-12.17
+QLD,155,Bowman,5124,Alexandra Hills,1178,50.58,1151,49.42,2329,-12.21
 QLD,155,Bowman,12036,Alexandra Park,1239,43.41,1615,56.59,2854,-15.11
 QLD,155,Bowman,5125,Amity Point,120,46.69,137,53.31,257,-12.25
 QLD,155,Bowman,58465,Bay View Thornlands,388,36.64,671,63.36,1059,-9.75
@@ -5373,15 +5373,15 @@ SA,187,Makin,58738,Adelaide MAKIN PPVC,125,64.77,68,35.23,193,14.77
 SA,187,Makin,7124,Banksia Park,1119,58.99,778,41.01,1897,8.02
 SA,187,Makin,30178,Divisional Office (PREPOLL),0,0,0,0,0,-50
 SA,187,Makin,7128,Enfield North (Makin),258,69.17,115,30.83,373,5.84
-SA,187,Makin,7127,Fairview Park,928,54.11,787,45.89,1715,4.41
+SA,187,Makin,7127,Fairview Park,916,53.91,783,46.09,1699,4.21
 SA,187,Makin,7130,Golden Grove,342,46.4,395,53.6,737,4.86
-SA,187,Makin,12044,Golden Grove Central,1113,55.82,881,44.18,1994,3.61
+SA,187,Makin,12044,Golden Grove Central,1113,55.87,879,44.13,1992,3.66
 SA,187,Makin,32545,Golden Grove East,1408,59.79,947,40.21,2355,8.7
 SA,187,Makin,31850,Greenwith,1744,60.49,1139,39.51,2883,6.87
-SA,187,Makin,51056,Greenwith West,1134,58.01,821,41.99,1955,5.38
+SA,187,Makin,51056,Greenwith West,1088,55.68,866,44.32,1954,3.05
 SA,187,Makin,58608,Gulfview Heights,634,59.36,434,40.64,1068,-3.08
-SA,187,Makin,7133,Hope Valley,426,59.83,286,40.17,712,7.19
-SA,187,Makin,7132,Hope Valley West,867,58.11,625,41.89,1492,2.48
+SA,187,Makin,7133,Hope Valley,426,60.08,283,39.92,709,7.44
+SA,187,Makin,7132,Hope Valley West,890,59.73,600,40.27,1490,4.1
 SA,187,Makin,6666,Ingle Farm,2005,72.46,762,27.54,2767,3.83
 SA,187,Makin,7136,Ingle Farm North,579,75.29,190,24.71,769,3.69
 SA,187,Makin,7137,Modbury Central,859,60.62,558,39.38,1417,4.9
@@ -5737,7 +5737,7 @@ TAS,193,Braddon,8358,Abbotsham,60,42.86,80,57.14,140,2.26
 TAS,193,Braddon,8359,Acton,1320,73.17,484,26.83,1804,3.12
 TAS,193,Braddon,8360,Addison Street,540,59.34,370,40.66,910,8.35
 TAS,193,Braddon,31441,Ambleside,273,50.09,272,49.91,545,5.75
-TAS,193,Braddon,8362,Boat Harbour,180,51.14,172,48.86,352,3.3
+TAS,193,Braddon,8362,Boat Harbour,180,51.28,171,48.72,351,3.44
 TAS,193,Braddon,8364,Brooklyn,453,66.23,231,33.77,684,2.68
 TAS,193,Braddon,8365,Burnie,837,58.7,589,41.3,1426,1.95
 TAS,193,Braddon,33832,Burnie PPVC,849,57.56,626,42.44,1475,3.77
@@ -5745,7 +5745,7 @@ TAS,193,Braddon,8367,Calder,71,56.35,55,43.65,126,-7.39
 TAS,193,Braddon,8368,Cooee,524,58.68,369,41.32,893,5.62
 TAS,193,Braddon,8370,Currie,314,46.52,361,53.48,675,5.54
 TAS,193,Braddon,8371,Devonport Central,923,55.27,747,44.73,1670,8.99
-TAS,193,Braddon,8373,Devonport North,463,54.86,381,45.14,844,10.06
+TAS,193,Braddon,8373,Devonport North,459,54.45,384,45.55,843,9.65
 TAS,193,Braddon,33831,Devonport PPVC,822,56.3,638,43.7,1460,2.6
 TAS,193,Braddon,34286,Devonport South,756,63.8,429,36.2,1185,9.55
 TAS,193,Braddon,8432,Devonport West,798,60.78,515,39.22,1313,10.69
@@ -7176,7 +7176,7 @@ VIC,220,Jagajaga,31988,Melbourne (Jagajaga),50,62.5,30,37.5,80,-14.88
 VIC,220,Jagajaga,4347,Montmorency,2080,60.25,1372,39.75,3452,2.44
 VIC,220,Jagajaga,4348,Montmorency South,1080,66.06,555,33.94,1635,5.69
 VIC,220,Jagajaga,4174,Olympic Village,1604,82.3,345,17.7,1949,3.12
-VIC,220,Jagajaga,3397,Research (Jagajaga),444,54.35,373,45.65,817,1.8
+VIC,220,Jagajaga,3397,Research (Jagajaga),544,59.32,373,40.68,917,6.77
 VIC,220,Jagajaga,4186,Rosanna,1091,60.75,705,39.25,1796,3.68
 VIC,220,Jagajaga,31601,Special Hospital Team 1,158,50,158,50,316,8.12
 VIC,220,Jagajaga,46590,Special Hospital Team 2,17,85,3,15,20,43.75
@@ -8156,9 +8156,9 @@ WA,237,Cowan,7578,Kingsley,1328,40.22,1974,59.78,3302,-2.57
 WA,237,Cowan,11912,Kingsley East,617,36.51,1073,63.49,1690,-3.63
 WA,237,Cowan,7579,Kingsley South,798,38.74,1262,61.26,2060,-2.92
 WA,237,Cowan,7580,Koondoola,921,58.59,651,41.41,1572,-11.99
-WA,237,Cowan,32813,Landsdale,1078,37.44,1801,62.56,2879,-3.89
+WA,237,Cowan,32813,Landsdale,1081,37.52,1800,62.48,2881,-3.81
 WA,237,Cowan,47764,Madeley,554,32.44,1154,67.56,1708,-13.55
-WA,237,Cowan,11593,Marangaroo,1141,52.44,1035,47.56,2176,-3.85
+WA,237,Cowan,11593,Marangaroo,1149,52.61,1035,47.39,2184,-3.68
 WA,237,Cowan,11633,Marangaroo Central,936,57.21,700,42.79,1636,-4.79
 WA,237,Cowan,38455,Marangaroo East,961,52.09,884,47.91,1845,-9.08
 WA,237,Cowan,13966,Perth (Cowan),26,48.15,28,51.85,54,-15.62
@@ -8169,7 +8169,7 @@ WA,237,Cowan,34122,Tapping,1165,41.28,1657,58.72,2822,1.37
 WA,237,Cowan,7966,Wanneroo,726,45.43,872,54.57,1598,-1.37
 WA,237,Cowan,7967,Wanneroo East,1295,41.9,1796,58.1,3091,-2.4
 WA,237,Cowan,34099,Wanneroo West,451,36.97,769,63.03,1220,-1.64
-WA,237,Cowan,7588,Warwick,515,45.41,619,54.59,1134,-4.84
+WA,237,Cowan,7588,Warwick,516,45.26,624,54.74,1140,-4.99
 WA,237,Cowan,32812,Warwick West,397,38.51,634,61.49,1031,-4.44
 WA,237,Cowan,7969,Woodvale,669,35.57,1212,64.43,1881,-4.06
 WA,237,Cowan,11632,Woodvale North,1284,38.96,2012,61.04,3296,-1.47
@@ -8896,7 +8896,7 @@ WA,247,Swan,11914,Perth International Airport,21,65.63,11,34.38,32,4.09
 WA,247,Swan,34126,Prison Mobile Team 1,0,0,0,0,0,0
 WA,247,Swan,32875,Qantas Domestic Terminal PPVC,70,38.04,114,61.96,184,-9.15
 WA,247,Swan,7552,Queens Park,495,52,457,48,952,-5.17
-WA,247,Swan,8233,Redcliffe,630,53.57,546,46.43,1176,0.31
+WA,247,Swan,8233,Redcliffe,633,53.78,544,46.22,1177,0.52
 WA,247,Swan,8234,Rivervale,473,49.02,492,50.98,965,-2.41
 WA,247,Swan,8241,Rivervale North,769,50.96,740,49.04,1509,-5.42
 WA,247,Swan,32223,Rottnest (Swan),3,13.04,20,86.96,23,-37.49
