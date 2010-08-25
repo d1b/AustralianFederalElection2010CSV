@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T12:30:01 Cycle:96a512cd-8654-4523-acac-d0a71ed37cd9 Created:2010-08-25T12:18:00 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T12:45:40 Cycle:62866c1d-3c9f-4c4d-a18f-0086a2e5cf65 Created:2010-08-25T12:33:00 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -3111,7 +3111,7 @@ NT,306,Lingiari,34178,Jabiru PPVC,71,56.35,55,43.65,126,-2.19
 NT,306,Lingiari,8717,Katherine,448,46.57,514,53.43,962,5.82
 NT,306,Lingiari,12068,Katherine East,407,49.76,411,50.24,818,4.57
 NT,306,Lingiari,34179,Katherine PPVC,774,43.7,997,56.3,1771,-14.74
-NT,306,Lingiari,12069,Larapinta,563,52.67,506,47.33,1069,7.93
+NT,306,Lingiari,12069,Larapinta,563,52.91,501,47.09,1064,8.17
 NT,306,Lingiari,8723,Nhulunbuy,807,66.8,401,33.2,1208,0.42
 NT,306,Lingiari,34181,Nhulunbuy PPVC,233,65.45,123,34.55,356,7.12
 NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,365,44.08,463,55.92,828,-14.51
@@ -3131,7 +3131,7 @@ NT,306,Lingiari,34165,Remote Mobile Team 19,83,46.89,94,53.11,177,-40.73
 NT,306,Lingiari,34148,Remote Mobile Team 2,172,44.56,214,55.44,386,-43.01
 NT,306,Lingiari,38439,Remote Mobile Team 21,341,67.26,166,32.74,507,-20.4
 NT,306,Lingiari,46752,Remote Mobile Team 22,100,42.74,134,57.26,234,-44.97
-NT,306,Lingiari,34149,Remote Mobile Team 3,250,59.52,170,40.48,420,-28.18
+NT,306,Lingiari,34149,Remote Mobile Team 3,250,59.67,169,40.33,419,-28.03
 NT,306,Lingiari,34150,Remote Mobile Team 4,466,65.82,242,34.18,708,-21.73
 NT,306,Lingiari,34151,Remote Mobile Team 5,720,67.23,351,32.77,1071,-20.37
 NT,306,Lingiari,34152,Remote Mobile Team 6,822,64.22,458,35.78,1280,-23.39
@@ -4483,15 +4483,15 @@ QLD,171,McPherson,32572,Burleigh Heads McPHERSON PPVC,3205,38.72,5072,61.28,8277
 QLD,171,McPherson,6065,Burleigh North (McPherson),351,39.93,528,60.07,879,-2.13
 QLD,171,McPherson,6067,Burleigh Waters,1059,40.78,1538,59.22,2597,-5.21
 QLD,171,McPherson,6068,Burleigh West,336,43.92,429,56.08,765,2.57
-QLD,171,McPherson,6072,Coolangatta,459,47.27,512,52.73,971,0.68
+QLD,171,McPherson,6072,Coolangatta,457,47.21,511,52.79,968,0.62
 QLD,171,McPherson,47728,Coolangatta Airport McPHERSON PPVC,173,53.73,149,46.27,322,-5.81
-QLD,171,McPherson,6073,Currumbin,1069,46.08,1251,53.92,2320,-0.07
-QLD,171,McPherson,6074,Currumbin Valley,174,40.37,257,59.63,431,-2.96
-QLD,171,McPherson,31442,Currumbin Waters,1100,43.88,1407,56.12,2507,2.7
+QLD,171,McPherson,6073,Currumbin,1071,46.18,1248,53.82,2319,0.03
+QLD,171,McPherson,6074,Currumbin Valley,175,40.79,254,59.21,429,-2.54
+QLD,171,McPherson,31442,Currumbin Waters,1100,43.86,1408,56.14,2508,2.68
 QLD,171,McPherson,30162,Divisional Office (PREPOLL),0,0,0,0,0,0
-QLD,171,McPherson,6075,Elanora,872,41.72,1218,58.28,2090,0.47
+QLD,171,McPherson,6075,Elanora,873,41.77,1217,58.23,2090,0.52
 QLD,171,McPherson,12023,Elanora West,1568,46.45,1808,53.55,3376,1.4
-QLD,171,McPherson,6081,Kirra,657,47.2,735,52.8,1392,-5.19
+QLD,171,McPherson,6081,Kirra,708,50.86,684,49.14,1392,-1.53
 QLD,171,McPherson,6084,Mermaid Waters (McPherson),108,30.77,243,69.23,351,-5.25
 QLD,171,McPherson,6086,Merrimac (McPherson),737,37.54,1226,62.46,1963,0.35
 QLD,171,McPherson,37744,Merrimac East (McPherson),101,23.17,335,76.83,436,-8.23
@@ -5224,7 +5224,7 @@ SA,183,Grey,7411,Redhill,39,31.71,84,68.29,123,-2.91
 SA,183,Grey,33211,Remote Mobile Team 1,395,58.43,281,41.57,676,-3.52
 SA,183,Grey,33212,Remote Mobile Team 2,81,56.64,62,43.36,143,-5.47
 SA,183,Grey,33213,Remote Mobile Team 3,136,50.37,134,49.63,270,-11.55
-SA,183,Grey,6958,Risdon Park East,905,44.52,1128,55.48,2033,-10.7
+SA,183,Grey,6958,Risdon Park East,909,44.71,1124,55.29,2033,-10.51
 SA,183,Grey,6959,Risdon Park South,512,52.84,457,47.16,969,-11.47
 SA,183,Grey,7413,Robertstown,60,31.41,131,68.59,191,-4.21
 SA,183,Grey,6944,Roxby Downs,416,34.9,776,65.1,1192,-5.15
@@ -6061,7 +6061,7 @@ VIC,197,Aston,2972,Wantirna Heights,537,45.94,632,54.06,1169,1.93
 VIC,197,Aston,38310,Wantirna PPVC,727,42.99,964,57.01,1691,0.4
 VIC,197,Aston,2974,Wantirna South,785,48.94,819,51.06,1604,4.9
 VIC,197,Aston,2966,Watersedge,693,46.6,794,53.4,1487,2.62
-VIC,197,Aston,3584,Weeden Heights,923,43.91,1179,56.09,2102,-1.21
+VIC,197,Aston,3584,Weeden Heights,919,43.82,1178,56.18,2097,-1.3
 VIC,198,Ballarat,2977,Alfredton,373,60.65,242,39.35,615,9.45
 VIC,198,Ballarat,2978,Alfredton West,1505,53.79,1293,46.21,2798,7.34
 VIC,198,Ballarat,2983,Ascot,36,20.93,136,79.07,172,1.82
@@ -6692,14 +6692,14 @@ VIC,212,Gellibrand,31984,Melbourne (Gellibrand),106,66.25,54,33.75,160,-2.45
 VIC,212,Gellibrand,3693,Newport,1172,72.12,453,27.88,1625,3.8
 VIC,212,Gellibrand,3694,Newport East,1042,73.54,375,26.46,1417,2.7
 VIC,212,Gellibrand,3695,Newport West,1386,79.2,364,20.8,1750,3.79
-VIC,212,Gellibrand,32908,Seabrook (Gellibrand),1869,74.94,625,25.06,2494,3.91
+VIC,212,Gellibrand,32908,Seabrook (Gellibrand),1862,74.9,624,25.1,2486,3.87
 VIC,212,Gellibrand,4256,Seaholme,1340,69.9,577,30.1,1917,5.11
 VIC,212,Gellibrand,3696,Seddon,1524,77.28,448,22.72,1972,3.15
 VIC,212,Gellibrand,3698,South Kingsville,1077,74.22,374,25.78,1451,4.82
 VIC,212,Gellibrand,31958,Special Hospital Team 1,157,62.55,94,37.45,251,6.19
 VIC,212,Gellibrand,3697,Spotswood,772,72.83,288,27.17,1060,1.9
 VIC,212,Gellibrand,58762,Sunshine GELLIBRAND PPVC,547,77.81,156,22.19,703,7.07
-VIC,212,Gellibrand,3350,Sunvale (Gellibrand),477,83.39,95,16.61,572,5.12
+VIC,212,Gellibrand,3350,Sunvale (Gellibrand),475,83.33,95,16.67,570,5.06
 VIC,212,Gellibrand,3701,Tottenham North,1396,79.41,362,20.59,1758,-1.15
 VIC,212,Gellibrand,3709,Western Hospital,241,80.07,60,19.93,301,5.57
 VIC,212,Gellibrand,3702,Williamstown,907,65.92,469,34.08,1376,-0.16
@@ -7478,9 +7478,9 @@ VIC,226,McEwen,3381,Diamond Creek East,1350,57.64,992,42.36,2342,6.82
 VIC,226,McEwen,30217,Divisional Office (PREPOLL),700,50.32,691,49.68,1391,2.29
 VIC,226,McEwen,3382,Dixons Creek,77,34.38,147,65.63,224,4.23
 VIC,226,McEwen,4878,Don Valley,130,55.32,105,44.68,235,9.54
-VIC,226,McEwen,4318,Doreen,651,48.58,689,51.42,1340,10.32
+VIC,226,McEwen,4318,Doreen,650,48.58,688,51.42,1338,10.32
 VIC,226,McEwen,4319,Eden Park,257,46.22,299,53.78,556,3.65
-VIC,226,McEwen,4320,Eildon,250,48.64,264,51.36,514,4.25
+VIC,226,McEwen,4320,Eildon,252,49.03,262,50.97,514,4.64
 VIC,226,McEwen,47750,Epping Views,777,73.86,275,26.14,1052,20.55
 VIC,226,McEwen,4324,Flowerdale,207,60.7,134,39.3,341,4.25
 VIC,226,McEwen,3284,Gisborne,1282,51.63,1201,48.37,2483,2.99
@@ -8892,7 +8892,7 @@ WA,247,Swan,58776,Network Airport PPVC,0,0,0,0,0,0
 WA,247,Swan,47621,Parkwood (Swan),464,53.95,396,46.05,860,0.17
 WA,247,Swan,13989,Perth (Swan),93,59.24,64,40.76,157,4.69
 WA,247,Swan,11913,Perth Domestic Airport,23,46,27,54,50,5.57
-WA,247,Swan,11914,Perth International Airport,21,63.64,12,36.36,33,2.1
+WA,247,Swan,11914,Perth International Airport,21,65.63,11,34.38,32,4.09
 WA,247,Swan,34126,Prison Mobile Team 1,0,0,0,0,0,0
 WA,247,Swan,32875,Qantas Domestic Terminal PPVC,70,38.04,114,61.96,184,-9.15
 WA,247,Swan,7552,Queens Park,495,52,457,48,952,-5.17
@@ -8907,7 +8907,7 @@ WA,247,Swan,8237,South Perth Central,441,33.16,889,66.84,1330,-4.12
 WA,247,Swan,8230,South Perth North,297,29.73,702,70.27,999,2.06
 WA,247,Swan,34090,Special Hospital Team 1,65,51.59,61,48.41,126,10.03
 WA,247,Swan,34124,Special Hospital Team 2,89,49.44,91,50.56,180,7.89
-WA,247,Swan,34125,Special Hospital Team 3,0,0,0,0,0,-41.72
+WA,247,Swan,34125,Special Hospital Team 3,74,32.46,154,67.54,228,-9.26
 WA,247,Swan,58756,Swan PPVC,1360,47.4,1509,52.6,2869,0.18
 WA,247,Swan,8242,Victoria Park,887,48.66,936,51.34,1823,-3.14
 WA,247,Swan,11906,Victoria Park Central,1395,50.65,1359,49.35,2754,-3.62
