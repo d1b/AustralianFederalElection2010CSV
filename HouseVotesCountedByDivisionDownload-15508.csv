@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T11:08:54 Cycle:d8efecbc-c0d1-4e98-99d2-26713148bd69 Created:2010-08-25T10:47:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T11:24:25 Cycle:b70761e5-08f5-4713-8c89-fd91e50c9c1f Created:2010-08-25T11:02:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,TotalPercentage
 179,Adelaide,SA,98526,73427,0,0,0,0,73427,74.53
 197,Aston,VIC,93448,74336,0,0,0,0,74336,79.55
@@ -11,7 +11,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 200,Bendigo,VIC,100701,81762,0,0,0,0,81762,81.19
 105,Bennelong,NSW,98900,77281,0,0,0,0,77281,78.14
 106,Berowra,NSW,95115,76260,0,0,0,0,76260,80.18
-304,Blair,QLD,83071,66473,414,0,0,0,66887,80.52
+304,Blair,QLD,83071,66474,414,0,0,0,66888,80.52
 107,Blaxland,NSW,95354,72423,0,0,0,0,72423,75.95
 310,Bonner,QLD,92684,69757,0,0,0,0,69757,75.26
 182,Boothby,SA,97898,76299,1948,0,0,3099,81346,83.09
@@ -32,7 +32,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 205,Chisholm,VIC,86275,63944,0,0,0,0,63944,74.12
 112,Cook,NSW,100748,83368,0,0,0,0,83368,82.75
 207,Corangamite,VIC,101569,80792,0,0,0,3994,84786,83.48
-208,Corio,VIC,91974,73411,0,0,0,0,73411,79.82
+208,Corio,VIC,91974,73395,0,0,0,0,73395,79.8
 237,Cowan,WA,89546,70068,0,0,1402,1161,72631,81.11
 113,Cowper,NSW,94645,77482,0,0,0,0,77482,81.87
 114,Cunningham,NSW,100698,82166,0,0,0,0,82166,81.6
@@ -51,7 +51,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 161,Fisher,QLD,83754,64971,0,0,0,0,64971,77.57
 211,Flinders,VIC,100875,75704,0,0,0,0,75704,75.05
 311,Flynn,QLD,91377,67475,0,0,0,0,67475,73.84
-162,Forde,QLD,82558,61197,0,0,915,0,62112,75.23
+162,Forde,QLD,82558,61197,0,0,1608,0,62805,76.07
 239,Forrest,WA,89636,72232,0,0,0,0,72232,80.58
 119,Fowler,NSW,95561,74013,0,0,0,0,74013,77.45
 195,Franklin,TAS,71090,57354,0,0,0,0,57354,80.68
@@ -100,7 +100,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 224,Mallee,VIC,89840,74472,0,0,0,0,74472,82.89
 170,Maranoa,QLD,97957,72663,0,0,0,3499,76162,77.75
 225,Maribyrnong,VIC,88412,67589,0,0,0,0,67589,76.45
-188,Mayo,SA,101565,80393,0,0,0,0,80393,79.15
+188,Mayo,SA,101565,80796,0,0,0,0,80796,79.55
 226,McEwen,VIC,115783,88461,0,0,0,0,88461,76.4
 315,McMahon,NSW,96058,76043,0,0,0,0,76043,79.16
 227,McMillan,VIC,93323,75612,0,0,0,1000,76612,82.09
@@ -148,5 +148,5 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 152,Wentworth,NSW,101464,72330,0,0,0,0,72330,71.29
 153,Werriwa,NSW,90994,69439,0,0,0,0,69439,76.31
 178,Wide Bay,QLD,92636,72410,0,0,0,0,72410,78.17
-234,Wills,VIC,98599,74111,0,0,0,0,74111,75.16
+234,Wills,VIC,98599,74130,0,0,0,0,74130,75.18
 316,Wright,QLD,85304,62814,0,0,0,0,62814,73.64
