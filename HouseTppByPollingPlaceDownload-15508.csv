@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T10:06:27 Cycle:107b0e8f-ac58-4588-b7a8-eb0559d6328a Created:2010-08-25T09:47:43 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T10:22:11 Cycle:0bb41c8a-2f7b-4c5c-bc00-ecf8df83b0d4 Created:2010-08-25T10:02:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -1435,20 +1435,20 @@ NSW,126,Hunter,356,Kurri Kurri,1275,77.41,372,22.59,1647,0.5
 NSW,126,Hunter,357,Kurri Kurri East,1318,74.76,445,25.24,1763,-0.63
 NSW,126,Hunter,33973,Kurri Kurri PPVC,1004,74.48,344,25.52,1348,41.48
 NSW,126,Hunter,1382,Lochinvar,466,50,466,50,932,-7.88
-NSW,126,Hunter,1384,Lower Belford,101,48.1,109,51.9,210,-6.88
+NSW,126,Hunter,1384,Lower Belford,102,48.57,108,51.43,210,-6.41
 NSW,126,Hunter,1385,Maitland,342,67.19,167,32.81,509,1.36
 NSW,126,Hunter,1389,Maitland West,608,61.54,380,38.46,988,-3.88
 NSW,126,Hunter,1391,Martindale,47,34.06,91,65.94,138,2.95
 NSW,126,Hunter,1393,Merriwa,400,46.14,467,53.86,867,-7.81
-NSW,126,Hunter,1395,Milbrodale,138,53.7,119,46.3,257,-4.32
-NSW,126,Hunter,1397,Millfield,249,61.63,155,38.37,404,-3.79
+NSW,126,Hunter,1395,Milbrodale,130,52.85,116,47.15,246,-5.17
+NSW,126,Hunter,1397,Millfield,245,60.49,160,39.51,405,-4.93
 NSW,126,Hunter,1122,Moonan Flat,28,20.9,106,79.1,134,-12.43
 NSW,126,Hunter,1371,Mount View,292,63.76,166,36.24,458,-8.62
-NSW,126,Hunter,363,Mulbring,297,52.29,271,47.71,568,-3.38
-NSW,126,Hunter,1130,Murrurundi,270,49,281,51,551,-6.38
-NSW,126,Hunter,1131,Muswellbrook,604,59.68,408,40.32,1012,-9.29
+NSW,126,Hunter,363,Mulbring,296,52.2,271,47.8,567,-3.47
+NSW,126,Hunter,1130,Murrurundi,272,49.19,281,50.81,553,-6.19
+NSW,126,Hunter,1131,Muswellbrook,604,59.74,407,40.26,1011,-9.23
 NSW,126,Hunter,1132,Muswellbrook East,1003,62.96,590,37.04,1593,-6.04
-NSW,126,Hunter,1133,Muswellbrook North,549,61.62,342,38.38,891,-5.96
+NSW,126,Hunter,1133,Muswellbrook North,548,61.57,342,38.43,890,-6.01
 NSW,126,Hunter,33977,Muswellbrook PPVC,1755,61.19,1113,38.81,2868,28.17
 NSW,126,Hunter,1134,Muswellbrook South,422,65.94,218,34.06,640,-6.59
 NSW,126,Hunter,1401,Neath,194,66.21,99,33.79,293,-8.01
@@ -3186,7 +3186,7 @@ QLD,304,Blair,6344,Blackstone,199,57.02,150,42.98,349,-9.28
 QLD,304,Blair,6347,Brassall,1027,54.28,865,45.72,1892,-0.97
 QLD,304,Blair,6348,Brassall North,1337,55.57,1069,44.43,2406,-3
 QLD,304,Blair,32553,Brisbane City (Blair),28,56,22,44,50,-6.16
-QLD,304,Blair,6349,Bundamba,871,61.08,555,38.92,1426,-4.71
+QLD,304,Blair,6349,Bundamba,870,60.97,557,39.03,1427,-4.82
 QLD,304,Blair,6350,Bundamba South,1333,64.43,736,35.57,2069,-4.98
 QLD,304,Blair,6353,Churchill,1427,55.44,1147,44.56,2574,-0.6
 QLD,304,Blair,47714,Chuwar,23,46.94,26,53.06,49,-0.62
@@ -3304,7 +3304,7 @@ QLD,155,Bowman,5148,Redland Bay,1486,35.95,2648,64.05,4134,-7.65
 QLD,155,Bowman,5149,Russell Island,506,48.47,538,51.53,1044,-7.96
 QLD,155,Bowman,31950,Special Hospital Team 1,57,32.39,119,67.61,176,-3.69
 QLD,155,Bowman,5151,Thorneside,775,47.49,857,52.51,1632,-11.46
-QLD,155,Bowman,5152,Thornlands,1556,37.04,2645,62.96,4201,-9.35
+QLD,155,Bowman,5152,Thornlands,1555,37.06,2641,62.94,4196,-9.33
 QLD,155,Bowman,5154,Victoria Point,1745,39.44,2679,60.56,4424,-7.7
 QLD,155,Bowman,32084,Victoria Point South,1099,39.59,1677,60.41,2776,-10.87
 QLD,155,Bowman,5155,Vienna Woods,955,47.58,1052,52.42,2007,-11.23
@@ -5066,9 +5066,9 @@ SA,180,Barker,33223,Special Hospital Team 2,11,35.48,20,64.52,31,-7.38
 SA,180,Barker,33224,Special Hospital Team 3,6,35.29,11,64.71,17,-7.57
 SA,180,Barker,33225,Special Hospital Team 4,14,26.42,39,73.58,53,-15.47
 SA,180,Barker,33226,Special Hospital Team 5,0,0,0,0,0,-42
-SA,180,Barker,33227,Special Hospital Team 6,0,0,0,0,0,-43.75
+SA,180,Barker,33227,Special Hospital Team 6,3,25,9,75,12,-18.75
 SA,180,Barker,33228,Special Hospital Team 7,54,36.49,94,63.51,148,-5.95
-SA,180,Barker,36550,Special Hospital Team 8,0,0,0,0,0,-42.18
+SA,180,Barker,36550,Special Hospital Team 8,26,36.62,45,63.38,71,-5.56
 SA,180,Barker,36551,Special Hospital Team 9,96,45.28,116,54.72,212,3.09
 SA,180,Barker,7423,Stockwell,182,37.53,303,62.47,485,8.66
 SA,180,Barker,6794,Suttontown,376,36.5,654,63.5,1030,-4.92
@@ -6662,7 +6662,7 @@ VIC,211,Flinders,31522,Special Hospital Team 1,293,28.7,728,71.3,1021,-1.6
 VIC,211,Flinders,31523,Special Hospital Team 2,105,38.89,165,61.11,270,8.47
 VIC,211,Flinders,31465,St Andrews Beach,234,42.01,323,57.99,557,-0.27
 VIC,211,Flinders,3665,Tooradin,276,37.1,468,62.9,744,2.96
-VIC,211,Flinders,3666,Tootgarook,571,45.53,683,54.47,1254,-1.35
+VIC,211,Flinders,3666,Tootgarook,572,45.61,682,54.39,1254,-1.27
 VIC,211,Flinders,3667,Tyabb,594,42.13,816,57.87,1410,1.86
 VIC,211,Flinders,3668,West Park,368,52.8,329,47.2,697,-1.8
 VIC,212,Gellibrand,4236,Altona,1299,70.41,546,29.59,1845,3.68
@@ -6898,16 +6898,16 @@ VIC,215,Higgins,3919,Burwood West,626,45.59,747,54.41,1373,-2.49
 VIC,215,Higgins,3920,Camberwell,507,40.27,752,59.73,1259,-1.2
 VIC,215,Higgins,3921,Camberwell Middle,417,40.88,603,59.12,1020,0.73
 VIC,215,Higgins,3922,Camberwell South,856,39.59,1306,60.41,2162,-0.07
-VIC,215,Higgins,3891,Carnegie North,637,43.45,829,56.55,1466,-0.13
+VIC,215,Higgins,3891,Carnegie North,461,61.38,290,38.62,751,17.8
 VIC,215,Higgins,31769,Carnegie Upper,477,63.1,279,36.9,756,2.43
-VIC,215,Higgins,3893,Chadstone,920,51.48,867,48.52,1787,1.43
-VIC,215,Higgins,3930,Darling,561,34.63,1059,65.37,1620,-0.05
+VIC,215,Higgins,3893,Chadstone,920,51.45,868,48.55,1788,1.4
+VIC,215,Higgins,3930,Darling,562,34.67,1059,65.33,1621,-0.01
 VIC,215,Higgins,30206,Divisional Office (PREPOLL),521,24.52,1604,75.48,2125,-15.1
-VIC,215,Higgins,3931,Ferndale,344,41.1,493,58.9,837,0.12
-VIC,215,Higgins,3932,Gardiner,724,46.44,835,53.56,1559,0.21
-VIC,215,Higgins,3933,Glen Iris,994,41.91,1378,58.09,2372,2.08
-VIC,215,Higgins,3934,Glen Iris South,787,49.25,811,50.75,1598,1.02
-VIC,215,Higgins,4667,Hawksburn,1213,42.68,1629,57.32,2842,1.1
+VIC,215,Higgins,3931,Ferndale,343,40.83,497,59.17,840,-0.15
+VIC,215,Higgins,3932,Gardiner,728,46.73,830,53.27,1558,0.5
+VIC,215,Higgins,3933,Glen Iris,994,41.87,1380,58.13,2374,2.04
+VIC,215,Higgins,3934,Glen Iris South,791,49.25,815,50.75,1606,1.02
+VIC,215,Higgins,4667,Hawksburn,1216,42.83,1623,57.17,2839,1.25
 VIC,215,Higgins,4668,Hawksburn Central,709,57.78,518,42.22,1227,4.8
 VIC,215,Higgins,31972,Hughesdale North,358,58.69,252,41.31,610,-2.61
 VIC,215,Higgins,3938,Kooyong Park,146,25.13,435,74.87,581,-0.97
@@ -7277,9 +7277,9 @@ VIC,223,La Trobe,4300,Tecoma,1452,62.08,887,37.92,2339,0.23
 VIC,223,La Trobe,4301,The Basin,1446,56.79,1100,43.21,2546,3.55
 VIC,223,La Trobe,32535,Timbarra,1809,48.49,1922,51.51,3731,0.6
 VIC,223,La Trobe,4303,Upwey,1438,58.74,1010,41.26,2448,3.09
-VIC,222,Lalor,4241,Bellbridge,2954,75.84,941,24.16,3895,6.4
-VIC,222,Lalor,36443,Boardwalk,2128,69.98,913,30.02,3041,4.99
-VIC,222,Lalor,31055,Cambridge,2303,74.65,782,25.35,3085,7.1
+VIC,222,Lalor,4241,Bellbridge,2957,75.9,939,24.1,3896,6.46
+VIC,222,Lalor,36443,Boardwalk,2119,69.96,910,30.04,3029,4.97
+VIC,222,Lalor,31055,Cambridge,2306,74.68,782,25.32,3088,7.13
 VIC,222,Lalor,4251,Coburn,2169,76.48,667,23.52,2836,10.76
 VIC,222,Lalor,31056,Derrimut Heath,2472,71.9,966,28.1,3438,7.96
 VIC,222,Lalor,3352,Diggers Rest,606,68.17,283,31.83,889,6.93

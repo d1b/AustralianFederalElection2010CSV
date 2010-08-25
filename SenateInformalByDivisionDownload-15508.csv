@@ -1,4 +1,4 @@
-2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T10:06:30 Cycle:107b0e8f-ac58-4588-b7a8-eb0559d6328a Created:2010-08-25T09:47:43 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T10:22:14 Cycle:0bb41c8a-2f7b-4c5c-bc00-ecf8df83b0d4 Created:2010-08-25T10:02:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent
 119,Fowler,NSW,62623,8217,70840,11.6
 251,Watson,NSW,66308,8414,74722,11.26
@@ -63,8 +63,8 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 224,Mallee,VIC,70319,3537,73856,4.79
 171,McPherson,QLD,66565,3307,69872,4.73
 233,Wannon,VIC,71013,3515,74528,4.72
-166,Hinkler,QLD,61116,3018,64134,4.71
 117,Eden-Monaro,NSW,62123,3066,65189,4.7
+166,Hinkler,QLD,61164,3018,64182,4.7
 197,Aston,VIC,70641,3474,74115,4.69
 237,Cowan,WA,63431,3118,66549,4.69
 178,Wide Bay,QLD,66059,3250,69309,4.69
@@ -84,7 +84,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 173,Moreton,QLD,65031,3021,68052,4.44
 210,Dunkley,VIC,68075,3159,71234,4.43
 310,Bonner,QLD,66098,3053,69151,4.41
-125,Hume,NSW,74304,3415,77719,4.39
+125,Hume,NSW,74344,3415,77759,4.39
 113,Cowper,NSW,69028,3144,72172,4.36
 161,Fisher,QLD,59891,2721,62612,4.35
 155,Bowman,QLD,70437,3194,73631,4.34
@@ -98,7 +98,6 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 223,La Trobe,VIC,66771,2929,69700,4.2
 136,Newcastle,NSW,70531,3094,73625,4.2
 204,Casey,VIC,69461,2998,72459,4.14
-227,McMillan,VIC,68712,2951,71663,4.12
 105,Bennelong,NSW,71431,3063,74494,4.11
 183,Grey,SA,73480,3116,76596,4.07
 228,Melbourne,VIC,64206,2722,66928,4.07
@@ -115,6 +114,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 164,Groom,QLD,70985,2966,73951,4.01
 160,Fairfax,QLD,67717,2812,70529,3.99
 205,Chisholm,VIC,58979,2447,61426,3.98
+227,McMillan,VIC,71518,2951,74469,3.96
 243,O'Connor,WA,26358,1081,27439,3.94
 230,Melbourne Ports,VIC,54884,2224,57108,3.89
 239,Forrest,WA,65195,2602,67797,3.84
@@ -146,7 +146,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 188,Mayo,SA,73836,2166,76002,2.85
 221,Kooyong,VIC,59984,1752,61736,2.84
 151,Warringah,NSW,61739,1806,63545,2.84
-215,Higgins,VIC,54075,1569,55644,2.82
+215,Higgins,VIC,55516,1569,57085,2.75
 182,Boothby,SA,69766,1890,71656,2.64
 177,Ryan,QLD,68971,1681,70652,2.38
 238,Curtin,WA,65678,1462,67140,2.18
