@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T15:08:40 Cycle:3941c8f4-b9a0-423f-978e-28f3ec35993c Created:2010-08-25T14:48:37 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T15:24:03 Cycle:4b84cfab-f4d9-4523-936b-773f3e33bb42 Created:2010-08-25T15:03:37 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 ACT,101,Canberra,8829,Barton,20863,JONES,Giulia,1,N,N,LP,Liberal,790,-2.73
 ACT,101,Canberra,8829,Barton,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1399,2.73
@@ -1122,8 +1122,8 @@ NSW,111,Chifley,413,Arndell Park North,21231,HUSIC,Ed,3,N,N,ALP,Labor,2062,-8.83
 NSW,111,Chifley,413,Arndell Park North,21658,PRIEST,Venus,7,N,N,LP,Liberal,1432,8.83
 NSW,111,Chifley,385,Bidwill,21231,HUSIC,Ed,3,N,N,ALP,Labor,1113,-6.63
 NSW,111,Chifley,385,Bidwill,21658,PRIEST,Venus,7,N,N,LP,Liberal,401,6.63
-NSW,111,Chifley,386,Blackett,21231,HUSIC,Ed,3,N,N,ALP,Labor,1092,-4
-NSW,111,Chifley,386,Blackett,21658,PRIEST,Venus,7,N,N,LP,Liberal,396,4
+NSW,111,Chifley,386,Blackett,21231,HUSIC,Ed,3,N,N,ALP,Labor,1085,-3.78
+NSW,111,Chifley,386,Blackett,21658,PRIEST,Venus,7,N,N,LP,Liberal,389,3.78
 NSW,111,Chifley,11947,Blacktown,21231,HUSIC,Ed,3,N,N,ALP,Labor,785,-5.77
 NSW,111,Chifley,11947,Blacktown,21658,PRIEST,Venus,7,N,N,LP,Liberal,584,5.77
 NSW,111,Chifley,58585,Blacktown CHIFLEY PPVC,21231,HUSIC,Ed,3,N,N,ALP,Labor,1563,-9.56
@@ -2364,8 +2364,8 @@ NSW,121,Grayndler,2759,Petersham East,21656,ALBANESE,Anthony,4,N,Y,ALP,Labor,344
 NSW,121,Grayndler,2759,Petersham East,21865,BYRNE,Sam,5,N,N,GRN,The Greens,305,47
 NSW,121,Grayndler,2760,Petersham North,21656,ALBANESE,Anthony,4,N,Y,ALP,Labor,362,47.07
 NSW,121,Grayndler,2760,Petersham North,21865,BYRNE,Sam,5,N,N,GRN,The Greens,407,52.93
-NSW,121,Grayndler,33623,Special Hospital Team 1,21656,ALBANESE,Anthony,4,N,Y,ALP,Labor,0,0
-NSW,121,Grayndler,33623,Special Hospital Team 1,21865,BYRNE,Sam,5,N,N,GRN,The Greens,0,0
+NSW,121,Grayndler,33623,Special Hospital Team 1,21656,ALBANESE,Anthony,4,N,Y,ALP,Labor,126,64.29
+NSW,121,Grayndler,33623,Special Hospital Team 1,21865,BYRNE,Sam,5,N,N,GRN,The Greens,70,35.71
 NSW,121,Grayndler,33822,Special Hospital Team 2,21656,ALBANESE,Anthony,4,N,Y,ALP,Labor,0,0
 NSW,121,Grayndler,33822,Special Hospital Team 2,21865,BYRNE,Sam,5,N,N,GRN,The Greens,0,0
 NSW,121,Grayndler,46511,Special Hospital Team 3,21656,ALBANESE,Anthony,4,N,Y,ALP,Labor,0,0
@@ -5210,8 +5210,8 @@ NSW,250,Riverina,38317,Forest Hill PPVC,21095,McCORMACK,Michael,4,N,N,NP,The Nat
 NSW,250,Riverina,38317,Forest Hill PPVC,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,0,0
 NSW,250,Riverina,787,Galore,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,75,1.8
 NSW,250,Riverina,787,Galore,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,4,-1.8
-NSW,250,Riverina,1274,Ganmain,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,403,4.96
-NSW,250,Riverina,1274,Ganmain,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,95,-4.96
+NSW,250,Riverina,1274,Ganmain,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,401,4.56
+NSW,250,Riverina,1274,Ganmain,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,97,-4.56
 NSW,250,Riverina,32486,Glenfield Park,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,1473,-1.01
 NSW,250,Riverina,32486,Glenfield Park,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,773,1.01
 NSW,250,Riverina,2506,Goolgowi,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,161,4.22
@@ -9032,14 +9032,14 @@ QLD,171,McPherson,38227,Varsity Lakes Central,21691,BYRON,Dan,2,N,N,ALP,Australi
 QLD,171,McPherson,38227,Varsity Lakes Central,20749,ANDREWS,Karen,3,N,N,LNQ,Liberal National Party of Queensland,1666,1.15
 QLD,171,McPherson,6066,Varsity Lakes South,21691,BYRON,Dan,2,N,N,ALP,Australian Labor Party,1129,1.91
 QLD,171,McPherson,6066,Varsity Lakes South,20749,ANDREWS,Karen,3,N,N,LNQ,Liberal National Party of Queensland,1269,-1.91
-QLD,172,Moncrieff,12030,Aquinas,21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,151,0.35
-QLD,172,Moncrieff,12030,Aquinas,20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,197,-0.35
-QLD,172,Moncrieff,6254,Ashmore (Moncrieff),21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,793,-8.96
-QLD,172,Moncrieff,6254,Ashmore (Moncrieff),20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,2110,8.96
-QLD,172,Moncrieff,12031,Ashmore West (Moncrieff),21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,496,-3.76
-QLD,172,Moncrieff,12031,Ashmore West (Moncrieff),20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,1159,3.76
-QLD,172,Moncrieff,6258,Benowa,21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,938,-5.37
-QLD,172,Moncrieff,6258,Benowa,20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,2946,5.37
+QLD,172,Moncrieff,12030,Aquinas,21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,151,0.6
+QLD,172,Moncrieff,12030,Aquinas,20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,195,-0.6
+QLD,172,Moncrieff,6254,Ashmore (Moncrieff),21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,789,-9.07
+QLD,172,Moncrieff,6254,Ashmore (Moncrieff),20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,2111,9.07
+QLD,172,Moncrieff,12031,Ashmore West (Moncrieff),21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,494,-3.86
+QLD,172,Moncrieff,12031,Ashmore West (Moncrieff),20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,1160,3.86
+QLD,172,Moncrieff,6258,Benowa,21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,936,-5.46
+QLD,172,Moncrieff,6258,Benowa,20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,2954,5.46
 QLD,172,Moncrieff,14228,Brisbane City (Moncrieff),21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,26,23.01
 QLD,172,Moncrieff,14228,Brisbane City (Moncrieff),20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,21,-23.01
 QLD,172,Moncrieff,12061,Broadbeach (Moncrieff),21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,823,-5.66
@@ -9104,8 +9104,8 @@ QLD,172,Moncrieff,12029,Southport North,21707,HOUGH,Robert,1,N,N,ALP,Australian 
 QLD,172,Moncrieff,12029,Southport North,20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,320,8.87
 QLD,172,Moncrieff,6292,Southport West,21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,531,-4
 QLD,172,Moncrieff,6292,Southport West,20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,756,4
-QLD,172,Moncrieff,32564,Special Hospital Team 1,21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,0,-25.97
-QLD,172,Moncrieff,32564,Special Hospital Team 1,20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,0,-74.03
+QLD,172,Moncrieff,32564,Special Hospital Team 1,21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,35,-1.49
+QLD,172,Moncrieff,32564,Special Hospital Team 1,20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,108,1.49
 QLD,172,Moncrieff,32565,Special Hospital Team 2,21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,0,-25.78
 QLD,172,Moncrieff,32565,Special Hospital Team 2,20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,0,-74.22
 QLD,172,Moncrieff,32566,Special Hospital Team 3,21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,0,-26.13
@@ -12294,8 +12294,8 @@ VIC,199,Batman,3099,Northcote West,21225,BHATHAL,Alexandra Kaur,3,N,N,GRN,Austra
 VIC,199,Batman,3099,Northcote West,21035,FERGUSON,Martin John,5,N,Y,ALP,Australian Labor Party,0,0
 VIC,199,Batman,31810,Oakhill,21225,BHATHAL,Alexandra Kaur,3,N,N,GRN,Australian Greens,423,35.52
 VIC,199,Batman,31810,Oakhill,21035,FERGUSON,Martin John,5,N,Y,ALP,Australian Labor Party,768,64.48
-VIC,199,Batman,3101,Preston,21225,BHATHAL,Alexandra Kaur,3,N,N,GRN,Australian Greens,0,0
-VIC,199,Batman,3101,Preston,21035,FERGUSON,Martin John,5,N,Y,ALP,Australian Labor Party,0,0
+VIC,199,Batman,3101,Preston,21225,BHATHAL,Alexandra Kaur,3,N,N,GRN,Australian Greens,446,36.95
+VIC,199,Batman,3101,Preston,21035,FERGUSON,Martin John,5,N,Y,ALP,Australian Labor Party,761,63.05
 VIC,199,Batman,3102,Preston East,21225,BHATHAL,Alexandra Kaur,3,N,N,GRN,Australian Greens,0,0
 VIC,199,Batman,3102,Preston East,21035,FERGUSON,Martin John,5,N,Y,ALP,Australian Labor Party,0,0
 VIC,199,Batman,3104,Preston North East,21225,BHATHAL,Alexandra Kaur,3,N,N,GRN,Australian Greens,0,0
@@ -13150,8 +13150,8 @@ VIC,210,Dunkley,3598,Frankston Heights,21032,CONSTAS,Helen,2,N,N,ALP,Australian 
 VIC,210,Dunkley,3598,Frankston Heights,21027,BILLSON,Bruce,4,N,Y,LP,Liberal,531,0.46
 VIC,210,Dunkley,3597,Frankston Monterey,21032,CONSTAS,Helen,2,N,N,ALP,Australian Labor Party,498,1.67
 VIC,210,Dunkley,3597,Frankston Monterey,21027,BILLSON,Bruce,4,N,Y,LP,Liberal,254,-1.67
-VIC,210,Dunkley,36414,Frankston PPVC,21032,CONSTAS,Helen,2,N,N,ALP,Australian Labor Party,1850,2.28
-VIC,210,Dunkley,36414,Frankston PPVC,21027,BILLSON,Bruce,4,N,Y,LP,Liberal,2075,-2.28
+VIC,210,Dunkley,36414,Frankston PPVC,21032,CONSTAS,Helen,2,N,N,ALP,Australian Labor Party,1845,2.26
+VIC,210,Dunkley,36414,Frankston PPVC,21027,BILLSON,Bruce,4,N,Y,LP,Liberal,2071,-2.26
 VIC,210,Dunkley,3599,Frankston Rail,21032,CONSTAS,Helen,2,N,N,ALP,Australian Labor Party,798,0.28
 VIC,210,Dunkley,3599,Frankston Rail,21027,BILLSON,Bruce,4,N,Y,LP,Liberal,547,-0.28
 VIC,210,Dunkley,3600,Frankston South,21032,CONSTAS,Helen,2,N,N,ALP,Australian Labor Party,1457,2.02
@@ -13334,12 +13334,12 @@ VIC,212,Gellibrand,4236,Altona,21236,ROXON,Nicola,1,N,Y,ALP,Australian Labor Par
 VIC,212,Gellibrand,4236,Altona,21198,McCONNELL,David,6,N,N,LP,Liberal,536,-4.17
 VIC,212,Gellibrand,8893,Altona Bay,21236,ROXON,Nicola,1,N,Y,ALP,Australian Labor Party,1149,1.46
 VIC,212,Gellibrand,8893,Altona Bay,21198,McCONNELL,David,6,N,N,LP,Liberal,394,-1.46
-VIC,212,Gellibrand,3676,Altona East,21236,ROXON,Nicola,1,N,Y,ALP,Australian Labor Party,883,-2.32
-VIC,212,Gellibrand,3676,Altona East,21198,McCONNELL,David,6,N,N,LP,Liberal,295,2.32
+VIC,212,Gellibrand,3676,Altona East,21236,ROXON,Nicola,1,N,Y,ALP,Australian Labor Party,880,-2.39
+VIC,212,Gellibrand,3676,Altona East,21198,McCONNELL,David,6,N,N,LP,Liberal,295,2.39
 VIC,212,Gellibrand,3677,Altona Gate,21236,ROXON,Nicola,1,N,Y,ALP,Australian Labor Party,1131,0.38
 VIC,212,Gellibrand,3677,Altona Gate,21198,McCONNELL,David,6,N,N,LP,Liberal,335,-0.38
-VIC,212,Gellibrand,58455,Altona Green,21236,ROXON,Nicola,1,N,Y,ALP,Australian Labor Party,2816,5.03
-VIC,212,Gellibrand,58455,Altona Green,21198,McCONNELL,David,6,N,N,LP,Liberal,774,-5.03
+VIC,212,Gellibrand,58455,Altona Green,21236,ROXON,Nicola,1,N,Y,ALP,Australian Labor Party,2803,4.95
+VIC,212,Gellibrand,58455,Altona Green,21198,McCONNELL,David,6,N,N,LP,Liberal,774,-4.95
 VIC,212,Gellibrand,4237,Altona Meadows,21236,ROXON,Nicola,1,N,Y,ALP,Australian Labor Party,2244,5.97
 VIC,212,Gellibrand,4237,Altona Meadows,21198,McCONNELL,David,6,N,N,LP,Liberal,519,-5.97
 VIC,212,Gellibrand,3678,Altona North,21236,ROXON,Nicola,1,N,Y,ALP,Australian Labor Party,1647,6.55
@@ -13388,14 +13388,14 @@ VIC,212,Gellibrand,32908,Seabrook (Gellibrand),21236,ROXON,Nicola,1,N,Y,ALP,Aust
 VIC,212,Gellibrand,32908,Seabrook (Gellibrand),21198,McCONNELL,David,6,N,N,LP,Liberal,624,-3.87
 VIC,212,Gellibrand,4256,Seaholme,21236,ROXON,Nicola,1,N,Y,ALP,Australian Labor Party,1340,5.11
 VIC,212,Gellibrand,4256,Seaholme,21198,McCONNELL,David,6,N,N,LP,Liberal,577,-5.11
-VIC,212,Gellibrand,3696,Seddon,21236,ROXON,Nicola,1,N,Y,ALP,Australian Labor Party,1524,3.15
-VIC,212,Gellibrand,3696,Seddon,21198,McCONNELL,David,6,N,N,LP,Liberal,448,-3.15
+VIC,212,Gellibrand,3696,Seddon,21236,ROXON,Nicola,1,N,Y,ALP,Australian Labor Party,1521,3.12
+VIC,212,Gellibrand,3696,Seddon,21198,McCONNELL,David,6,N,N,LP,Liberal,448,-3.12
 VIC,212,Gellibrand,3698,South Kingsville,21236,ROXON,Nicola,1,N,Y,ALP,Australian Labor Party,1077,4.82
 VIC,212,Gellibrand,3698,South Kingsville,21198,McCONNELL,David,6,N,N,LP,Liberal,374,-4.82
 VIC,212,Gellibrand,31958,Special Hospital Team 1,21236,ROXON,Nicola,1,N,Y,ALP,Australian Labor Party,157,6.19
 VIC,212,Gellibrand,31958,Special Hospital Team 1,21198,McCONNELL,David,6,N,N,LP,Liberal,94,-6.19
-VIC,212,Gellibrand,3697,Spotswood,21236,ROXON,Nicola,1,N,Y,ALP,Australian Labor Party,772,1.9
-VIC,212,Gellibrand,3697,Spotswood,21198,McCONNELL,David,6,N,N,LP,Liberal,288,-1.9
+VIC,212,Gellibrand,3697,Spotswood,21236,ROXON,Nicola,1,N,Y,ALP,Australian Labor Party,769,1.69
+VIC,212,Gellibrand,3697,Spotswood,21198,McCONNELL,David,6,N,N,LP,Liberal,290,-1.69
 VIC,212,Gellibrand,58762,Sunshine GELLIBRAND PPVC,21236,ROXON,Nicola,1,N,Y,ALP,Australian Labor Party,547,7.07
 VIC,212,Gellibrand,58762,Sunshine GELLIBRAND PPVC,21198,McCONNELL,David,6,N,N,LP,Liberal,156,-7.07
 VIC,212,Gellibrand,3350,Sunvale (Gellibrand),21236,ROXON,Nicola,1,N,Y,ALP,Australian Labor Party,475,5.06
@@ -14504,12 +14504,12 @@ VIC,223,La Trobe,4284,Ferntree Gully Upper,21197,WOOD,Jason,2,N,Y,LP,Liberal,677
 VIC,223,La Trobe,4284,Ferntree Gully Upper,21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,1085,2.85
 VIC,223,La Trobe,2951,Ferntree Gully West,21197,WOOD,Jason,2,N,Y,LP,Liberal,1137,-0.72
 VIC,223,La Trobe,2951,Ferntree Gully West,21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,1426,0.72
-VIC,223,La Trobe,4285,Ferny Creek,21197,WOOD,Jason,2,N,Y,LP,Liberal,341,0.31
-VIC,223,La Trobe,4285,Ferny Creek,21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,447,-0.31
+VIC,223,La Trobe,4285,Ferny Creek,21197,WOOD,Jason,2,N,Y,LP,Liberal,340,0.3
+VIC,223,La Trobe,4285,Ferny Creek,21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,446,-0.3
 VIC,223,La Trobe,4881,Gembrook,21197,WOOD,Jason,2,N,Y,LP,Liberal,475,-2.59
 VIC,223,La Trobe,4881,Gembrook,21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,531,2.59
-VIC,223,La Trobe,4289,Harkaway,21197,WOOD,Jason,2,N,Y,LP,Liberal,560,-3.06
-VIC,223,La Trobe,4289,Harkaway,21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,307,3.06
+VIC,223,La Trobe,4289,Harkaway,21197,WOOD,Jason,2,N,Y,LP,Liberal,562,-2.83
+VIC,223,La Trobe,4289,Harkaway,21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,305,2.83
 VIC,223,La Trobe,4290,Kallista (La Trobe),21197,WOOD,Jason,2,N,Y,LP,Liberal,116,0.54
 VIC,223,La Trobe,4290,Kallista (La Trobe),21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,166,-0.54
 VIC,223,La Trobe,4889,Macclesfield,21197,WOOD,Jason,2,N,Y,LP,Liberal,343,-6.59
@@ -16982,8 +16982,8 @@ WA,305,Hasluck,8220,Hazelmere,20876,WYATT,Ken,5,N,N,LP,Liberal,663,0.43
 WA,305,Hasluck,8220,Hazelmere,20892,JACKSON,Sharryn,6,N,Y,ALP,Australian Labor Party,658,-0.43
 WA,305,Hasluck,7922,Helena Valley (Hasluck),20876,WYATT,Ken,5,N,N,LP,Liberal,721,0.43
 WA,305,Hasluck,7922,Helena Valley (Hasluck),20892,JACKSON,Sharryn,6,N,Y,ALP,Australian Labor Party,545,-0.43
-WA,305,Hasluck,7538,High Wycombe,20876,WYATT,Ken,5,N,N,LP,Liberal,1605,0.75
-WA,305,Hasluck,7538,High Wycombe,20892,JACKSON,Sharryn,6,N,Y,ALP,Australian Labor Party,1535,-0.75
+WA,305,Hasluck,7538,High Wycombe,20876,WYATT,Ken,5,N,N,LP,Liberal,1597,0.88
+WA,305,Hasluck,7538,High Wycombe,20892,JACKSON,Sharryn,6,N,Y,ALP,Australian Labor Party,1520,-0.88
 WA,305,Hasluck,11905,High Wycombe South,20876,WYATT,Ken,5,N,N,LP,Liberal,1186,0.61
 WA,305,Hasluck,11905,High Wycombe South,20892,JACKSON,Sharryn,6,N,Y,ALP,Australian Labor Party,1190,-0.61
 WA,305,Hasluck,8268,Huntingdale,20876,WYATT,Ken,5,N,N,LP,Liberal,1534,-1.6
