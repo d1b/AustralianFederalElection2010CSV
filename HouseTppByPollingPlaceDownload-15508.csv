@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T13:16:02 Cycle:2eaf0197-e33b-4f3d-9792-9a7f6932d97a Created:2010-08-25T13:03:01 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T13:31:58 Cycle:9e34e2e2-6ecb-47b3-a8b5-ff24f5e353c2 Created:2010-08-25T13:18:06 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -294,7 +294,7 @@ NSW,106,Berowra,33118,West Pennant Hills (Berowra),551,29.64,1308,70.36,1859,-9.
 NSW,106,Berowra,148,Westleigh,1191,35.67,2148,64.33,3339,-5.97
 NSW,106,Berowra,33800,Wisemans Ferry,42,28.77,104,71.23,146,-2.77
 NSW,107,Blaxland,2366,Auburn East (Blaxland),365,64.15,204,35.85,569,-3.72
-NSW,107,Blaxland,56664,Auburn West (Blaxland),363,67.85,172,32.15,535,-6.14
+NSW,107,Blaxland,56664,Auburn West (Blaxland),361,67.98,170,32.02,531,-6.01
 NSW,107,Blaxland,31455,Bankstown (Blaxland),1138,73.94,401,26.06,1539,-2.92
 NSW,107,Blaxland,33854,Bankstown BLAXLAND PPVC,1145,63.72,652,36.28,1797,-2.49
 NSW,107,Blaxland,155,Bankstown Central (Blaxland),848,71.02,346,28.98,1194,-6.53
@@ -2387,7 +2387,7 @@ NSW,249,Paterson,1353,Bolwarra,494,42.04,681,57.96,1175,-3.21
 NSW,249,Paterson,1567,Booral,181,40.4,267,59.6,448,-8.99
 NSW,249,Paterson,1568,Bulahdelah,293,32.92,597,67.08,890,-7.29
 NSW,249,Paterson,1569,Bungwahl,97,41.63,136,58.37,233,-8.37
-NSW,249,Paterson,1575,Clarence Town,533,49.77,538,50.23,1071,-3.68
+NSW,249,Paterson,1575,Clarence Town,532,49.77,537,50.23,1069,-3.68
 NSW,249,Paterson,1576,Coolongolook,79,35.11,146,64.89,225,-13.1
 NSW,249,Paterson,11984,Coomba Park,160,48.93,167,51.07,327,-8.17
 NSW,249,Paterson,1578,Corlette,510,34.6,964,65.4,1474,-2.16
@@ -2401,9 +2401,9 @@ NSW,249,Paterson,58670,East Maitland PATERSON PPVC,650,44.74,803,55.26,1453,-0.3
 NSW,249,Paterson,1367,Eastville,276,61.88,170,38.12,446,-12.16
 NSW,249,Paterson,32745,Fingal Bay,229,41.04,329,58.96,558,-8.55
 NSW,249,Paterson,1586,Forster,392,40.96,565,59.04,957,-9.4
-NSW,249,Paterson,1587,Forster East,481,36.86,824,63.14,1305,-8.48
+NSW,249,Paterson,1587,Forster East,470,36.41,821,63.59,1291,-8.93
 NSW,249,Paterson,31457,Forster Keys,575,34.87,1074,65.13,1649,-7
-NSW,249,Paterson,1588,Forster South,926,41.25,1319,58.75,2245,-3.99
+NSW,249,Paterson,1588,Forster South,926,41.27,1318,58.73,2244,-3.97
 NSW,249,Paterson,33892,Forster-Tuncurry PPVC,1127,36.13,1992,63.87,3119,-9.03
 NSW,249,Paterson,1590,Glen William,73,36.87,125,63.13,198,-7.9
 NSW,249,Paterson,32487,Grahamstown,414,55.05,338,44.95,752,-3.05
@@ -3118,7 +3118,7 @@ NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,365,44.08,463,55.92,828,-14.51
 NT,306,Lingiari,8727,Pine Creek,54,47.79,59,52.21,113,3.85
 NT,306,Lingiari,34143,Prison Mobile Team 1,0,0,0,0,0,-88.14
 NT,306,Lingiari,34147,Remote Mobile Team 1,731,63.29,424,36.71,1155,-24.34
-NT,306,Lingiari,34156,Remote Mobile Team 10,242,54.14,205,45.86,447,-33.44
+NT,306,Lingiari,34156,Remote Mobile Team 10,240,53.93,205,46.07,445,-33.65
 NT,306,Lingiari,34157,Remote Mobile Team 11,416,65.41,220,34.59,636,-22.14
 NT,306,Lingiari,34158,Remote Mobile Team 12,247,55.88,195,44.12,442,-31.76
 NT,306,Lingiari,34159,Remote Mobile Team 13,27,54,23,46,50,-33.88
@@ -3647,11 +3647,11 @@ QLD,161,Fisher,5424,Currimundi,1649,52.8,1474,47.2,3123,-0.14
 QLD,161,Fisher,32550,Currimundi West,1492,49.97,1494,50.03,2986,-0.55
 QLD,161,Fisher,30152,Divisional Office (PREPOLL),554,43.93,707,56.07,1261,-1.38
 QLD,161,Fisher,5426,Eudlo,496,54.03,422,45.97,918,1.16
-QLD,161,Fisher,5482,Glass House Mountains,990,44.26,1247,55.74,2237,-3.58
+QLD,161,Fisher,5482,Glass House Mountains,942,42.07,1297,57.93,2239,-5.77
 QLD,161,Fisher,5429,Glenview,334,42.01,461,57.99,795,2.26
 QLD,161,Fisher,5430,Golden Beach,1138,46.41,1314,53.59,2452,1.7
 QLD,161,Fisher,5431,Kawana Waters,1206,52.53,1090,47.47,2296,2.68
-QLD,161,Fisher,5433,Landsborough,1034,49.29,1064,50.71,2098,-4.24
+QLD,161,Fisher,5433,Landsborough,1032,49.19,1066,50.81,2098,-4.34
 QLD,161,Fisher,12007,Little Mountain,556,41.09,797,58.91,1353,-1.99
 QLD,161,Fisher,5492,Maleny,1248,47.08,1403,52.92,2651,-4.88
 QLD,161,Fisher,58740,Maroochydore FISHER PPVC,422,43.42,550,56.58,972,-2.06
@@ -4592,9 +4592,9 @@ QLD,173,Moreton,5404,Salisbury,1563,59.82,1050,40.18,2613,-3.12
 QLD,173,Moreton,5550,Sherwood,986,47.75,1079,52.25,2065,-4
 QLD,173,Moreton,32696,Special Hospital Team 1,70,51.09,67,48.91,137,14.36
 QLD,173,Moreton,32697,Special Hospital Team 2,62,30.85,139,69.15,201,-5.94
-QLD,173,Moreton,32698,Special Hospital Team 3,69,51.49,65,48.51,134,14.5
+QLD,173,Moreton,32698,Special Hospital Team 3,70,51.09,67,48.91,137,14.1
 QLD,173,Moreton,5409,Sunnybank,874,45.4,1051,54.6,1925,-7.65
-QLD,173,Moreton,31801,Sunnybank Hills (Moreton),1970,44.37,2470,55.63,4440,-6.52
+QLD,173,Moreton,31801,Sunnybank Hills (Moreton),1969,44.38,2468,55.62,4437,-6.51
 QLD,173,Moreton,6332,Tarragindi,645,54.2,545,45.8,1190,-2.67
 QLD,173,Moreton,6333,Tarragindi East,787,53.25,691,46.75,1478,0.56
 QLD,173,Moreton,34024,Tarragindi MORETON PPVC,616,44.06,782,55.94,1398,-10.24
@@ -6302,7 +6302,7 @@ VIC,203,Calwell,3307,Meadows,1086,82.09,237,17.91,1323,1.29
 VIC,203,Calwell,32027,Melbourne (Calwell),50,67.57,24,32.43,74,4.67
 VIC,203,Calwell,11631,Melbourne Airport,111,79.86,28,20.14,139,8.71
 VIC,203,Calwell,31610,Melbourne Airport PPVC,313,67.9,148,32.1,461,3.34
-VIC,203,Calwell,4343,Mickleham,613,54.49,512,45.51,1125,6.26
+VIC,203,Calwell,4343,Mickleham,614,54.63,510,45.37,1124,6.4
 VIC,203,Calwell,58453,Mount Ridley,908,74.73,307,25.27,1215,0.87
 VIC,203,Calwell,46595,Roxburgh Homestead,2284,67.33,1108,32.67,3392,-10.7
 VIC,203,Calwell,31939,Roxburgh Park,579,78.56,158,21.44,737,-3.17
@@ -6665,28 +6665,28 @@ VIC,211,Flinders,3665,Tooradin,276,37.1,468,62.9,744,2.96
 VIC,211,Flinders,3666,Tootgarook,572,45.61,682,54.39,1254,-1.27
 VIC,211,Flinders,3667,Tyabb,594,42.13,816,57.87,1410,1.86
 VIC,211,Flinders,3668,West Park,368,52.8,329,47.2,697,-1.8
-VIC,212,Gellibrand,4236,Altona,1299,70.41,546,29.59,1845,3.68
+VIC,212,Gellibrand,4236,Altona,1306,70.9,536,29.1,1842,4.17
 VIC,212,Gellibrand,8893,Altona Bay,1149,74.47,394,25.53,1543,1.46
 VIC,212,Gellibrand,3676,Altona East,883,74.96,295,25.04,1178,-2.32
 VIC,212,Gellibrand,3677,Altona Gate,1131,77.15,335,22.85,1466,0.38
 VIC,212,Gellibrand,58455,Altona Green,2816,78.44,774,21.56,3590,5.03
 VIC,212,Gellibrand,4237,Altona Meadows,2252,80.95,530,19.05,2782,5.7
 VIC,212,Gellibrand,3678,Altona North,1663,76.46,512,23.54,2175,6.87
-VIC,212,Gellibrand,4238,Altona West,1827,77.38,534,22.62,2361,6.14
+VIC,212,Gellibrand,4238,Altona West,1816,77.08,540,22.92,2356,5.84
 VIC,212,Gellibrand,38309,Braybrook PPVC,2137,73.59,767,26.41,2904,2.84
-VIC,212,Gellibrand,3679,Brooklyn,422,72.14,163,27.86,585,4.87
+VIC,212,Gellibrand,3679,Brooklyn,420,71.79,165,28.21,585,4.52
 VIC,212,Gellibrand,30203,Divisional Office (PREPOLL),0,0,0,0,0,-70.31
 VIC,212,Gellibrand,3680,Footscray,1319,77.13,391,22.87,1710,1.18
 VIC,212,Gellibrand,3681,Footscray Central,1036,82.35,222,17.65,1258,4.23
 VIC,212,Gellibrand,3682,Footscray East,471,76.34,146,23.66,617,0
-VIC,212,Gellibrand,33261,Footscray North,1066,75.02,355,24.98,1421,0.54
-VIC,212,Gellibrand,3685,Footscray South,1028,75.64,331,24.36,1359,0.27
-VIC,212,Gellibrand,3686,Footscray West,1680,78.87,450,21.13,2130,3.29
-VIC,212,Gellibrand,3687,Kingsville,1137,78.52,311,21.48,1448,3.22
-VIC,212,Gellibrand,3689,Kingsville West,1024,75.74,328,24.26,1352,0.87
-VIC,212,Gellibrand,35344,Laverton (Gellibrand),213,82.56,45,17.44,258,9.99
+VIC,212,Gellibrand,33261,Footscray North,1065,75.05,354,24.95,1419,0.57
+VIC,212,Gellibrand,3685,Footscray South,1025,75.42,334,24.58,1359,0.05
+VIC,212,Gellibrand,3686,Footscray West,1679,78.79,452,21.21,2131,3.21
+VIC,212,Gellibrand,3687,Kingsville,1124,78,317,22,1441,2.7
+VIC,212,Gellibrand,3689,Kingsville West,1017,75.22,335,24.78,1352,0.35
+VIC,212,Gellibrand,35344,Laverton (Gellibrand),210,82.35,45,17.65,255,9.78
 VIC,212,Gellibrand,3690,Maidstone,2014,72.79,753,27.21,2767,0.07
-VIC,212,Gellibrand,35335,Maribyrnong (Gellibrand),631,66.77,314,33.23,945,2.7
+VIC,212,Gellibrand,35335,Maribyrnong (Gellibrand),635,67.2,310,32.8,945,3.13
 VIC,212,Gellibrand,3684,Maribyrnong South,523,65.62,274,34.38,797,-7.25
 VIC,212,Gellibrand,31984,Melbourne (Gellibrand),96,64,54,36,150,-4.7
 VIC,212,Gellibrand,3693,Newport,1173,72.1,454,27.9,1627,3.78
@@ -7042,13 +7042,13 @@ VIC,218,Indi,4054,Goorambat,31,20.95,117,79.05,148,-0.18
 VIC,218,Indi,4056,Greta Valley,28,27.72,73,72.28,101,-0.85
 VIC,218,Indi,4059,Harrietville,66,47.14,74,52.86,140,3.68
 VIC,218,Indi,58816,Harrietville PPVC,0,0,0,0,0,0
-VIC,218,Indi,4333,Jamieson,94,41.78,131,58.22,225,-5.07
+VIC,218,Indi,4333,Jamieson,94,42.15,129,57.85,223,-4.7
 VIC,218,Indi,4064,Kergunyah,48,25,144,75,192,-5.54
-VIC,218,Indi,4067,Londrigan,77,41.85,107,58.15,184,0.99
-VIC,218,Indi,4338,Longwood,74,32.6,153,67.4,227,-5.39
+VIC,218,Indi,4067,Londrigan,77,42.08,106,57.92,183,1.22
+VIC,218,Indi,4338,Longwood,75,33.04,152,66.96,227,-4.95
 VIC,218,Indi,4068,Lurg,70,45.16,85,54.84,155,-4.53
-VIC,218,Indi,4339,Mansfield,829,36.76,1426,63.24,2255,1.55
-VIC,218,Indi,32008,Melbourne (Indi),27,43.55,35,56.45,62,-10.62
+VIC,218,Indi,4339,Mansfield,831,36.82,1426,63.18,2257,1.61
+VIC,218,Indi,32008,Melbourne (Indi),30,48.39,32,51.61,62,-5.78
 VIC,218,Indi,4341,Merrijig,107,43.85,137,56.15,244,-1.76
 VIC,218,Indi,58817,Merrijig PPVC,0,0,0,0,0,0
 VIC,218,Indi,4342,Merton,39,37.5,65,62.5,104,-4.69
@@ -7325,9 +7325,9 @@ VIC,224,Mallee,4453,Beverford,62,21.45,227,78.55,289,0.38
 VIC,224,Mallee,4454,Birchip,93,17.82,429,82.18,522,-3.06
 VIC,224,Mallee,4455,Boundary Bend,19,18.1,86,81.9,105,-8.26
 VIC,224,Mallee,4457,Brim,16,13.68,101,86.32,117,-1.06
-VIC,224,Mallee,4460,Cabarita,118,18.97,504,81.03,622,-9.79
-VIC,224,Mallee,4462,Cardross,122,23.46,398,76.54,520,-9.14
-VIC,224,Mallee,3143,Charlton,161,20.91,609,79.09,770,-1.42
+VIC,224,Mallee,4460,Cabarita,120,19.26,503,80.74,623,-9.5
+VIC,224,Mallee,4462,Cardross,121,23.27,399,76.73,520,-9.33
+VIC,224,Mallee,3143,Charlton,185,23.96,587,76.04,772,1.63
 VIC,224,Mallee,4730,Cohuna,320,19.8,1296,80.2,1616,-2.51
 VIC,224,Mallee,4467,Culgoa,21,24.71,64,75.29,85,3.88
 VIC,224,Mallee,4468,Cullulleraine,18,24.32,56,75.68,74,2.89
@@ -8944,7 +8944,7 @@ WA,248,Tangney,8275,Riverton,848,43.44,1104,56.56,1952,-0.16
 WA,248,Tangney,8276,Rossmoyne,603,31.31,1323,68.69,1926,-3.48
 WA,248,Tangney,32236,Rottnest (Tangney),16,41.03,23,58.97,39,4.59
 WA,248,Tangney,8277,Shelley,544,33.87,1062,66.13,1606,-3.38
-WA,248,Tangney,34088,Special Hospital Team 1,0,0,0,0,0,-28.41
+WA,248,Tangney,34088,Special Hospital Team 1,118,24.84,357,75.16,475,-3.57
 WA,248,Tangney,34189,Special Hospital Team 2,77,25.41,226,74.59,303,-3.16
 WA,248,Tangney,8283,Willetton,1020,41.67,1428,58.33,2448,-1.99
 WA,248,Tangney,8284,Willetton East,1382,44.57,1719,55.43,3101,-1.84
