@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T14:52:41 Cycle:57f66c26-4d7e-4130-9d26-f4132494434c Created:2010-08-25T14:33:32 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T15:08:19 Cycle:3941c8f4-b9a0-423f-978e-28f3ec35993c Created:2010-08-25T14:48:37 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 179,Adelaide,SA,98526,73427,74.53,-20.06
 197,Aston,VIC,93448,78329,83.82,-12.57
@@ -7,7 +7,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 180,Barker,SA,104888,86644,82.61,-13.36
 104,Barton,NSW,95243,74168,77.87,-17.18
 192,Bass,TAS,71689,62014,86.5,-9.8
-199,Batman,VIC,89160,66631,74.73,-19.47
+199,Batman,VIC,89160,66621,74.72,-19.48
 200,Bendigo,VIC,100701,81762,81.19,-14.84
 105,Bennelong,NSW,98900,77281,78.14,-16.86
 106,Berowra,NSW,95115,76260,80.18,-15.17
@@ -16,11 +16,11 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 310,Bonner,QLD,92684,69757,75.26,-20.07
 182,Boothby,SA,97898,83146,84.93,-10.75
 155,Bowman,QLD,91892,74263,80.82,-14.42
-193,Braddon,TAS,71574,63543,88.78,-7.5
+193,Braddon,TAS,71574,63533,88.77,-7.51
 108,Bradfield,NSW,97251,73785,75.87,-18.18
 235,Brand,WA,88203,72866,82.61,-10.66
 156,Brisbane,QLD,92222,67689,73.4,-21.81
-201,Bruce,VIC,88171,67002,75.99,-18.59
+201,Bruce,VIC,88171,67004,75.99,-18.59
 109,Calare,NSW,98504,84818,86.11,-10.31
 203,Calwell,VIC,101314,81149,80.1,-14.74
 101,Canberra,ACT,124215,105128,84.63,-11.38
@@ -32,7 +32,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 205,Chisholm,VIC,86275,64059,74.25,-21.02
 112,Cook,NSW,100748,83368,82.75,-13.68
 207,Corangamite,VIC,101569,86283,84.95,-11.52
-208,Corio,VIC,91974,73396,79.8,-15.62
+208,Corio,VIC,91974,73399,79.8,-15.62
 237,Cowan,WA,89546,73647,82.24,-12.35
 113,Cowper,NSW,94645,77482,81.87,-13.21
 114,Cunningham,NSW,100698,82166,81.6,-14.53
@@ -57,12 +57,12 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 195,Franklin,TAS,71090,59350,83.49,-12.37
 102,Fraser,ACT,123444,103583,83.91,-11.76
 240,Fremantle,WA,93341,72343,77.5,-16.28
-212,Gellibrand,VIC,95611,70746,73.99,-20.17
+212,Gellibrand,VIC,95611,70763,74.01,-20.15
 120,Gilmore,NSW,96317,79617,82.66,-13.15
 213,Gippsland,VIC,97543,81978,84.04,-11.63
 214,Goldstein,VIC,93945,69622,74.11,-20.85
 309,Gorton,VIC,113656,89636,78.87,-16.05
-121,Grayndler,NSW,98112,74605,76.04,-18.27
+121,Grayndler,NSW,98112,74864,76.3,-18.01
 122,Greenway,NSW,93828,76362,81.39,-12.71
 183,Grey,SA,99817,79748,79.89,-15.06
 163,Griffith,QLD,92588,68803,74.31,-19.31
@@ -96,7 +96,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 131,Macarthur,NSW,90059,75015,83.3,-11.66
 132,Mackellar,NSW,98556,79305,80.47,-14.81
 133,Macquarie,NSW,97560,80894,82.92,-12.99
-187,Makin,SA,96263,79509,82.6,-13.07
+187,Makin,SA,96263,81903,85.08,-10.59
 224,Mallee,VIC,89840,74475,82.9,-12.99
 170,Maranoa,QLD,97957,76162,77.75,-17.17
 225,Maribyrnong,VIC,88412,67589,76.45,-17.7
@@ -125,7 +125,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 244,Pearce,WA,89526,67402,75.29,-17.89
 245,Perth,WA,91904,68578,74.62,-18.57
 175,Petrie,QLD,86683,67043,77.34,-16.76
-189,Port Adelaide,SA,104308,84757,81.26,-13.61
+189,Port Adelaide,SA,104308,86635,83.06,-11.81
 176,Rankin,QLD,94602,72424,76.56,-17.15
 144,Reid,NSW,95873,74165,77.36,-15.78
 145,Richmond,NSW,92384,72968,78.98,-15.51
@@ -134,7 +134,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 177,Ryan,QLD,98224,75153,76.51,-19.24
 232,Scullin,VIC,90822,72040,79.32,-16.38
 148,Shortland,NSW,94245,76324,80.98,-15.3
-307,Solomon,NT,59879,49547,82.75,-9.31
+307,Solomon,NT,59879,49546,82.74,-9.32
 246,Stirling,WA,91728,71503,77.95,-15.65
 190,Sturt,SA,99061,77989,78.73,-16.85
 247,Swan,WA,90766,68610,75.59,-17.41

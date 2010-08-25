@@ -1,12 +1,12 @@
-2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T14:53:11 Cycle:57f66c26-4d7e-4130-9d26-f4132494434c Created:2010-08-25T14:33:32 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T15:08:48 Cycle:3941c8f4-b9a0-423f-978e-28f3ec35993c Created:2010-08-25T14:48:37 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent
 119,Fowler,NSW,62623,8217,70840,11.6
 251,Watson,NSW,66308,8414,74722,11.26
 107,Blaxland,NSW,64820,7588,72408,10.48
 315,McMahon,NSW,65431,6766,72197,9.37
 309,Gorton,VIC,78406,7640,86046,8.88
-225,Maribyrnong,VIC,56637,5332,61969,8.6
 153,Werriwa,NSW,58731,5525,64256,8.6
+225,Maribyrnong,VIC,58312,5332,63644,8.38
 203,Calwell,VIC,70022,6256,76278,8.2
 111,Chifley,NSW,56933,5065,61998,8.17
 104,Barton,NSW,64998,5720,70718,8.09
@@ -23,7 +23,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 217,Hotham,VIC,58546,3966,62512,6.34
 122,Greenway,NSW,64757,4289,69046,6.21
 222,Lalor,VIC,88047,5808,93855,6.19
-144,Reid,NSW,64791,4205,68996,6.09
+144,Reid,NSW,64838,4205,69043,6.09
 219,Isaacs,VIC,72490,4673,77163,6.06
 174,Oxley,QLD,60204,3879,64083,6.05
 150,Throsby,NSW,66991,4215,71206,5.92
@@ -50,7 +50,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 124,Hughes,NSW,64157,3476,67633,5.14
 165,Herbert,QLD,62909,3396,66305,5.12
 316,Wright,QLD,59305,3202,62507,5.12
-208,Corio,VIC,67051,3609,70660,5.11
+208,Corio,VIC,67120,3609,70729,5.1
 118,Farrer,NSW,70575,3736,74311,5.03
 115,Dobell,NSW,65162,3423,68585,4.99
 172,Moncrieff,QLD,63832,3352,67184,4.99
@@ -61,9 +61,9 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 168,Leichhardt,QLD,63621,3206,66827,4.8
 246,Stirling,WA,66039,3328,69367,4.8
 224,Mallee,VIC,70951,3537,74488,4.75
-171,McPherson,QLD,66565,3307,69872,4.73
+171,McPherson,QLD,66738,3307,70045,4.72
 233,Wannon,VIC,71036,3515,74551,4.71
-117,Eden-Monaro,NSW,62178,3066,65244,4.7
+117,Eden-Monaro,NSW,62192,3066,65258,4.7
 166,Hinkler,QLD,61183,3018,64201,4.7
 197,Aston,VIC,70645,3474,74119,4.69
 237,Cowan,WA,63431,3118,66549,4.69
@@ -72,7 +72,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 157,Capricornia,QLD,56969,2784,59753,4.66
 191,Wakefield,SA,75594,3699,79293,4.66
 240,Fremantle,WA,65078,3174,68252,4.65
-170,Maranoa,QLD,66208,3200,69408,4.61
+170,Maranoa,QLD,66215,3200,69415,4.61
 175,Petrie,QLD,58684,2821,61505,4.59
 211,Flinders,VIC,70853,3361,74214,4.53
 218,Indi,VIC,53182,2516,55698,4.52
@@ -115,7 +115,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 235,Brand,WA,32462,1341,33803,3.97
 227,McMillan,VIC,71518,2951,74469,3.96
 243,O'Connor,WA,26358,1081,27439,3.94
-205,Chisholm,VIC,60400,2447,62847,3.89
+205,Chisholm,VIC,60412,2447,62859,3.89
 230,Melbourne Ports,VIC,54884,2224,57108,3.89
 239,Forrest,WA,65211,2602,67813,3.84
 187,Makin,SA,73703,2927,76630,3.82
@@ -130,7 +130,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 252,Dickson,QLD,63299,2389,65688,3.64
 134,Mitchell,NSW,74119,2796,76915,3.64
 149,Sydney,NSW,49533,1868,51401,3.63
-132,Mackellar,NSW,75512,2768,78280,3.54
+132,Mackellar,NSW,75627,2768,78395,3.53
 190,Sturt,SA,69529,2462,71991,3.42
 207,Corangamite,VIC,76505,2592,79097,3.28
 106,Berowra,NSW,71854,2426,74280,3.27
@@ -140,7 +140,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 242,Moore,WA,69060,2236,71296,3.14
 179,Adelaide,SA,70403,2243,72646,3.09
 156,Brisbane,QLD,62988,1972,64960,3.04
-248,Tangney,WA,70077,2161,72238,2.99
+248,Tangney,WA,70088,2161,72249,2.99
 101,Canberra,ACT,89691,2665,92356,2.89
 102,Fraser,ACT,95321,2833,98154,2.89
 188,Mayo,SA,73836,2166,76002,2.85
