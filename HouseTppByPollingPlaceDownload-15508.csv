@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T13:31:58 Cycle:9e34e2e2-6ecb-47b3-a8b5-ff24f5e353c2 Created:2010-08-25T13:18:06 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T13:47:49 Cycle:5b32700d-3b2f-473e-8280-7a8646d376a8 Created:2010-08-25T13:33:16 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -293,7 +293,7 @@ NSW,106,Berowra,56576,Thornleigh (Berowra),159,38.97,249,61.03,408,-4.25
 NSW,106,Berowra,33118,West Pennant Hills (Berowra),551,29.64,1308,70.36,1859,-9.87
 NSW,106,Berowra,148,Westleigh,1191,35.67,2148,64.33,3339,-5.97
 NSW,106,Berowra,33800,Wisemans Ferry,42,28.77,104,71.23,146,-2.77
-NSW,107,Blaxland,2366,Auburn East (Blaxland),365,64.15,204,35.85,569,-3.72
+NSW,107,Blaxland,2366,Auburn East (Blaxland),360,64.06,202,35.94,562,-3.81
 NSW,107,Blaxland,56664,Auburn West (Blaxland),361,67.98,170,32.02,531,-6.01
 NSW,107,Blaxland,31455,Bankstown (Blaxland),1138,73.94,401,26.06,1539,-2.92
 NSW,107,Blaxland,33854,Bankstown BLAXLAND PPVC,1145,63.72,652,36.28,1797,-2.49
@@ -1885,7 +1885,7 @@ NSW,134,Mitchell,37049,Sherwood Ridge,883,29.8,2080,70.2,2963,-6.92
 NSW,134,Mitchell,58758,Special Hospital Team 1,5,31.25,11,68.75,16,-16.51
 NSW,134,Mitchell,14125,Sydney (Mitchell),29,46.77,33,53.23,62,-11.29
 NSW,134,Mitchell,1826,The Hills,47,31.13,104,68.87,151,-3.28
-NSW,134,Mitchell,45262,West Pennant Hills (Mitchell),102,25.44,299,74.56,401,-8.04
+NSW,134,Mitchell,45262,West Pennant Hills (Mitchell),101,25.38,297,74.62,398,-8.1
 NSW,134,Mitchell,2284,Winston Heights,661,38.59,1052,61.41,1713,-7.59
 NSW,134,Mitchell,2285,Winston Hills,1234,39.86,1862,60.14,3096,-5.1
 NSW,134,Mitchell,33788,Winston Hills South,159,38.69,252,61.31,411,-13.58
@@ -4590,7 +4590,7 @@ QLD,173,Moreton,12012,Runcorn East,889,53.17,783,46.83,1672,-9.13
 QLD,173,Moreton,5549,Runcorn Heights (Moreton),1486,53.94,1269,46.06,2755,-4.67
 QLD,173,Moreton,5404,Salisbury,1563,59.82,1050,40.18,2613,-3.12
 QLD,173,Moreton,5550,Sherwood,986,47.75,1079,52.25,2065,-4
-QLD,173,Moreton,32696,Special Hospital Team 1,70,51.09,67,48.91,137,14.36
+QLD,173,Moreton,32696,Special Hospital Team 1,77,43.75,99,56.25,176,7.02
 QLD,173,Moreton,32697,Special Hospital Team 2,62,30.85,139,69.15,201,-5.94
 QLD,173,Moreton,32698,Special Hospital Team 3,70,51.09,67,48.91,137,14.1
 QLD,173,Moreton,5409,Sunnybank,874,45.4,1051,54.6,1925,-7.65
@@ -5154,7 +5154,7 @@ SA,183,Grey,7338,Bute,81,23.41,265,76.59,346,-3.57
 SA,183,Grey,6913,Ceduna,397,29.11,967,70.89,1364,-8.15
 SA,183,Grey,13106,Ceduna IVC PPVC,0,0,0,0,0,0
 SA,183,Grey,6914,Cleve,75,11.63,570,88.37,645,-5.68
-SA,183,Grey,6915,Coffin Bay,129,32.82,264,67.18,393,0.58
+SA,183,Grey,6915,Coffin Bay,129,32.91,263,67.09,392,0.67
 SA,183,Grey,6916,Coober Pedy,323,43.65,417,56.35,740,-10.25
 SA,183,Grey,13107,Coober Pedy IVC PPVC,0,0,0,0,0,0
 SA,183,Grey,7344,Coobowie,83,40.69,121,59.31,204,-4.93
@@ -7331,12 +7331,12 @@ VIC,224,Mallee,3143,Charlton,185,23.96,587,76.04,772,1.63
 VIC,224,Mallee,4730,Cohuna,320,19.8,1296,80.2,1616,-2.51
 VIC,224,Mallee,4467,Culgoa,21,24.71,64,75.29,85,3.88
 VIC,224,Mallee,4468,Cullulleraine,18,24.32,56,75.68,74,2.89
-VIC,224,Mallee,4470,Dadswells Bridge,16,20.78,61,79.22,77,-2.3
+VIC,224,Mallee,4470,Dadswells Bridge,15,19.74,61,80.26,76,-3.34
 VIC,224,Mallee,4968,Dergholm,9,15.79,48,84.21,57,-1.52
 VIC,224,Mallee,4472,Dimboola,337,37.28,567,62.72,904,-3.47
-VIC,224,Mallee,4737,Dingwall,4,5.13,74,94.87,78,-8.2
+VIC,224,Mallee,4737,Dingwall,4,5.19,73,94.81,77,-8.14
 VIC,224,Mallee,30215,Divisional Office (PREPOLL),95,34.3,182,65.7,277,-37.24
-VIC,224,Mallee,3147,Donald,196,20.08,780,79.92,976,-3.26
+VIC,224,Mallee,3147,Donald,196,20.14,777,79.86,973,-3.2
 VIC,224,Mallee,4473,Dooen,30,18.29,134,81.71,164,1.17
 VIC,224,Mallee,4976,Edenhope,185,28.37,467,71.63,652,-4.52
 VIC,224,Mallee,4478,Goroke,49,18.85,211,81.15,260,-2.4
@@ -8890,7 +8890,7 @@ WA,247,Swan,8226,Manning North,668,44.56,831,55.44,1499,-3.21
 WA,247,Swan,8228,Millen,857,55.54,686,44.46,1543,-2.45
 WA,247,Swan,58776,Network Airport PPVC,0,0,0,0,0,0
 WA,247,Swan,47621,Parkwood (Swan),464,53.95,396,46.05,860,0.17
-WA,247,Swan,13989,Perth (Swan),93,59.24,64,40.76,157,4.69
+WA,247,Swan,13989,Perth (Swan),89,57.42,66,42.58,155,2.87
 WA,247,Swan,11913,Perth Domestic Airport,23,46,27,54,50,5.57
 WA,247,Swan,11914,Perth International Airport,21,65.63,11,34.38,32,4.09
 WA,247,Swan,34126,Prison Mobile Team 1,0,0,0,0,0,0
@@ -8902,13 +8902,13 @@ WA,247,Swan,8241,Rivervale North,772,50.82,747,49.18,1519,-5.56
 WA,247,Swan,32223,Rottnest (Swan),3,13.04,20,86.96,23,-37.49
 WA,247,Swan,8235,Rowethorpe,67,40.85,97,59.15,164,-3.15
 WA,247,Swan,58777,Skippers Airport PPVC,0,0,0,0,0,0
-WA,247,Swan,8236,South Perth,1002,32.73,2059,67.27,3061,-0.22
+WA,247,Swan,8236,South Perth,1006,32.93,2049,67.07,3055,-0.02
 WA,247,Swan,8237,South Perth Central,441,33.16,889,66.84,1330,-4.12
 WA,247,Swan,8230,South Perth North,297,29.73,702,70.27,999,2.06
 WA,247,Swan,34090,Special Hospital Team 1,65,51.59,61,48.41,126,10.03
 WA,247,Swan,34124,Special Hospital Team 2,89,49.44,91,50.56,180,7.89
 WA,247,Swan,34125,Special Hospital Team 3,74,32.46,154,67.54,228,-9.26
-WA,247,Swan,58756,Swan PPVC,1360,47.4,1509,52.6,2869,0.18
+WA,247,Swan,58756,Swan PPVC,1359,47.47,1504,52.53,2863,0.25
 WA,247,Swan,8242,Victoria Park,887,48.66,936,51.34,1823,-3.14
 WA,247,Swan,11906,Victoria Park Central,1395,50.65,1359,49.35,2754,-3.62
 WA,247,Swan,8244,Victoria Park East,1078,54.86,887,45.14,1965,-2.77

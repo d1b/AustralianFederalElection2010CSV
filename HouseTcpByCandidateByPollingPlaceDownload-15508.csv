@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T13:31:53 Cycle:9e34e2e2-6ecb-47b3-a8b5-ff24f5e353c2 Created:2010-08-25T13:18:06 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T13:47:44 Cycle:5b32700d-3b2f-473e-8280-7a8646d376a8 Created:2010-08-25T13:33:16 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 ACT,101,Canberra,8829,Barton,20863,JONES,Giulia,1,N,N,LP,Liberal,790,-2.73
 ACT,101,Canberra,8829,Barton,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1399,2.73
@@ -586,8 +586,8 @@ NSW,106,Berowra,148,Westleigh,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,2148,5.97
 NSW,106,Berowra,148,Westleigh,21923,STOVE,Michael,4,N,N,ALP,Labor,1191,-5.97
 NSW,106,Berowra,33800,Wisemans Ferry,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,104,2.77
 NSW,106,Berowra,33800,Wisemans Ferry,21923,STOVE,Michael,4,N,N,ALP,Labor,42,-2.77
-NSW,107,Blaxland,2366,Auburn East (Blaxland),21180,CLARE,Jason,5,N,Y,ALP,Labor,365,-3.72
-NSW,107,Blaxland,2366,Auburn East (Blaxland),21433,MAJEWSKI,Mark,6,N,N,LP,Liberal,204,3.72
+NSW,107,Blaxland,2366,Auburn East (Blaxland),21180,CLARE,Jason,5,N,Y,ALP,Labor,360,-3.81
+NSW,107,Blaxland,2366,Auburn East (Blaxland),21433,MAJEWSKI,Mark,6,N,N,LP,Liberal,202,3.81
 NSW,107,Blaxland,56664,Auburn West (Blaxland),21180,CLARE,Jason,5,N,Y,ALP,Labor,361,-6.01
 NSW,107,Blaxland,56664,Auburn West (Blaxland),21433,MAJEWSKI,Mark,6,N,N,LP,Liberal,170,6.01
 NSW,107,Blaxland,31455,Bankstown (Blaxland),21180,CLARE,Jason,5,N,Y,ALP,Labor,1138,-2.92
@@ -3770,8 +3770,8 @@ NSW,134,Mitchell,14125,Sydney (Mitchell),21408,GOULD,Nigel,2,N,N,ALP,Labor,29,-1
 NSW,134,Mitchell,14125,Sydney (Mitchell),21595,HAWKE,Alex,3,N,Y,LP,Liberal,33,11.29
 NSW,134,Mitchell,1826,The Hills,21408,GOULD,Nigel,2,N,N,ALP,Labor,47,-3.28
 NSW,134,Mitchell,1826,The Hills,21595,HAWKE,Alex,3,N,Y,LP,Liberal,104,3.28
-NSW,134,Mitchell,45262,West Pennant Hills (Mitchell),21408,GOULD,Nigel,2,N,N,ALP,Labor,102,-8.04
-NSW,134,Mitchell,45262,West Pennant Hills (Mitchell),21595,HAWKE,Alex,3,N,Y,LP,Liberal,299,8.04
+NSW,134,Mitchell,45262,West Pennant Hills (Mitchell),21408,GOULD,Nigel,2,N,N,ALP,Labor,101,-8.1
+NSW,134,Mitchell,45262,West Pennant Hills (Mitchell),21595,HAWKE,Alex,3,N,Y,LP,Liberal,297,8.1
 NSW,134,Mitchell,2284,Winston Heights,21408,GOULD,Nigel,2,N,N,ALP,Labor,661,-7.59
 NSW,134,Mitchell,2284,Winston Heights,21595,HAWKE,Alex,3,N,Y,LP,Liberal,1052,7.59
 NSW,134,Mitchell,2285,Winston Hills,21408,GOULD,Nigel,2,N,N,ALP,Labor,1234,-5.1
@@ -9180,8 +9180,8 @@ QLD,173,Moreton,5404,Salisbury,21541,PERRETT,Graham,3,N,Y,ALP,Australian Labor P
 QLD,173,Moreton,5404,Salisbury,20744,COLE,Malcolm Edward,5,N,N,LNQ,Liberal National Party of Queensland,1050,3.12
 QLD,173,Moreton,5550,Sherwood,21541,PERRETT,Graham,3,N,Y,ALP,Australian Labor Party,986,-4
 QLD,173,Moreton,5550,Sherwood,20744,COLE,Malcolm Edward,5,N,N,LNQ,Liberal National Party of Queensland,1079,4
-QLD,173,Moreton,32696,Special Hospital Team 1,21541,PERRETT,Graham,3,N,Y,ALP,Australian Labor Party,70,14.36
-QLD,173,Moreton,32696,Special Hospital Team 1,20744,COLE,Malcolm Edward,5,N,N,LNQ,Liberal National Party of Queensland,67,-14.36
+QLD,173,Moreton,32696,Special Hospital Team 1,21541,PERRETT,Graham,3,N,Y,ALP,Australian Labor Party,77,7.02
+QLD,173,Moreton,32696,Special Hospital Team 1,20744,COLE,Malcolm Edward,5,N,N,LNQ,Liberal National Party of Queensland,99,-7.02
 QLD,173,Moreton,32697,Special Hospital Team 2,21541,PERRETT,Graham,3,N,Y,ALP,Australian Labor Party,62,-5.94
 QLD,173,Moreton,32697,Special Hospital Team 2,20744,COLE,Malcolm Edward,5,N,N,LNQ,Liberal National Party of Queensland,139,5.94
 QLD,173,Moreton,32698,Special Hospital Team 3,21541,PERRETT,Graham,3,N,Y,ALP,Australian Labor Party,70,14.1
@@ -10308,8 +10308,8 @@ SA,183,Grey,13106,Ceduna IVC PPVC,20998,SANSBURY,Tauto,2,N,N,ALP,Australian Labo
 SA,183,Grey,13106,Ceduna IVC PPVC,20832,RAMSEY,Rowan,3,N,Y,LP,Liberal,0,0
 SA,183,Grey,6914,Cleve,20998,SANSBURY,Tauto,2,N,N,ALP,Australian Labor Party,75,-5.68
 SA,183,Grey,6914,Cleve,20832,RAMSEY,Rowan,3,N,Y,LP,Liberal,570,5.68
-SA,183,Grey,6915,Coffin Bay,20998,SANSBURY,Tauto,2,N,N,ALP,Australian Labor Party,129,0.58
-SA,183,Grey,6915,Coffin Bay,20832,RAMSEY,Rowan,3,N,Y,LP,Liberal,264,-0.58
+SA,183,Grey,6915,Coffin Bay,20998,SANSBURY,Tauto,2,N,N,ALP,Australian Labor Party,129,0.67
+SA,183,Grey,6915,Coffin Bay,20832,RAMSEY,Rowan,3,N,Y,LP,Liberal,263,-0.67
 SA,183,Grey,6916,Coober Pedy,20998,SANSBURY,Tauto,2,N,N,ALP,Australian Labor Party,323,-10.25
 SA,183,Grey,6916,Coober Pedy,20832,RAMSEY,Rowan,3,N,Y,LP,Liberal,417,10.25
 SA,183,Grey,13107,Coober Pedy IVC PPVC,20998,SANSBURY,Tauto,2,N,N,ALP,Australian Labor Party,0,0
@@ -14662,18 +14662,18 @@ VIC,224,Mallee,4467,Culgoa,21078,FORREST,John,2,N,Y,NP,The Nationals,64,-3.88
 VIC,224,Mallee,4467,Culgoa,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,21,3.88
 VIC,224,Mallee,4468,Cullulleraine,21078,FORREST,John,2,N,Y,NP,The Nationals,56,-2.89
 VIC,224,Mallee,4468,Cullulleraine,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,18,2.89
-VIC,224,Mallee,4470,Dadswells Bridge,21078,FORREST,John,2,N,Y,NP,The Nationals,61,2.3
-VIC,224,Mallee,4470,Dadswells Bridge,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,16,-2.3
+VIC,224,Mallee,4470,Dadswells Bridge,21078,FORREST,John,2,N,Y,NP,The Nationals,61,3.34
+VIC,224,Mallee,4470,Dadswells Bridge,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,15,-3.34
 VIC,224,Mallee,4968,Dergholm,21078,FORREST,John,2,N,Y,NP,The Nationals,48,1.52
 VIC,224,Mallee,4968,Dergholm,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,9,-1.52
 VIC,224,Mallee,4472,Dimboola,21078,FORREST,John,2,N,Y,NP,The Nationals,567,3.47
 VIC,224,Mallee,4472,Dimboola,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,337,-3.47
-VIC,224,Mallee,4737,Dingwall,21078,FORREST,John,2,N,Y,NP,The Nationals,74,8.2
-VIC,224,Mallee,4737,Dingwall,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,4,-8.2
+VIC,224,Mallee,4737,Dingwall,21078,FORREST,John,2,N,Y,NP,The Nationals,73,8.14
+VIC,224,Mallee,4737,Dingwall,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,4,-8.14
 VIC,224,Mallee,30215,Divisional Office (PREPOLL),21078,FORREST,John,2,N,Y,NP,The Nationals,182,37.24
 VIC,224,Mallee,30215,Divisional Office (PREPOLL),21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,95,-37.24
-VIC,224,Mallee,3147,Donald,21078,FORREST,John,2,N,Y,NP,The Nationals,780,3.26
-VIC,224,Mallee,3147,Donald,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,196,-3.26
+VIC,224,Mallee,3147,Donald,21078,FORREST,John,2,N,Y,NP,The Nationals,777,3.2
+VIC,224,Mallee,3147,Donald,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,196,-3.2
 VIC,224,Mallee,4473,Dooen,21078,FORREST,John,2,N,Y,NP,The Nationals,134,-1.17
 VIC,224,Mallee,4473,Dooen,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,30,1.17
 VIC,224,Mallee,4976,Edenhope,21078,FORREST,John,2,N,Y,NP,The Nationals,467,4.52
@@ -17130,8 +17130,8 @@ WA,243,O'Connor,7741,Albany Yakamia,20880,TUCKEY,Wilson,3,N,Y,LP,Liberal,811,48.
 WA,243,O'Connor,7741,Albany Yakamia,21139,CROOK,Tony,6,N,N,NP,The Nationals,854,51.29
 WA,243,O'Connor,7975,Arthur River,20880,TUCKEY,Wilson,3,N,Y,LP,Liberal,77,51.33
 WA,243,O'Connor,7975,Arthur River,21139,CROOK,Tony,6,N,N,NP,The Nationals,73,48.67
-WA,243,O'Connor,7653,Bayonet Head,20880,TUCKEY,Wilson,3,N,Y,LP,Liberal,563,49.82
-WA,243,O'Connor,7653,Bayonet Head,21139,CROOK,Tony,6,N,N,NP,The Nationals,567,50.18
+WA,243,O'Connor,7653,Bayonet Head,20880,TUCKEY,Wilson,3,N,Y,LP,Liberal,560,49.73
+WA,243,O'Connor,7653,Bayonet Head,21139,CROOK,Tony,6,N,N,NP,The Nationals,566,50.27
 WA,243,O'Connor,7987,Borden,20880,TUCKEY,Wilson,3,N,Y,LP,Liberal,52,36.11
 WA,243,O'Connor,7987,Borden,21139,CROOK,Tony,6,N,N,NP,The Nationals,92,63.89
 WA,243,O'Connor,7654,Bornholm,20880,TUCKEY,Wilson,3,N,Y,LP,Liberal,140,43.21
@@ -17780,8 +17780,8 @@ WA,247,Swan,58776,Network Airport PPVC,20889,HAMMOND,Tim,1,N,N,ALP,Australian La
 WA,247,Swan,58776,Network Airport PPVC,20883,IRONS,Steve,6,N,Y,LP,Liberal,0,0
 WA,247,Swan,47621,Parkwood (Swan),20889,HAMMOND,Tim,1,N,N,ALP,Australian Labor Party,464,0.17
 WA,247,Swan,47621,Parkwood (Swan),20883,IRONS,Steve,6,N,Y,LP,Liberal,396,-0.17
-WA,247,Swan,13989,Perth (Swan),20889,HAMMOND,Tim,1,N,N,ALP,Australian Labor Party,93,4.69
-WA,247,Swan,13989,Perth (Swan),20883,IRONS,Steve,6,N,Y,LP,Liberal,64,-4.69
+WA,247,Swan,13989,Perth (Swan),20889,HAMMOND,Tim,1,N,N,ALP,Australian Labor Party,89,2.87
+WA,247,Swan,13989,Perth (Swan),20883,IRONS,Steve,6,N,Y,LP,Liberal,66,-2.87
 WA,247,Swan,11913,Perth Domestic Airport,20889,HAMMOND,Tim,1,N,N,ALP,Australian Labor Party,23,5.57
 WA,247,Swan,11913,Perth Domestic Airport,20883,IRONS,Steve,6,N,Y,LP,Liberal,27,-5.57
 WA,247,Swan,11914,Perth International Airport,20889,HAMMOND,Tim,1,N,N,ALP,Australian Labor Party,21,4.09
@@ -17804,8 +17804,8 @@ WA,247,Swan,8235,Rowethorpe,20889,HAMMOND,Tim,1,N,N,ALP,Australian Labor Party,6
 WA,247,Swan,8235,Rowethorpe,20883,IRONS,Steve,6,N,Y,LP,Liberal,97,3.15
 WA,247,Swan,58777,Skippers Airport PPVC,20889,HAMMOND,Tim,1,N,N,ALP,Australian Labor Party,0,0
 WA,247,Swan,58777,Skippers Airport PPVC,20883,IRONS,Steve,6,N,Y,LP,Liberal,0,0
-WA,247,Swan,8236,South Perth,20889,HAMMOND,Tim,1,N,N,ALP,Australian Labor Party,1002,-0.22
-WA,247,Swan,8236,South Perth,20883,IRONS,Steve,6,N,Y,LP,Liberal,2059,0.22
+WA,247,Swan,8236,South Perth,20889,HAMMOND,Tim,1,N,N,ALP,Australian Labor Party,1006,-0.02
+WA,247,Swan,8236,South Perth,20883,IRONS,Steve,6,N,Y,LP,Liberal,2049,0.02
 WA,247,Swan,8237,South Perth Central,20889,HAMMOND,Tim,1,N,N,ALP,Australian Labor Party,441,-4.12
 WA,247,Swan,8237,South Perth Central,20883,IRONS,Steve,6,N,Y,LP,Liberal,889,4.12
 WA,247,Swan,8230,South Perth North,20889,HAMMOND,Tim,1,N,N,ALP,Australian Labor Party,297,2.06
@@ -17816,8 +17816,8 @@ WA,247,Swan,34124,Special Hospital Team 2,20889,HAMMOND,Tim,1,N,N,ALP,Australian
 WA,247,Swan,34124,Special Hospital Team 2,20883,IRONS,Steve,6,N,Y,LP,Liberal,91,-7.89
 WA,247,Swan,34125,Special Hospital Team 3,20889,HAMMOND,Tim,1,N,N,ALP,Australian Labor Party,74,-9.26
 WA,247,Swan,34125,Special Hospital Team 3,20883,IRONS,Steve,6,N,Y,LP,Liberal,154,9.26
-WA,247,Swan,58756,Swan PPVC,20889,HAMMOND,Tim,1,N,N,ALP,Australian Labor Party,1360,0.18
-WA,247,Swan,58756,Swan PPVC,20883,IRONS,Steve,6,N,Y,LP,Liberal,1509,-0.18
+WA,247,Swan,58756,Swan PPVC,20889,HAMMOND,Tim,1,N,N,ALP,Australian Labor Party,1359,0.25
+WA,247,Swan,58756,Swan PPVC,20883,IRONS,Steve,6,N,Y,LP,Liberal,1504,-0.25
 WA,247,Swan,8242,Victoria Park,20889,HAMMOND,Tim,1,N,N,ALP,Australian Labor Party,887,-3.14
 WA,247,Swan,8242,Victoria Park,20883,IRONS,Steve,6,N,Y,LP,Liberal,936,3.14
 WA,247,Swan,11906,Victoria Park Central,20889,HAMMOND,Tim,1,N,N,ALP,Australian Labor Party,1395,-3.62
