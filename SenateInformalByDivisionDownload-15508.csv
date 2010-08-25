@@ -1,4 +1,4 @@
-2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T16:10:26 Cycle:eed203e9-b73d-43ff-abb6-af3105ba9e83 Created:2010-08-25T15:48:42 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T16:25:39 Cycle:23e3e0cf-802d-4dde-8e0d-7633a4ecf9d4 Created:2010-08-25T16:03:43 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent
 119,Fowler,NSW,62623,8217,70840,11.6
 251,Watson,NSW,66308,8414,74722,11.26
@@ -6,7 +6,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 315,McMahon,NSW,65431,6766,72197,9.37
 309,Gorton,VIC,78406,7640,86046,8.88
 153,Werriwa,NSW,58731,5525,64256,8.6
-203,Calwell,VIC,70022,6256,76278,8.2
+203,Calwell,VIC,70024,6256,76280,8.2
 111,Chifley,NSW,56933,5065,61998,8.17
 104,Barton,NSW,64998,5720,70718,8.09
 225,Maribyrnong,VIC,60872,5332,66204,8.05
@@ -46,7 +46,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 139,Parkes,NSW,71217,3912,75129,5.21
 229,Menzies,VIC,65223,3559,68782,5.17
 226,McEwen,VIC,77284,4192,81476,5.15
-189,Port Adelaide,SA,78041,4238,82279,5.15
+189,Port Adelaide,SA,78056,4238,82294,5.15
 124,Hughes,NSW,64157,3476,67633,5.14
 165,Herbert,QLD,62909,3396,66305,5.12
 316,Wright,QLD,59305,3202,62507,5.12
@@ -84,7 +84,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 310,Bonner,QLD,66098,3053,69151,4.41
 125,Hume,NSW,74378,3415,77793,4.39
 157,Capricornia,QLD,60953,2784,63737,4.37
-113,Cowper,NSW,69028,3144,72172,4.36
+113,Cowper,NSW,69046,3144,72190,4.36
 155,Bowman,QLD,70437,3194,73631,4.34
 120,Gilmore,NSW,62921,2852,65773,4.34
 200,Bendigo,VIC,75940,3425,79365,4.32
@@ -109,14 +109,14 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 112,Cook,NSW,64291,2698,66989,4.03
 220,Jagajaga,VIC,71336,2997,74333,4.03
 180,Barker,SA,81202,3398,84600,4.02
-135,New England,NSW,61216,2565,63781,4.02
+135,New England,NSW,61237,2565,63802,4.02
 164,Groom,QLD,70985,2966,73951,4.01
 160,Fairfax,QLD,67717,2812,70529,3.99
 227,McMillan,VIC,71518,2951,74469,3.96
 235,Brand,WA,32603,1341,33944,3.95
 243,O'Connor,WA,26358,1081,27439,3.94
 230,Melbourne Ports,VIC,54884,2224,57108,3.89
-205,Chisholm,VIC,60585,2447,63032,3.88
+205,Chisholm,VIC,60848,2447,63295,3.87
 239,Forrest,WA,65211,2602,67813,3.84
 187,Makin,SA,73703,2927,76630,3.82
 163,Griffith,QLD,64628,2552,67180,3.8
@@ -137,7 +137,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 137,North Sydney,NSW,70319,2363,72682,3.25
 207,Corangamite,VIC,77825,2592,80417,3.22
 108,Bradfield,NSW,72236,2358,74594,3.16
-242,Moore,WA,69060,2236,71296,3.14
+242,Moore,WA,69095,2236,71331,3.13
 179,Adelaide,SA,70403,2243,72646,3.09
 156,Brisbane,QLD,62988,1972,64960,3.04
 248,Tangney,WA,70560,2161,72721,2.97
