@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T10:38:08 Cycle:f3dd75f5-386d-4cd1-99a7-39fc9cb65b17 Created:2010-08-25T10:17:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T10:53:51 Cycle:ada9bb29-b6cf-4a3b-b8fb-1a5900d302d6 Created:2010-08-25T10:32:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -1414,7 +1414,7 @@ NSW,126,Hunter,1360,Cessnock North,598,67.12,293,32.88,891,-2.63
 NSW,126,Hunter,33974,Cessnock PPVC,1562,68.27,726,31.73,2288,35.28
 NSW,126,Hunter,1362,Cessnock West,1537,72.74,576,27.26,2113,0.62
 NSW,126,Hunter,1363,Denman,517,56.2,403,43.8,920,-3.66
-NSW,126,Hunter,30117,Divisional Office (PREPOLL),0,0,0,0,0,-32
+NSW,126,Hunter,30117,Divisional Office (PREPOLL),7,53.85,6,46.15,13,21.85
 NSW,126,Hunter,57455,East Maitland (Hunter),444,58.19,319,41.81,763,-5.56
 NSW,126,Hunter,1365,East Maitland Heights (Hunter),759,57.89,552,42.11,1311,-2.35
 NSW,126,Hunter,33978,East Maitland HUNTER PPVC,1185,62.14,722,37.86,1907,29.17
@@ -3249,10 +3249,10 @@ QLD,310,Bonner,37142,Greenmeadows (Bonner),396,37.36,664,62.64,1060,-8.9
 QLD,310,Bonner,5136,Gumdale,1767,36.94,3017,63.06,4784,-9.47
 QLD,310,Bonner,5137,Hemmant,462,62.77,274,37.23,736,-6.71
 QLD,310,Bonner,6317,Holland Park West (Bonner),659,48.28,706,51.72,1365,-4.3
-QLD,310,Bonner,5139,Lindum,710,58.34,507,41.66,1217,-7.92
+QLD,310,Bonner,5139,Lindum,707,58.29,506,41.71,1213,-7.97
 QLD,310,Bonner,5140,Lota,870,54.82,717,45.18,1587,-4.26
 QLD,310,Bonner,5143,Manly,479,44.23,604,55.77,1083,-5.98
-QLD,310,Bonner,5144,Manly Central,545,49.05,566,50.95,1111,-5.11
+QLD,310,Bonner,5144,Manly Central,548,48.8,575,51.2,1123,-5.36
 QLD,310,Bonner,5145,Manly West,1033,49.76,1043,50.24,2076,-5.64
 QLD,310,Bonner,31471,Mansfield,1847,41.99,2552,58.01,4399,-8.07
 QLD,310,Bonner,6322,Mount Gravatt,1450,52.96,1288,47.04,2738,-5.24
@@ -5249,7 +5249,7 @@ SA,183,Grey,6970,Ungarra,22,25.58,64,74.42,86,2.63
 SA,183,Grey,7432,Wallaroo,935,47.49,1034,52.51,1969,-3.21
 SA,183,Grey,7433,Wallaroo Mines,490,44.91,601,55.09,1091,-6.03
 SA,183,Grey,6972,Wangary,94,28.4,237,71.6,331,3
-SA,183,Grey,7434,Warooka,0,0,0,0,0,-33.58
+SA,183,Grey,7434,Warooka,108,29.03,264,70.97,372,-4.55
 SA,183,Grey,6975,Warramboo,5,5.43,87,94.57,92,-4.57
 SA,183,Grey,6977,Whyalla Central East,426,45.86,503,54.14,929,-8.48
 SA,183,Grey,6981,Whyalla Central West,877,52.36,798,47.64,1675,-5.24
@@ -6056,7 +6056,7 @@ VIC,197,Aston,2969,Studfield East,1356,52.78,1213,47.22,2569,2.27
 VIC,197,Aston,2970,Templeton,934,49.92,937,50.08,1871,0.52
 VIC,197,Aston,3582,Vermont,356,47.47,394,52.53,750,4.35
 VIC,197,Aston,2971,Wantirna,1242,49.82,1251,50.18,2493,5.56
-VIC,197,Aston,2973,Wantirna Central,948,46.79,1078,53.21,2026,4.45
+VIC,197,Aston,2973,Wantirna Central,948,46.81,1077,53.19,2025,4.47
 VIC,197,Aston,2972,Wantirna Heights,537,45.94,632,54.06,1169,1.93
 VIC,197,Aston,38310,Wantirna PPVC,727,42.99,964,57.01,1691,0.4
 VIC,197,Aston,2974,Wantirna South,786,48.97,819,51.03,1605,4.93
@@ -6637,7 +6637,7 @@ VIC,211,Flinders,3643,Main Ridge,62,34.64,117,65.36,179,-0.33
 VIC,211,Flinders,3642,McCrae,371,38.45,594,61.55,965,0.34
 VIC,211,Flinders,31996,Melbourne (Flinders),22,40.74,32,59.26,54,-0.93
 VIC,211,Flinders,3644,Merricks North,101,40.56,148,59.44,249,-1.23
-VIC,211,Flinders,3645,Moorooduc,145,23.85,463,76.15,608,-3.47
+VIC,211,Flinders,3645,Moorooduc,145,23.97,460,76.03,605,-3.35
 VIC,211,Flinders,36416,Mornington East (Flinders),294,36.03,522,63.97,816,-3.4
 VIC,211,Flinders,3646,Mt Martha,1112,37.39,1862,62.61,2974,0.03
 VIC,211,Flinders,11520,Mt Martha North (Flinders),1313,37.86,2155,62.14,3468,-0.57
@@ -6647,7 +6647,7 @@ VIC,211,Flinders,3652,Portsea,50,20.83,190,79.17,240,3.63
 VIC,211,Flinders,3653,Red Hill,463,42.36,630,57.64,1093,-1.58
 VIC,211,Flinders,3654,Rhyll,176,38.26,284,61.74,460,2.62
 VIC,211,Flinders,3655,Rosebud,684,48.75,719,51.25,1403,4.32
-VIC,211,Flinders,3656,Rosebud East,1076,50.21,1067,49.79,2143,3.49
+VIC,211,Flinders,3656,Rosebud East,1084,50.4,1067,49.6,2151,3.68
 VIC,211,Flinders,11517,Rosebud South,289,44.19,365,55.81,654,4.78
 VIC,211,Flinders,3657,Rosebud West,949,47.43,1052,52.57,2001,-0.27
 VIC,211,Flinders,3658,Rye,1385,47.99,1501,52.01,2886,0.39
@@ -8004,7 +8004,7 @@ VIC,233,Wannon,11518,Wiridjil,20,13.51,128,86.49,148,-2.6
 VIC,233,Wannon,5082,Woodford,143,33.57,283,66.43,426,-5.11
 VIC,233,Wannon,5083,Woolsthorpe,105,34.88,196,65.12,301,-3.46
 VIC,233,Wannon,5084,Yambuk,46,27.06,124,72.94,170,0.12
-VIC,234,Wills,5086,Anstey (Wills),1754,83.44,348,16.56,2102,1.42
+VIC,234,Wills,5086,Anstey (Wills),1751,83.3,351,16.7,2102,1.28
 VIC,234,Wills,4616,Brunswick East,577,82.66,121,17.34,698,1.7
 VIC,234,Wills,5088,Brunswick North,2530,79.58,649,20.42,3179,0.39
 VIC,234,Wills,5089,Brunswick North East,2142,83.77,415,16.23,2557,1.86

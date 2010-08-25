@@ -1,4 +1,4 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T10:38:11 Cycle:f3dd75f5-386d-4cd1-99a7-39fc9cb65b17 Created:2010-08-25T10:17:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T10:53:54 Cycle:ada9bb29-b6cf-4a3b-b8fb-1a5900d302d6 Created:2010-08-25T10:32:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 179,Adelaide,SA,98526,72646,73.73
 197,Aston,VIC,93448,74115,79.31
@@ -42,7 +42,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 194,Denison,TAS,71349,52826,74.04
 252,Dickson,QLD,90111,65688,72.9
 115,Dobell,NSW,93661,68503,73.14
-210,Dunkley,VIC,95324,71234,74.73
+210,Dunkley,VIC,95324,71247,74.73
 312,Durack,WA,85782,54153,63.13
 117,Eden-Monaro,NSW,96465,65189,67.58
 159,Fadden,QLD,85236,63613,74.63
@@ -71,7 +71,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 165,Herbert,QLD,91044,66305,72.83
 215,Higgins,VIC,90398,57085,63.15
 185,Hindmarsh,SA,100245,73395,73.22
-166,Hinkler,QLD,91397,64188,70.22
+166,Hinkler,QLD,91397,64201,70.23
 216,Holt,VIC,108893,83332,76.53
 217,Hotham,VIC,89581,62512,69.78
 124,Hughes,NSW,97995,67633,69.02
@@ -86,7 +86,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 221,Kooyong,VIC,89659,61736,68.86
 223,La Trobe,VIC,97960,69700,71.15
 222,Lalor,VIC,117023,93855,80.2
-168,Leichhardt,QLD,93140,63396,67.92
+168,Leichhardt,QLD,93140,65155,68.07
 169,Lilley,QLD,97415,75643,77.65
 128,Lindsay,NSW,95975,78575,81.87
 306,Lingiari,NT,61126,33670,55.08
@@ -119,7 +119,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 243,O'Connor,WA,92875,27439,29.54
 174,Oxley,QLD,82782,64083,77.41
 138,Page,NSW,94360,77031,81.64
-139,Parkes,NSW,100169,74524,74.4
+139,Parkes,NSW,100169,74540,74.4
 140,Parramatta,NSW,94014,70309,74.79
 249,Paterson,NSW,92149,75182,81.59
 244,Pearce,WA,89526,62061,69.32
