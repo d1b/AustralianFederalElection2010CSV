@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T15:39:10 Cycle:f37be826-f4b3-4471-9ccb-ae757d4e7ac8 Created:2010-08-25T15:18:37 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T15:54:42 Cycle:095fc006-6ace-4ee9-a5b6-83a0e1c3846b Created:2010-08-25T15:33:42 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 ACT,101,Canberra,8829,Barton,20863,JONES,Giulia,1,N,N,LP,Liberal,790,-2.73
 ACT,101,Canberra,8829,Barton,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1399,2.73
@@ -2368,8 +2368,8 @@ NSW,121,Grayndler,33623,Special Hospital Team 1,21656,ALBANESE,Anthony,4,N,Y,ALP
 NSW,121,Grayndler,33623,Special Hospital Team 1,21865,BYRNE,Sam,5,N,N,GRN,The Greens,70,35.71
 NSW,121,Grayndler,33822,Special Hospital Team 2,21656,ALBANESE,Anthony,4,N,Y,ALP,Labor,0,0
 NSW,121,Grayndler,33822,Special Hospital Team 2,21865,BYRNE,Sam,5,N,N,GRN,The Greens,0,0
-NSW,121,Grayndler,46511,Special Hospital Team 3,21656,ALBANESE,Anthony,4,N,Y,ALP,Labor,0,0
-NSW,121,Grayndler,46511,Special Hospital Team 3,21865,BYRNE,Sam,5,N,N,GRN,The Greens,0,0
+NSW,121,Grayndler,46511,Special Hospital Team 3,21656,ALBANESE,Anthony,4,N,Y,ALP,Labor,62,75.61
+NSW,121,Grayndler,46511,Special Hospital Team 3,21865,BYRNE,Sam,5,N,N,GRN,The Greens,20,24.39
 NSW,121,Grayndler,1467,St Peters,21656,ALBANESE,Anthony,4,N,Y,ALP,Labor,451,51.31
 NSW,121,Grayndler,1467,St Peters,21865,BYRNE,Sam,5,N,N,GRN,The Greens,428,48.69
 NSW,121,Grayndler,2764,Stanmore,21656,ALBANESE,Anthony,4,N,Y,ALP,Labor,1219,46.69
@@ -3766,8 +3766,8 @@ NSW,134,Mitchell,37049,Sherwood Ridge,21408,GOULD,Nigel,2,N,N,ALP,Labor,883,-6.9
 NSW,134,Mitchell,37049,Sherwood Ridge,21595,HAWKE,Alex,3,N,Y,LP,Liberal,2080,6.92
 NSW,134,Mitchell,58758,Special Hospital Team 1,21408,GOULD,Nigel,2,N,N,ALP,Labor,5,-16.51
 NSW,134,Mitchell,58758,Special Hospital Team 1,21595,HAWKE,Alex,3,N,Y,LP,Liberal,11,16.51
-NSW,134,Mitchell,14125,Sydney (Mitchell),21408,GOULD,Nigel,2,N,N,ALP,Labor,29,-11.29
-NSW,134,Mitchell,14125,Sydney (Mitchell),21595,HAWKE,Alex,3,N,Y,LP,Liberal,33,11.29
+NSW,134,Mitchell,14125,Sydney (Mitchell),21408,GOULD,Nigel,2,N,N,ALP,Labor,30,-9.67
+NSW,134,Mitchell,14125,Sydney (Mitchell),21595,HAWKE,Alex,3,N,Y,LP,Liberal,32,9.67
 NSW,134,Mitchell,1826,The Hills,21408,GOULD,Nigel,2,N,N,ALP,Labor,47,-3.08
 NSW,134,Mitchell,1826,The Hills,21595,HAWKE,Alex,3,N,Y,LP,Liberal,103,3.08
 NSW,134,Mitchell,45262,West Pennant Hills (Mitchell),21408,GOULD,Nigel,2,N,N,ALP,Labor,101,-8.1
@@ -11018,12 +11018,12 @@ SA,189,Port Adelaide,7249,Beverley,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor 
 SA,189,Port Adelaide,7249,Beverley,20826,McKENNA,Nigel,4,N,N,LP,Liberal,170,-2
 SA,189,Port Adelaide,7250,Birkenhead,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,1334,2.15
 SA,189,Port Adelaide,7250,Birkenhead,20826,McKENNA,Nigel,4,N,N,LP,Liberal,378,-2.15
-SA,189,Port Adelaide,46401,Burton,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,1241,-0.51
-SA,189,Port Adelaide,46401,Burton,20826,McKENNA,Nigel,4,N,N,LP,Liberal,449,0.51
+SA,189,Port Adelaide,46401,Burton,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,1284,2.49
+SA,189,Port Adelaide,46401,Burton,20826,McKENNA,Nigel,4,N,N,LP,Liberal,396,-2.49
 SA,189,Port Adelaide,7251,Cheltenham,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,1080,-1.27
 SA,189,Port Adelaide,7251,Cheltenham,20826,McKENNA,Nigel,4,N,N,LP,Liberal,548,1.27
-SA,189,Port Adelaide,7055,Croydon (Port Adelaide),21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,680,-0.33
-SA,189,Port Adelaide,7055,Croydon (Port Adelaide),20826,McKENNA,Nigel,4,N,N,LP,Liberal,245,0.33
+SA,189,Port Adelaide,7055,Croydon (Port Adelaide),21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,683,0
+SA,189,Port Adelaide,7055,Croydon (Port Adelaide),20826,McKENNA,Nigel,4,N,N,LP,Liberal,242,0
 SA,189,Port Adelaide,12084,Croydon Park West (Port Adelaide),21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,188,-8.55
 SA,189,Port Adelaide,12084,Croydon Park West (Port Adelaide),20826,McKENNA,Nigel,4,N,N,LP,Liberal,140,8.55
 SA,189,Port Adelaide,30180,Divisional Office (PREPOLL),21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,0,0
@@ -11066,8 +11066,8 @@ SA,189,Port Adelaide,46556,Port Adelaide PPVC,21003,BUTLER,Mark,3,N,Y,ALP,Austra
 SA,189,Port Adelaide,46556,Port Adelaide PPVC,20826,McKENNA,Nigel,4,N,N,LP,Liberal,661,-1.82
 SA,189,Port Adelaide,7263,Queenstown,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,1050,-0.52
 SA,189,Port Adelaide,7263,Queenstown,20826,McKENNA,Nigel,4,N,N,LP,Liberal,442,0.52
-SA,189,Port Adelaide,7265,Rosewater,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,1290,-1.78
-SA,189,Port Adelaide,7265,Rosewater,20826,McKENNA,Nigel,4,N,N,LP,Liberal,500,1.78
+SA,189,Port Adelaide,7265,Rosewater,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,1291,-1.77
+SA,189,Port Adelaide,7265,Rosewater,20826,McKENNA,Nigel,4,N,N,LP,Liberal,500,1.77
 SA,189,Port Adelaide,7266,Royal Park,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,943,-1.18
 SA,189,Port Adelaide,7266,Royal Park,20826,McKENNA,Nigel,4,N,N,LP,Liberal,438,1.18
 SA,189,Port Adelaide,7268,Royal Park South (Port Adelaide),21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,779,-0.25
@@ -11088,8 +11088,8 @@ SA,189,Port Adelaide,7062,Seaton Park,21003,BUTLER,Mark,3,N,Y,ALP,Australian Lab
 SA,189,Port Adelaide,7062,Seaton Park,20826,McKENNA,Nigel,4,N,N,LP,Liberal,756,2.06
 SA,189,Port Adelaide,31426,Seaton West (Port Adelaide),21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,634,1.43
 SA,189,Port Adelaide,31426,Seaton West (Port Adelaide),20826,McKENNA,Nigel,4,N,N,LP,Liberal,381,-1.43
-SA,189,Port Adelaide,7270,Semaphore,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,1272,2.84
-SA,189,Port Adelaide,7270,Semaphore,20826,McKENNA,Nigel,4,N,N,LP,Liberal,479,-2.84
+SA,189,Port Adelaide,7270,Semaphore,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,1272,2.89
+SA,189,Port Adelaide,7270,Semaphore,20826,McKENNA,Nigel,4,N,N,LP,Liberal,478,-2.89
 SA,189,Port Adelaide,7273,Semaphore South,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,1003,3.38
 SA,189,Port Adelaide,7273,Semaphore South,20826,McKENNA,Nigel,4,N,N,LP,Liberal,435,-3.38
 SA,189,Port Adelaide,33216,Special Hospital Team 1,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,33,-1.96
@@ -11480,8 +11480,8 @@ TAS,193,Braddon,8364,Brooklyn,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,231
 TAS,193,Braddon,8364,Brooklyn,20935,SIDEBOTTOM,Sid,3,N,Y,ALP,Australian Labor Party,453,2.68
 TAS,193,Braddon,8365,Burnie,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,589,-1.95
 TAS,193,Braddon,8365,Burnie,20935,SIDEBOTTOM,Sid,3,N,Y,ALP,Australian Labor Party,837,1.95
-TAS,193,Braddon,33832,Burnie PPVC,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,626,-3.74
-TAS,193,Braddon,33832,Burnie PPVC,20935,SIDEBOTTOM,Sid,3,N,Y,ALP,Australian Labor Party,848,3.74
+TAS,193,Braddon,33832,Burnie PPVC,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,626,-3.77
+TAS,193,Braddon,33832,Burnie PPVC,20935,SIDEBOTTOM,Sid,3,N,Y,ALP,Australian Labor Party,849,3.77
 TAS,193,Braddon,8367,Calder,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,55,7.39
 TAS,193,Braddon,8367,Calder,20935,SIDEBOTTOM,Sid,3,N,Y,ALP,Australian Labor Party,71,-7.39
 TAS,193,Braddon,8368,Cooee,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,369,-5.62
@@ -12494,14 +12494,14 @@ VIC,201,Bruce,3563,Camelot,21346,KABOS,Mike,1,N,N,LP,Liberal,631,-1.91
 VIC,201,Bruce,3563,Camelot,21331,GRIFFIN,Alan,4,N,Y,ALP,Australian Labor Party,711,1.91
 VIC,201,Bruce,3222,Clareville,21346,KABOS,Mike,1,N,N,LP,Liberal,614,2.71
 VIC,201,Bruce,3222,Clareville,21331,GRIFFIN,Alan,4,N,Y,ALP,Australian Labor Party,1036,-2.71
-VIC,201,Bruce,3958,Cleeland,21346,KABOS,Mike,1,N,N,LP,Liberal,741,1.37
-VIC,201,Bruce,3958,Cleeland,21331,GRIFFIN,Alan,4,N,Y,ALP,Australian Labor Party,1590,-1.37
+VIC,201,Bruce,3958,Cleeland,21346,KABOS,Mike,1,N,N,LP,Liberal,736,1.24
+VIC,201,Bruce,3958,Cleeland,21331,GRIFFIN,Alan,4,N,Y,ALP,Australian Labor Party,1589,-1.24
 VIC,201,Bruce,3962,Dandenong,21346,KABOS,Mike,1,N,N,LP,Liberal,527,0.58
 VIC,201,Bruce,3962,Dandenong,21331,GRIFFIN,Alan,4,N,Y,ALP,Australian Labor Party,1029,-0.58
 VIC,201,Bruce,58781,Dandenong BRUCE PPVC,21346,KABOS,Mike,1,N,N,LP,Liberal,671,-4.76
 VIC,201,Bruce,58781,Dandenong BRUCE PPVC,21331,GRIFFIN,Alan,4,N,Y,ALP,Australian Labor Party,1101,4.76
-VIC,201,Bruce,3965,Dandenong West,21346,KABOS,Mike,1,N,N,LP,Liberal,465,-0.68
-VIC,201,Bruce,3965,Dandenong West,21331,GRIFFIN,Alan,4,N,Y,ALP,Australian Labor Party,1053,0.68
+VIC,201,Bruce,3965,Dandenong West,21346,KABOS,Mike,1,N,N,LP,Liberal,448,-1.84
+VIC,201,Bruce,3965,Dandenong West,21331,GRIFFIN,Alan,4,N,Y,ALP,Australian Labor Party,1072,1.84
 VIC,201,Bruce,30192,Divisional Office (PREPOLL),21346,KABOS,Mike,1,N,N,LP,Liberal,386,9.7
 VIC,201,Bruce,30192,Divisional Office (PREPOLL),21331,GRIFFIN,Alan,4,N,Y,ALP,Australian Labor Party,353,-9.7
 VIC,201,Bruce,3227,Gladeswood,21346,KABOS,Mike,1,N,N,LP,Liberal,1142,-0.07
@@ -12616,8 +12616,8 @@ VIC,203,Calwell,46549,Roxburgh Rise,21159,VAMVAKINOU,Maria,4,N,Y,ALP,Australian 
 VIC,203,Calwell,46549,Roxburgh Rise,21153,TSENG,Wayne,5,N,N,LP,Liberal,397,16.82
 VIC,203,Calwell,46548,Somerton,21159,VAMVAKINOU,Maria,4,N,Y,ALP,Australian Labor Party,1388,-4.24
 VIC,203,Calwell,46548,Somerton,21153,TSENG,Wayne,5,N,N,LP,Liberal,474,4.24
-VIC,203,Calwell,3327,Sunbury,21159,VAMVAKINOU,Maria,4,N,Y,ALP,Australian Labor Party,1375,3.57
-VIC,203,Calwell,3327,Sunbury,21153,TSENG,Wayne,5,N,N,LP,Liberal,1060,-3.57
+VIC,203,Calwell,3327,Sunbury,21159,VAMVAKINOU,Maria,4,N,Y,ALP,Australian Labor Party,1372,3.47
+VIC,203,Calwell,3327,Sunbury,21153,TSENG,Wayne,5,N,N,LP,Liberal,1062,-3.47
 VIC,203,Calwell,11515,Sunbury East,21159,VAMVAKINOU,Maria,4,N,Y,ALP,Australian Labor Party,1602,7.7
 VIC,203,Calwell,11515,Sunbury East,21153,TSENG,Wayne,5,N,N,LP,Liberal,749,-7.7
 VIC,203,Calwell,11516,Sunbury Heights,21159,VAMVAKINOU,Maria,4,N,Y,ALP,Australian Labor Party,1856,8.13
@@ -13708,12 +13708,12 @@ VIC,309,Gorton,4240,Ardeer South,21226,O'CONNOR,Brendan,2,N,Y,ALP,Australian Lab
 VIC,309,Gorton,4240,Ardeer South,21202,RYDER,Damon,4,N,N,LP,Liberal,413,0.9
 VIC,309,Gorton,34094,Brookside,21226,O'CONNOR,Brendan,2,N,Y,ALP,Australian Labor Party,3667,3.5
 VIC,309,Gorton,34094,Brookside,21202,RYDER,Damon,4,N,N,LP,Liberal,1296,-3.5
-VIC,309,Gorton,46536,Cairnlea,21226,O'CONNOR,Brendan,2,N,Y,ALP,Australian Labor Party,2088,-3.83
-VIC,309,Gorton,46536,Cairnlea,21202,RYDER,Damon,4,N,N,LP,Liberal,713,3.83
-VIC,309,Gorton,47831,Caroline Springs,21226,O'CONNOR,Brendan,2,N,Y,ALP,Australian Labor Party,1017,2.17
-VIC,309,Gorton,47831,Caroline Springs,21202,RYDER,Damon,4,N,N,LP,Liberal,405,-2.17
-VIC,309,Gorton,46552,Creekside,21226,O'CONNOR,Brendan,2,N,Y,ALP,Australian Labor Party,1368,3.43
-VIC,309,Gorton,46552,Creekside,21202,RYDER,Damon,4,N,N,LP,Liberal,513,-3.43
+VIC,309,Gorton,46536,Cairnlea,21226,O'CONNOR,Brendan,2,N,Y,ALP,Australian Labor Party,2096,-3.43
+VIC,309,Gorton,46536,Cairnlea,21202,RYDER,Damon,4,N,N,LP,Liberal,701,3.43
+VIC,309,Gorton,47831,Caroline Springs,21226,O'CONNOR,Brendan,2,N,Y,ALP,Australian Labor Party,1016,2.1
+VIC,309,Gorton,47831,Caroline Springs,21202,RYDER,Damon,4,N,N,LP,Liberal,406,-2.1
+VIC,309,Gorton,46552,Creekside,21226,O'CONNOR,Brendan,2,N,Y,ALP,Australian Labor Party,868,-23.15
+VIC,309,Gorton,46552,Creekside,21202,RYDER,Damon,4,N,N,LP,Liberal,1013,23.15
 VIC,309,Gorton,4242,Deer Park,21226,O'CONNOR,Brendan,2,N,Y,ALP,Australian Labor Party,1665,1.22
 VIC,309,Gorton,4242,Deer Park,21202,RYDER,Damon,4,N,N,LP,Liberal,472,-1.22
 VIC,309,Gorton,4243,Deer Park Central,21226,O'CONNOR,Brendan,2,N,Y,ALP,Australian Labor Party,946,0.32
@@ -14872,12 +14872,12 @@ VIC,225,Maribyrnong,30216,Divisional Office (PREPOLL),21369,SHORTEN,Bill,1,N,Y,A
 VIC,225,Maribyrnong,30216,Divisional Office (PREPOLL),21058,D'SOUZA,Conrad,5,N,N,LP,Liberal,393,-9.19
 VIC,225,Maribyrnong,33305,Essendon,21369,SHORTEN,Bill,1,N,Y,ALP,Australian Labor Party,1084,2.29
 VIC,225,Maribyrnong,33305,Essendon,21058,D'SOUZA,Conrad,5,N,N,LP,Liberal,832,-2.29
-VIC,225,Maribyrnong,4585,Essendon North,21369,SHORTEN,Bill,1,N,Y,ALP,Australian Labor Party,1090,3.92
-VIC,225,Maribyrnong,4585,Essendon North,21058,D'SOUZA,Conrad,5,N,N,LP,Liberal,714,-3.92
-VIC,225,Maribyrnong,4586,Essendon South,21369,SHORTEN,Bill,1,N,Y,ALP,Australian Labor Party,1156,3.58
-VIC,225,Maribyrnong,4586,Essendon South,21058,D'SOUZA,Conrad,5,N,N,LP,Liberal,704,-3.58
-VIC,225,Maribyrnong,4587,Essendon West,21369,SHORTEN,Bill,1,N,Y,ALP,Australian Labor Party,1020,4.01
-VIC,225,Maribyrnong,4587,Essendon West,21058,D'SOUZA,Conrad,5,N,N,LP,Liberal,784,-4.01
+VIC,225,Maribyrnong,4585,Essendon North,21369,SHORTEN,Bill,1,N,Y,ALP,Australian Labor Party,1075,3.12
+VIC,225,Maribyrnong,4585,Essendon North,21058,D'SOUZA,Conrad,5,N,N,LP,Liberal,728,-3.12
+VIC,225,Maribyrnong,4586,Essendon South,21369,SHORTEN,Bill,1,N,Y,ALP,Australian Labor Party,1160,3.83
+VIC,225,Maribyrnong,4586,Essendon South,21058,D'SOUZA,Conrad,5,N,N,LP,Liberal,699,-3.83
+VIC,225,Maribyrnong,4587,Essendon West,21369,SHORTEN,Bill,1,N,Y,ALP,Australian Labor Party,1016,3.98
+VIC,225,Maribyrnong,4587,Essendon West,21058,D'SOUZA,Conrad,5,N,N,LP,Liberal,782,-3.98
 VIC,225,Maribyrnong,4590,Glenbervie,21369,SHORTEN,Bill,1,N,Y,ALP,Australian Labor Party,1078,2.16
 VIC,225,Maribyrnong,4590,Glenbervie,21058,D'SOUZA,Conrad,5,N,N,LP,Liberal,660,-2.16
 VIC,225,Maribyrnong,3355,Kealba,21369,SHORTEN,Bill,1,N,Y,ALP,Australian Labor Party,1232,-1.83
@@ -16118,10 +16118,10 @@ WA,235,Brand,31809,Greenfields East,20857,GORDIN,Donna,2,N,N,LP,Liberal,508,-0.2
 WA,235,Brand,31809,Greenfields East,20909,GRAY,Gary,5,N,Y,ALP,Australian Labor Party,681,0.27
 WA,235,Brand,7488,Hillman,20857,GORDIN,Donna,2,N,N,LP,Liberal,531,1.62
 WA,235,Brand,7488,Hillman,20909,GRAY,Gary,5,N,Y,ALP,Australian Labor Party,925,-1.62
-WA,235,Brand,47748,Lakelands,20857,GORDIN,Donna,2,N,N,LP,Liberal,315,2.5
-WA,235,Brand,47748,Lakelands,20909,GRAY,Gary,5,N,Y,ALP,Australian Labor Party,250,-2.5
-WA,235,Brand,11896,Leda,20857,GORDIN,Donna,2,N,N,LP,Liberal,708,5.61
-WA,235,Brand,11896,Leda,20909,GRAY,Gary,5,N,Y,ALP,Australian Labor Party,1183,-5.61
+WA,235,Brand,47748,Lakelands,20857,GORDIN,Donna,2,N,N,LP,Liberal,313,1.95
+WA,235,Brand,47748,Lakelands,20909,GRAY,Gary,5,N,Y,ALP,Australian Labor Party,254,-1.95
+WA,235,Brand,11896,Leda,20857,GORDIN,Donna,2,N,N,LP,Liberal,709,5.62
+WA,235,Brand,11896,Leda,20909,GRAY,Gary,5,N,Y,ALP,Australian Labor Party,1184,-5.62
 WA,235,Brand,7490,Madora Bay,20857,GORDIN,Donna,2,N,N,LP,Liberal,340,1.56
 WA,235,Brand,7490,Madora Bay,20909,GRAY,Gary,5,N,Y,ALP,Australian Labor Party,293,-1.56
 WA,235,Brand,11897,Meadow Springs,20857,GORDIN,Donna,2,N,N,LP,Liberal,984,0.2
