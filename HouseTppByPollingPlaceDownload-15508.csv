@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T18:30:54 Cycle:0b9f5cb6-9fb5-487a-b48e-73d8090c9dac Created:2010-08-25T18:19:04 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T18:46:10 Cycle:ae96e94a-d741-4fba-ba70-8c8394f8fe12 Created:2010-08-25T18:34:09 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -1464,10 +1464,10 @@ NSW,126,Hunter,297,Rylstone,308,51.85,286,48.15,594,-0.52
 NSW,126,Hunter,1415,Sandy Hollow,118,51.08,113,48.92,231,-4.74
 NSW,126,Hunter,1146,Scone,616,41.54,867,58.46,1483,-10.44
 NSW,126,Hunter,1148,Scone East,383,43.23,503,56.77,886,-15.83
-NSW,126,Hunter,1147,Scone High School,416,45.92,490,54.08,906,-11.55
+NSW,126,Hunter,1147,Scone High School,424,46.9,480,53.1,904,-10.57
 NSW,126,Hunter,1417,Singleton,670,58.31,479,41.69,1149,-5.47
-NSW,126,Hunter,1419,Singleton East,324,51.67,303,48.33,627,0.7
-NSW,126,Hunter,1418,Singleton Heights,1808,60.85,1163,39.15,2971,-3.72
+NSW,126,Hunter,1419,Singleton East,321,51.28,305,48.72,626,0.31
+NSW,126,Hunter,1418,Singleton Heights,1805,60.75,1166,39.25,2971,-3.82
 NSW,126,Hunter,33975,Singleton PPVC,1936,61.7,1202,38.3,3138,28.71
 NSW,126,Hunter,1421,Singleton South,1083,62.35,654,37.65,1737,-4.71
 NSW,126,Hunter,33627,Special Hospital Team 1,0,0,0,0,0,-64.63
@@ -1564,9 +1564,9 @@ NSW,128,Lindsay,1497,Oxley Park,1253,56.77,954,43.23,2207,-5.45
 NSW,128,Lindsay,1498,Penrith,729,56.95,551,43.05,1280,-4.77
 NSW,128,Lindsay,1499,Penrith Central,461,55.28,373,44.72,834,-2.78
 NSW,128,Lindsay,1501,Penrith North,608,55.37,490,44.63,1098,-4.05
-NSW,128,Lindsay,33841,Penrith PPVC,2038,47.02,2296,52.98,4334,-6.87
+NSW,128,Lindsay,33841,Penrith PPVC,2035,46.93,2301,53.07,4336,-6.96
 NSW,128,Lindsay,1502,Penrith South,1638,51.14,1565,48.86,3203,-6.36
-NSW,128,Lindsay,1503,Regentville,947,43.72,1219,56.28,2166,-5.21
+NSW,128,Lindsay,1503,Regentville,951,43.72,1224,56.28,2175,-5.21
 NSW,128,Lindsay,33630,Special Hospital Team 1,20,58.82,14,41.18,34,9.49
 NSW,128,Lindsay,1504,St Marys,811,62.48,487,37.52,1298,-5.79
 NSW,128,Lindsay,410,St Marys North,1025,63.04,601,36.96,1626,-6.55
@@ -2459,14 +2459,14 @@ NSW,249,Paterson,1653,Wards River,43,39.09,67,60.91,110,-4.72
 NSW,249,Paterson,31511,Wirreanda Medowie,1100,50.14,1094,49.86,2194,-0.13
 NSW,249,Paterson,1431,Woodville,220,43.82,282,56.18,502,-4.53
 NSW,249,Paterson,1658,Wootton,37,40.66,54,59.34,91,-5.32
-NSW,144,Reid,1515,Abbotsford,1676,47.69,1838,52.31,3514,-5.98
+NSW,144,Reid,1515,Abbotsford,1679,47.81,1833,52.19,3512,-5.86
 NSW,144,Reid,2365,Auburn,1321,67.78,628,32.22,1949,-12.83
 NSW,144,Reid,2392,Auburn Central,876,63.89,495,36.11,1371,-11.32
 NSW,144,Reid,58110,Auburn East (Reid),215,54.16,182,45.84,397,-12.61
 NSW,144,Reid,2367,Auburn Hospital,223,63.9,126,36.1,349,-10.19
 NSW,144,Reid,2368,Auburn North,1127,73.61,404,26.39,1531,-6.85
 NSW,144,Reid,33836,Auburn PPVC,1283,69.28,569,30.72,1852,7.69
-NSW,144,Reid,2369,Auburn West (Reid),1482,66.07,761,33.93,2243,-7.9
+NSW,144,Reid,2369,Auburn West (Reid),1468,65.48,774,34.52,2242,-8.49
 NSW,144,Reid,58111,Berala (Reid),436,65.37,231,34.63,667,-10.47
 NSW,144,Reid,58092,Burwood (Reid),530,57.55,391,42.45,921,-9.05
 NSW,144,Reid,1517,Burwood East (Reid),1212,58.19,871,41.81,2083,-8
@@ -2475,7 +2475,7 @@ NSW,144,Reid,1521,Chiswick,814,43.93,1039,56.07,1853,-9.04
 NSW,144,Reid,1522,Concord,481,51.89,446,48.11,927,-7.76
 NSW,144,Reid,1523,Concord Central,349,49.15,361,50.85,710,-7.06
 NSW,144,Reid,1551,Concord City,619,40.62,905,59.38,1524,-10.83
-NSW,144,Reid,1524,Concord East,1225,47.22,1369,52.78,2594,-9.26
+NSW,144,Reid,1524,Concord East,1219,47.07,1371,52.93,2590,-9.41
 NSW,144,Reid,1525,Concord North,995,51.5,937,48.5,1932,-7.64
 NSW,144,Reid,1527,Concord West,719,50.24,712,49.76,1431,-6.24
 NSW,144,Reid,45017,Croydon (Reid),233,63.49,134,36.51,367,-4.18
@@ -2486,21 +2486,21 @@ NSW,144,Reid,1531,Drummoyne North,1126,43.78,1446,56.22,2572,-7.91
 NSW,144,Reid,1533,Five Dock,1249,56.54,960,43.46,2209,-4.43
 NSW,144,Reid,1534,Five Dock Central,1121,48.13,1208,51.87,2329,-7.44
 NSW,144,Reid,1535,Flemington,876,63.43,505,36.57,1381,-11.97
-NSW,144,Reid,1536,Homebush,1186,52.39,1078,47.61,2264,-10.66
+NSW,144,Reid,1536,Homebush,1188,53.27,1042,46.73,2230,-9.78
 NSW,144,Reid,46751,Homebush Bay,299,41.02,430,58.98,729,1.02
 NSW,144,Reid,1537,Homebush North,341,53.79,293,46.21,634,-9.95
 NSW,144,Reid,1538,Homebush South,255,40.41,376,59.59,631,-4.12
 NSW,144,Reid,2384,Lidcombe,2267,62.54,1358,37.46,3625,-8.94
 NSW,144,Reid,2386,Lidcombe South,922,62.13,562,37.87,1484,-7.76
 NSW,144,Reid,1541,Mortlake,1514,40.73,2203,59.27,3717,-6.01
-NSW,144,Reid,34328,Newington Central,1100,47.33,1224,52.67,2324,-8.47
+NSW,144,Reid,34328,Newington Central,1098,47.33,1222,52.67,2320,-8.47
 NSW,144,Reid,1543,Rhodes,423,47.9,460,52.1,883,-6.89
 NSW,144,Reid,1544,Russell Lea,689,47.81,752,52.19,1441,-6.71
 NSW,144,Reid,2394,Silverwater,589,67.39,285,32.61,874,-8.88
 NSW,144,Reid,33638,Special Hospital Team 1,74,47.74,81,52.26,155,-10.47
 NSW,144,Reid,1545,Strathfield (Reid),550,45.34,663,54.66,1213,-15.22
 NSW,144,Reid,58096,Strathfield Central (Reid),168,37.5,280,62.5,448,-4.13
-NSW,144,Reid,1547,Strathfield North,1337,49.61,1358,50.39,2695,-9.5
+NSW,144,Reid,1547,Strathfield North,1342,49.74,1356,50.26,2698,-9.37
 NSW,144,Reid,34043,Strathfield PPVC,1020,48.97,1063,51.03,2083,-12.63
 NSW,144,Reid,58098,Strathfield West (Reid),105,33.33,210,66.67,315,-3.74
 NSW,144,Reid,14108,Sydney (Reid),102,54.84,84,45.16,186,-12.98
@@ -4716,7 +4716,7 @@ QLD,176,Rankin,32866,Special Hospital Team 2,31,56.36,24,43.64,55,5.14
 QLD,176,Rankin,58482,Special Hospital Team 3,20,33.33,40,66.67,60,-18.07
 QLD,176,Rankin,5407,Springwood Central,777,46.36,899,53.64,1676,-3.53
 QLD,176,Rankin,47735,Springwood East,281,42.38,382,57.62,663,-9.12
-QLD,176,Rankin,5408,Springwood Road,1671,46.82,1898,53.18,3569,-5.04
+QLD,176,Rankin,5408,Springwood Road,1669,46.78,1899,53.22,3568,-5.08
 QLD,176,Rankin,47776,Stretton,1158,48.78,1216,51.22,2374,-6.09
 QLD,176,Rankin,56156,Sunnybank Hills (Rankin),178,39.29,275,60.71,453,-11.6
 QLD,176,Rankin,5554,Woodridge,1270,68.76,577,31.24,1847,-6.39
@@ -7693,7 +7693,7 @@ VIC,230,Melbourne Ports,4656,Argyle,646,70.76,267,29.24,913,-0.96
 VIC,230,Melbourne Ports,4657,Bridport,1726,56.81,1312,43.19,3038,1.26
 VIC,230,Melbourne Ports,3859,Camden,1082,52.4,983,47.6,2065,4.54
 VIC,230,Melbourne Ports,3924,Caulfield,837,48.44,891,51.56,1728,2.68
-VIC,230,Melbourne Ports,3926,Caulfield East,827,49.85,832,50.15,1659,-1.12
+VIC,230,Melbourne Ports,3926,Caulfield East,825,49.85,830,50.15,1655,-1.12
 VIC,230,Melbourne Ports,3928,Caulfield North,992,47.67,1089,52.33,2081,0.21
 VIC,230,Melbourne Ports,3860,Caulfield South,846,48.76,889,51.24,1735,1.19
 VIC,230,Melbourne Ports,3929,Caulfield Upper,786,54.62,653,45.38,1439,3.87
@@ -7705,7 +7705,7 @@ VIC,230,Melbourne Ports,3864,Elsternwick North,711,57.52,525,42.48,1236,-1.82
 VIC,230,Melbourne Ports,4661,Elwood,881,62.53,528,37.47,1409,3.93
 VIC,230,Melbourne Ports,4662,Elwood North,2172,68.11,1017,31.89,3189,-0.43
 VIC,230,Melbourne Ports,4663,Emerald Hill,1079,57.7,791,42.3,1870,-0.47
-VIC,230,Melbourne Ports,4665,Graham,672,57.44,498,42.56,1170,-0.84
+VIC,230,Melbourne Ports,4665,Graham,673,57.57,496,42.43,1169,-0.71
 VIC,230,Melbourne Ports,4669,Kerferd,1757,54.45,1470,45.55,3227,-0.26
 VIC,230,Melbourne Ports,32038,Melbourne (Melbourne Ports),292,39.78,442,60.22,734,-16.19
 VIC,230,Melbourne Ports,58803,Melbourne CBD MELBOURNE PORTS PPVC,502,59.83,337,40.17,839,2.29
@@ -8087,9 +8087,9 @@ WA,235,Brand,46575,Wandi,228,41.45,322,58.55,550,7.11
 WA,235,Brand,7511,Warnbro,0,0,0,0,0,-57.11
 WA,235,Brand,31474,Warnbro East,1223,61.71,759,38.29,1982,-1.52
 WA,235,Brand,32585,Wellard,342,49,356,51,698,-5.29
-WA,236,Canning,7467,Armadale,1620,60.29,1067,39.71,2687,6.64
-WA,236,Canning,7468,Armadale East,1118,50.22,1108,49.78,2226,9.74
-WA,236,Canning,7469,Armadale North,602,54.23,508,45.77,1110,4.49
+WA,236,Canning,7467,Armadale,1669,60.89,1072,39.11,2741,7.24
+WA,236,Canning,7468,Armadale East,1115,50.16,1108,49.84,2223,9.68
+WA,236,Canning,7469,Armadale North,603,54.23,509,45.77,1112,4.49
 WA,236,Canning,33044,Armadale PPVC,1049,51.07,1005,48.93,2054,-2.39
 WA,236,Canning,7470,Armadale South,495,53.98,422,46.02,917,2.91
 WA,236,Canning,7471,Armadale West,1304,63.03,765,36.97,2069,7.4
@@ -8450,7 +8450,7 @@ WA,240,Fremantle,7769,Hamilton Hill South,589,66.11,302,33.89,891,-8.07
 WA,240,Fremantle,7770,Hilton,1182,72.52,448,27.48,1630,-3.77
 WA,240,Fremantle,7771,Jandakot,1300,53.59,1126,46.41,2426,-0.91
 WA,240,Fremantle,31063,Kardinya (Fremantle),318,46.97,359,53.03,677,-2.13
-WA,240,Fremantle,7773,Kardinya West,900,54.15,762,45.85,1662,-0.92
+WA,240,Fremantle,7773,Kardinya West,892,53.93,762,46.07,1654,-1.14
 WA,240,Fremantle,31980,Lakeland,961,48.19,1033,51.81,1994,-5.8
 WA,240,Fremantle,34109,Melville (Fremantle),294,51.49,277,48.51,571,-2.15
 WA,240,Fremantle,7778,North Fremantle,565,48.5,600,51.5,1165,-0.48
