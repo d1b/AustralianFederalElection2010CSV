@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T19:32:06 Cycle:a91d13fa-e812-472d-8d30-4cafb7c91f04 Created:2010-08-25T19:19:25 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T19:47:50 Cycle:d080e85d-6f8f-4e35-bd78-f0cf071031c2 Created:2010-08-25T19:34:30 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,Swing
 ACT,101,Canberra,20863,JONES,Giulia,1,N,N,LP,Liberal,39113,0,0,0,0,39113,2.36
 ACT,101,Canberra,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,57358,0,0,0,0,57358,-2.36
@@ -40,8 +40,8 @@ NSW,120,Gilmore,21253,REILLY,Neil,4,N,N,ALP,Labor,34023,0,0,0,0,34023,-5.36
 NSW,120,Gilmore,21727,GASH,Joanna,5,N,Y,LP,Liberal,41498,0,0,0,0,41498,5.36
 NSW,121,Grayndler,21656,ALBANESE,Anthony,4,N,Y,ALP,Labor,36673,0,0,0,0,36673,54.36
 NSW,121,Grayndler,21865,BYRNE,Sam,5,N,N,GRN,The Greens,30795,0,0,0,0,30795,45.64
-NSW,122,Greenway,21246,ROWLAND,Michelle,1,N,N,ALP,Labor,34808,0,0,0,0,34808,-4.87
-NSW,122,Greenway,21609,DIAZ,Jaymes,2,N,N,LP,Liberal,33708,0,0,0,0,33708,4.87
+NSW,122,Greenway,21246,ROWLAND,Michelle,1,N,N,ALP,Labor,34808,0,0,0,1368,36176,-4.83
+NSW,122,Greenway,21609,DIAZ,Jaymes,2,N,N,LP,Liberal,33708,0,0,0,1272,34980,4.83
 NSW,124,Hughes,21467,KELLY,Craig,2,N,N,LP,Liberal,40519,0,0,0,0,40519,4.66
 NSW,124,Hughes,21256,THOMAS,Brent,7,N,N,ALP,Labor,32883,0,0,0,0,32883,-4.66
 NSW,125,Hume,21245,SAVILLE,Robin,3,N,N,ALP,Labor,30782,0,0,0,722,31504,-3.52
@@ -176,8 +176,8 @@ SA,185,Hindmarsh,20825,WOOD,Jassmine,2,N,N,LP,Liberal,31970,0,0,0,0,31970,-0.87
 SA,185,Hindmarsh,21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,40554,0,0,0,0,40554,0.87
 SA,186,Kingston,20957,ZANKER,Chris,3,N,N,LP,Liberal,27416,0,0,0,1553,28969,-9.87
 SA,186,Kingston,20967,RISHWORTH,Amanda,4,N,Y,ALP,Australian Labor Party,49819,0,0,0,2329,52148,9.87
-SA,187,Makin,20945,ZAPPIA,Tony,5,N,Y,ALP,Australian Labor Party,44884,0,0,0,2855,47739,4.27
-SA,187,Makin,20852,DAVIES,Liz,6,N,N,LP,Liberal,27321,0,0,0,1979,29300,-4.27
+SA,187,Makin,20945,ZAPPIA,Tony,5,N,Y,ALP,Australian Labor Party,44887,0,0,0,2855,47742,4.28
+SA,187,Makin,20852,DAVIES,Liz,6,N,N,LP,Liberal,27304,0,0,0,1979,29283,-4.28
 SA,188,Mayo,20816,BRIGGS,Jamie,2,N,Y,LP,Liberal,44194,0,0,0,2390,46584,0.52
 SA,188,Mayo,21011,DAVIS,Sam,6,N,N,ALP,Australian Labor Party,32754,0,0,0,1565,34319,-0.52
 SA,189,Port Adelaide,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,54060,0,0,0,2697,56757,0.82
@@ -289,7 +289,7 @@ WA,305,Hasluck,20892,JACKSON,Sharryn,6,N,Y,ALP,Australian Labor Party,32883,844,
 WA,242,Moore,20854,WASHER,Mal,2,N,Y,LP,Liberal,41703,714,0,1040,0,43457,2.08
 WA,242,Moore,20890,BROWN,Jeremy,6,N,N,ALP,Australian Labor Party,26772,476,0,527,0,27775,-2.08
 WA,243,O'Connor,20880,TUCKEY,Wilson,3,N,Y,LP,Liberal,31227,0,0,0,447,31674,45.78
-WA,243,O'Connor,21139,CROOK,Tony,6,N,N,NP,The Nationals,36988,0,0,0,519,37507,54.22
+WA,243,O'Connor,21139,CROOK,Tony,6,N,N,NP,The Nationals,36987,0,0,0,519,37506,54.22
 WA,244,Pearce,20894,LEADBETTER,Bill,1,N,N,ALP,Australian Labor Party,25566,0,0,187,0,25753,-1.59
 WA,244,Pearce,20861,MOYLAN,Judi,2,N,Y,LP,Liberal,37174,0,0,319,0,37493,1.59
 WA,245,Perth,20904,SMITH,Stephen Francis,3,N,Y,ALP,Australian Labor Party,36511,0,0,0,0,36511,-1.65
