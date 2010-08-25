@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T12:45:40 Cycle:62866c1d-3c9f-4c4d-a18f-0086a2e5cf65 Created:2010-08-25T12:33:00 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T13:00:49 Cycle:4328a541-5da0-4941-874e-7932456fae5a Created:2010-08-25T12:48:00 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -2409,7 +2409,7 @@ NSW,249,Paterson,1590,Glen William,73,36.87,125,63.13,198,-7.9
 NSW,249,Paterson,32487,Grahamstown,414,55.05,338,44.95,752,-3.05
 NSW,249,Paterson,31696,Green Point Wallis Lake,132,45.83,156,54.17,288,-3.68
 NSW,249,Paterson,1374,Gresford,164,30.15,380,69.85,544,-7.05
-NSW,249,Paterson,1597,Hawks Nest,340,42.24,465,57.76,805,-0.49
+NSW,249,Paterson,1597,Hawks Nest,339,42.22,464,57.78,803,-0.51
 NSW,249,Paterson,1376,Hinton,304,39.07,474,60.93,778,-6.19
 NSW,249,Paterson,1600,Karuah,413,50.49,405,49.51,818,-4.33
 NSW,249,Paterson,1381,Largs,504,46.41,582,53.59,1086,-2.13
@@ -2594,8 +2594,8 @@ NSW,250,Riverina,2486,Binya,7,10.14,62,89.86,69,-2.68
 NSW,250,Riverina,1257,Brungle,36,32.43,75,67.57,111,-9.74
 NSW,250,Riverina,2496,Carrathool,9,15,51,85,60,-1.95
 NSW,250,Riverina,1311,Charles Sturt University,85,33.2,171,66.8,256,0.25
-NSW,250,Riverina,2498,Coleambally,72,14.55,423,85.45,495,-3.66
-NSW,250,Riverina,769,Collingullie,43,19.91,173,80.09,216,0.28
+NSW,250,Riverina,2498,Coleambally,74,14.95,421,85.05,495,-3.26
+NSW,250,Riverina,769,Collingullie,43,19.63,176,80.37,219,0
 NSW,250,Riverina,1261,Coolac,47,27.65,123,72.35,170,-4.91
 NSW,250,Riverina,1262,Coolamon,310,26.68,852,73.32,1162,-0.7
 NSW,250,Riverina,1267,Currawarna,17,24.64,52,75.36,69,-6.49
@@ -4490,7 +4490,7 @@ QLD,171,McPherson,6074,Currumbin Valley,175,40.79,254,59.21,429,-2.54
 QLD,171,McPherson,31442,Currumbin Waters,1100,43.86,1408,56.14,2508,2.68
 QLD,171,McPherson,30162,Divisional Office (PREPOLL),0,0,0,0,0,0
 QLD,171,McPherson,6075,Elanora,873,41.77,1217,58.23,2090,0.52
-QLD,171,McPherson,12023,Elanora West,1568,46.45,1808,53.55,3376,1.4
+QLD,171,McPherson,12023,Elanora West,1515,44.9,1859,55.1,3374,-0.15
 QLD,171,McPherson,6081,Kirra,708,50.86,684,49.14,1392,-1.53
 QLD,171,McPherson,6084,Mermaid Waters (McPherson),108,30.77,243,69.23,351,-5.25
 QLD,171,McPherson,6086,Merrimac (McPherson),737,37.54,1226,62.46,1963,0.35
@@ -4609,18 +4609,18 @@ QLD,174,Oxley,12052,AVEO Durack,241,42.73,323,57.27,564,-0.54
 QLD,174,Oxley,6370,Bellbird Park,1840,67.06,904,32.94,2744,-4.33
 QLD,174,Oxley,14230,Brisbane City (Oxley),59,62.11,36,37.89,95,-2.28
 QLD,174,Oxley,6351,Camira,1950,60.54,1271,39.46,3221,-5.52
-QLD,174,Oxley,6435,Carole Park,603,68.99,271,31.01,874,-5.76
+QLD,174,Oxley,6435,Carole Park,603,68.91,272,31.09,875,-5.84
 QLD,174,Oxley,6354,Collingwood Park (Oxley),628,62.74,373,37.26,1001,-5.77
 QLD,174,Oxley,6441,Darra,1018,63.7,580,36.3,1598,-5.92
 QLD,174,Oxley,30165,Divisional Office (PREPOLL),0,0,0,0,0,-57.14
-QLD,174,Oxley,6478,Durack,1057,68.73,481,31.27,1538,-9.75
+QLD,174,Oxley,6478,Durack,1054,68.31,489,31.69,1543,-10.17
 QLD,174,Oxley,31799,Forest Lake,1969,54.79,1625,45.21,3594,-4.02
 QLD,174,Oxley,34191,Forest Lake East,1224,52.58,1104,47.42,2328,-5.31
 QLD,174,Oxley,47734,Forest Lake PPVC,1151,54.4,965,45.6,2116,-3.09
 QLD,174,Oxley,6363,Gailes,819,70.73,339,29.27,1158,-1.52
 QLD,174,Oxley,6365,Goodna,2019,66.94,997,33.06,3016,-6.29
 QLD,174,Oxley,33102,Grand Ave,1764,55.84,1395,44.16,3159,-3.41
-QLD,174,Oxley,6449,Inala,1550,68.13,725,31.87,2275,-8.01
+QLD,174,Oxley,6449,Inala,1558,68.36,721,31.64,2279,-7.78
 QLD,174,Oxley,6450,Inala West,910,70.22,386,29.78,1296,-7.95
 QLD,174,Oxley,58725,Ipswich OXLEY PPVC,182,55.83,144,44.17,326,-1.56
 QLD,174,Oxley,5538,Jamboree Heights,1807,41.86,2510,58.14,4317,-5.7
@@ -4631,10 +4631,10 @@ QLD,174,Oxley,56063,Oxley (Oxley),222,54.15,188,45.85,410,-10.86
 QLD,174,Oxley,5545,Pallara,411,49.88,413,50.12,824,-3.69
 QLD,174,Oxley,6382,Redbank,371,66.25,189,33.75,560,-3.57
 QLD,174,Oxley,46432,Redbank Plains (Oxley),458,71.34,184,28.66,642,0.36
-QLD,174,Oxley,47724,Redbank South,577,61.45,362,38.55,939,-9.59
+QLD,174,Oxley,47724,Redbank South,576,61.47,361,38.53,937,-9.57
 QLD,174,Oxley,6472,Richlands,309,55.18,251,44.82,560,-15.84
 QLD,174,Oxley,6473,Richlands East,1000,71.02,408,28.98,1408,-10.98
-QLD,174,Oxley,6479,Serviceton South,1350,69.34,597,30.66,1947,-10.1
+QLD,174,Oxley,6479,Serviceton South,1353,69.49,594,30.51,1947,-9.95
 QLD,174,Oxley,5551,Seventeen Mile Rocks,1361,43.76,1749,56.24,3110,-5.01
 QLD,174,Oxley,32733,Special Hospital Team 1,43,44.79,53,55.21,96,-4.15
 QLD,174,Oxley,32734,Special Hospital Team 2,18,30,42,70,60,-19.32
@@ -6011,7 +6011,7 @@ TAS,196,Lyons,8670,Sheffield,651,53.89,557,46.11,1208,3.32
 TAS,196,Lyons,8671,Sidmouth,212,49.53,216,50.47,428,4.72
 TAS,196,Lyons,8672,Sorell,1245,60.26,821,39.74,2066,3.03
 TAS,196,Lyons,33649,Special Hospital Team 1,54,60,36,40,90,-2.22
-TAS,196,Lyons,33971,Special Hospital Team 2,0,0,0,0,0,-61.7
+TAS,196,Lyons,33971,Special Hospital Team 2,45,58.44,32,41.56,77,-3.26
 TAS,196,Lyons,33972,Special Hospital Team 3,23,79.31,6,20.69,29,17.41
 TAS,196,Lyons,47820,Special Hospital Team 4,79,56.43,61,43.57,140,-5.75
 TAS,196,Lyons,8663,St Helens,1084,64.03,609,35.97,1693,6.21
@@ -6313,7 +6313,7 @@ VIC,203,Calwell,11515,Sunbury East,1602,68.14,749,31.86,2351,7.7
 VIC,203,Calwell,11516,Sunbury Heights,1856,67.84,880,32.16,2736,8.13
 VIC,203,Calwell,3329,Sunbury North,968,60.24,639,39.76,1607,3.62
 VIC,203,Calwell,58636,Sunbury PPVC,2314,58.52,1640,41.48,3954,-6.13
-VIC,203,Calwell,3330,Sunbury West,2367,61.51,1481,38.49,3848,4.59
+VIC,203,Calwell,3330,Sunbury West,2372,61.61,1478,38.39,3850,4.69
 VIC,203,Calwell,4606,Tullamarine,1925,68.6,881,31.4,2806,1.16
 VIC,203,Calwell,4866,Upfield,1159,75.41,378,24.59,1537,-11.01
 VIC,203,Calwell,4607,Westmeadows,2307,69.91,993,30.09,3300,2.65
@@ -6685,12 +6685,12 @@ VIC,212,Gellibrand,3686,Footscray West,1680,78.87,450,21.13,2130,3.29
 VIC,212,Gellibrand,3687,Kingsville,1137,78.52,311,21.48,1448,3.22
 VIC,212,Gellibrand,3689,Kingsville West,1024,75.74,328,24.26,1352,0.87
 VIC,212,Gellibrand,35344,Laverton (Gellibrand),213,82.56,45,17.44,258,9.99
-VIC,212,Gellibrand,3690,Maidstone,2019,72.86,752,27.14,2771,0.14
+VIC,212,Gellibrand,3690,Maidstone,2014,72.79,753,27.21,2767,0.07
 VIC,212,Gellibrand,35335,Maribyrnong (Gellibrand),631,66.77,314,33.23,945,2.7
 VIC,212,Gellibrand,3684,Maribyrnong South,524,65.75,273,34.25,797,-7.12
-VIC,212,Gellibrand,31984,Melbourne (Gellibrand),106,66.25,54,33.75,160,-2.45
-VIC,212,Gellibrand,3693,Newport,1172,72.12,453,27.88,1625,3.8
-VIC,212,Gellibrand,3694,Newport East,1042,73.54,375,26.46,1417,2.7
+VIC,212,Gellibrand,31984,Melbourne (Gellibrand),96,64,54,36,150,-4.7
+VIC,212,Gellibrand,3693,Newport,1173,72.1,454,27.9,1627,3.78
+VIC,212,Gellibrand,3694,Newport East,1036,73.48,374,26.52,1410,2.64
 VIC,212,Gellibrand,3695,Newport West,1386,79.2,364,20.8,1750,3.79
 VIC,212,Gellibrand,32908,Seabrook (Gellibrand),1862,74.9,624,25.1,2486,3.87
 VIC,212,Gellibrand,4256,Seaholme,1340,69.9,577,30.1,1917,5.11
@@ -6700,7 +6700,7 @@ VIC,212,Gellibrand,31958,Special Hospital Team 1,157,62.55,94,37.45,251,6.19
 VIC,212,Gellibrand,3697,Spotswood,772,72.83,288,27.17,1060,1.9
 VIC,212,Gellibrand,58762,Sunshine GELLIBRAND PPVC,547,77.81,156,22.19,703,7.07
 VIC,212,Gellibrand,3350,Sunvale (Gellibrand),475,83.33,95,16.67,570,5.06
-VIC,212,Gellibrand,3701,Tottenham North,1396,79.41,362,20.59,1758,-1.15
+VIC,212,Gellibrand,3701,Tottenham North,1388,79.18,365,20.82,1753,-1.38
 VIC,212,Gellibrand,3709,Western Hospital,241,80.07,60,19.93,301,5.57
 VIC,212,Gellibrand,3702,Williamstown,907,65.92,469,34.08,1376,-0.16
 VIC,212,Gellibrand,3703,Williamstown North,1313,65.23,700,34.77,2013,2.04
@@ -7178,7 +7178,7 @@ VIC,220,Jagajaga,4348,Montmorency South,1080,66.06,555,33.94,1635,5.69
 VIC,220,Jagajaga,4174,Olympic Village,1604,82.3,345,17.7,1949,3.12
 VIC,220,Jagajaga,3397,Research (Jagajaga),444,54.35,373,45.65,817,1.8
 VIC,220,Jagajaga,4186,Rosanna,1091,60.75,705,39.25,1796,3.68
-VIC,220,Jagajaga,31601,Special Hospital Team 1,0,0,0,0,0,-41.88
+VIC,220,Jagajaga,31601,Special Hospital Team 1,158,50,158,50,316,8.12
 VIC,220,Jagajaga,46590,Special Hospital Team 2,0,0,0,0,0,-41.25
 VIC,220,Jagajaga,12081,St Helena (Jagajaga),1398,56.35,1083,43.65,2481,4.02
 VIC,220,Jagajaga,4189,Viewbank,1646,61.26,1041,38.74,2687,4.09
@@ -7482,11 +7482,11 @@ VIC,226,McEwen,4318,Doreen,650,48.58,688,51.42,1338,10.32
 VIC,226,McEwen,4319,Eden Park,257,46.22,299,53.78,556,3.65
 VIC,226,McEwen,4320,Eildon,252,49.03,262,50.97,514,4.64
 VIC,226,McEwen,47750,Epping Views,777,73.86,275,26.14,1052,20.55
-VIC,226,McEwen,4324,Flowerdale,207,60.7,134,39.3,341,4.25
+VIC,226,McEwen,4324,Flowerdale,209,60.76,135,39.24,344,4.31
 VIC,226,McEwen,3284,Gisborne,1282,51.63,1201,48.37,2483,2.99
-VIC,226,McEwen,47803,Gisborne South,570,56.89,432,43.11,1002,8.1
-VIC,226,McEwen,4882,Gladysdale,227,47.79,248,52.21,475,5.18
-VIC,226,McEwen,4325,Glenburn,104,40.31,154,59.69,258,5.76
+VIC,226,McEwen,47803,Gisborne South,571,56.99,431,43.01,1002,8.2
+VIC,226,McEwen,4882,Gladysdale,226,47.68,248,52.32,474,5.07
+VIC,226,McEwen,4325,Glenburn,104,40.47,153,59.53,257,5.92
 VIC,226,McEwen,4883,Healesville,413,57.6,304,42.4,717,6.09
 VIC,226,McEwen,38409,Healesville Central,1143,58.02,827,41.98,1970,4.14
 VIC,226,McEwen,46553,Healesville PPVC,910,52.09,837,47.91,1747,4.07
@@ -8484,7 +8484,7 @@ WA,305,Hasluck,34091,Divisional Office (PREPOLL),0,0,0,0,0,-48.84
 WA,305,Hasluck,7531,Forrestfield,1310,52.76,1173,47.24,2483,-0.64
 WA,305,Hasluck,7532,Forrestfield North,1748,48.88,1828,51.12,3576,-0.38
 WA,305,Hasluck,7533,Gooseberry Hill,512,36.36,896,63.64,1408,-1.12
-WA,305,Hasluck,7534,Gosnells,1015,53.45,884,46.55,1899,-2.56
+WA,305,Hasluck,7534,Gosnells,1050,55.38,846,44.62,1896,-0.63
 WA,305,Hasluck,7535,Gosnells Central,694,47.44,769,52.56,1463,0.88
 WA,305,Hasluck,7536,Gosnells South,1240,60.72,802,39.28,2042,-0.75
 WA,305,Hasluck,8851,Gosnells West,1517,56.75,1156,43.25,2673,-1.13
@@ -8784,8 +8784,8 @@ WA,245,Perth,8137,East Perth,667,41.15,954,58.85,1621,0.31
 WA,245,Perth,7931,Eden Hill,1507,64.48,830,35.52,2337,0.24
 WA,245,Perth,8138,Embleton,864,60.72,559,39.28,1423,0.49
 WA,245,Perth,32518,Hampton Park,863,52.75,773,47.25,1636,-2.4
-WA,245,Perth,8142,Highgate,1556,66.75,775,33.25,2331,-0.67
-WA,245,Perth,8145,Inglewood,794,61.03,507,38.97,1301,-1.2
+WA,245,Perth,8142,Highgate,1552,66.55,780,33.45,2332,-0.87
+WA,245,Perth,8145,Inglewood,792,61.11,504,38.89,1296,-1.12
 WA,245,Perth,8147,Inglewood North,1297,52.68,1165,47.32,2462,-4.3
 WA,245,Perth,31956,Kiara,849,60.43,556,39.57,1405,-2.5
 WA,245,Perth,7946,Lockridge,981,70.32,414,29.68,1395,-3.61
@@ -8939,7 +8939,7 @@ WA,248,Tangney,7775,Melville South,384,43.39,501,56.61,885,-0.4
 WA,248,Tangney,8274,Mt Pleasant,619,28.62,1544,71.38,2163,-2.66
 WA,248,Tangney,8273,Parkwood (Tangney),1410,55.29,1140,44.71,2550,1.21
 WA,248,Tangney,13991,Perth (Tangney),41,52.56,37,47.44,78,0.84
-WA,248,Tangney,47673,Prison Mobile Team 1,0,0,0,0,0,-100
+WA,248,Tangney,47673,Prison Mobile Team 1,2,66.67,1,33.33,3,-33.33
 WA,248,Tangney,8275,Riverton,848,43.44,1104,56.56,1952,-0.16
 WA,248,Tangney,8276,Rossmoyne,603,31.31,1323,68.69,1926,-3.48
 WA,248,Tangney,32236,Rottnest (Tangney),16,41.03,23,58.97,39,4.59
