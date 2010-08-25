@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T11:24:52 Cycle:b70761e5-08f5-4713-8c89-fd91e50c9c1f Created:2010-08-25T11:02:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T11:41:04 Cycle:fef7b73c-ed0b-4f45-a73d-b59c04bff631 Created:2010-08-25T11:17:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -1220,7 +1220,7 @@ NSW,122,Greenway,32327,Kings Park,654,48.99,681,51.01,1335,-2.1
 NSW,122,Greenway,1033,Lalor Park,1007,60.05,670,39.95,1677,-6.25
 NSW,122,Greenway,1035,Lynwood Park,708,57.24,529,42.76,1237,-3.5
 NSW,122,Greenway,1040,Metella Road,1692,55.22,1372,44.78,3064,-5.55
-NSW,122,Greenway,57247,Old Toongabbie (Greenway),1026,55.97,807,44.03,1833,-3.27
+NSW,122,Greenway,57247,Old Toongabbie (Greenway),1011,55.79,801,44.21,1812,-3.45
 NSW,122,Greenway,1042,Oldfield Road,741,56.91,561,43.09,1302,-6.84
 NSW,122,Greenway,11979,Pendle Hill (Greenway),765,55.12,623,44.88,1388,-9.73
 NSW,122,Greenway,11978,Pendle Hill Central,411,56.15,321,43.85,732,-7.76
@@ -3281,7 +3281,7 @@ QLD,155,Bowman,12036,Alexandra Park,1239,43.44,1613,56.56,2852,-15.08
 QLD,155,Bowman,5125,Amity Point,120,46.69,137,53.31,257,-12.25
 QLD,155,Bowman,58465,Bay View Thornlands,388,36.64,671,63.36,1059,-9.75
 QLD,155,Bowman,5127,Birkdale,1386,40.23,2059,59.77,3445,-9.87
-QLD,155,Bowman,5128,Birkdale South,1625,44.56,2022,55.44,3647,-11.37
+QLD,155,Bowman,5128,Birkdale South,1626,44.6,2020,55.4,3646,-11.33
 QLD,155,Bowman,31069,Brisbane City (Bowman),35,50,35,50,70,-5.68
 QLD,155,Bowman,5129,Capalaba,911,47.8,995,52.2,1906,-10.01
 QLD,155,Bowman,5130,Capalaba West,1182,44.47,1476,55.53,2658,-9.85
@@ -3305,7 +3305,7 @@ QLD,155,Bowman,5149,Russell Island,506,48.47,538,51.53,1044,-7.96
 QLD,155,Bowman,31950,Special Hospital Team 1,57,32.39,119,67.61,176,-3.69
 QLD,155,Bowman,5151,Thorneside,775,47.49,857,52.51,1632,-11.46
 QLD,155,Bowman,5152,Thornlands,1555,37.06,2641,62.94,4196,-9.33
-QLD,155,Bowman,5154,Victoria Point,1745,39.44,2679,60.56,4424,-7.7
+QLD,155,Bowman,5154,Victoria Point,1747,39.62,2662,60.38,4409,-7.52
 QLD,155,Bowman,32084,Victoria Point South,1099,39.59,1677,60.41,2776,-10.87
 QLD,155,Bowman,5155,Vienna Woods,955,47.58,1052,52.42,2007,-11.23
 QLD,155,Bowman,5156,Wellington Point,828,36.72,1427,63.28,2255,-13.31
@@ -3638,12 +3638,12 @@ QLD,161,Fisher,5457,Beerburrum,155,46.55,178,53.45,333,-8.97
 QLD,161,Fisher,5458,Beerwah,1144,47.04,1288,52.96,2432,-2.13
 QLD,161,Fisher,14211,Brisbane City (Fisher),15,32.61,31,67.39,46,-11.05
 QLD,161,Fisher,5416,Buddina,1397,47.65,1535,52.35,2932,1.9
-QLD,161,Fisher,5420,Caloundra,1117,50.5,1095,49.5,2212,2.53
+QLD,161,Fisher,5420,Caloundra,1117,50.47,1096,49.53,2213,2.5
 QLD,161,Fisher,12006,Caloundra North,485,55.11,395,44.89,880,0.54
 QLD,161,Fisher,32835,Caloundra PPVC,1505,42.5,2036,57.5,3541,-2.88
 QLD,161,Fisher,46429,Caloundra West,624,50.04,623,49.96,1247,6.15
 QLD,161,Fisher,5469,Conondale,219,55.03,179,44.97,398,-3.47
-QLD,161,Fisher,5424,Currimundi,1651,52.83,1474,47.17,3125,-0.11
+QLD,161,Fisher,5424,Currimundi,1649,52.8,1474,47.2,3123,-0.14
 QLD,161,Fisher,32550,Currimundi West,1492,49.97,1494,50.03,2986,-0.55
 QLD,161,Fisher,30152,Divisional Office (PREPOLL),554,43.93,707,56.07,1261,-1.38
 QLD,161,Fisher,5426,Eudlo,496,54.03,422,45.97,918,1.16
@@ -6059,7 +6059,7 @@ VIC,197,Aston,2971,Wantirna,1242,49.82,1251,50.18,2493,5.56
 VIC,197,Aston,2973,Wantirna Central,948,46.81,1077,53.19,2025,4.47
 VIC,197,Aston,2972,Wantirna Heights,537,45.94,632,54.06,1169,1.93
 VIC,197,Aston,38310,Wantirna PPVC,727,42.99,964,57.01,1691,0.4
-VIC,197,Aston,2974,Wantirna South,786,48.97,819,51.03,1605,4.93
+VIC,197,Aston,2974,Wantirna South,785,48.94,819,51.06,1604,4.9
 VIC,197,Aston,2966,Watersedge,694,46.61,795,53.39,1489,2.63
 VIC,197,Aston,3584,Weeden Heights,923,43.91,1179,56.09,2102,-1.21
 VIC,198,Ballarat,2977,Alfredton,373,60.65,242,39.35,615,9.45
