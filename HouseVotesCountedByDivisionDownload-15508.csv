@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T18:14:49 Cycle:d3d66458-6b0e-4361-bf51-5a752eae0c73 Created:2010-08-25T18:03:59 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T18:30:23 Cycle:0b9f5cb6-9fb5-487a-b48e-73d8090c9dac Created:2010-08-25T18:19:04 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,TotalPercentage
 179,Adelaide,SA,98526,73419,0,0,0,1165,74584,75.7
 197,Aston,VIC,93448,74328,0,0,0,3992,78320,83.81
@@ -24,7 +24,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 109,Calare,NSW,98504,84818,0,0,0,0,84818,86.11
 203,Calwell,VIC,101314,81146,0,0,0,0,81146,80.09
 101,Canberra,ACT,124215,105128,0,0,0,0,105128,84.63
-236,Canning,WA,90107,68523,1500,0,0,1500,71523,79.38
+236,Canning,WA,90107,68523,992,0,0,2998,72513,80.47
 157,Capricornia,QLD,91962,72141,0,0,0,290,72431,78.76
 204,Casey,VIC,92357,73406,0,0,0,0,73406,79.48
 110,Charlton,NSW,94480,75750,0,0,0,0,75750,80.18
@@ -56,7 +56,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 119,Fowler,NSW,95561,74013,0,0,0,0,74013,77.45
 195,Franklin,TAS,71090,57354,0,0,0,1996,59350,83.49
 102,Fraser,ACT,123444,103583,0,0,0,0,103583,83.91
-240,Fremantle,WA,93341,72347,0,0,999,0,73346,78.58
+240,Fremantle,WA,93341,72359,0,0,999,0,73358,78.59
 212,Gellibrand,VIC,95611,70712,0,0,0,0,70712,73.96
 120,Gilmore,NSW,96317,79637,0,0,0,0,79637,82.68
 213,Gippsland,VIC,97543,81984,0,0,0,0,81984,84.05
@@ -88,7 +88,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 222,Lalor,VIC,117023,93954,0,0,0,4199,98153,83.87
 168,Leichhardt,QLD,93140,74271,0,0,0,2722,76993,82.66
 169,Lilley,QLD,97415,75605,1193,0,0,0,76798,78.84
-128,Lindsay,NSW,95975,80130,0,0,0,0,80130,83.49
+128,Lindsay,NSW,95975,80130,0,0,0,1996,82126,85.57
 306,Lingiari,NT,61126,41649,805,0,0,0,42454,69.45
 302,Longman,QLD,87062,68720,461,0,0,1996,71177,81.75
 130,Lyne,NSW,92565,77098,0,0,0,0,77098,83.29
@@ -116,7 +116,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 135,New England,NSW,99677,83821,0,0,0,0,83821,84.09
 136,Newcastle,NSW,92896,73878,0,0,0,0,73878,79.53
 137,North Sydney,NSW,97567,71081,0,0,0,0,71081,72.85
-243,O'Connor,WA,92875,72242,0,0,0,997,73239,78.86
+243,O'Connor,WA,92875,72243,0,0,0,997,73240,78.86
 174,Oxley,QLD,82782,65074,597,0,0,301,65972,79.69
 138,Page,NSW,94360,77474,0,0,0,0,77474,82.1
 139,Parkes,NSW,100169,80677,0,0,0,0,80677,80.54
@@ -126,7 +126,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 245,Perth,WA,91904,68578,0,0,0,0,68578,74.62
 175,Petrie,QLD,86683,67043,0,0,0,0,67043,77.34
 189,Port Adelaide,SA,104308,82711,0,0,0,3925,86636,83.06
-176,Rankin,QLD,94602,72466,0,0,0,0,72466,76.6
+176,Rankin,QLD,94602,72473,0,0,0,0,72473,76.61
 144,Reid,NSW,95873,74165,0,0,0,0,74165,77.36
 145,Richmond,NSW,92384,72968,0,0,0,0,72968,78.98
 250,Riverina,NSW,98594,82420,0,0,0,0,82420,83.6
@@ -139,7 +139,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 190,Sturt,SA,99061,76768,0,0,0,1221,77989,78.73
 247,Swan,WA,90766,68551,0,0,0,1498,70049,77.18
 149,Sydney,NSW,95277,61943,0,0,0,0,61943,65.01
-248,Tangney,WA,92176,72694,0,0,0,0,72694,78.86
+248,Tangney,WA,92176,72696,0,0,0,0,72696,78.87
 150,Throsby,NSW,95874,80244,0,0,0,0,80244,83.7
 191,Wakefield,SA,100209,79856,0,0,2302,3196,85354,85.18
 233,Wannon,VIC,92264,75034,0,0,0,0,75034,81.33
