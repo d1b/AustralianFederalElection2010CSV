@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T16:41:10 Cycle:6b89893e-5c47-47d9-80c7-e22b3480b187 Created:2010-08-25T16:18:48 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-25T16:56:42 Cycle:4c8b8541-663f-4e15-b2d1-1cb5ca773a0b Created:2010-08-25T16:33:48 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -562,7 +562,7 @@ NSW,110,Charlton,31719,Wyee Point,141,61.3,89,38.7,230,-7.86
 NSW,111,Chifley,413,Arndell Park North,2062,59.02,1432,40.98,3494,-8.83
 NSW,111,Chifley,385,Bidwill,1113,73.51,401,26.49,1514,-6.63
 NSW,111,Chifley,386,Blackett,1085,73.61,389,26.39,1474,-3.78
-NSW,111,Chifley,11947,Blacktown,785,57.34,584,42.66,1369,-5.77
+NSW,111,Chifley,11947,Blacktown,774,57.5,572,42.5,1346,-5.61
 NSW,111,Chifley,58585,Blacktown CHIFLEY PPVC,1563,57.59,1151,42.41,2714,-9.56
 NSW,111,Chifley,388,Blacktown South (Chifley),784,60.63,509,39.37,1293,-3.4
 NSW,111,Chifley,12049,Blacktown West,1718,59.32,1178,40.68,2896,-8.65
@@ -1135,7 +1135,7 @@ NSW,120,Gilmore,970,Terara,230,29.04,562,70.96,792,1.2
 NSW,120,Gilmore,972,Tomerong,333,46.31,386,53.69,719,-1.88
 NSW,120,Gilmore,732,Ulladulla,1039,42.58,1401,57.42,2440,-5.35
 NSW,120,Gilmore,33747,Ulladulla PPVC,1958,39.88,2952,60.12,4910,-6.55
-NSW,120,Gilmore,974,Vincentia,755,45.81,893,54.19,1648,-3.94
+NSW,120,Gilmore,974,Vincentia,755,45.84,892,54.16,1647,-3.91
 NSW,120,Gilmore,34333,Wandandian,71,28.4,179,71.6,250,-12.16
 NSW,120,Gilmore,2808,Warilla (Gilmore),446,70.02,191,29.98,637,-10.44
 NSW,120,Gilmore,58799,Warilla GILMORE PPVC,706,57.77,516,42.23,1222,11.29
@@ -1217,19 +1217,19 @@ NSW,122,Greenway,38323,Kellyville Ridge,1274,41.18,1820,58.82,3094,-2.66
 NSW,122,Greenway,1031,Kings Langley,866,43.45,1127,56.55,1993,-3.6
 NSW,122,Greenway,1032,Kings Langley North,831,39.74,1260,60.26,2091,-4.89
 NSW,122,Greenway,32327,Kings Park,654,48.99,681,51.01,1335,-2.1
-NSW,122,Greenway,1033,Lalor Park,1007,60.05,670,39.95,1677,-6.25
-NSW,122,Greenway,1035,Lynwood Park,708,57.24,529,42.76,1237,-3.5
+NSW,122,Greenway,1033,Lalor Park,987,60,658,40,1645,-6.3
+NSW,122,Greenway,1035,Lynwood Park,685,56.8,521,43.2,1206,-3.94
 NSW,122,Greenway,1040,Metella Road,1692,55.22,1372,44.78,3064,-5.55
 NSW,122,Greenway,57247,Old Toongabbie (Greenway),1011,55.79,801,44.21,1812,-3.45
-NSW,122,Greenway,1042,Oldfield Road,741,56.91,561,43.09,1302,-6.84
-NSW,122,Greenway,11979,Pendle Hill (Greenway),765,55.12,623,44.88,1388,-9.73
+NSW,122,Greenway,1042,Oldfield Road,728,56.61,558,43.39,1286,-7.14
+NSW,122,Greenway,11979,Pendle Hill (Greenway),753,55.29,609,44.71,1362,-9.56
 NSW,122,Greenway,11978,Pendle Hill Central,411,56.15,321,43.85,732,-7.76
 NSW,122,Greenway,2272,Pendle Hill North (Greenway),251,53.29,220,46.71,471,-2.04
 NSW,122,Greenway,1045,Prospect,174,46.52,200,53.48,374,-4.44
 NSW,122,Greenway,1034,Prospect West,914,52.89,814,47.11,1728,-7.03
 NSW,122,Greenway,1047,Quakers Hill East (Greenway),1253,53.21,1102,46.79,2355,-3.18
 NSW,122,Greenway,11946,Quakers Hill North,1462,48.75,1537,51.25,2999,-5.64
-NSW,122,Greenway,34019,Quakers Hill West,105,58.99,73,41.01,178,-4.34
+NSW,122,Greenway,34019,Quakers Hill West,103,58.52,73,41.48,176,-4.81
 NSW,122,Greenway,1048,Riverstone,661,52.01,610,47.99,1271,-0.66
 NSW,122,Greenway,1049,Riverstone East,564,37.75,930,62.25,1494,-8.4
 NSW,122,Greenway,1050,Schofields,439,41.42,621,58.58,1060,-3.59
@@ -1237,9 +1237,9 @@ NSW,122,Greenway,1051,Seven Hills,854,58.53,605,41.47,1459,-6.68
 NSW,122,Greenway,1052,Seven Hills High,723,47.5,799,52.5,1522,-4.96
 NSW,122,Greenway,1053,Seven Hills North,642,45.28,776,54.72,1418,-7.64
 NSW,122,Greenway,1054,Seven Hills West,1084,61.94,666,38.06,1750,-6.27
-NSW,122,Greenway,57204,Special Hospital Team 1,32,59.26,22,40.74,54,25.93
+NSW,122,Greenway,57204,Special Hospital Team 1,32,60.38,21,39.62,53,27.05
 NSW,122,Greenway,47683,Stanhope Gardens,844,44.42,1056,55.58,1900,0.55
-NSW,122,Greenway,14082,Sydney (Greenway),0,0,0,0,0,-56.84
+NSW,122,Greenway,14082,Sydney (Greenway),40,57.97,29,42.03,69,1.13
 NSW,122,Greenway,47684,The Ponds,456,39.65,694,60.35,1150,-4.14
 NSW,122,Greenway,1810,Vineyard East (Greenway),81,45.25,98,54.75,179,10.63
 NSW,124,Hughes,31034,Alfords Point,703,33.25,1411,66.75,2114,-5.09
@@ -3803,7 +3803,7 @@ QLD,162,Forde,55743,Hillcrest (Forde),23,43.4,30,56.6,53,-20.41
 QLD,162,Forde,5390,Kimberley Park,703,42.5,951,57.5,1654,-6.65
 QLD,162,Forde,6457,Logan Reserve,652,45.28,788,54.72,1440,-6.97
 QLD,162,Forde,55712,Logan Village (Forde),293,40.19,436,59.81,729,-11.73
-QLD,162,Forde,32557,Loganholme,1742,48.97,1815,51.03,3557,-5.22
+QLD,162,Forde,32557,Loganholme,1739,48.9,1817,51.1,3556,-5.29
 QLD,162,Forde,6456,Loganlea,814,58.99,566,41.01,1380,-4.71
 QLD,162,Forde,12011,Marsden (Forde),910,61.03,581,38.97,1491,-6.92
 QLD,162,Forde,6278,Mount Warren Park,1287,50.87,1243,49.13,2530,-3.66
@@ -3886,22 +3886,22 @@ QLD,164,Groom,6160,Goombungee,148,24.34,460,75.66,608,-11.76
 QLD,164,Groom,5612,Gowrie,312,29.77,736,70.23,1048,-8.25
 QLD,164,Groom,6447,Greenmount East,118,23,395,77,513,-9.51
 QLD,164,Groom,5614,Harlaxton,622,38.78,982,61.22,1604,-8.3
-QLD,164,Groom,5615,Harlaxton North,125,52.08,115,47.92,240,-6.86
-QLD,164,Groom,5616,Harristown,1157,37.68,1914,62.32,3071,-11.09
-QLD,164,Groom,5617,Harristown East,425,35.8,762,64.2,1187,-11.01
-QLD,164,Groom,5620,Highfields,767,25.44,2248,74.56,3015,-10.04
-QLD,164,Groom,47702,Highfields West,277,22.52,953,77.48,1230,-12.91
-QLD,164,Groom,6178,Jondaryan,38,14.02,233,85.98,271,-13.13
-QLD,164,Groom,5622,Kingsthorpe,287,29.74,678,70.26,965,-14.02
+QLD,164,Groom,5615,Harlaxton North,124,51.67,116,48.33,240,-7.27
+QLD,164,Groom,5616,Harristown,1159,37.73,1913,62.27,3072,-11.04
+QLD,164,Groom,5617,Harristown East,425,35.86,760,64.14,1185,-10.95
+QLD,164,Groom,5620,Highfields,765,25.38,2249,74.62,3014,-10.1
+QLD,164,Groom,47702,Highfields West,277,22.47,956,77.53,1233,-12.96
+QLD,164,Groom,6178,Jondaryan,37,13.75,232,86.25,269,-13.4
+QLD,164,Groom,5622,Kingsthorpe,286,29.61,680,70.39,966,-14.15
 QLD,164,Groom,6186,Kulpi,33,16.42,168,83.58,201,-8.81
 QLD,164,Groom,6189,Maclagan,16,18.39,71,81.61,87,-2.48
-QLD,164,Groom,31483,Meringandan,286,28.8,707,71.2,993,-11.2
-QLD,164,Groom,5627,Middle Ridge,1080,27.12,2902,72.88,3982,-7.26
-QLD,164,Groom,5628,Mount Lofty,411,40.49,604,59.51,1015,-10.83
-QLD,164,Groom,6197,Mount Tyson,50,17.36,238,82.64,288,-8.32
-QLD,164,Groom,5630,Newtown,954,40.77,1386,59.23,2340,-12.89
-QLD,164,Groom,5632,Oakey,676,33.94,1316,66.06,1992,-14.44
-QLD,164,Groom,6204,Pittsworth,417,22.12,1468,77.88,1885,-10.2
+QLD,164,Groom,31483,Meringandan,288,28.92,708,71.08,996,-11.08
+QLD,164,Groom,5627,Middle Ridge,1092,27.42,2890,72.58,3982,-6.96
+QLD,164,Groom,5628,Mount Lofty,410,40.43,604,59.57,1014,-10.89
+QLD,164,Groom,6197,Mount Tyson,49,17.13,237,82.87,286,-8.55
+QLD,164,Groom,5630,Newtown,953,40.67,1390,59.33,2343,-12.99
+QLD,164,Groom,5632,Oakey,670,33.79,1313,66.21,1983,-14.59
+QLD,164,Groom,6204,Pittsworth,424,22.48,1462,77.52,1886,-9.84
 QLD,164,Groom,6206,Quinalow,26,12.56,181,87.44,207,-3.33
 QLD,164,Groom,5633,Rangeville,942,29.72,2228,70.28,3170,-8.94
 QLD,164,Groom,5637,Rangeville North,334,34.65,630,65.35,964,-9.52
@@ -5341,16 +5341,16 @@ SA,186,Kingston,8849,Maslin Beach,507,67.78,241,32.22,748,9.26
 SA,186,Kingston,7198,Mclaren Flat,479,52.01,442,47.99,921,12.66
 SA,186,Kingston,7199,Mclaren Vale,953,47.75,1043,52.25,1996,7.27
 SA,186,Kingston,7203,Moana,1375,68,647,32,2022,12.08
-SA,186,Kingston,7105,Morphett Vale,1876,69.28,832,30.72,2708,9.6
-SA,186,Kingston,7106,Morphett Vale East,1173,65.09,629,34.91,1802,11.02
-SA,186,Kingston,7107,Morphett Vale North,874,65.76,455,34.24,1329,11.66
-SA,186,Kingston,7108,Morphett Vale South,827,70.44,347,29.56,1174,7.01
+SA,186,Kingston,7105,Morphett Vale,1892,69.89,815,30.11,2707,10.21
+SA,186,Kingston,7106,Morphett Vale East,1171,65.13,627,34.87,1798,11.06
+SA,186,Kingston,7107,Morphett Vale North,872,65.66,456,34.34,1328,11.56
+SA,186,Kingston,7108,Morphett Vale South,829,70.55,346,29.45,1175,7.12
 SA,186,Kingston,31731,Noarlunga Centre PPVC,1714,61.63,1067,38.37,2781,13.88
-SA,186,Kingston,7109,Noarlunga Downs,995,70.92,408,29.08,1403,9.19
-SA,186,Kingston,7110,O'Halloran Hill,1598,63.11,934,36.89,2532,10.99
+SA,186,Kingston,7109,Noarlunga Downs,994,70.95,407,29.05,1401,9.22
+SA,186,Kingston,7110,O'Halloran Hill,1548,62.42,932,37.58,2480,10.3
 SA,186,Kingston,7217,Old Noarlunga,490,62.1,299,37.9,789,7.64
-SA,186,Kingston,31288,Onkaparinga Hills,912,66.67,456,33.33,1368,11.98
-SA,186,Kingston,7111,O'Sullivan Beach,772,69.42,340,30.58,1112,7.78
+SA,186,Kingston,31288,Onkaparinga Hills,910,66.52,458,33.48,1368,11.83
+SA,186,Kingston,7111,O'Sullivan Beach,773,69.64,337,30.36,1110,8
 SA,186,Kingston,7112,Pimpala,1212,65.23,646,34.77,1858,12.28
 SA,186,Kingston,7113,Port Noarlunga,1005,67.95,474,32.05,1479,10.18
 SA,186,Kingston,7114,Reynella,1648,64.63,902,35.37,2550,8.73
@@ -6062,8 +6062,8 @@ VIC,197,Aston,38310,Wantirna PPVC,727,42.99,964,57.01,1691,0.4
 VIC,197,Aston,2974,Wantirna South,785,48.94,819,51.06,1604,4.9
 VIC,197,Aston,2966,Watersedge,693,46.6,794,53.4,1487,2.62
 VIC,197,Aston,3584,Weeden Heights,919,43.82,1178,56.18,2097,-1.3
-VIC,198,Ballarat,2977,Alfredton,373,60.65,242,39.35,615,9.45
-VIC,198,Ballarat,2978,Alfredton West,1507,53.86,1291,46.14,2798,7.41
+VIC,198,Ballarat,2977,Alfredton,374,60.71,242,39.29,616,9.51
+VIC,198,Ballarat,2978,Alfredton West,1508,53.91,1289,46.09,2797,7.46
 VIC,198,Ballarat,2983,Ascot,36,20.93,136,79.07,172,1.82
 VIC,198,Ballarat,3252,Bacchus Marsh,1082,59.88,725,40.12,1807,3.27
 VIC,198,Ballarat,3253,Ballan,1056,62.67,629,37.33,1685,2.8
@@ -6453,7 +6453,7 @@ VIC,207,Corangamite,3503,Moriac,365,42.79,488,57.21,853,-0.02
 VIC,207,Corangamite,3504,Mount Duneed,242,43.29,317,56.71,559,-0.15
 VIC,207,Corangamite,3506,Oberon,704,57.8,514,42.2,1218,0.78
 VIC,207,Corangamite,3507,Oberon South,727,58.02,526,41.98,1253,0.96
-VIC,207,Corangamite,3473,Ocean Grove,1454,57.27,1085,42.73,2539,0.91
+VIC,207,Corangamite,3473,Ocean Grove,1430,56.97,1080,43.03,2510,0.61
 VIC,207,Corangamite,46544,Ocean Grove South,531,58.74,373,41.26,904,6.61
 VIC,207,Corangamite,3508,Ocean Grove West,1399,57.03,1054,42.97,2453,0.01
 VIC,207,Corangamite,3510,Point Lonsdale,635,42.7,852,57.3,1487,-2.15
@@ -6994,7 +6994,7 @@ VIC,217,Hotham,4014,Moorabbin Heights,1192,59.19,822,40.81,2014,0.78
 VIC,217,Hotham,4004,Moorabbin South,798,55.77,633,44.23,1431,0.5
 VIC,217,Hotham,4005,Moorabbin South East,1199,60.52,782,39.48,1981,2.23
 VIC,217,Hotham,3905,Murrumbeena South,1347,57.99,976,42.01,2323,0.1
-VIC,217,Hotham,34030,Oakleigh (Hotham),290,70.73,120,29.27,410,2.26
+VIC,217,Hotham,34030,Oakleigh (Hotham),281,68.54,129,31.46,410,0.07
 VIC,217,Hotham,3907,Oakleigh Central,980,71.01,400,28.99,1380,1.52
 VIC,217,Hotham,58653,Oakleigh HOTHAM PPVC,1398,61.45,877,38.55,2275,16.18
 VIC,217,Hotham,3909,Oakleigh South,1224,68.42,565,31.58,1789,1.3
@@ -7348,7 +7348,7 @@ VIC,224,Mallee,4568,Horsham East,261,27.94,673,72.06,934,-1.6
 VIC,224,Mallee,4484,Horsham North,391,35.13,722,64.87,1113,-1.51
 VIC,224,Mallee,31599,Horsham PPVC,1078,26.72,2957,73.28,4035,-44.62
 VIC,224,Mallee,4485,Horsham West,408,30.63,924,69.37,1332,3.64
-VIC,224,Mallee,4486,Irymple,412,27.27,1099,72.73,1511,-4.27
+VIC,224,Mallee,4486,Irymple,413,27.33,1098,72.67,1511,-4.21
 VIC,224,Mallee,4487,Jeparit,93,31.96,198,68.04,291,-0.38
 VIC,224,Mallee,4489,Kaniva,104,15.29,576,84.71,680,-0.04
 VIC,224,Mallee,4759,Kerang,390,24.39,1209,75.61,1599,-1.92
@@ -7735,7 +7735,7 @@ VIC,229,Menzies,30220,Divisional Office (PREPOLL),120,38.71,190,61.29,310,-2.54
 VIC,229,Menzies,4696,Donburn,554,41.97,766,58.03,1320,-6.27
 VIC,229,Menzies,4697,Doncaster,891,42.53,1204,57.47,2095,-5.9
 VIC,229,Menzies,4698,Doncaster Central,1228,45.75,1456,54.25,2684,-6.61
-VIC,229,Menzies,4699,Doncaster East,1650,44.69,2042,55.31,3692,-5.75
+VIC,229,Menzies,4699,Doncaster East,1652,44.68,2045,55.32,3697,-5.76
 VIC,229,Menzies,32953,Doncaster East PPVC,1360,36.64,2352,63.36,3712,-4.62
 VIC,229,Menzies,4715,Doncaster Gardens,798,47.25,891,52.75,1689,-5.41
 VIC,229,Menzies,4700,Doncaster Heights,663,42.64,892,57.36,1555,-3.99
@@ -8898,13 +8898,13 @@ WA,247,Swan,32875,Qantas Domestic Terminal PPVC,70,38.04,114,61.96,184,-9.15
 WA,247,Swan,7552,Queens Park,495,52,457,48,952,-5.17
 WA,247,Swan,8233,Redcliffe,630,53.57,546,46.43,1176,0.31
 WA,247,Swan,8234,Rivervale,473,49.02,492,50.98,965,-2.41
-WA,247,Swan,8241,Rivervale North,772,50.82,747,49.18,1519,-5.56
+WA,247,Swan,8241,Rivervale North,769,50.96,740,49.04,1509,-5.42
 WA,247,Swan,32223,Rottnest (Swan),3,13.04,20,86.96,23,-37.49
 WA,247,Swan,8235,Rowethorpe,67,40.85,97,59.15,164,-3.15
 WA,247,Swan,58777,Skippers Airport PPVC,0,0,0,0,0,0
 WA,247,Swan,8236,South Perth,1006,32.93,2049,67.07,3055,-0.02
 WA,247,Swan,8237,South Perth Central,441,33.16,889,66.84,1330,-4.12
-WA,247,Swan,8230,South Perth North,297,29.73,702,70.27,999,2.06
+WA,247,Swan,8230,South Perth North,299,30.26,689,69.74,988,2.59
 WA,247,Swan,34090,Special Hospital Team 1,65,51.59,61,48.41,126,10.03
 WA,247,Swan,34124,Special Hospital Team 2,89,49.44,91,50.56,180,7.89
 WA,247,Swan,34125,Special Hospital Team 3,74,32.46,154,67.54,228,-9.26
