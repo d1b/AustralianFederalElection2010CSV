@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T14:44:28 Cycle:0fef0274-adf0-4b6e-b4c2-138e8cee7d8c Created:2010-08-26T14:33:33 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T14:59:45 Cycle:9ecfdf60-2e6a-496a-83cc-741e4de2bc40 Created:2010-08-26T14:48:38 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -1823,7 +1823,7 @@ NSW,315,McMahon,2337,Fairfield Heights,1602,66.34,813,33.66,2415,-6.99
 NSW,315,McMahon,46744,Fairfield MCMAHON PPVC,1788,52.7,1605,47.3,3393,-12.73
 NSW,315,McMahon,2338,Fairfield North,317,66.46,160,33.54,477,-11.03
 NSW,315,McMahon,2339,Fairfield South,1518,71.47,606,28.53,2124,-4.92
-NSW,315,McMahon,2340,Fairfield West,1671,69.86,721,30.14,2392,-2.46
+NSW,315,McMahon,2340,Fairfield West,1667,69.72,724,30.28,2391,-2.6
 NSW,315,McMahon,2341,Fairfield West Central,1036,68.25,482,31.75,1518,-4.24
 NSW,315,McMahon,874,Greenfield Park,1279,62.39,771,37.61,2050,-6.66
 NSW,315,McMahon,2342,Greystanes,1722,52.84,1537,47.16,3259,-4.12
@@ -1838,11 +1838,11 @@ NSW,315,McMahon,2256,Merrylands Central (McMahon),169,52.32,154,47.68,323,-5.15
 NSW,315,McMahon,2354,Merrylands West (McMahon),525,49.11,544,50.89,1069,-10.87
 NSW,315,McMahon,2355,Smithfield,1255,63.77,713,36.23,1968,-3.58
 NSW,315,McMahon,2356,Smithfield East,1051,65.28,559,34.72,1610,-4.51
-NSW,315,McMahon,2357,Smithfield West,1819,59.41,1243,40.59,3062,-6.65
+NSW,315,McMahon,2357,Smithfield West,1820,59.5,1239,40.5,3059,-6.56
 NSW,315,McMahon,2280,South Wentworthville Central,363,49.86,365,50.14,728,-2.02
 NSW,315,McMahon,2260,South Wentworthville West,253,50.1,252,49.9,505,-8.5
 NSW,315,McMahon,57627,Special Hospital Team 1,0,0,0,0,0,-58.57
-NSW,315,McMahon,409,St Clair,961,60.06,639,39.94,1600,-0.39
+NSW,315,McMahon,409,St Clair,960,60.04,639,39.96,1599,-0.41
 NSW,315,McMahon,391,St Clair East,1229,56.71,938,43.29,2167,-1.17
 NSW,315,McMahon,390,St Clair South,1486,57.75,1087,42.25,2573,-3.15
 NSW,315,McMahon,383,St Clair West,2062,58.36,1471,41.64,3533,-3.44
@@ -3095,7 +3095,7 @@ NT,306,Lingiari,34264,Bees Creek,513,49.19,530,50.81,1043,8.09
 NT,306,Lingiari,8706,Berry Springs,356,52.12,327,47.88,683,-0.61
 NT,306,Lingiari,34265,Blatherskite Park,71,52.59,64,47.41,135,5.53
 NT,306,Lingiari,8707,Braitling,764,54.89,628,45.11,1392,12.25
-NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,0,0,0,0,0,-58.57
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,155,65.13,83,34.87,238,6.56
 NT,306,Lingiari,8886,Christmas Island,304,70.7,126,29.3,430,-12.12
 NT,306,Lingiari,34174,Christmas Island PPVC,0,0,0,0,0,0
 NT,306,Lingiari,34176,Cocos Islands PPVC,0,0,0,0,0,0
@@ -3110,7 +3110,7 @@ NT,306,Lingiari,8715,Jabiru,157,60.15,104,39.85,261,2.74
 NT,306,Lingiari,34178,Jabiru PPVC,61,49.19,63,50.81,124,-9.35
 NT,306,Lingiari,8717,Katherine,448,46.57,514,53.43,962,5.82
 NT,306,Lingiari,12068,Katherine East,407,49.76,411,50.24,818,4.57
-NT,306,Lingiari,34179,Katherine PPVC,774,43.7,997,56.3,1771,-14.74
+NT,306,Lingiari,34179,Katherine PPVC,764,43.34,999,56.66,1763,-15.1
 NT,306,Lingiari,12069,Larapinta,563,52.91,501,47.09,1064,8.17
 NT,306,Lingiari,8723,Nhulunbuy,807,66.8,401,33.2,1208,0.42
 NT,306,Lingiari,34181,Nhulunbuy PPVC,233,65.45,123,34.55,356,7.12
@@ -3540,7 +3540,7 @@ QLD,252,Dickson,5489,Kurwongbah,1182,50.21,1172,49.79,2354,-6.06
 QLD,252,Dickson,5490,Lawnton,1334,54.14,1130,45.86,2464,-5.05
 QLD,252,Dickson,6517,Mount Nebo,265,76.37,82,23.63,347,-1.25
 QLD,252,Dickson,11998,Murrumba Downs (Dickson),1759,42.65,2365,57.35,4124,-6.22
-QLD,252,Dickson,5506,Petrie,1128,44.96,1381,55.04,2509,-9.18
+QLD,252,Dickson,5506,Petrie,1127,45.01,1377,54.99,2504,-9.13
 QLD,252,Dickson,6522,Samford,1494,37.65,2474,62.35,3968,-4.77
 QLD,252,Dickson,32609,Special Hospital Team 1,36,41.38,51,58.62,87,-4.69
 QLD,252,Dickson,5509,Strathpine,1293,52.01,1193,47.99,2486,-7.06
@@ -4193,7 +4193,7 @@ QLD,168,Leichhardt,5937,Manunda,674,48.7,710,51.3,1384,-7.57
 QLD,168,Leichhardt,5981,Miallo,118,35.54,214,64.46,332,-8.5
 QLD,168,Leichhardt,5926,Mooroobool,947,48.17,1019,51.83,1966,-8.3
 QLD,168,Leichhardt,5985,Mossman,710,44.4,889,55.6,1599,-7.46
-QLD,168,Leichhardt,6008,Napranum,188,62.67,112,37.33,300,-15.81
+QLD,168,Leichhardt,6008,Napranum,187,62.33,113,37.67,300,-16.15
 QLD,168,Leichhardt,5991,Parramatta Park,1496,54.4,1254,45.6,2750,-2.77
 QLD,168,Leichhardt,5953,Pormpuraaw,148,42.05,204,57.95,352,-38.09
 QLD,168,Leichhardt,5992,Port Douglas,700,44.67,867,55.33,1567,-3.12
@@ -6875,9 +6875,9 @@ VIC,309,Gorton,32035,Melbourne (Gorton),50,70.42,21,29.58,71,6.61
 VIC,309,Gorton,31048,Monmia,2488,71.43,995,28.57,3483,0.72
 VIC,309,Gorton,46563,Movelle,915,82.81,190,17.19,1105,-0.14
 VIC,309,Gorton,46557,Parkwood Green,1625,71.02,663,28.98,2288,3.43
-VIC,309,Gorton,36391,Special Hospital Team 1,0,0,0,0,0,-47.62
+VIC,309,Gorton,36391,Special Hospital Team 1,22,53.66,19,46.34,41,6.04
 VIC,309,Gorton,47827,Springside,927,73.22,339,26.78,1266,4.81
-VIC,309,Gorton,38284,St Albans GORTON PPVC,3618,73.19,1325,26.81,4943,45.54
+VIC,309,Gorton,38284,St Albans GORTON PPVC,3632,73.37,1318,26.63,4950,45.72
 VIC,309,Gorton,3363,St Albans South,1207,72.23,464,27.77,1671,-6.71
 VIC,309,Gorton,3365,St Albans West,1387,80.13,344,19.87,1731,0.59
 VIC,309,Gorton,3366,Stevensville,464,77.08,138,22.92,602,-1
@@ -6938,12 +6938,12 @@ VIC,216,Holt,31050,Coral Park,1659,72.54,628,27.46,2287,-2.04
 VIC,216,Holt,32372,Courtney Gardens,2008,64.32,1114,35.68,3122,4.67
 VIC,216,Holt,3960,Cranbourne,1773,61.52,1109,38.48,2882,6.17
 VIC,216,Holt,47810,Cranbourne Heights,502,59.06,348,40.94,850,-4.34
-VIC,216,Holt,38290,Cranbourne HOLT PPVC,2144,56.89,1625,43.11,3769,14.94
+VIC,216,Holt,38290,Cranbourne HOLT PPVC,2146,56.89,1626,43.11,3772,14.94
 VIC,216,Holt,47813,Cranbourne North,218,63.01,128,36.99,346,7.07
 VIC,216,Holt,47814,Cranbourne North East,553,66.47,279,33.53,832,9.95
 VIC,216,Holt,3961,Cranbourne Park,1433,65.11,768,34.89,2201,4.52
 VIC,216,Holt,11647,Cranbourne West,2269,67.41,1097,32.59,3366,3.63
-VIC,216,Holt,58783,Dandenong HOLT PPVC,1167,66.46,589,33.54,1756,24.57
+VIC,216,Holt,58783,Dandenong HOLT PPVC,1170,66.67,585,33.33,1755,24.78
 VIC,216,Holt,30207,Divisional Office (PREPOLL),558,56.19,435,43.81,993,14.27
 VIC,216,Holt,4276,Doveton North,1215,72.8,454,27.2,1669,-1.09
 VIC,216,Holt,4277,Doveton West,753,68.58,345,31.42,1098,-3.73
@@ -6968,8 +6968,8 @@ VIC,216,Holt,31999,Melbourne (Holt),37,69.81,16,30.19,53,-1.89
 VIC,216,Holt,36442,Narre Warren South,2820,66.37,1429,33.63,4249,2.14
 VIC,216,Holt,46760,Rangebank,697,65.88,361,34.12,1058,1.89
 VIC,216,Holt,32020,Special Hospital Team 1,18,43.9,23,56.1,41,-7.16
-VIC,216,Holt,46567,Strathaird,1270,65.94,656,34.06,1926,4.23
-VIC,216,Holt,46568,Thomas Mitchell,936,56.59,718,43.41,1654,-3.53
+VIC,216,Holt,46567,Strathaird,1269,65.96,655,34.04,1924,4.25
+VIC,216,Holt,46568,Thomas Mitchell,1085,60.18,718,39.82,1803,0.06
 VIC,217,Hotham,3887,Bentleigh Central (Hotham),1005,54.44,841,45.56,1846,1.73
 VIC,217,Hotham,3988,Bentleigh East,1010,58.35,721,41.65,1731,2.71
 VIC,217,Hotham,3890,Carnegie East,1058,61.26,669,38.74,1727,0.27
@@ -8493,7 +8493,7 @@ WA,305,Hasluck,8220,Hazelmere,658,49.81,663,50.19,1321,-0.43
 WA,305,Hasluck,7922,Helena Valley (Hasluck),545,43.05,721,56.95,1266,-0.43
 WA,305,Hasluck,7538,High Wycombe,1520,48.76,1597,51.24,3117,-0.88
 WA,305,Hasluck,11905,High Wycombe South,1188,50.25,1176,49.75,2364,-0.44
-WA,305,Hasluck,8268,Huntingdale,1758,53.4,1534,46.6,3292,1.6
+WA,305,Hasluck,8268,Huntingdale,1752,53.35,1532,46.65,3284,1.55
 WA,305,Hasluck,36438,Huntingdale South,601,43.46,782,56.54,1383,-2.02
 WA,305,Hasluck,7539,Kalamunda,1104,40.54,1619,59.46,2723,-0.6
 WA,305,Hasluck,7540,Kalamunda North,629,38.26,1015,61.74,1644,-2.81
@@ -8795,10 +8795,10 @@ WA,245,Perth,8163,Mercy Hospital,238,46.58,273,53.42,511,-5.88
 WA,245,Perth,11596,Morley,1220,50.88,1178,49.12,2398,-5.17
 WA,245,Perth,8153,Morley North,394,52.89,351,47.11,745,-1.63
 WA,245,Perth,8140,Morley South,1317,57.69,966,42.31,2283,-2.4
-WA,245,Perth,8154,Mount Lawley,1202,50.21,1192,49.79,2394,-1.66
+WA,245,Perth,8154,Mount Lawley,1196,50.02,1195,49.98,2391,-1.85
 WA,245,Perth,8155,Mount Lawley East,473,52.5,428,47.5,901,-2.06
 WA,245,Perth,8139,Mount Lawley South,535,58.03,387,41.97,922,-2.64
-WA,245,Perth,8156,Mount Lawley West,339,45.81,401,54.19,740,-1.83
+WA,245,Perth,8156,Mount Lawley West,338,45.74,401,54.26,739,-1.9
 WA,245,Perth,8157,Noranda,1020,47.69,1119,52.31,2139,-0.09
 WA,245,Perth,8158,Noranda West (Perth),860,46.97,971,53.03,1831,1.45
 WA,245,Perth,8159,North Perth,389,57.63,286,42.37,675,-0.14
@@ -8948,6 +8948,6 @@ WA,248,Tangney,34088,Special Hospital Team 1,118,24.84,357,75.16,475,-3.57
 WA,248,Tangney,34189,Special Hospital Team 2,77,25.41,226,74.59,303,-3.16
 WA,248,Tangney,8283,Willetton,1019,41.61,1430,58.39,2449,-2.05
 WA,248,Tangney,8284,Willetton East,1384,44.62,1718,55.38,3102,-1.79
-WA,248,Tangney,11907,Willetton North,636,43.65,821,56.35,1457,0.04
-WA,248,Tangney,8285,Willetton South,1207,42.49,1634,57.51,2841,-5.27
+WA,248,Tangney,11907,Willetton North,635,43.61,821,56.39,1456,0
+WA,248,Tangney,8285,Willetton South,1208,42.52,1633,57.48,2841,-5.24
 WA,248,Tangney,11635,Winthrop,1272,32.07,2694,67.93,3966,-5.48
