@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T15:30:55 Cycle:2c2ef937-f59e-43d1-9b54-01d3a7b08e9a Created:2010-08-26T15:18:38 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T15:46:18 Cycle:98c386f8-fa1c-43f0-8a84-2bfb3ebb6635 Created:2010-08-26T15:33:43 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -711,7 +711,7 @@ NSW,113,Cowper,509,Smithtown,122,26.7,335,73.3,457,-12.7
 NSW,113,Cowper,33724,South Grafton (Cowper),107,47.35,119,52.65,226,-12.42
 NSW,113,Cowper,510,South West Rocks,538,38.54,858,61.46,1396,-12.25
 NSW,113,Cowper,32333,South West Rocks South,486,34.62,918,65.38,1404,-10.05
-NSW,113,Cowper,33611,Special Hospital Team 1,0,0,0,0,0,-39.84
+NSW,113,Cowper,33611,Special Hospital Team 1,46,38.66,73,61.34,119,-1.18
 NSW,113,Cowper,33716,Special Hospital Team 2,0,0,0,0,0,-39.85
 NSW,113,Cowper,33717,Special Hospital Team 3,0,0,0,0,0,-40
 NSW,113,Cowper,46428,Special Hospital Team 4,0,0,0,0,0,-39.73
@@ -3114,7 +3114,7 @@ NT,306,Lingiari,34179,Katherine PPVC,764,43.34,999,56.66,1763,-15.1
 NT,306,Lingiari,12069,Larapinta,563,52.91,501,47.09,1064,8.17
 NT,306,Lingiari,8723,Nhulunbuy,807,66.8,401,33.2,1208,0.42
 NT,306,Lingiari,34181,Nhulunbuy PPVC,233,65.45,123,34.55,356,7.12
-NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,365,44.08,463,55.92,828,-14.51
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,366,43.99,466,56.01,832,-14.6
 NT,306,Lingiari,8727,Pine Creek,46,40.71,67,59.29,113,-3.23
 NT,306,Lingiari,34143,Prison Mobile Team 1,88,47.06,99,52.94,187,-41.08
 NT,306,Lingiari,34147,Remote Mobile Team 1,731,63.29,424,36.71,1155,-24.34
@@ -4290,12 +4290,12 @@ QLD,302,Longman,31687,Divisional Office (PREPOLL),12,50,12,50,24,50
 QLD,302,Longman,5478,Donnybrook,205,45.96,241,54.04,446,-5.31
 QLD,302,Longman,5479,Elimbah,896,44.23,1130,55.77,2026,-5.72
 QLD,302,Longman,55950,Kallangur (Longman),774,55.6,618,44.4,1392,-5.39
-QLD,302,Longman,55954,Kallangur East (Longman),204,57.79,149,42.21,353,-2.75
+QLD,302,Longman,55954,Kallangur East (Longman),203,58.17,146,41.83,349,-2.37
 QLD,302,Longman,55951,Kallangur West (Longman),404,55.49,324,44.51,728,-3.8
 QLD,302,Longman,31486,Morayfield,2138,53.52,1857,46.48,3995,-2.97
 QLD,302,Longman,11997,Morayfield East,1373,53.28,1204,46.72,2577,-2.83
 QLD,302,Longman,32501,Morayfield West,1250,51.19,1192,48.81,2442,-3.49
-QLD,302,Longman,5499,Mount Mee,104,36.75,179,63.25,283,0.59
+QLD,302,Longman,5499,Mount Mee,105,37.1,178,62.9,283,0.94
 QLD,302,Longman,5502,Narangba,986,45.95,1160,54.05,2146,-4.91
 QLD,302,Longman,32502,Narangba Valley,1971,51,1894,49,3865,-2.8
 QLD,302,Longman,5503,Ningi,920,43.96,1173,56.04,2093,-2.83
@@ -5142,7 +5142,7 @@ SA,182,Boothby,7040,West Brighton,645,39.23,999,60.77,1644,-0.28
 SA,182,Boothby,6891,Westbourne Park,905,48.89,946,51.11,1851,0.22
 SA,183,Grey,7324,Alford,54,35.29,99,64.71,153,2.77
 SA,183,Grey,6908,Andamooka,77,39.49,118,60.51,195,-6.46
-SA,183,Grey,7326,Ardrossan,407,40.74,592,59.26,999,2.53
+SA,183,Grey,7326,Ardrossan,406,40.68,592,59.32,998,2.47
 SA,183,Grey,6909,Arno Bay,42,20.39,164,79.61,206,-2.82
 SA,183,Grey,7327,Arthurton,41,20.2,162,79.8,203,0.91
 SA,183,Grey,7332,Blyth,66,22.92,222,77.08,288,1.84
@@ -5218,7 +5218,7 @@ SA,183,Grey,13111,Port Pirie PPVC,720,50.35,710,49.65,1430,-1.21
 SA,183,Grey,6945,Port Pirie South,129,33.68,254,66.32,383,-20.74
 SA,183,Grey,6956,Port Pirie West,1211,54.72,1002,45.28,2213,-12.08
 SA,183,Grey,7408,Port Victoria,66,29.2,160,70.8,226,1.48
-SA,183,Grey,7409,Port Vincent,109,29.95,255,70.05,364,-3.12
+SA,183,Grey,7409,Port Vincent,111,30.49,253,69.51,364,-2.58
 SA,183,Grey,6957,Quorn,206,32.49,428,67.51,634,-9.5
 SA,183,Grey,7411,Redhill,39,31.71,84,68.29,123,-2.91
 SA,183,Grey,33211,Remote Mobile Team 1,395,58.61,279,41.39,674,-3.34
@@ -5226,7 +5226,7 @@ SA,183,Grey,33212,Remote Mobile Team 2,81,56.64,62,43.36,143,-5.47
 SA,183,Grey,33213,Remote Mobile Team 3,136,50.37,134,49.63,270,-11.55
 SA,183,Grey,6958,Risdon Park East,909,44.71,1124,55.29,2033,-10.51
 SA,183,Grey,6959,Risdon Park South,512,52.84,457,47.16,969,-11.47
-SA,183,Grey,7413,Robertstown,60,31.41,131,68.59,191,-4.21
+SA,183,Grey,7413,Robertstown,60,31.58,130,68.42,190,-4.04
 SA,183,Grey,6944,Roxby Downs,416,34.9,776,65.1,1192,-5.15
 SA,183,Grey,13114,Roxby Downs PPVC,170,34.14,328,65.86,498,-17.61
 SA,183,Grey,6963,Smoky Bay,19,12.03,139,87.97,158,-1.76
@@ -6436,7 +6436,7 @@ VIC,207,Corangamite,3483,Gellibrand River,124,56.88,94,43.12,218,0.73
 VIC,207,Corangamite,3487,Grovedale,1863,55.46,1496,44.54,3359,0.87
 VIC,207,Corangamite,32829,Grovedale East,1300,53.96,1109,46.04,2409,0.55
 VIC,207,Corangamite,32828,Highton,1053,46.27,1223,53.73,2276,0.42
-VIC,207,Corangamite,3488,Highton North,1075,48.8,1128,51.2,2203,1.15
+VIC,207,Corangamite,3488,Highton North,1071,48.64,1131,51.36,2202,0.99
 VIC,207,Corangamite,3460,Highton South,1164,51.57,1093,48.43,2257,0.52
 VIC,207,Corangamite,46542,Highton West,885,42.3,1207,57.7,2092,0.51
 VIC,207,Corangamite,3490,Inverleigh,316,46.2,368,53.8,684,-3.41
@@ -7728,22 +7728,22 @@ VIC,230,Melbourne Ports,4683,St Kilda North,1192,70.37,502,29.63,1694,4.52
 VIC,230,Melbourne Ports,4684,St Kilda Park,1567,68.49,721,31.51,2288,2.14
 VIC,230,Melbourne Ports,11763,St Kilda PPVC,3108,59.71,2097,40.29,5205,2.18
 VIC,230,Melbourne Ports,4685,St Kilda South,1350,70.83,556,29.17,1906,-0.92
-VIC,229,Menzies,4692,Beverley Hills,1121,46.88,1270,53.12,2391,-1.29
+VIC,229,Menzies,4692,Beverley Hills,1128,47.04,1270,52.96,2398,-1.13
 VIC,229,Menzies,4694,Bulleen,1290,48.15,1389,51.85,2679,-2
 VIC,229,Menzies,4695,Bulleen West,494,50.51,484,49.49,978,-4.14
 VIC,229,Menzies,30220,Divisional Office (PREPOLL),120,38.71,190,61.29,310,-2.54
 VIC,229,Menzies,4696,Donburn,554,41.97,766,58.03,1320,-6.27
 VIC,229,Menzies,4697,Doncaster,892,42.56,1204,57.44,2096,-5.87
-VIC,229,Menzies,4698,Doncaster Central,1228,45.75,1456,54.25,2684,-6.61
+VIC,229,Menzies,4698,Doncaster Central,1241,46.24,1443,53.76,2684,-6.12
 VIC,229,Menzies,4699,Doncaster East,1652,44.68,2045,55.32,3697,-5.76
 VIC,229,Menzies,32953,Doncaster East PPVC,1313,35.41,2395,64.59,3708,-5.85
 VIC,229,Menzies,4715,Doncaster Gardens,798,47.25,891,52.75,1689,-5.41
-VIC,229,Menzies,4700,Doncaster Heights,663,42.64,892,57.36,1555,-3.99
+VIC,229,Menzies,4700,Doncaster Heights,661,42.51,894,57.49,1555,-4.12
 VIC,229,Menzies,4701,Doncaster Park,344,49.93,345,50.07,689,1.95
 VIC,229,Menzies,4702,Doncaster South,554,47.27,618,52.73,1172,-3.52
 VIC,229,Menzies,4703,Doncaster West,802,50.19,796,49.81,1598,-2.94
 VIC,229,Menzies,3383,Donvale,504,35,936,65,1440,-2.24
-VIC,229,Menzies,11875,Gumnut Gully,484,41.94,670,58.06,1154,-1.08
+VIC,229,Menzies,11875,Gumnut Gully,481,41.68,673,58.32,1154,-1.34
 VIC,229,Menzies,3386,Kalinda (Menzies),626,43.23,822,56.77,1448,1.12
 VIC,229,Menzies,4708,Lower Templestowe,612,46.79,696,53.21,1308,-2.94
 VIC,229,Menzies,32894,Manningham,394,39.2,611,60.8,1005,-4.97
@@ -7751,19 +7751,19 @@ VIC,229,Menzies,32044,Melbourne (Menzies),44,41.51,62,58.49,106,-7.33
 VIC,229,Menzies,4709,Milgate,950,38.09,1544,61.91,2494,-4.19
 VIC,229,Menzies,3396,Park Orchards,661,36.14,1168,63.86,1829,0.16
 VIC,229,Menzies,11531,Parkwood,552,41.01,794,58.99,1346,-1.17
-VIC,229,Menzies,58638,Ringwood MENZIES PPVC,255,34.27,489,65.73,744,-6.96
-VIC,229,Menzies,3401,Ringwood North (Menzies),488,39.84,737,60.16,1225,2.08
+VIC,229,Menzies,58638,Ringwood MENZIES PPVC,254,34.19,489,65.81,743,-7.04
+VIC,229,Menzies,3401,Ringwood North (Menzies),488,39.87,736,60.13,1224,2.11
 VIC,229,Menzies,4710,Serpell,881,32.07,1866,67.93,2747,-9.15
 VIC,229,Menzies,31723,Special Hospital Team 1,72,25.81,207,74.19,279,-3.87
 VIC,229,Menzies,31724,Special Hospital Team 2,104,26.94,282,73.06,386,-2.93
 VIC,229,Menzies,31725,Special Hospital Team 3,91,27.91,235,72.09,326,-1.88
-VIC,229,Menzies,4711,Templestowe,661,41.03,950,58.97,1611,-1.47
+VIC,229,Menzies,4711,Templestowe,666,41.21,950,58.79,1616,-1.29
 VIC,229,Menzies,4712,Templestowe Heights,1877,43.37,2451,56.63,4328,-3.42
 VIC,229,Menzies,4713,Templestowe Park,752,33.1,1520,66.9,2272,-2.48
 VIC,229,Menzies,4714,Templestowe Valley,650,43.16,856,56.84,1506,-6.27
 VIC,229,Menzies,11876,The Pines,978,36.67,1689,63.33,2667,-5.16
 VIC,229,Menzies,3404,Tunstall,796,45.59,950,54.41,1746,-1.05
-VIC,229,Menzies,3405,Warrandyte,1125,47.39,1249,52.61,2374,0.42
+VIC,229,Menzies,3405,Warrandyte,1125,47.25,1256,52.75,2381,0.28
 VIC,229,Menzies,3407,Warrandyte South,156,34.36,298,65.64,454,-0.84
 VIC,229,Menzies,31844,Warranwood,996,43.99,1268,56.01,2264,2.07
 VIC,229,Menzies,3409,Wonga Park,605,36.25,1064,63.75,1669,4.61
