@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T10:35:06 Cycle:6d536c5e-3839-4d78-a20a-68d17498fc36 Created:2010-08-26T10:17:50 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T10:50:37 Cycle:af421ad0-8b75-43c3-b8fb-f6a21cacdf75 Created:2010-08-26T10:32:55 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -1760,15 +1760,15 @@ NSW,133,Macquarie,30124,Divisional Office (PREPOLL),351,46.74,400,53.26,751,-4.0
 NSW,133,Macquarie,1759,Ebenezer,248,33.47,493,66.53,741,-1.84
 NSW,133,Macquarie,1761,Faulconbridge,1222,55.47,981,44.53,2203,0.91
 NSW,133,Macquarie,1763,Freemans Reach,389,32.77,798,67.23,1187,-4.81
-NSW,133,Macquarie,1485,Glenbrook,1002,46.98,1131,53.02,2133,-3.16
+NSW,133,Macquarie,1485,Glenbrook,1002,47.13,1124,52.87,2126,-3.01
 NSW,133,Macquarie,1765,Glossodia,469,37.28,789,62.72,1258,-3.61
 NSW,133,Macquarie,1766,Grose View,301,34.64,568,65.36,869,-3.54
-NSW,133,Macquarie,1768,Hazelbrook,1365,67.34,662,32.66,2027,1.37
-NSW,133,Macquarie,1769,Hobartville,801,42.72,1074,57.28,1875,-3.13
+NSW,133,Macquarie,1768,Hazelbrook,1367,67.44,660,32.56,2027,1.47
+NSW,133,Macquarie,1769,Hobartville,799,42.59,1077,57.41,1876,-3.26
 NSW,133,Macquarie,1771,Katoomba,662,74.55,226,25.45,888,1.37
-NSW,133,Macquarie,1775,Katoomba Central,939,75.06,312,24.94,1251,-1.71
+NSW,133,Macquarie,1775,Katoomba Central,928,74.36,320,25.64,1248,-2.41
 NSW,133,Macquarie,1773,Katoomba Hospital,78,72.9,29,27.1,107,10.72
-NSW,133,Macquarie,1774,Katoomba North,831,72.2,320,27.8,1151,4.65
+NSW,133,Macquarie,1774,Katoomba North,830,72.17,320,27.83,1150,4.62
 NSW,133,Macquarie,34037,Katoomba PPVC,1321,62.49,793,37.51,2114,11.69
 NSW,133,Macquarie,1772,Katoomba South,255,62.81,151,37.19,406,-1.22
 NSW,133,Macquarie,1776,Kurmond,284,29.74,671,70.26,955,-3.39
@@ -3202,7 +3202,7 @@ QLD,304,Blair,6364,Glamorgan Vale,153,39.74,232,60.26,385,-3.61
 QLD,304,Blair,6445,Grandchester,135,46.88,153,53.13,288,0.42
 QLD,304,Blair,6366,Haigslea,102,30.36,234,69.64,336,-2.87
 QLD,304,Blair,6367,Ipswich,259,64.11,145,35.89,404,3.36
-QLD,304,Blair,47733,Ipswich BLAIR PPVC,1887,51.67,1765,48.33,3652,-0.85
+QLD,304,Blair,47733,Ipswich BLAIR PPVC,1888,51.68,1765,48.32,3653,-0.84
 QLD,304,Blair,6352,Ipswich Central,707,58.67,498,41.33,1205,0.79
 QLD,304,Blair,6369,Karalee,1118,44.49,1395,55.51,2513,-3.11
 QLD,304,Blair,5488,Kilcoy,526,40.46,774,59.54,1300,-3.77
@@ -4616,7 +4616,7 @@ QLD,174,Oxley,30165,Divisional Office (PREPOLL),0,0,0,0,0,-57.14
 QLD,174,Oxley,6478,Durack,1054,68.31,489,31.69,1543,-10.17
 QLD,174,Oxley,31799,Forest Lake,1928,53.63,1667,46.37,3595,-5.18
 QLD,174,Oxley,34191,Forest Lake East,1224,52.58,1104,47.42,2328,-5.31
-QLD,174,Oxley,47734,Forest Lake PPVC,1151,54.4,965,45.6,2116,-3.09
+QLD,174,Oxley,47734,Forest Lake PPVC,1157,54.73,957,45.27,2114,-2.76
 QLD,174,Oxley,6363,Gailes,819,70.73,339,29.27,1158,-1.52
 QLD,174,Oxley,6365,Goodna,2019,66.94,997,33.06,3016,-6.29
 QLD,174,Oxley,33102,Grand Ave,1764,55.84,1395,44.16,3159,-3.41
@@ -8150,10 +8150,10 @@ WA,237,Cowan,30228,Divisional Office (PREPOLL),987,38.39,1584,61.61,2571,-7.8
 WA,237,Cowan,7570,Girrawheen,929,60.25,613,39.75,1542,-5.4
 WA,237,Cowan,7572,Girrawheen East,609,62.02,373,37.98,982,-5.9
 WA,237,Cowan,7573,Greenwood,1471,43.37,1921,56.63,3392,-3.35
-WA,237,Cowan,7574,Greenwood East,621,39.63,946,60.37,1567,-11.41
-WA,237,Cowan,47761,Hocking,919,39.71,1395,60.29,2314,-3.52
-WA,237,Cowan,7578,Kingsley,1328,40.22,1974,59.78,3302,-2.57
-WA,237,Cowan,11912,Kingsley East,617,36.51,1073,63.49,1690,-3.63
+WA,237,Cowan,7574,Greenwood East,621,39.58,948,60.42,1569,-11.46
+WA,237,Cowan,47761,Hocking,920,39.76,1394,60.24,2314,-3.47
+WA,237,Cowan,7578,Kingsley,1326,40.19,1973,59.81,3299,-2.6
+WA,237,Cowan,11912,Kingsley East,617,36.53,1072,63.47,1689,-3.61
 WA,237,Cowan,7579,Kingsley South,802,38.86,1262,61.14,2064,-2.8
 WA,237,Cowan,7580,Koondoola,921,58.59,651,41.41,1572,-11.99
 WA,237,Cowan,32813,Landsdale,1081,37.52,1800,62.48,2881,-3.81
