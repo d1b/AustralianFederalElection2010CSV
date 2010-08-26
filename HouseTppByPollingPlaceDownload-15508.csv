@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T16:16:38 Cycle:3847664f-3426-4c6b-b002-4b20c40f667c Created:2010-08-26T16:03:49 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T16:32:04 Cycle:ee1c8e00-a59b-4a85-802e-86c0580d31ef Created:2010-08-26T16:18:49 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -1052,9 +1052,9 @@ NSW,119,Fowler,31654,Canley Vale North,548,62.49,329,37.51,877,-11.52
 NSW,119,Fowler,871,Cartwright,740,68.39,342,31.61,1082,-7.94
 NSW,119,Fowler,31747,Cecil Hills,1528,47.68,1677,52.32,3205,-12.6
 NSW,119,Fowler,37055,Cecil Hills North,188,44.44,235,55.56,423,-11.59
-NSW,119,Fowler,30110,Divisional Office (PREPOLL),0,0,0,0,0,-66.28
+NSW,119,Fowler,30110,Divisional Office (PREPOLL),860,59.07,596,40.93,1456,-7.21
 NSW,119,Fowler,11993,Edensor Park,1249,46.74,1423,53.26,2672,-17.09
-NSW,119,Fowler,58661,Fairfield FOWLER PPVC,1213,52.33,1105,47.67,2318,-14.1
+NSW,119,Fowler,58661,Fairfield FOWLER PPVC,1213,52.26,1108,47.74,2321,-14.17
 NSW,119,Fowler,875,Green Valley,1551,58.82,1086,41.18,2637,-14.68
 NSW,119,Fowler,867,Green Valley East,1090,63.56,625,36.44,1715,-15.55
 NSW,119,Fowler,37053,Green Valley North,1136,63.57,651,36.43,1787,-10.18
@@ -1071,7 +1071,7 @@ NSW,119,Fowler,885,Miller,823,68.81,373,31.19,1196,-10.64
 NSW,119,Fowler,887,Mount Pritchard,1418,56.61,1087,43.39,2505,-13.52
 NSW,119,Fowler,888,Mount Pritchard East,936,59.39,640,40.61,1576,-11.29
 NSW,119,Fowler,892,Sadleir,604,69.75,262,30.25,866,-12.16
-NSW,119,Fowler,58587,Special Hospital Team 1,0,0,0,0,0,-63.16
+NSW,119,Fowler,58587,Special Hospital Team 1,3,23.08,10,76.92,13,-40.08
 NSW,119,Fowler,893,St Johns Park,1599,60.18,1058,39.82,2657,-14.02
 NSW,119,Fowler,14058,Sydney (Fowler),35,47.3,39,52.7,74,-13.65
 NSW,119,Fowler,894,Wakeley,1581,57.83,1153,42.17,2734,-14.37
@@ -1705,7 +1705,7 @@ NSW,131,Macarthur,895,Wallacia,293,36.9,501,63.1,794,-0.69
 NSW,131,Macarthur,1707,Warragamba,701,42.59,945,57.41,1646,-4.69
 NSW,131,Macarthur,2936,Wedderburn,100,31.95,213,68.05,313,-9.85
 NSW,131,Macarthur,2938,Woodbine,1000,50.94,963,49.06,1963,-11.41
-NSW,132,Mackellar,1715,Avalon,0,0,0,0,0,-44.81
+NSW,132,Mackellar,1715,Avalon,1634,43.3,2140,56.7,3774,-1.51
 NSW,132,Mackellar,1716,Barrenjoey,617,41.92,855,58.08,1472,-1.67
 NSW,132,Mackellar,1717,Bayview,340,29.23,823,70.77,1163,-1.54
 NSW,132,Mackellar,1718,Beacon Hill (Mackellar),727,33.56,1439,66.44,2166,-6.35
@@ -1841,7 +1841,7 @@ NSW,315,McMahon,2356,Smithfield East,1051,65.28,559,34.72,1610,-4.51
 NSW,315,McMahon,2357,Smithfield West,1820,59.5,1239,40.5,3059,-6.56
 NSW,315,McMahon,2280,South Wentworthville Central,363,49.86,365,50.14,728,-2.02
 NSW,315,McMahon,2260,South Wentworthville West,253,50.1,252,49.9,505,-8.5
-NSW,315,McMahon,57627,Special Hospital Team 1,0,0,0,0,0,-58.57
+NSW,315,McMahon,57627,Special Hospital Team 1,43,59.72,29,40.28,72,1.15
 NSW,315,McMahon,409,St Clair,960,60.04,639,39.96,1599,-0.41
 NSW,315,McMahon,391,St Clair East,1229,56.71,938,43.29,2167,-1.17
 NSW,315,McMahon,390,St Clair South,1486,57.75,1087,42.25,2573,-3.15
@@ -2232,7 +2232,7 @@ NSW,139,Parkes,1093,Cumborah,40,30.77,90,69.23,130,-2.07
 NSW,139,Parkes,2172,Curban,9,6.67,126,93.33,135,-0.06
 NSW,139,Parkes,1096,Dangar Village,253,31.98,538,68.02,791,0.73
 NSW,139,Parkes,30130,Divisional Office (PREPOLL),72,24.32,224,75.68,296,-40.12
-NSW,139,Parkes,2174,Dubbo,0,0,0,0,0,-35.71
+NSW,139,Parkes,2174,Dubbo,550,30.69,1242,69.31,1792,-5.02
 NSW,139,Parkes,32061,Dubbo East,916,31.78,1966,68.22,2882,-7.66
 NSW,139,Parkes,2175,Dubbo Grove,537,27.78,1396,72.22,1933,-7.22
 NSW,139,Parkes,2176,Dubbo Hospital,64,32.32,134,67.68,198,-11.01
@@ -2251,14 +2251,14 @@ NSW,139,Parkes,2184,Eumungerie,44,22.8,149,77.2,193,-6.61
 NSW,139,Parkes,1101,Fairfax,7,9.09,70,90.91,77,-3.13
 NSW,139,Parkes,2185,Fifield,21,24.42,65,75.58,86,-2.56
 NSW,139,Parkes,1102,Garah,15,13.39,97,86.61,112,-1.42
-NSW,139,Parkes,2191,Geurie,0,0,0,0,0,-29.64
+NSW,139,Parkes,2191,Geurie,103,24.29,321,75.71,424,-5.35
 NSW,139,Parkes,2192,Gilgandra,557,31.99,1184,68.01,1741,-4.29
 NSW,139,Parkes,2194,Girilambone,7,13.73,44,86.27,51,-8.49
 NSW,139,Parkes,2195,Gollan,8,12.31,57,87.69,65,1.54
 NSW,139,Parkes,1103,Goodooga,72,58.54,51,41.46,123,5.21
 NSW,139,Parkes,251,Goolma,25,19.08,106,80.92,131,-8.66
 NSW,139,Parkes,1106,Gravesend,22,16.18,114,83.82,136,-6.44
-NSW,139,Parkes,2197,Gulargambone,0,0,0,0,0,-29.91
+NSW,139,Parkes,2197,Gulargambone,97,24.62,297,75.38,394,-5.29
 NSW,139,Parkes,252,Gulgong,652,38.33,1049,61.67,1701,-16.94
 NSW,139,Parkes,1110,Gurley,2,2.41,81,97.59,83,-7.02
 NSW,139,Parkes,1111,Gwabegar,36,38.3,58,61.7,94,4.23
@@ -2404,7 +2404,7 @@ NSW,249,Paterson,1586,Forster,392,40.96,565,59.04,957,-9.4
 NSW,249,Paterson,1587,Forster East,470,36.41,821,63.59,1291,-8.93
 NSW,249,Paterson,31457,Forster Keys,575,34.87,1074,65.13,1649,-7
 NSW,249,Paterson,1588,Forster South,926,41.27,1318,58.73,2244,-3.97
-NSW,249,Paterson,33892,Forster-Tuncurry PPVC,1127,36.13,1992,63.87,3119,-9.03
+NSW,249,Paterson,33892,Forster-Tuncurry PPVC,1120,35.97,1994,64.03,3114,-9.19
 NSW,249,Paterson,1590,Glen William,73,36.87,125,63.13,198,-7.9
 NSW,249,Paterson,32487,Grahamstown,412,54.79,340,45.21,752,-3.31
 NSW,249,Paterson,31696,Green Point Wallis Lake,132,45.83,156,54.17,288,-3.68
@@ -2434,7 +2434,7 @@ NSW,249,Paterson,1628,Raymond Terrace,782,54.19,661,45.81,1443,-6.12
 NSW,249,Paterson,1629,Raymond Terrace Central,670,49.23,691,50.77,1361,-5.73
 NSW,249,Paterson,1630,Raymond Terrace East,785,54.03,668,45.97,1453,-5.5
 NSW,249,Paterson,1407,Raymond Terrace North,704,57.42,522,42.58,1226,-5.32
-NSW,249,Paterson,33890,Raymond Terrace PPVC,891,44.84,1096,55.16,1987,-0.35
+NSW,249,Paterson,33890,Raymond Terrace PPVC,890,44.97,1089,55.03,1979,-0.22
 NSW,249,Paterson,31506,Salamander,555,44.65,688,55.35,1243,-2.68
 NSW,249,Paterson,1632,Salamander Bay,546,43.26,716,56.74,1262,-0.35
 NSW,249,Paterson,33891,Salamander Bay PPVC,1278,42,1765,58,3043,-3.16
@@ -3040,8 +3040,8 @@ NSW,152,Wentworth,2299,Waverley College,334,40.98,481,59.02,815,-8.63
 NSW,152,Wentworth,2892,Woollahra,537,28.41,1353,71.59,1890,-12.03
 NSW,152,Wentworth,2857,Woollahra East,316,35.71,569,64.29,885,-5.5
 NSW,152,Wentworth,2876,Woolloomooloo,567,51.45,535,48.55,1102,-12.24
-NSW,153,Werriwa,863,Austral,460,38.17,745,61.83,1205,-8.88
-NSW,153,Werriwa,58451,Blairmount (Werriwa),398,65.03,214,34.97,612,-1.05
+NSW,153,Werriwa,863,Austral,471,39.09,734,60.91,1205,-7.96
+NSW,153,Werriwa,58451,Blairmount (Werriwa),398,64.93,215,35.07,613,-1.15
 NSW,153,Werriwa,58730,Campbelltown WERRIWA PPVC,82,58.99,57,41.01,139,-7.29
 NSW,153,Werriwa,2907,Casula,1880,59.7,1269,40.3,3149,-7.01
 NSW,153,Werriwa,11451,Casula South,1210,51.01,1162,48.99,2372,-9.75
@@ -5155,7 +5155,7 @@ SA,183,Grey,6913,Ceduna,397,29.11,967,70.89,1364,-8.15
 SA,183,Grey,13106,Ceduna IVC PPVC,0,0,0,0,0,0
 SA,183,Grey,6914,Cleve,75,11.63,570,88.37,645,-5.68
 SA,183,Grey,6915,Coffin Bay,129,32.91,263,67.09,392,0.67
-SA,183,Grey,6916,Coober Pedy,323,43.65,417,56.35,740,-10.25
+SA,183,Grey,6916,Coober Pedy,323,43.53,419,56.47,742,-10.37
 SA,183,Grey,13107,Coober Pedy IVC PPVC,0,0,0,0,0,0
 SA,183,Grey,7344,Coobowie,83,40.69,121,59.31,204,-4.93
 SA,183,Grey,7345,Corny Point,36,32.73,74,67.27,110,-8.09
@@ -5223,7 +5223,7 @@ SA,183,Grey,6957,Quorn,206,32.49,428,67.51,634,-9.5
 SA,183,Grey,7411,Redhill,39,31.71,84,68.29,123,-2.91
 SA,183,Grey,33211,Remote Mobile Team 1,395,58.61,279,41.39,674,-3.34
 SA,183,Grey,33212,Remote Mobile Team 2,81,56.64,62,43.36,143,-5.47
-SA,183,Grey,33213,Remote Mobile Team 3,136,50.37,134,49.63,270,-11.55
+SA,183,Grey,33213,Remote Mobile Team 3,133,49.44,136,50.56,269,-12.48
 SA,183,Grey,6958,Risdon Park East,909,44.71,1124,55.29,2033,-10.51
 SA,183,Grey,6959,Risdon Park South,512,52.84,457,47.16,969,-11.47
 SA,183,Grey,7413,Robertstown,60,31.58,130,68.42,190,-4.04
@@ -5303,7 +5303,7 @@ SA,185,Hindmarsh,7026,Morphettville,790,60.03,526,39.97,1316,4.81
 SA,185,Hindmarsh,7074,Netley,662,61.87,408,38.13,1070,2.78
 SA,185,Hindmarsh,7028,Novar Gardens,848,45.81,1003,54.19,1851,2.05
 SA,185,Hindmarsh,7030,Park Holme,825,60.62,536,39.38,1361,2.37
-SA,185,Hindmarsh,7031,Park Holme South,704,61.81,435,38.19,1139,0.76
+SA,185,Hindmarsh,7031,Park Holme South,703,61.72,436,38.28,1139,0.67
 SA,185,Hindmarsh,7075,Plympton,986,60.75,637,39.25,1623,2.59
 SA,185,Hindmarsh,7016,Plympton Park,502,61.9,309,38.1,811,3.68
 SA,185,Hindmarsh,7076,Plympton West,734,60.61,477,39.39,1211,1.88
@@ -6068,7 +6068,7 @@ VIC,198,Ballarat,2983,Ascot,36,20.93,136,79.07,172,1.82
 VIC,198,Ballarat,3252,Bacchus Marsh,1082,59.88,725,40.12,1807,3.27
 VIC,198,Ballarat,3253,Ballan,1053,62.46,633,37.54,1686,2.59
 VIC,198,Ballarat,2986,Ballarat,1332,63.46,767,36.54,2099,1.29
-VIC,198,Ballarat,2990,Ballarat North,1527,58.04,1104,41.96,2631,3.14
+VIC,198,Ballarat,2990,Ballarat North,1428,54.32,1201,45.68,2629,-0.58
 VIC,198,Ballarat,2991,Ballarat North West,1163,54.07,988,45.93,2151,5.82
 VIC,198,Ballarat,34062,Ballarat PPVC,6640,56.9,5030,43.1,11670,1.4
 VIC,198,Ballarat,2993,Ballarat South,831,67.45,401,32.55,1232,1.67
@@ -8093,7 +8093,7 @@ WA,236,Canning,7469,Armadale North,603,54.23,509,45.77,1112,4.49
 WA,236,Canning,33044,Armadale PPVC,1049,51.07,1005,48.93,2054,-2.39
 WA,236,Canning,7470,Armadale South,495,53.98,422,46.02,917,2.91
 WA,236,Canning,7471,Armadale West,1310,63.22,762,36.78,2072,7.59
-WA,236,Canning,7473,Barragup,580,44.58,721,55.42,1301,1.26
+WA,236,Canning,7473,Barragup,585,44.93,717,55.07,1302,1.61
 WA,236,Canning,8850,Bedfordale,244,41.43,345,58.57,589,6.58
 WA,236,Canning,7985,Boddington,246,37.5,410,62.5,656,1.94
 WA,236,Canning,11634,Brookdale,454,61.35,286,38.65,740,6.49
@@ -8103,9 +8103,9 @@ WA,236,Canning,11602,Coodanup,1034,54.94,848,45.06,1882,-0.92
 WA,236,Canning,7481,Coolup,109,33.54,216,66.46,325,-1.49
 WA,236,Canning,7482,Dawesville,810,41.67,1134,58.33,1944,1.15
 WA,236,Canning,30227,Divisional Office (PREPOLL),46,48.42,49,51.58,95,-7.14
-WA,236,Canning,7494,Dudley Park,804,47.46,890,52.54,1694,0.29
-WA,236,Canning,7483,Dwellingup,159,46.49,183,53.51,342,-7.74
-WA,236,Canning,7484,Falcon,1220,44.14,1544,55.86,2764,2.44
+WA,236,Canning,7494,Dudley Park,802,47.29,894,52.71,1696,0.12
+WA,236,Canning,7483,Dwellingup,160,46.65,183,53.35,343,-7.58
+WA,236,Canning,7484,Falcon,1214,44.07,1541,55.93,2755,2.37
 WA,236,Canning,7485,Forrestdale,584,39.38,899,60.62,1483,-1.87
 WA,236,Canning,58707,Greenfields CANNING PPVC,1775,47.5,1962,52.5,3737,-6.01
 WA,236,Canning,7495,Halls Head,988,36.11,1748,63.89,2736,2.83
@@ -8504,7 +8504,7 @@ WA,305,Hasluck,7548,Maddington,1264,56.4,977,43.6,2241,-5.25
 WA,305,Hasluck,31476,Maddington East,689,58.19,495,41.81,1184,-2.99
 WA,305,Hasluck,7549,Maddington North,348,53.46,303,46.54,651,-1.96
 WA,305,Hasluck,7550,Maida Vale,684,41.28,973,58.72,1657,-0.49
-WA,305,Hasluck,7950,Middle Swan,1108,61.11,705,38.89,1813,-2.56
+WA,305,Hasluck,7950,Middle Swan,1099,60.95,704,39.05,1803,-2.72
 WA,305,Hasluck,7949,Midland,750,56.69,573,43.31,1323,-4.27
 WA,305,Hasluck,58748,Midland HASLUCK PPVC,1211,46.81,1376,53.19,2587,-1.53
 WA,305,Hasluck,34105,Perth (Hasluck),32,49.23,33,50.77,65,-0.77
