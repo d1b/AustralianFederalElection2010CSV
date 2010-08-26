@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T11:51:54 Cycle:608ff73a-b9db-48ee-bb1f-1acee5f5b838 Created:2010-08-26T11:33:16 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T12:07:27 Cycle:24366d1c-6195-4919-9806-165a0702c4c4 Created:2010-08-26T11:48:21 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,Swing
 ACT,101,Canberra,20863,JONES,Giulia,1,N,N,LP,Liberal,39113,0,0,0,0,39113,2.36
 ACT,101,Canberra,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,57358,0,0,0,0,57358,-2.36
@@ -166,8 +166,8 @@ QLD,316,Wright,20746,BUCHHOLZ,Scott,1,N,N,LNQ,Liberal National Party of Queensla
 QLD,316,Wright,21592,RAMSAY,Andrew,3,N,N,ALP,Australian Labor Party,23671,399,0,0,0,24070,-6.04
 SA,179,Adelaide,20845,WESTLEY,Luke,2,N,N,LP,Liberal,29300,0,0,0,565,29865,0.56
 SA,179,Adelaide,20987,ELLIS,Kate,5,N,Y,ALP,Australian Labor Party,40633,0,0,0,566,41199,-0.56
-SA,180,Barker,21067,McDONNELL,Simone,1,N,N,ALP,Australian Labor Party,30240,0,0,0,450,30690,-3.05
-SA,180,Barker,20829,SECKER,Patrick,3,N,Y,LP,Liberal,50125,0,0,0,1024,51149,3.05
+SA,180,Barker,21067,McDONNELL,Simone,1,N,N,ALP,Australian Labor Party,30256,0,0,0,450,30706,-3.05
+SA,180,Barker,20829,SECKER,Patrick,3,N,Y,LP,Liberal,50157,0,0,0,1024,51181,3.05
 SA,182,Boothby,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,36102,1056,0,0,1964,39122,2.07
 SA,182,Boothby,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,36913,761,0,0,2820,40494,-2.07
 SA,183,Grey,20998,SANSBURY,Tauto,2,N,N,ALP,Australian Labor Party,29778,0,0,0,0,29778,-6.04
@@ -222,10 +222,10 @@ VIC,210,Dunkley,21032,CONSTAS,Helen,2,N,N,ALP,Australian Labor Party,35517,0,0,0
 VIC,210,Dunkley,21027,BILLSON,Bruce,4,N,Y,LP,Liberal,35893,0,0,0,3490,39383,-3.07
 VIC,211,Flinders,21118,GAGLIANO-VENTURA,Francis,1,N,N,ALP,Australian Labor Party,30243,0,0,0,902,31145,-0.42
 VIC,211,Flinders,21107,HUNT,Greg,3,N,Y,LP,Liberal,42188,0,0,0,2028,44216,0.42
-VIC,212,Gellibrand,21236,ROXON,Nicola,1,N,Y,ALP,Australian Labor Party,49548,0,0,0,0,49548,3.02
-VIC,212,Gellibrand,21198,McCONNELL,David,6,N,N,LP,Liberal,16975,0,0,0,0,16975,-3.02
-VIC,213,Gippsland,21109,McCUBBIN,Darren,3,N,N,ALP,Australian Labor Party,30081,0,0,0,0,30081,-5.92
-VIC,213,Gippsland,21093,CHESTER,Darren,5,N,Y,NP,The Nationals,48725,0,0,0,0,48725,5.92
+VIC,212,Gellibrand,21236,ROXON,Nicola,1,N,Y,ALP,Australian Labor Party,49551,0,0,0,0,49551,3.03
+VIC,212,Gellibrand,21198,McCONNELL,David,6,N,N,LP,Liberal,16971,0,0,0,0,16971,-3.03
+VIC,213,Gippsland,21109,McCUBBIN,Darren,3,N,N,ALP,Australian Labor Party,30082,0,0,0,0,30082,-5.92
+VIC,213,Gippsland,21093,CHESTER,Darren,5,N,Y,NP,The Nationals,48720,0,0,0,0,48720,5.92
 VIC,214,Goldstein,21566,EDEN,Nick,1,N,N,ALP,Australian Labor Party,29711,0,0,0,927,30638,-0.42
 VIC,214,Goldstein,21571,ROBB,Andrew,3,N,Y,LP,Liberal,37744,0,0,0,2008,39752,0.42
 VIC,309,Gorton,21226,O'CONNOR,Brendan,2,N,Y,ALP,Australian Labor Party,60067,0,0,0,0,60067,0.8
@@ -244,8 +244,8 @@ VIC,220,Jagajaga,21244,MACKLIN,Jenny,2,N,Y,ALP,Australian Labor Party,44559,0,0,
 VIC,220,Jagajaga,21217,BAUCH,Joh,3,N,N,LP,Liberal,27505,0,0,0,956,28461,-2.86
 VIC,221,Kooyong,21071,HURD,Steve,1,N,N,ALP,Australian Labor Party,27037,0,0,0,492,27529,1.03
 VIC,221,Kooyong,21057,FRYDENBERG,Josh,3,N,N,LP,Liberal,37674,0,0,0,1138,38812,-1.03
-VIC,223,La Trobe,21197,WOOD,Jason,2,N,Y,LP,Liberal,34586,592,0,640,3277,39095,-1.48
-VIC,223,La Trobe,21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,36871,793,0,392,2594,40650,1.48
+VIC,223,La Trobe,21197,WOOD,Jason,2,N,Y,LP,Liberal,34584,592,0,640,3277,39093,-1.49
+VIC,223,La Trobe,21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,36873,793,0,392,2594,40652,1.49
 VIC,222,Lalor,21033,INGRAM,Sheridan,3,N,N,LP,Liberal,24556,0,0,0,1533,26089,-6.77
 VIC,222,Lalor,21055,GILLARD,Julia,5,N,Y,ALP,Australian Labor Party,63568,0,0,0,4516,68084,6.77
 VIC,224,Mallee,21078,FORREST,John,2,N,Y,NP,The Nationals,52940,0,0,0,0,52940,3.09
@@ -262,14 +262,14 @@ VIC,230,Melbourne Ports,21579,EKENDAHL,Kevin,1,N,N,LP,Liberal,26195,0,0,0,1640,2
 VIC,230,Melbourne Ports,21599,DANBY,Michael David,3,N,Y,ALP,Australian Labor Party,37425,0,0,0,1695,39120,1.28
 VIC,229,Menzies,21103,ANDREWS,Kevin,3,N,Y,LP,Liberal,39117,0,0,0,0,39117,2.36
 VIC,229,Menzies,21119,BANERJI,Joy,4,N,N,ALP,Australian Labor Party,27891,0,0,0,0,27891,-2.36
-VIC,231,Murray,21059,STONE,Sharman,1,N,Y,LP,Liberal,49725,0,0,0,681,50406,2.09
-VIC,231,Murray,21091,MORTENSEN,Hugh,4,N,N,ALP,Australian Labor Party,20943,0,0,0,300,21243,-2.09
+VIC,231,Murray,21059,STONE,Sharman,1,N,Y,LP,Liberal,49724,0,0,0,681,50405,2.09
+VIC,231,Murray,21091,MORTENSEN,Hugh,4,N,N,ALP,Australian Labor Party,20945,0,0,0,300,21245,-2.09
 VIC,232,Scullin,21077,JENKINS,Harry,2,N,Y,ALP,Australian Labor Party,49311,0,0,0,2060,51371,2.09
 VIC,232,Scullin,21062,WILLIAMS,Max,4,N,N,LP,Liberal,18290,0,0,0,768,19058,-2.09
 VIC,233,Wannon,21063,TEHAN,Dan,3,N,N,LP,Liberal,40388,0,0,0,0,40388,-0.64
 VIC,233,Wannon,21070,McNAMARA,Judith,5,N,N,ALP,Australian Labor Party,30678,0,0,0,0,30678,0.64
-VIC,234,Wills,21060,TOMISICH,Claude,1,N,N,LP,Liberal,18849,0,0,0,0,18849,-0.42
-VIC,234,Wills,21073,THOMSON,Kelvin,2,N,Y,ALP,Australian Labor Party,50495,0,0,0,0,50495,0.42
+VIC,234,Wills,21060,TOMISICH,Claude,1,N,N,LP,Liberal,18849,0,0,0,306,19155,-0.36
+VIC,234,Wills,21073,THOMSON,Kelvin,2,N,Y,ALP,Australian Labor Party,50495,0,0,0,672,51167,0.36
 WA,235,Brand,20857,GORDIN,Donna,2,N,N,LP,Liberal,29418,0,0,0,1276,30694,2.3
 WA,235,Brand,20909,GRAY,Gary,5,N,Y,ALP,Australian Labor Party,34358,0,0,0,1210,35568,-2.3
 WA,236,Canning,20913,MacTIERNAN,Alannah,1,N,N,ALP,Australian Labor Party,31786,447,0,0,1297,33530,2.67
