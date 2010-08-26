@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T12:39:32 Cycle:d8b10d97-fc88-4f41-a5bf-7ac2b62e00ed Created:2010-08-26T12:18:26 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T12:54:34 Cycle:76a62e9c-2332-4346-88b4-81f2d8e521f9 Created:2010-08-26T12:33:26 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -563,7 +563,7 @@ NSW,111,Chifley,413,Arndell Park North,2062,59.02,1432,40.98,3494,-8.83
 NSW,111,Chifley,385,Bidwill,1113,73.51,401,26.49,1514,-6.63
 NSW,111,Chifley,386,Blackett,1085,73.61,389,26.39,1474,-3.78
 NSW,111,Chifley,11947,Blacktown,774,57.5,572,42.5,1346,-5.61
-NSW,111,Chifley,58585,Blacktown CHIFLEY PPVC,1563,57.59,1151,42.41,2714,-9.56
+NSW,111,Chifley,58585,Blacktown CHIFLEY PPVC,1605,58.86,1122,41.14,2727,-8.29
 NSW,111,Chifley,388,Blacktown South (Chifley),784,60.63,509,39.37,1293,-3.4
 NSW,111,Chifley,12049,Blacktown West,1718,59.32,1178,40.68,2896,-8.65
 NSW,111,Chifley,1027,Dean Park,928,63.65,530,36.35,1458,-8.25
@@ -1038,7 +1038,7 @@ NSW,118,Farrer,852,Woomargama,33,26.19,93,73.81,126,-8.32
 NSW,118,Farrer,853,Yerong Creek,44,25,132,75,176,-2.05
 NSW,119,Fowler,862,Ashcroft,931,67.86,441,32.14,1372,-11.65
 NSW,119,Fowler,865,Bonnyrigg,1106,65.06,594,34.94,1700,-17.76
-NSW,119,Fowler,11990,Bonnyrigg Central,906,60.81,584,39.19,1490,-15.85
+NSW,119,Fowler,11990,Bonnyrigg Central,905,60.86,582,39.14,1487,-15.8
 NSW,119,Fowler,31649,Bonnyrigg Heights,1797,58.53,1273,41.47,3070,-15.78
 NSW,119,Fowler,38204,Busby,604,65.72,315,34.28,919,-7.54
 NSW,119,Fowler,868,Cabramatta,1517,60.13,1006,39.87,2523,-22.32
@@ -3527,7 +3527,7 @@ QLD,252,Dickson,14202,Brisbane City (Dickson),55,55,45,45,100,-3.39
 QLD,252,Dickson,5468,Closeburn,511,36.58,886,63.42,1397,-4.74
 QLD,252,Dickson,32583,Dayboro,792,40.57,1160,59.43,1952,-4.04
 QLD,252,Dickson,30403,Divisional Office (PREPOLL),0,0,0,0,0,-49.15
-QLD,252,Dickson,31507,Eatons Hill,962,35.3,1763,64.7,2725,-7.37
+QLD,252,Dickson,31507,Eatons Hill,965,35.37,1763,64.63,2728,-7.3
 QLD,252,Dickson,47709,Eatons Hill West,938,40.66,1369,59.34,2307,-1.99
 QLD,252,Dickson,12054,Everton Hills,949,42.84,1266,57.16,2215,-7.41
 QLD,252,Dickson,6505,Ferny Hills,1206,49.49,1231,50.51,2437,-7.94
@@ -5206,8 +5206,8 @@ SA,183,Grey,6922,Port Augusta East,658,48.35,703,51.65,1361,-13.06
 SA,183,Grey,33120,Port Augusta PPVC,898,42.38,1221,57.62,2119,-9.17
 SA,183,Grey,6948,Port Augusta West,660,49.74,667,50.26,1327,-12.39
 SA,183,Grey,7406,Port Broughton,259,29.33,624,70.67,883,-8.24
-SA,183,Grey,7407,Port Clinton,137,47.08,154,52.92,291,3.03
-SA,183,Grey,6949,Port Germein,126,44.84,155,55.16,281,-7.29
+SA,183,Grey,7407,Port Clinton,138,47.59,152,52.41,290,3.54
+SA,183,Grey,6949,Port Germein,124,44.29,156,55.71,280,-7.84
 SA,183,Grey,6950,Port Kenny,23,17.29,110,82.71,133,-3.69
 SA,183,Grey,6951,Port Lincoln,736,35.01,1366,64.99,2102,0.31
 SA,183,Grey,6952,Port Lincoln Central,548,25.81,1575,74.19,2123,-15.26
@@ -5248,7 +5248,7 @@ SA,183,Grey,6969,Tumby Bay,220,20.04,878,79.96,1098,-4.12
 SA,183,Grey,6970,Ungarra,22,25.58,64,74.42,86,2.63
 SA,183,Grey,7432,Wallaroo,935,47.49,1034,52.51,1969,-3.21
 SA,183,Grey,7433,Wallaroo Mines,490,44.91,601,55.09,1091,-6.03
-SA,183,Grey,6972,Wangary,94,28.4,237,71.6,331,3
+SA,183,Grey,6972,Wangary,92,28.84,227,71.16,319,3.44
 SA,183,Grey,7434,Warooka,108,29.03,264,70.97,372,-4.55
 SA,183,Grey,6975,Warramboo,5,5.43,87,94.57,92,-4.57
 SA,183,Grey,6977,Whyalla Central East,426,45.86,503,54.14,929,-8.48
