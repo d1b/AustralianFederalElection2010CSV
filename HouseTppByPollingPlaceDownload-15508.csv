@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T18:51:04 Cycle:39cd6032-1430-4d24-bcd5-05036773ea75 Created:2010-08-26T18:34:15 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T19:06:41 Cycle:e3806ff2-2486-4f75-abbb-9eef62697c66 Created:2010-08-26T18:49:20 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -3653,9 +3653,9 @@ QLD,161,Fisher,5430,Golden Beach,1156,46.78,1315,53.22,2471,2.07
 QLD,161,Fisher,5431,Kawana Waters,1206,52.57,1088,47.43,2294,2.72
 QLD,161,Fisher,5433,Landsborough,1032,49.19,1066,50.81,2098,-4.34
 QLD,161,Fisher,12007,Little Mountain,556,41.09,797,58.91,1353,-1.99
-QLD,161,Fisher,5492,Maleny,1248,47.08,1403,52.92,2651,-4.88
+QLD,161,Fisher,5492,Maleny,1249,47.17,1399,52.83,2648,-4.79
 QLD,161,Fisher,58740,Maroochydore FISHER PPVC,422,43.42,550,56.58,972,-2.06
-QLD,161,Fisher,46384,Meridan Plains,1018,48.64,1075,51.36,2093,4.42
+QLD,161,Fisher,46384,Meridan Plains,1017,48.59,1076,51.41,2093,4.37
 QLD,161,Fisher,33094,Minyama,325,32.57,673,67.43,998,-0.33
 QLD,161,Fisher,5494,Montville (Fisher),229,43.37,299,56.63,528,-4.4
 QLD,161,Fisher,5437,Mooloolaba (Fisher),1015,44.13,1285,55.87,2300,-1
@@ -3718,7 +3718,7 @@ QLD,311,Flynn,46700,Emerald Interstate PPVC,0,0,0,0,0,0
 QLD,311,Flynn,6152,Emerald North,718,47.9,781,52.1,1499,-1.39
 QLD,311,Flynn,32926,Emerald PPVC,327,41.08,469,58.92,796,-3.13
 QLD,311,Flynn,31633,Emerald South,496,36.77,853,63.23,1349,-6.15
-QLD,311,Flynn,5750,Gayndah,438,37.63,726,62.37,1164,-4.86
+QLD,311,Flynn,5750,Gayndah,438,37.79,721,62.21,1159,-4.7
 QLD,311,Flynn,46711,Gayndah PPVC,29,28.16,74,71.84,103,-16.28
 QLD,311,Flynn,5751,Gin Gin,607,45.67,722,54.33,1329,-5.35
 QLD,311,Flynn,6157,Gindie,12,17.65,56,82.35,68,1.96
@@ -6658,7 +6658,7 @@ VIC,211,Flinders,3662,Somers,341,47.63,375,52.37,716,-2.56
 VIC,211,Flinders,31059,Somerville East,866,40.93,1250,59.07,2116,-0.95
 VIC,211,Flinders,3663,Somerville West,1216,40.57,1781,59.43,2997,-0.29
 VIC,211,Flinders,3664,Sorrento,371,32.83,759,67.17,1130,-1.43
-VIC,211,Flinders,31522,Special Hospital Team 1,293,28.7,728,71.3,1021,-1.6
+VIC,211,Flinders,31522,Special Hospital Team 1,295,28.92,725,71.08,1020,-1.38
 VIC,211,Flinders,31523,Special Hospital Team 2,105,38.89,165,61.11,270,8.47
 VIC,211,Flinders,31465,St Andrews Beach,234,42.01,323,57.99,557,-0.27
 VIC,211,Flinders,3665,Tooradin,273,36.79,469,63.21,742,2.65
@@ -7090,7 +7090,7 @@ VIC,218,Indi,4104,Wahgunyah,259,43.97,330,56.03,589,-2.55
 VIC,218,Indi,4105,Walwa,72,37.7,119,62.3,191,0.07
 VIC,218,Indi,4106,Wandiligong,102,50.75,99,49.25,201,5.97
 VIC,218,Indi,4107,Wangaratta,716,45.37,862,54.63,1578,-3.34
-VIC,218,Indi,33124,Wangaratta PPVC,2211,38.82,3485,61.18,5696,-20.78
+VIC,218,Indi,33124,Wangaratta PPVC,2206,38.83,3475,61.17,5681,-20.77
 VIC,218,Indi,4110,Wangaratta West,672,39.83,1015,60.17,1687,-3.6
 VIC,218,Indi,4111,West End,884,38.72,1399,61.28,2283,-1.75
 VIC,218,Indi,4112,Whitfield,57,38.26,92,61.74,149,-2.89
@@ -7441,7 +7441,7 @@ VIC,225,Maribyrnong,4586,Essendon South,1160,62.4,699,37.6,1859,3.83
 VIC,225,Maribyrnong,4587,Essendon West,1016,56.51,782,43.49,1798,3.98
 VIC,225,Maribyrnong,4590,Glenbervie,1078,62.03,660,37.97,1738,2.16
 VIC,225,Maribyrnong,3355,Kealba,1234,71.33,496,28.67,1730,-1.76
-VIC,225,Maribyrnong,3358,Keilor East,1262,67.02,621,32.98,1883,1.45
+VIC,225,Maribyrnong,3358,Keilor East,1092,64.01,614,35.99,1706,-1.56
 VIC,225,Maribyrnong,4592,Keilor Heights,1498,65.5,789,34.5,2287,3.82
 VIC,225,Maribyrnong,4593,Keilor Park,955,66.18,488,33.82,1443,2.69
 VIC,225,Maribyrnong,4594,Keilor South,1444,61.47,905,38.53,2349,0.87
@@ -8420,10 +8420,10 @@ WA,239,Forrest,32244,Rottnest (Forrest),10,50,10,50,20,0
 WA,239,Forrest,7728,South Bunbury,624,42.02,861,57.98,1485,-2.55
 WA,239,Forrest,33112,South West Health Campus,259,46.25,301,53.75,560,-1.47
 WA,239,Forrest,34086,Special Hospital Team 1,96,35.56,174,64.44,270,-1.33
-WA,239,Forrest,34210,Special Hospital Team 2,0,0,0,0,0,-37.08
-WA,239,Forrest,34211,Special Hospital Team 3,0,0,0,0,0,-37.14
-WA,239,Forrest,34212,Special Hospital Team 4,0,0,0,0,0,-36.67
-WA,239,Forrest,34213,Special Hospital Team 5,0,0,0,0,0,-35.48
+WA,239,Forrest,34210,Special Hospital Team 2,20,31.75,43,68.25,63,-5.33
+WA,239,Forrest,34211,Special Hospital Team 3,13,52,12,48,25,14.86
+WA,239,Forrest,34212,Special Hospital Team 4,7,36.84,12,63.16,19,0.17
+WA,239,Forrest,34213,Special Hospital Team 5,24,61.54,15,38.46,39,26.06
 WA,239,Forrest,7732,Vasse,515,35.32,943,64.68,1458,5.3
 WA,239,Forrest,7738,Witchcliffe,319,51.87,296,48.13,615,0.12
 WA,239,Forrest,7739,Withers,803,49.78,810,50.22,1613,-4.8
@@ -8506,11 +8506,11 @@ WA,305,Hasluck,7549,Maddington North,348,53.46,303,46.54,651,-1.96
 WA,305,Hasluck,7550,Maida Vale,684,41.28,973,58.72,1657,-0.49
 WA,305,Hasluck,7950,Middle Swan,1099,60.95,704,39.05,1803,-2.72
 WA,305,Hasluck,7949,Midland,750,56.69,573,43.31,1323,-4.27
-WA,305,Hasluck,58748,Midland HASLUCK PPVC,1211,46.81,1376,53.19,2587,-1.53
+WA,305,Hasluck,58748,Midland HASLUCK PPVC,1209,46.75,1377,53.25,2586,-1.59
 WA,305,Hasluck,34105,Perth (Hasluck),31,48.44,33,51.56,64,-1.56
 WA,305,Hasluck,34106,Rottnest (Hasluck),7,43.75,9,56.25,16,16.48
-WA,305,Hasluck,34079,Special Hospital Team 1,70,48.28,75,51.72,145,1.22
-WA,305,Hasluck,34194,Special Hospital Team 2,78,54.93,64,45.07,142,7.83
+WA,305,Hasluck,34079,Special Hospital Team 1,67,47.18,75,52.82,142,0.12
+WA,305,Hasluck,34194,Special Hospital Team 2,74,54.41,62,45.59,136,7.31
 WA,305,Hasluck,34195,Special Hospital Team 3,21,46.67,24,53.33,45,0
 WA,305,Hasluck,32540,Swan View (Hasluck),176,64.71,96,35.29,272,5.45
 WA,305,Hasluck,8279,Thornlie,1682,50.15,1672,49.85,3354,-0.66
@@ -8797,7 +8797,7 @@ WA,245,Perth,8153,Morley North,394,52.89,351,47.11,745,-1.63
 WA,245,Perth,8140,Morley South,1317,57.69,966,42.31,2283,-2.4
 WA,245,Perth,8154,Mount Lawley,1196,50.02,1195,49.98,2391,-1.85
 WA,245,Perth,8155,Mount Lawley East,473,52.5,428,47.5,901,-2.06
-WA,245,Perth,8139,Mount Lawley South,535,58.03,387,41.97,922,-2.64
+WA,245,Perth,8139,Mount Lawley South,531,57.97,385,42.03,916,-2.7
 WA,245,Perth,8156,Mount Lawley West,338,45.74,401,54.26,739,-1.9
 WA,245,Perth,8157,Noranda,1020,47.69,1119,52.31,2139,-0.09
 WA,245,Perth,8158,Noranda West (Perth),860,46.97,971,53.03,1831,1.45
