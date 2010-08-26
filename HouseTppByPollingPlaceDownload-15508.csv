@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T14:11:01 Cycle:bd288414-8527-4470-9ec9-a2754c17ce0f Created:2010-08-26T13:48:27 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T14:26:27 Cycle:6f9fd727-d8f1-4ba0-8ab2-4c2ab2181ec3 Created:2010-08-26T14:03:22 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -1043,9 +1043,9 @@ NSW,119,Fowler,31649,Bonnyrigg Heights,1797,58.53,1273,41.47,3070,-15.78
 NSW,119,Fowler,38204,Busby,604,65.72,315,34.28,919,-7.54
 NSW,119,Fowler,868,Cabramatta,1499,59.32,1028,40.68,2527,-23.13
 NSW,119,Fowler,163,Cabramatta East,1409,60.6,916,39.4,2325,-17.34
-NSW,119,Fowler,869,Cabramatta South,1066,60.12,707,39.88,1773,-21.33
+NSW,119,Fowler,869,Cabramatta South,1064,59.94,711,40.06,1775,-21.51
 NSW,119,Fowler,870,Cabramatta West,1099,59.86,737,40.14,1836,-17.39
-NSW,119,Fowler,876,Cabramatta West Central,1617,60.47,1057,39.53,2674,-18.19
+NSW,119,Fowler,876,Cabramatta West Central,1602,59.93,1071,40.07,2673,-18.73
 NSW,119,Fowler,2331,Canley Heights,1581,62.44,951,37.56,2532,-15.67
 NSW,119,Fowler,2332,Canley Vale,1525,63.04,894,36.96,2419,-18.39
 NSW,119,Fowler,31654,Canley Vale North,548,62.49,329,37.51,877,-11.52
@@ -1411,13 +1411,13 @@ NSW,126,Hunter,1083,Cassilis,63,41.18,90,58.82,153,3.42
 NSW,126,Hunter,1357,Cessnock,632,71.74,249,28.26,881,-0.27
 NSW,126,Hunter,1358,Cessnock East,576,76.49,177,23.51,753,-0.95
 NSW,126,Hunter,1360,Cessnock North,598,67.12,293,32.88,891,-2.63
-NSW,126,Hunter,33974,Cessnock PPVC,1562,68.27,726,31.73,2288,35.28
+NSW,126,Hunter,33974,Cessnock PPVC,1559,68.2,727,31.8,2286,35.21
 NSW,126,Hunter,1362,Cessnock West,1537,72.74,576,27.26,2113,0.62
 NSW,126,Hunter,1363,Denman,517,56.2,403,43.8,920,-3.66
 NSW,126,Hunter,30117,Divisional Office (PREPOLL),7,53.85,6,46.15,13,21.85
 NSW,126,Hunter,57455,East Maitland (Hunter),444,58.19,319,41.81,763,-5.56
 NSW,126,Hunter,1365,East Maitland Heights (Hunter),759,57.89,552,42.11,1311,-2.35
-NSW,126,Hunter,33978,East Maitland HUNTER PPVC,1185,62.14,722,37.86,1907,29.17
+NSW,126,Hunter,33978,East Maitland HUNTER PPVC,1178,62,722,38,1900,29.03
 NSW,126,Hunter,1366,East Maitland South,409,57.04,308,42.96,717,-2.06
 NSW,126,Hunter,1369,Elderslie,124,51.45,117,48.55,241,0.27
 NSW,126,Hunter,1370,Ellalong,311,59.92,208,40.08,519,-2.83
@@ -1462,8 +1462,8 @@ NSW,126,Hunter,1413,Rutherford North,2366,67.43,1143,32.57,3509,-2.39
 NSW,126,Hunter,8870,Rutherford West,651,73.56,234,26.44,885,-0.5
 NSW,126,Hunter,297,Rylstone,308,51.85,286,48.15,594,-0.52
 NSW,126,Hunter,1415,Sandy Hollow,117,51.09,112,48.91,229,-4.73
-NSW,126,Hunter,1146,Scone,616,41.54,867,58.46,1483,-10.44
-NSW,126,Hunter,1148,Scone East,383,43.23,503,56.77,886,-15.83
+NSW,126,Hunter,1146,Scone,614,41.43,868,58.57,1482,-10.55
+NSW,126,Hunter,1148,Scone East,382,43.31,500,56.69,882,-15.75
 NSW,126,Hunter,1147,Scone High School,424,46.9,480,53.1,904,-10.57
 NSW,126,Hunter,1417,Singleton,670,58.31,479,41.69,1149,-5.47
 NSW,126,Hunter,1419,Singleton East,321,51.28,305,48.72,626,0.31
@@ -3529,7 +3529,7 @@ QLD,252,Dickson,32583,Dayboro,794,40.68,1158,59.32,1952,-3.93
 QLD,252,Dickson,30403,Divisional Office (PREPOLL),0,0,0,0,0,-49.15
 QLD,252,Dickson,31507,Eatons Hill,965,35.37,1763,64.63,2728,-7.3
 QLD,252,Dickson,47709,Eatons Hill West,938,40.66,1369,59.34,2307,-1.99
-QLD,252,Dickson,12054,Everton Hills,949,42.84,1266,57.16,2215,-7.41
+QLD,252,Dickson,12054,Everton Hills,952,42.88,1268,57.12,2220,-7.37
 QLD,252,Dickson,6505,Ferny Hills,1206,49.49,1231,50.51,2437,-7.94
 QLD,252,Dickson,6506,Ferny Hills North,1632,47.29,1819,52.71,3451,-4.47
 QLD,252,Dickson,5181,Grovely (Dickson),804,52.07,740,47.93,1544,-2.7
@@ -4506,9 +4506,9 @@ QLD,171,McPherson,6097,Robina,1513,28.94,3715,71.06,5228,-4.46
 QLD,171,McPherson,33996,Robina West (McPherson),851,35.17,1569,64.83,2420,-1.75
 QLD,171,McPherson,58704,Southport McPHERSON PPVC,241,31.3,529,68.7,770,-28.29
 QLD,171,McPherson,32570,Special Hospital Team 1,32,39.02,50,60.98,82,-1.43
-QLD,171,McPherson,32571,Special Hospital Team 2,0,0,0,0,0,-40.91
-QLD,171,McPherson,47747,Special Hospital Team 3,0,0,0,0,0,-40.74
-QLD,171,McPherson,58760,Special Hospital Team 4,0,0,0,0,0,-40.82
+QLD,171,McPherson,32571,Special Hospital Team 2,46,52.87,41,47.13,87,11.96
+QLD,171,McPherson,47747,Special Hospital Team 3,75,45.73,89,54.27,164,4.99
+QLD,171,McPherson,58760,Special Hospital Team 4,42,40,63,60,105,-0.82
 QLD,171,McPherson,12024,Tallai (McPherson),710,36.92,1213,63.08,1923,-1.65
 QLD,171,McPherson,6100,Tallebudgera,460,35.74,827,64.26,1287,-4.3
 QLD,171,McPherson,6079,Tallebudgera Valley,178,31.5,387,68.5,565,-3.67
@@ -4679,8 +4679,8 @@ QLD,175,Petrie,32587,Special Hospital Team 1,51,45.95,60,54.05,111,1.16
 QLD,175,Petrie,46458,Special Hospital Team 2,88,61.97,54,38.03,142,17.1
 QLD,175,Petrie,58563,Special Hospital Team 3,75,51.37,71,48.63,146,6.83
 QLD,175,Petrie,58727,Strathpine PETRIE PPVC,423,49.07,439,50.93,862,-0.93
-QLD,175,Petrie,33993,Taigum (Petrie),767,64.35,425,35.65,1192,3.83
-QLD,175,Petrie,6423,Woody Point,791,56.58,607,43.42,1398,-0.67
+QLD,175,Petrie,33993,Taigum (Petrie),764,64.15,427,35.85,1191,3.63
+QLD,175,Petrie,6423,Woody Point,769,56.05,603,43.95,1372,-1.2
 QLD,175,Petrie,47775,Woody Point North,775,51.98,716,48.02,1491,-5.98
 QLD,176,Rankin,5527,Algester,1697,53.38,1482,46.62,3179,-2.47
 QLD,176,Rankin,47723,Algester South,1466,49.48,1497,50.52,2963,-5.9
@@ -4837,12 +4837,12 @@ QLD,178,Wide Bay,6645,Woolooga,24,25.81,69,74.19,93,-7.85
 QLD,316,Wright,6431,Aratula,144,28.4,363,71.6,507,-7.96
 QLD,316,Wright,6255,Beaudesert,978,41.42,1383,58.58,2361,-5.7
 QLD,316,Wright,58586,Beaudesert North,490,41.84,681,58.16,1171,-5.28
-QLD,316,Wright,6062,Beechmont,267,55.86,211,44.14,478,3.81
-QLD,316,Wright,5602,Blenheim,107,33.13,216,66.87,323,-8.87
-QLD,316,Wright,31682,Bonogin (Wright),583,34.95,1085,65.05,1668,1.08
-QLD,316,Wright,6432,Boonah,680,32.12,1437,67.88,2117,-8.99
+QLD,316,Wright,6062,Beechmont,267,55.97,210,44.03,477,3.92
+QLD,316,Wright,5602,Blenheim,107,32.72,220,67.28,327,-9.28
+QLD,316,Wright,31682,Bonogin (Wright),583,34.97,1084,65.03,1667,1.1
+QLD,316,Wright,6432,Boonah,680,32.11,1438,67.89,2118,-9
 QLD,316,Wright,56431,Brisbane City (Wright),21,52.5,19,47.5,40,-8.48
-QLD,316,Wright,56383,Browns Plains (Wright),249,38.02,406,61.98,655,-26.35
+QLD,316,Wright,56383,Browns Plains (Wright),249,37.96,407,62.04,656,-26.41
 QLD,316,Wright,6262,Canungra,539,38.64,856,61.36,1395,-1.66
 QLD,316,Wright,56441,Divisional Office (PREPOLL),0,0,0,0,0,-50
 QLD,316,Wright,32547,Flagstone,830,52.83,741,47.17,1571,-5.55
@@ -5240,7 +5240,7 @@ SA,183,Grey,33199,Special Hospital Team 5,36,59.02,25,40.98,61,16.77
 SA,183,Grey,33200,Special Hospital Team 6,26,28.89,64,71.11,90,-12.95
 SA,183,Grey,33201,Special Hospital Team 7,147,47.57,162,52.43,309,5.56
 SA,183,Grey,33204,Special Hospital Team 8,65,66.33,33,33.67,98,24.28
-SA,183,Grey,7422,Stansbury,142,36.22,250,63.78,392,0.28
+SA,183,Grey,7422,Stansbury,141,36.15,249,63.85,390,0.21
 SA,183,Grey,6965,Stirling North,327,38.29,527,61.71,854,-16.56
 SA,183,Grey,6966,Streaky Bay,199,27.26,531,72.74,730,-1.85
 SA,183,Grey,7427,Terowie,32,42.11,44,57.89,76,-7.33
@@ -5262,9 +5262,9 @@ SA,183,Grey,6962,Whyalla Stuart South,431,63.76,245,36.24,676,-7.2
 SA,183,Grey,6982,Whyalla Stuart West,864,60.55,563,39.45,1427,-5.34
 SA,183,Grey,6984,Willsden,435,54.99,356,45.01,791,-8.42
 SA,183,Grey,7440,Wilmington,107,30.57,243,69.43,350,-8.27
-SA,183,Grey,7441,Wirrabara,82,23.84,262,76.16,344,-7.3
+SA,183,Grey,7441,Wirrabara,84,24.56,258,75.44,342,-6.58
 SA,183,Grey,6985,Wirrulla,22,18.8,95,81.2,117,0.43
-SA,183,Grey,6986,Woomera,65,48.15,70,51.85,135,8.28
+SA,183,Grey,6986,Woomera,62,47.69,68,52.31,130,7.82
 SA,183,Grey,6987,Wudinna,68,11.7,513,88.3,581,-5.95
 SA,183,Grey,7442,Yacka,34,33.66,67,66.34,101,1.93
 SA,183,Grey,7443,Yorketown,225,36,400,64,625,2.98
@@ -7945,9 +7945,9 @@ VIC,233,Wannon,5009,Mailors Flat,153,34.23,294,65.77,447,5.66
 VIC,233,Wannon,3176,Marnoo,27,22.69,92,77.31,119,1.21
 VIC,233,Wannon,31992,Melbourne (Wannon),35,54.69,29,45.31,64,13.71
 VIC,233,Wannon,5011,Merino,98,38.13,159,61.87,257,-1.35
-VIC,233,Wannon,5012,Merrivale,374,51.59,351,48.41,725,1.14
-VIC,233,Wannon,3180,Moonambel,108,58.06,78,41.94,186,2.72
-VIC,233,Wannon,5016,Mortlake,323,36.96,551,63.04,874,0.07
+VIC,233,Wannon,5012,Merrivale,370,51.68,346,48.32,716,1.23
+VIC,233,Wannon,3180,Moonambel,103,56.28,80,43.72,183,0.94
+VIC,233,Wannon,5016,Mortlake,322,37.23,543,62.77,865,0.34
 VIC,233,Wannon,3045,Moyston,121,54.26,102,45.74,223,-3.12
 VIC,233,Wannon,5021,Naringal,35,15.49,191,84.51,226,-2.07
 VIC,233,Wannon,5023,Narrawong,96,42.11,132,57.89,228,-0.2
@@ -7988,7 +7988,7 @@ VIC,233,Wannon,5060,Timboon,256,28.89,630,71.11,886,-0.77
 VIC,233,Wannon,5063,Tower Square,545,50.05,544,49.95,1089,10.74
 VIC,233,Wannon,5064,Tyrendarra,38,28.57,95,71.43,133,4.41
 VIC,233,Wannon,5069,Wangoom,70,27.56,184,72.44,254,-0.34
-VIC,233,Wannon,5072,Warrnambool,1416,41.31,2012,58.69,3428,-2.01
+VIC,233,Wannon,5072,Warrnambool,1464,43.1,1933,56.9,3397,-0.22
 VIC,233,Wannon,5074,Warrnambool East,783,50.88,756,49.12,1539,1.77
 VIC,233,Wannon,5073,Warrnambool Hospital,153,51.34,145,48.66,298,1.53
 VIC,233,Wannon,33122,Warrnambool Interstate PPVC,0,0,0,0,0,0
@@ -8095,7 +8095,7 @@ WA,236,Canning,7470,Armadale South,495,53.98,422,46.02,917,2.91
 WA,236,Canning,7471,Armadale West,1310,63.22,762,36.78,2072,7.59
 WA,236,Canning,7473,Barragup,580,44.58,721,55.42,1301,1.26
 WA,236,Canning,8850,Bedfordale,244,41.43,345,58.57,589,6.58
-WA,236,Canning,7985,Boddington,205,33.28,411,66.72,616,-2.28
+WA,236,Canning,7985,Boddington,246,37.5,410,62.5,656,1.94
 WA,236,Canning,11634,Brookdale,454,61.35,286,38.65,740,6.49
 WA,236,Canning,7477,Byford,1503,45,1837,55,3340,6.35
 WA,236,Canning,7479,Carcoola,268,54.47,224,45.53,492,-4.07
@@ -8716,7 +8716,7 @@ WA,244,Pearce,7530,Carmel,101,26.44,281,73.56,382,-3.38
 WA,244,Pearce,7927,Chidlow,383,41.68,536,58.32,919,-3.78
 WA,244,Pearce,7930,Darlington,750,42.02,1035,57.98,1785,-1.61
 WA,244,Pearce,30235,Divisional Office (PREPOLL),0,0,0,0,0,-42.86
-WA,244,Pearce,32575,Ellenbrook,1497,43,1984,57,3481,1
+WA,244,Pearce,32575,Ellenbrook,1492,42.96,1981,57.04,3473,0.96
 WA,244,Pearce,46519,Ellenbrook North,1212,44.4,1518,55.6,2730,0.42
 WA,244,Pearce,7933,Gidgegannup,494,36.84,847,63.16,1341,-1.25
 WA,244,Pearce,7934,Gingin,188,27.53,495,72.47,683,-0.96
