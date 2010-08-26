@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T17:33:24 Cycle:b4856805-cdaa-498d-9730-4be860de1694 Created:2010-08-26T17:18:59 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T17:48:49 Cycle:b543d6e5-c84e-4a22-9f65-be3426d70019 Created:2010-08-26T17:34:05 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -302,13 +302,13 @@ NSW,107,Blaxland,154,Bankstown East,981,71.04,400,28.96,1381,-3.29
 NSW,107,Blaxland,157,Bankstown North,984,67.91,465,32.09,1449,-1.16
 NSW,107,Blaxland,56630,Bankstown South (Blaxland),185,66.07,95,33.93,280,-5.2
 NSW,107,Blaxland,177,Bankstown West,1169,64.09,655,35.91,1824,-2.79
-NSW,107,Blaxland,159,Bass Hill,1288,61.57,804,38.43,2092,-1.66
+NSW,107,Blaxland,159,Bass Hill,1265,60.96,810,39.04,2075,-2.27
 NSW,107,Blaxland,162,Bass Hill West,1398,49.16,1446,50.84,2844,-3.41
 NSW,107,Blaxland,2370,Berala (Blaxland),1334,70.03,571,29.97,1905,-5.77
 NSW,107,Blaxland,2383,Berala South,934,57.3,696,42.7,1630,-9.41
 NSW,107,Blaxland,2371,Birrong,1828,65.71,954,34.29,2782,-2.45
 NSW,107,Blaxland,2373,Blaxcell (Blaxland),1422,65.96,734,34.04,2156,-2.46
-NSW,107,Blaxland,2375,Chester Hill,1164,61.52,728,38.48,1892,-8.44
+NSW,107,Blaxland,2375,Chester Hill,1140,60.38,748,39.62,1888,-9.58
 NSW,107,Blaxland,160,Chester Hill Central,1395,65.93,721,34.07,2116,3.69
 NSW,107,Blaxland,2376,Chester Hill North,1225,64.44,676,35.56,1901,-1.34
 NSW,107,Blaxland,167,Condell Park,1778,59.25,1223,40.75,3001,-5.6
@@ -5136,7 +5136,7 @@ SA,182,Boothby,33240,Special Hospital Team 4,21,25.3,62,74.7,83,-8.95
 SA,182,Boothby,33241,Special Hospital Team 5,28,57.14,21,42.86,49,22.93
 SA,182,Boothby,7036,St Marys,905,59.66,612,40.34,1517,2.73
 SA,182,Boothby,7038,Tonsley Park,724,62.68,431,37.32,1155,2.76
-SA,182,Boothby,6863,Torrens Park,473,48.27,507,51.73,980,5.44
+SA,182,Boothby,6863,Torrens Park,435,44.39,545,55.61,980,1.56
 SA,182,Boothby,7039,Warradale,1251,50.67,1218,49.33,2469,0.21
 SA,182,Boothby,7040,West Brighton,645,39.23,999,60.77,1644,-0.28
 SA,182,Boothby,6891,Westbourne Park,905,48.89,946,51.11,1851,0.22
@@ -5274,7 +5274,7 @@ SA,185,Hindmarsh,58735,Adelaide HINDMARSH PPVC,292,55.62,233,44.38,525,0.27
 SA,185,Hindmarsh,7050,Brooklyn Park,1186,62.49,712,37.51,1898,-0.15
 SA,185,Hindmarsh,7051,Brooklyn Park South,829,58.13,597,41.87,1426,2.53
 SA,185,Hindmarsh,7052,Camden Park,578,57.8,422,42.2,1000,2.09
-SA,185,Hindmarsh,7053,Cowandilla,1499,73.77,533,26.23,2032,1.06
+SA,185,Hindmarsh,7053,Cowandilla,1490,71.88,583,28.12,2073,-0.83
 SA,185,Hindmarsh,7054,Cowandilla West,315,69.84,136,30.16,451,1.47
 SA,185,Hindmarsh,30176,Divisional Office (PREPOLL),80,50.31,79,49.69,159,-6.1
 SA,185,Hindmarsh,7014,Edwardstown,1018,62.53,610,37.47,1628,2.12
@@ -5762,11 +5762,11 @@ TAS,193,Braddon,8383,Gunns Plains,54,49.09,56,50.91,110,4.09
 TAS,193,Braddon,8384,Havenview,405,66.5,204,33.5,609,0.2
 TAS,193,Braddon,8361,Heybridge,161,54.39,135,45.61,296,-4.14
 TAS,193,Braddon,8385,Highclere,103,57.22,77,42.78,180,6.67
-TAS,193,Braddon,8386,Irishtown,130,44.52,162,55.48,292,1.66
+TAS,193,Braddon,8386,Irishtown,134,45.73,159,54.27,293,2.87
 TAS,193,Braddon,8615,Latrobe,1386,61.44,870,38.56,2256,11.55
 TAS,193,Braddon,8391,Marrawah,83,44.86,102,55.14,185,4.11
 TAS,193,Braddon,8392,Mawbanna,26,47.27,29,52.73,55,1.99
-TAS,193,Braddon,8393,Melrose,112,59.57,76,40.43,188,15.47
+TAS,193,Braddon,8393,Melrose,113,60.11,75,39.89,188,16.01
 TAS,193,Braddon,8374,Miandetta,248,60.78,160,39.22,408,2.63
 TAS,193,Braddon,8395,Montagu,59,52.21,54,47.79,113,13.39
 TAS,193,Braddon,8396,Montello,634,71.64,251,28.36,885,5.43
@@ -6045,7 +6045,7 @@ VIC,197,Aston,31993,Melbourne (Aston),32,59.26,22,40.74,54,-0.12
 VIC,197,Aston,2960,Morack,843,47.36,937,52.64,1780,4.83
 VIC,197,Aston,2961,Mountain Gate,1841,56.91,1394,43.09,3235,6.49
 VIC,197,Aston,11513,Park Ridge,1244,49.46,1271,50.54,2515,3.96
-VIC,197,Aston,3577,Parkmore,1053,51.85,978,48.15,2031,-0.6
+VIC,197,Aston,3577,Parkmore,1052,51.87,976,48.13,2028,-0.58
 VIC,197,Aston,2963,Rowville,1631,48.31,1745,51.69,3376,3.54
 VIC,197,Aston,38413,Rowville Central,783,47,883,53,1666,4.98
 VIC,197,Aston,2964,Rowville East,1072,50.38,1056,49.62,2128,4.35
@@ -6067,11 +6067,11 @@ VIC,198,Ballarat,2978,Alfredton West,1508,53.91,1289,46.09,2797,7.46
 VIC,198,Ballarat,2983,Ascot,36,20.93,136,79.07,172,1.82
 VIC,198,Ballarat,3252,Bacchus Marsh,1082,59.88,725,40.12,1807,3.27
 VIC,198,Ballarat,3253,Ballan,1053,62.46,633,37.54,1686,2.59
-VIC,198,Ballarat,2986,Ballarat,1332,63.46,767,36.54,2099,1.29
+VIC,198,Ballarat,2986,Ballarat,1327,63.28,770,36.72,2097,1.11
 VIC,198,Ballarat,2990,Ballarat North,1428,54.32,1201,45.68,2629,-0.58
-VIC,198,Ballarat,2991,Ballarat North West,1163,54.07,988,45.93,2151,5.82
+VIC,198,Ballarat,2991,Ballarat North West,1162,54.05,988,45.95,2150,5.8
 VIC,198,Ballarat,34062,Ballarat PPVC,6638,56.9,5028,43.1,11666,1.4
-VIC,198,Ballarat,2993,Ballarat South,831,67.45,401,32.55,1232,1.67
+VIC,198,Ballarat,2993,Ballarat South,813,66.15,416,33.85,1229,0.37
 VIC,198,Ballarat,2994,Ballarat South West,470,69.12,210,30.88,680,10.83
 VIC,198,Ballarat,2998,Black Hill,1211,65.46,639,34.54,1850,3.53
 VIC,198,Ballarat,3259,Blackwood,181,74.18,63,25.82,244,4.14
@@ -6752,18 +6752,18 @@ VIC,213,Gippsland,3781,Lindenow,167,22.03,591,77.97,758,0.26
 VIC,213,Gippsland,3783,Loch Sport,194,45.86,229,54.14,423,-5.2
 VIC,213,Gippsland,3784,Longford,202,35.75,363,64.25,565,-4.98
 VIC,213,Gippsland,3785,Lucknow,399,33.64,787,66.36,1186,-2.62
-VIC,213,Gippsland,3786,Maffra,778,33.81,1523,66.19,2301,-6.51
-VIC,213,Gippsland,3787,Mallacoota,311,50.57,304,49.43,615,0.24
-VIC,213,Gippsland,3789,Marlo,125,39.31,193,60.69,318,-4.87
+VIC,213,Gippsland,3786,Maffra,779,33.84,1523,66.16,2302,-6.48
+VIC,213,Gippsland,3787,Mallacoota,310,50.49,304,49.51,614,0.16
+VIC,213,Gippsland,3789,Marlo,127,39.94,191,60.06,318,-4.24
 VIC,213,Gippsland,3791,Meerlieu,44,37.29,74,62.71,118,7.29
 VIC,213,Gippsland,32019,Melbourne (Gippsland),22,46.81,25,53.19,47,-6.52
-VIC,213,Gippsland,3792,Metung,162,30.86,363,69.14,525,-7.08
-VIC,213,Gippsland,4408,Morwell,728,54.98,596,45.02,1324,-7.22
-VIC,213,Gippsland,4409,Morwell Central,882,57.12,662,42.88,1544,-0.93
+VIC,213,Gippsland,3792,Metung,162,30.8,364,69.2,526,-7.14
+VIC,213,Gippsland,4408,Morwell,751,56.85,570,43.15,1321,-5.35
+VIC,213,Gippsland,4409,Morwell Central,886,57.27,661,42.73,1547,-0.78
 VIC,213,Gippsland,4410,Morwell Estate,1448,61.12,921,38.88,2369,-4.28
 VIC,213,Gippsland,31558,Morwell Interstate PPVC,0,0,0,0,0,0
 VIC,213,Gippsland,4411,Morwell North,587,61.02,375,38.98,962,-1.15
-VIC,213,Gippsland,3799,Nambrok,7,4.29,156,95.71,163,-9.29
+VIC,213,Gippsland,3799,Nambrok,10,6.17,152,93.83,162,-7.41
 VIC,213,Gippsland,57719,Newlands Arm,92,39.66,140,60.34,232,2.26
 VIC,213,Gippsland,3802,Newmerella,129,32.82,264,67.18,393,3.53
 VIC,213,Gippsland,3803,Newry,50,17.18,241,82.82,291,-4.59
@@ -7745,7 +7745,7 @@ VIC,229,Menzies,4703,Doncaster West,802,50.19,796,49.81,1598,-2.94
 VIC,229,Menzies,3383,Donvale,504,35,936,65,1440,-2.24
 VIC,229,Menzies,11875,Gumnut Gully,481,41.68,673,58.32,1154,-1.34
 VIC,229,Menzies,3386,Kalinda (Menzies),626,43.23,822,56.77,1448,1.12
-VIC,229,Menzies,4708,Lower Templestowe,612,46.79,696,53.21,1308,-2.94
+VIC,229,Menzies,4708,Lower Templestowe,617,46.64,706,53.36,1323,-3.09
 VIC,229,Menzies,32894,Manningham,394,39.2,611,60.8,1005,-4.97
 VIC,229,Menzies,32044,Melbourne (Menzies),44,41.51,62,58.49,106,-7.33
 VIC,229,Menzies,4709,Milgate,950,38.09,1544,61.91,2494,-4.19
@@ -7765,7 +7765,7 @@ VIC,229,Menzies,11876,The Pines,978,36.67,1689,63.33,2667,-5.16
 VIC,229,Menzies,3404,Tunstall,796,45.59,950,54.41,1746,-1.05
 VIC,229,Menzies,3405,Warrandyte,1125,47.25,1256,52.75,2381,0.28
 VIC,229,Menzies,3407,Warrandyte South,156,34.36,298,65.64,454,-0.84
-VIC,229,Menzies,31844,Warranwood,996,43.99,1268,56.01,2264,2.07
+VIC,229,Menzies,31844,Warranwood,999,44.32,1255,55.68,2254,2.4
 VIC,229,Menzies,3409,Wonga Park,605,36.25,1064,63.75,1669,4.61
 VIC,229,Menzies,4716,Yarraleen,752,43.87,962,56.13,1714,-3.86
 VIC,231,Murray,4720,Arcadia,11,16.42,56,83.58,67,-5.1
@@ -7781,7 +7781,7 @@ VIC,231,Murray,4048,Bundalong,80,45.2,97,54.8,177,9.94
 VIC,231,Murray,4728,Byrneside,58,19.46,240,80.54,298,-3.08
 VIC,231,Murray,4729,Calivil,16,16.16,83,83.84,99,0.98
 VIC,231,Murray,4316,Caniambo,5,9.26,49,90.74,54,-5.23
-VIC,231,Murray,4039,Cobram,961,34.07,1860,65.93,2821,-2.03
+VIC,231,Murray,4039,Cobram,962,34.25,1847,65.75,2809,-1.85
 VIC,231,Murray,4731,Colbinabbin,30,13.04,200,86.96,230,-4.85
 VIC,231,Murray,4732,Congupna,118,22.35,410,77.65,528,-2.99
 VIC,231,Murray,4749,Cooma,22,12.64,152,87.36,174,-3.56
@@ -8028,7 +8028,7 @@ VIC,234,Wills,4591,Glenroy West,1461,69.21,650,30.79,2111,-1.16
 VIC,234,Wills,34056,Glenroy WILLS PPVC,2550,72.38,973,27.62,3523,0.19
 VIC,234,Wills,38411,Gowanbrae,781,63.76,444,36.24,1225,0.8
 VIC,234,Wills,4852,Gowrie Park,981,72.99,363,27.01,1344,-2.69
-VIC,234,Wills,4853,Hadfield,824,74.03,289,25.97,1113,-0.14
+VIC,234,Wills,4853,Hadfield,822,73.92,290,26.08,1112,-0.25
 VIC,234,Wills,5101,Lake Park,473,73.56,170,26.44,643,0.41
 VIC,234,Wills,32909,Melbourne (Wills),148,80.87,35,19.13,183,9.97
 VIC,234,Wills,5102,Melville,1156,75.02,385,24.98,1541,1.31
