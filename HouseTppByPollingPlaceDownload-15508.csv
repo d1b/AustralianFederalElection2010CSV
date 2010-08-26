@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T17:02:58 Cycle:1214af99-aa81-4ce4-be60-1e0ec859ea03 Created:2010-08-26T16:48:54 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T17:17:59 Cycle:dd2f65fa-afbb-415a-8103-93c011d78512 Created:2010-08-26T17:03:59 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -573,7 +573,7 @@ NSW,111,Chifley,393,Doonside,1159,64.57,636,35.43,1795,-7.25
 NSW,111,Chifley,1028,Doonside North,2255,61.33,1422,38.67,3677,-9.51
 NSW,111,Chifley,395,Eastern Creek,347,57.26,259,42.74,606,-13.6
 NSW,111,Chifley,396,Emerton,413,70.96,169,29.04,582,-5.31
-NSW,111,Chifley,31463,Glendenning,1454,63.36,841,36.64,2295,-9.09
+NSW,111,Chifley,31463,Glendenning,1463,64,823,36,2286,-8.45
 NSW,111,Chifley,31030,Hassall Grove,1854,62.61,1107,37.39,2961,-11.42
 NSW,111,Chifley,397,Hebersham,1315,68.53,604,31.47,1919,-8.31
 NSW,111,Chifley,399,Lethbridge Park,1290,71.43,516,28.57,1806,-6.29
@@ -3051,7 +3051,7 @@ NSW,153,Werriwa,11925,Eagle Vale,1073,59.35,735,40.65,1808,-7.13
 NSW,153,Werriwa,2912,Eschol Park,1253,54.93,1028,45.07,2281,-6.12
 NSW,153,Werriwa,2913,Glenfield,1183,56.93,895,43.07,2078,-9.52
 NSW,153,Werriwa,2914,Glenfield East,772,54.67,640,45.33,1412,-8.17
-NSW,153,Werriwa,46482,Horningsea Park,521,58.02,377,41.98,898,-6.06
+NSW,153,Werriwa,46482,Horningsea Park,523,58.05,378,41.95,901,-6.03
 NSW,153,Werriwa,2916,Hoxton Park,1286,59.98,858,40.02,2144,-11.13
 NSW,153,Werriwa,2918,Ingleburn,1709,56.66,1307,43.34,3016,-6.9
 NSW,153,Werriwa,2919,Ingleburn East,732,53.35,640,46.65,1372,-8.13
@@ -3577,7 +3577,7 @@ QLD,159,Fadden,6282,Oxenford (Fadden),627,31.56,1360,68.44,1987,-5.16
 QLD,159,Fadden,33989,Pacific Pines (Fadden),1414,40.35,2090,59.65,3504,-2.02
 QLD,159,Fadden,58549,Pacific Pines North,291,38.19,471,61.81,762,-5.97
 QLD,159,Fadden,58548,Pacific Pines West (Fadden),138,39.66,210,60.34,348,-3.51
-QLD,159,Fadden,6283,Paradise Lakes,587,43.48,763,56.52,1350,-3.33
+QLD,159,Fadden,6283,Paradise Lakes,582,43.27,763,56.73,1345,-3.54
 QLD,159,Fadden,12001,Paradise Point,730,25.44,2140,74.56,2870,-3.57
 QLD,159,Fadden,12003,Runaway Bay,981,27.79,2549,72.21,3530,-1.54
 QLD,159,Fadden,46721,Runaway Bay PPVC,1297,30.56,2947,69.44,4244,-30.58
@@ -4675,9 +4675,9 @@ QLD,175,Petrie,46453,Redcliffe South,722,55.67,575,44.33,1297,-0.48
 QLD,175,Petrie,11642,Rothwell,903,43.52,1172,56.48,2075,-1.95
 QLD,175,Petrie,6417,Scarborough,1320,49.66,1338,50.34,2658,-3.7
 QLD,175,Petrie,6418,Scarborough North,561,48.83,588,51.17,1149,-5.33
-QLD,175,Petrie,32587,Special Hospital Team 1,51,45.95,60,54.05,111,1.16
+QLD,175,Petrie,32587,Special Hospital Team 1,49,44.14,62,55.86,111,-0.65
 QLD,175,Petrie,46458,Special Hospital Team 2,88,61.97,54,38.03,142,17.1
-QLD,175,Petrie,58563,Special Hospital Team 3,75,51.37,71,48.63,146,6.83
+QLD,175,Petrie,58563,Special Hospital Team 3,75,51.02,72,48.98,147,6.48
 QLD,175,Petrie,58727,Strathpine PETRIE PPVC,423,49.07,439,50.93,862,-0.93
 QLD,175,Petrie,33993,Taigum (Petrie),764,64.15,427,35.85,1191,3.63
 QLD,175,Petrie,6423,Woody Point,769,56.05,603,43.95,1372,-1.2
@@ -6760,14 +6760,14 @@ VIC,213,Gippsland,32019,Melbourne (Gippsland),22,46.81,25,53.19,47,-6.52
 VIC,213,Gippsland,3792,Metung,162,30.86,363,69.14,525,-7.08
 VIC,213,Gippsland,4408,Morwell,728,54.98,596,45.02,1324,-7.22
 VIC,213,Gippsland,4409,Morwell Central,882,57.12,662,42.88,1544,-0.93
-VIC,213,Gippsland,4410,Morwell Estate,1452,61.19,921,38.81,2373,-4.21
+VIC,213,Gippsland,4410,Morwell Estate,1448,61.12,921,38.88,2369,-4.28
 VIC,213,Gippsland,31558,Morwell Interstate PPVC,0,0,0,0,0,0
-VIC,213,Gippsland,4411,Morwell North,573,62.15,349,37.85,922,-0.02
+VIC,213,Gippsland,4411,Morwell North,587,61.02,375,38.98,962,-1.15
 VIC,213,Gippsland,3799,Nambrok,7,4.29,156,95.71,163,-9.29
 VIC,213,Gippsland,57719,Newlands Arm,92,39.66,140,60.34,232,2.26
 VIC,213,Gippsland,3802,Newmerella,129,32.82,264,67.18,393,3.53
-VIC,213,Gippsland,3803,Newry,51,17.53,240,82.47,291,-4.24
-VIC,213,Gippsland,3804,Nicholson,192,30.33,441,69.67,633,-9.49
+VIC,213,Gippsland,3803,Newry,50,17.18,241,82.82,291,-4.59
+VIC,213,Gippsland,3804,Nicholson,205,32.39,428,67.61,633,-7.43
 VIC,213,Gippsland,3805,Nowa Nowa,80,39.6,122,60.4,202,-8.14
 VIC,213,Gippsland,3806,Nungurner,83,34.3,159,65.7,242,-8.26
 VIC,213,Gippsland,3807,Omeo,73,25.61,212,74.39,285,-10.72
@@ -8106,15 +8106,15 @@ WA,236,Canning,30227,Divisional Office (PREPOLL),46,48.42,49,51.58,95,-7.14
 WA,236,Canning,7494,Dudley Park,802,47.29,894,52.71,1696,0.12
 WA,236,Canning,7483,Dwellingup,160,46.65,183,53.35,343,-7.58
 WA,236,Canning,7484,Falcon,1214,44.07,1541,55.93,2755,2.37
-WA,236,Canning,7485,Forrestdale,584,39.38,899,60.62,1483,-1.87
+WA,236,Canning,7485,Forrestdale,587,39.5,899,60.5,1486,-1.75
 WA,236,Canning,58707,Greenfields CANNING PPVC,1775,47.5,1962,52.5,3737,-6.01
-WA,236,Canning,7495,Halls Head,988,36.11,1748,63.89,2736,2.83
-WA,236,Canning,31478,Halls Head South,1192,47.23,1332,52.77,2524,4.81
+WA,236,Canning,7495,Halls Head,980,35.9,1750,64.1,2730,2.62
+WA,236,Canning,31478,Halls Head South,1226,48.52,1301,51.48,2527,6.1
 WA,236,Canning,34340,Halls Head West,650,39.76,985,60.24,1635,1.37
-WA,236,Canning,7489,Jarrahdale,222,50.68,216,49.32,438,1.97
+WA,236,Canning,7489,Jarrahdale,221,50.57,216,49.43,437,1.86
 WA,236,Canning,7541,Karragullen,98,32.34,205,67.66,303,5.75
-WA,236,Canning,7542,Kelmscott,946,57.13,710,42.87,1656,2.78
-WA,236,Canning,7543,Kelmscott East,929,49.18,960,50.82,1889,7.15
+WA,236,Canning,7542,Kelmscott,931,56.7,711,43.3,1642,2.35
+WA,236,Canning,7543,Kelmscott East,928,49.15,960,50.85,1888,7.12
 WA,236,Canning,7544,Kelmscott North,715,52.81,639,47.19,1354,7.07
 WA,236,Canning,31065,Lake Clifton,131,45.96,154,54.04,285,-2.67
 WA,236,Canning,7491,Mandurah,330,48.25,354,51.75,684,-4.95
@@ -8125,7 +8125,7 @@ WA,236,Canning,7499,North Dandalup,162,43.32,212,56.68,374,2.28
 WA,236,Canning,7500,Oakford,342,36.7,590,63.3,932,1.49
 WA,236,Canning,13962,Perth (Canning),24,64.86,13,35.14,37,8.1
 WA,236,Canning,7502,Pinjarra,806,45.8,954,54.2,1760,-0.79
-WA,236,Canning,46571,Preston Beach,48,40.68,70,59.32,118,-14.79
+WA,236,Canning,46571,Preston Beach,48,41.03,69,58.97,117,-14.44
 WA,236,Canning,34208,Prison Mobile Team 1,2,66.67,1,33.33,3,11.11
 WA,236,Canning,7554,Roleystone,1471,48.66,1552,51.34,3023,3.54
 WA,236,Canning,32157,Rottnest (Canning),12,30.77,27,69.23,39,-15.57
@@ -8477,7 +8477,7 @@ WA,240,Fremantle,7790,White Gum Valley,1101,72.34,421,27.66,1522,0.04
 WA,240,Fremantle,7791,Willagee,975,56.13,762,43.87,1737,-7.35
 WA,240,Fremantle,7792,Willagee East,672,51.53,632,48.47,1304,-4.8
 WA,240,Fremantle,7793,Yangebup,1337,61.9,823,38.1,2160,-1
-WA,240,Fremantle,31975,Yangebup South,343,51.35,325,48.65,668,-7.82
+WA,240,Fremantle,31975,Yangebup South,347,52.02,320,47.98,667,-7.15
 WA,305,Hasluck,8207,Bellevue,401,57.53,296,42.47,697,-0.3
 WA,305,Hasluck,7925,Caversham,455,54.49,380,45.51,835,-1.99
 WA,305,Hasluck,34091,Divisional Office (PREPOLL),0,0,0,0,0,-48.84

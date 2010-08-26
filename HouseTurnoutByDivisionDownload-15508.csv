@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T17:02:32 Cycle:1214af99-aa81-4ce4-be60-1e0ec859ea03 Created:2010-08-26T16:48:54 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T17:17:33 Cycle:dd2f65fa-afbb-415a-8103-93c011d78512 Created:2010-08-26T17:03:59 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 179,Adelaide,SA,98526,74586,75.7,-18.89
 197,Aston,VIC,93448,79817,85.41,-10.98
@@ -24,11 +24,11 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 109,Calare,NSW,98504,84828,86.12,-10.3
 203,Calwell,VIC,101314,84339,83.25,-11.59
 101,Canberra,ACT,124215,105128,84.63,-11.38
-236,Canning,WA,90107,72597,80.57,-12.55
+236,Canning,WA,90107,72605,80.58,-12.54
 157,Capricornia,QLD,91962,76523,83.21,-12.19
 204,Casey,VIC,92357,75798,82.07,-14.15
 110,Charlton,NSW,94480,75750,80.18,-15.82
-111,Chifley,NSW,97605,79443,81.39,-12.28
+111,Chifley,NSW,97605,79425,81.37,-12.3
 205,Chisholm,VIC,86275,66454,77.03,-18.24
 112,Cook,NSW,100748,83368,82.75,-13.68
 207,Corangamite,VIC,101569,87265,85.92,-10.55
@@ -44,8 +44,8 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 115,Dobell,NSW,93661,78167,83.46,-11.38
 210,Dunkley,VIC,95324,80398,84.34,-10.89
 312,Durack,WA,85782,60727,70.79,-16.37
-117,Eden-Monaro,NSW,96465,78804,81.69,-14.21
-159,Fadden,QLD,85236,67675,79.4,-12.84
+117,Eden-Monaro,NSW,96465,83301,86.35,-9.55
+159,Fadden,QLD,85236,67676,79.4,-12.84
 160,Fairfax,QLD,89743,76218,84.93,-8.19
 118,Farrer,NSW,94061,78974,83.96,-12.28
 161,Fisher,QLD,83754,69027,82.42,-10.69
@@ -59,7 +59,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 240,Fremantle,WA,93341,74349,79.65,-14.13
 212,Gellibrand,VIC,95611,70713,73.96,-20.2
 120,Gilmore,NSW,96317,79664,82.71,-13.1
-213,Gippsland,VIC,97543,82046,84.11,-11.56
+213,Gippsland,VIC,97543,82053,84.12,-11.55
 214,Goldstein,VIC,93945,75115,79.96,-15
 309,Gorton,VIC,113656,92428,81.32,-13.6
 121,Grayndler,NSW,98112,75259,76.71,-17.6
@@ -72,7 +72,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 215,Higgins,VIC,90398,64695,71.57,-22.2
 185,Hindmarsh,SA,100245,77152,76.96,-18.41
 166,Hinkler,QLD,91397,78294,85.66,-8.81
-216,Holt,VIC,108893,83751,76.91,-18.52
+216,Holt,VIC,108893,86746,79.66,-15.77
 217,Hotham,VIC,89581,67451,75.3,-19.49
 124,Hughes,NSW,97995,78738,80.35,-15.7
 125,Hume,NSW,97698,81657,83.58,-12.22
@@ -135,7 +135,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 232,Scullin,VIC,90822,74944,82.52,-13.18
 148,Shortland,NSW,94245,78819,83.63,-12.65
 307,Solomon,NT,59879,50370,84.12,-7.94
-246,Stirling,WA,91728,77179,84.14,-9.46
+246,Stirling,WA,91728,78719,85.82,-7.78
 190,Sturt,SA,99061,77989,78.73,-16.85
 247,Swan,WA,90766,72310,79.67,-13.33
 149,Sydney,NSW,95277,61943,65.01,-26.8
@@ -146,7 +146,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 151,Warringah,NSW,96706,74586,77.13,-17.7
 251,Watson,NSW,97765,74011,75.7,-16.54
 152,Wentworth,NSW,101464,72330,71.29,-21.24
-153,Werriwa,NSW,90994,71594,78.68,-15.22
+153,Werriwa,NSW,90994,71597,78.68,-15.22
 178,Wide Bay,QLD,92636,73910,79.79,-14.74
 234,Wills,VIC,98599,75129,76.2,-17.47
 316,Wright,QLD,85304,68757,80.6,-12.98
