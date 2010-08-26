@@ -1,4 +1,4 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T12:54:37 Cycle:76a62e9c-2332-4346-88b4-81f2d8e521f9 Created:2010-08-26T12:33:26 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T13:09:48 Cycle:3f767dc6-2857-4a10-9726-0d9977f90b00 Created:2010-08-26T12:48:27 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 179,Adelaide,SA,98526,72646,73.73
 197,Aston,VIC,93448,74163,79.36
@@ -49,10 +49,10 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 160,Fairfax,QLD,89743,70529,78.59
 118,Farrer,NSW,94061,74356,79.05
 161,Fisher,QLD,83754,65690,78.43
-211,Flinders,VIC,100875,77199,73.57
+211,Flinders,VIC,100875,77211,76.53
 311,Flynn,QLD,91377,65801,72.01
 162,Forde,QLD,82558,60922,73.79
-239,Forrest,WA,89636,67901,75.65
+239,Forrest,WA,89636,67901,75.75
 119,Fowler,NSW,95561,70840,74.13
 195,Franklin,TAS,71090,58620,82.46
 102,Fraser,ACT,123444,92243,74.72
@@ -60,7 +60,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 212,Gellibrand,VIC,95611,69815,73.02
 120,Gilmore,NSW,96317,65773,68.29
 213,Gippsland,VIC,97543,81446,83.5
-214,Goldstein,VIC,93945,69103,73.5
+214,Goldstein,VIC,93945,69103,73.56
 309,Gorton,VIC,113656,86046,75.71
 121,Grayndler,NSW,98112,70028,71.38
 122,Greenway,NSW,93828,69046,73.59
@@ -98,7 +98,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 133,Macquarie,NSW,97560,79759,81.75
 187,Makin,SA,96263,76630,79.6
 224,Mallee,VIC,89840,74488,82.91
-170,Maranoa,QLD,97957,69443,70.89
+170,Maranoa,QLD,97957,69465,70.89
 225,Maribyrnong,VIC,88412,68251,77.2
 188,Mayo,SA,101565,76002,74.83
 226,McEwen,VIC,115783,81602,70.48
@@ -110,7 +110,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 229,Menzies,VIC,90966,68782,75.61
 134,Mitchell,NSW,93588,76976,82.25
 172,Moncrieff,QLD,89087,67672,75.96
-242,Moore,WA,92295,73103,79.2
+242,Moore,WA,92295,73103,79.21
 173,Moreton,QLD,92733,68052,73.38
 231,Murray,VIC,90218,71097,78.81
 135,New England,NSW,99677,66387,66.6
@@ -139,7 +139,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 190,Sturt,SA,99061,72041,72.72
 247,Swan,WA,90766,64149,70.68
 149,Sydney,NSW,95277,51401,53.95
-248,Tangney,WA,92176,72723,78.89
+248,Tangney,WA,92176,72730,78.9
 150,Throsby,NSW,95874,71206,74.27
 191,Wakefield,SA,100209,79293,79.13
 233,Wannon,VIC,92264,74643,80.9
