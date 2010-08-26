@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T09:48:31 Cycle:4e9ad9d5-7188-4e94-8298-d60bd73b2d48 Created:2010-08-26T09:32:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T10:03:53 Cycle:e617b26d-5ae9-4f43-94ef-0317264ece7d Created:2010-08-26T09:47:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -1544,7 +1544,7 @@ NSW,128,Lindsay,1481,Cambridge Park South,749,54.95,614,45.05,1363,-5.41
 NSW,128,Lindsay,1754,Castlereagh,224,27.76,583,72.24,807,-9.09
 NSW,128,Lindsay,11957,Claremont Meadows,1119,62.76,664,37.24,1783,-2.48
 NSW,128,Lindsay,1758,Cranebrook,1823,50.98,1753,49.02,3576,-2.36
-NSW,128,Lindsay,30119,Divisional Office (PREPOLL),251,44.35,315,55.65,566,-9.53
+NSW,128,Lindsay,30119,Divisional Office (PREPOLL),250,44.33,314,55.67,564,-9.55
 NSW,128,Lindsay,1483,Emu Heights,801,48.66,845,51.34,1646,-4.17
 NSW,128,Lindsay,1484,Emu Plains,1253,43.66,1617,56.34,2870,-6.99
 NSW,128,Lindsay,32337,Glenmore Park,1739,50.1,1732,49.9,3471,-4.29
@@ -5147,7 +5147,7 @@ SA,183,Grey,6909,Arno Bay,42,20.39,164,79.61,206,-2.82
 SA,183,Grey,7327,Arthurton,41,20.2,162,79.8,203,0.91
 SA,183,Grey,7332,Blyth,66,22.92,222,77.08,288,1.84
 SA,183,Grey,7333,Booborowie,36,19.35,150,80.65,186,-4.46
-SA,183,Grey,7334,Booleroo Centre,48,14.12,292,85.88,340,-1.46
+SA,183,Grey,7334,Booleroo Centre,48,14.2,290,85.8,338,-1.38
 SA,183,Grey,7336,Brinkworth,36,19.25,151,80.75,187,-5.87
 SA,183,Grey,7337,Burra,237,34.75,445,65.25,682,-6.07
 SA,183,Grey,7338,Bute,81,23.41,265,76.59,346,-3.57
@@ -5221,7 +5221,7 @@ SA,183,Grey,7408,Port Victoria,66,29.2,160,70.8,226,1.48
 SA,183,Grey,7409,Port Vincent,109,29.95,255,70.05,364,-3.12
 SA,183,Grey,6957,Quorn,206,32.49,428,67.51,634,-9.5
 SA,183,Grey,7411,Redhill,39,31.71,84,68.29,123,-2.91
-SA,183,Grey,33211,Remote Mobile Team 1,395,58.43,281,41.57,676,-3.52
+SA,183,Grey,33211,Remote Mobile Team 1,395,58.61,279,41.39,674,-3.34
 SA,183,Grey,33212,Remote Mobile Team 2,81,56.64,62,43.36,143,-5.47
 SA,183,Grey,33213,Remote Mobile Team 3,136,50.37,134,49.63,270,-11.55
 SA,183,Grey,6958,Risdon Park East,909,44.71,1124,55.29,2033,-10.51
@@ -5761,7 +5761,7 @@ TAS,193,Braddon,8382,Grassy,64,57.66,47,42.34,111,4.43
 TAS,193,Braddon,8383,Gunns Plains,54,49.09,56,50.91,110,4.09
 TAS,193,Braddon,8384,Havenview,405,66.5,204,33.5,609,0.2
 TAS,193,Braddon,8361,Heybridge,161,54.39,135,45.61,296,-4.14
-TAS,193,Braddon,8385,Highclere,105,57.38,78,42.62,183,6.83
+TAS,193,Braddon,8385,Highclere,103,57.22,77,42.78,180,6.67
 TAS,193,Braddon,8386,Irishtown,130,44.52,162,55.48,292,1.66
 TAS,193,Braddon,8615,Latrobe,1386,61.44,870,38.56,2256,11.55
 TAS,193,Braddon,8391,Marrawah,83,44.86,102,55.14,185,4.11
@@ -6387,7 +6387,7 @@ VIC,205,Chisholm,34241,Oakleigh CHISHOLM PPVC,1245,58.62,879,41.38,2124,0.87
 VIC,205,Chisholm,3239,Oakleigh East,1580,66.39,800,33.61,2380,-0.33
 VIC,205,Chisholm,3908,Oakleigh North,476,59.5,324,40.5,800,0.55
 VIC,205,Chisholm,3240,Pinewood (Chisholm),954,53.54,828,46.46,1782,-1.01
-VIC,205,Chisholm,31625,Special Hospital Team 1,14,70,6,30,20,30
+VIC,205,Chisholm,31625,Special Hospital Team 1,13,68.42,6,31.58,19,28.42
 VIC,205,Chisholm,31627,Special Hospital Team 2,69,33.82,135,66.18,204,-4.9
 VIC,205,Chisholm,32034,Special Hospital Team 3,21,33.87,41,66.13,62,-5.21
 VIC,205,Chisholm,33184,Special Hospital Team 4,157,34.97,292,65.03,449,-3.78
@@ -7753,9 +7753,9 @@ VIC,229,Menzies,3396,Park Orchards,661,36.14,1168,63.86,1829,0.16
 VIC,229,Menzies,11531,Parkwood,552,41.01,794,58.99,1346,-1.17
 VIC,229,Menzies,58638,Ringwood MENZIES PPVC,255,34.27,489,65.73,744,-6.96
 VIC,229,Menzies,3401,Ringwood North (Menzies),488,39.84,737,60.16,1225,2.08
-VIC,229,Menzies,4710,Serpell,879,32,1868,68,2747,-9.22
+VIC,229,Menzies,4710,Serpell,881,32.07,1866,67.93,2747,-9.15
 VIC,229,Menzies,31723,Special Hospital Team 1,72,25.81,207,74.19,279,-3.87
-VIC,229,Menzies,31724,Special Hospital Team 2,105,27.13,282,72.87,387,-2.74
+VIC,229,Menzies,31724,Special Hospital Team 2,104,26.94,282,73.06,386,-2.93
 VIC,229,Menzies,31725,Special Hospital Team 3,92,28.13,235,71.87,327,-1.66
 VIC,229,Menzies,4711,Templestowe,661,41.03,950,58.97,1611,-1.47
 VIC,229,Menzies,4712,Templestowe Heights,1877,43.37,2451,56.63,4328,-3.42
