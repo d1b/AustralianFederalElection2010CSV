@@ -1,4 +1,4 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T10:50:40 Cycle:af421ad0-8b75-43c3-b8fb-f6a21cacdf75 Created:2010-08-26T10:32:55 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T11:05:49 Cycle:0281f295-086c-4506-b0d1-d758190aa930 Created:2010-08-26T10:48:00 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 179,Adelaide,SA,98526,72646,73.73
 197,Aston,VIC,93448,74163,79.36
@@ -71,8 +71,8 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 165,Herbert,QLD,91044,66305,72.83
 215,Higgins,VIC,90398,57085,63.15
 185,Hindmarsh,SA,100245,73395,73.22
-166,Hinkler,QLD,91397,64251,70.26
-216,Holt,VIC,108893,84420,77.5
+166,Hinkler,QLD,91397,64251,70.3
+216,Holt,VIC,108893,84430,77.53
 217,Hotham,VIC,89581,62512,69.78
 124,Hughes,NSW,97995,67633,69.02
 125,Hume,NSW,97698,77793,79.63
@@ -84,7 +84,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 127,Kingsford Smith,NSW,97747,66255,67.78
 186,Kingston,SA,102296,75857,74.15
 221,Kooyong,VIC,89659,61736,68.86
-223,La Trobe,VIC,97960,70958,72.39
+223,La Trobe,VIC,97960,71087,72.44
 222,Lalor,VIC,117023,93909,80.25
 168,Leichhardt,QLD,93140,68292,73.32
 169,Lilley,QLD,97415,75643,77.65
@@ -112,7 +112,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 172,Moncrieff,QLD,89087,67672,75.96
 242,Moore,WA,92295,73101,79.2
 173,Moreton,QLD,92733,68052,73.38
-231,Murray,VIC,90218,70810,78.49
+231,Murray,VIC,90218,70861,78.49
 135,New England,NSW,99677,66387,66.6
 136,Newcastle,NSW,92896,73700,79.34
 137,North Sydney,NSW,97567,72749,74.56
@@ -139,7 +139,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 190,Sturt,SA,99061,72041,72.72
 247,Swan,WA,90766,64149,70.68
 149,Sydney,NSW,95277,51401,53.95
-248,Tangney,WA,92176,72721,78.89
+248,Tangney,WA,92176,72722,78.89
 150,Throsby,NSW,95874,71206,74.27
 191,Wakefield,SA,100209,79293,79.13
 233,Wannon,VIC,92264,74643,80.9
@@ -147,6 +147,6 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 251,Watson,NSW,97765,75126,76.84
 152,Wentworth,NSW,101464,65123,64.18
 153,Werriwa,NSW,90994,64825,71.24
-178,Wide Bay,QLD,92636,69309,74.82
+178,Wide Bay,QLD,92636,69329,74.82
 234,Wills,VIC,98599,72084,73.11
 316,Wright,QLD,85304,63554,74.5
