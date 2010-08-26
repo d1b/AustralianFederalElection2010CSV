@@ -1,4 +1,4 @@
-2010 Federal Election Senate Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T11:05:49 Cycle:0281f295-086c-4506-b0d1-d758190aa930 Created:2010-08-26T10:48:00 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T11:21:13 Cycle:16d0f16b-a406-48ad-8582-6a6ba2dba041 Created:2010-08-26T11:03:05 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,TotalPercentage
 179,Adelaide,SA,98526,72646,0,0,0,0,72646,73.73
 197,Aston,VIC,93448,74163,0,0,0,0,74163,79.36
@@ -16,7 +16,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 310,Bonner,QLD,92684,69151,0,0,0,0,69151,74.61
 182,Boothby,SA,97898,71656,0,0,0,0,71656,73.19
 155,Bowman,QLD,91892,73993,0,0,0,0,73993,80.52
-193,Braddon,TAS,71574,59440,0,0,0,0,59440,83.05
+193,Braddon,TAS,71574,59440,0,0,0,2946,62386,83.05
 108,Bradfield,NSW,97251,74853,0,0,0,0,74853,76.97
 235,Brand,WA,88203,33976,0,0,0,0,33976,38.52
 156,Brisbane,QLD,92222,64960,0,0,0,0,64960,70.44
@@ -59,7 +59,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 240,Fremantle,WA,93341,68991,0,0,0,0,68991,73.91
 212,Gellibrand,VIC,95611,69815,0,0,0,0,69815,73.02
 120,Gilmore,NSW,96317,65773,0,0,0,0,65773,68.29
-213,Gippsland,VIC,97543,81354,0,0,0,0,81354,83.4
+213,Gippsland,VIC,97543,81367,0,0,0,0,81367,83.4
 214,Goldstein,VIC,93945,69047,0,0,0,0,69047,73.5
 309,Gorton,VIC,113656,86046,0,0,0,0,86046,75.71
 121,Grayndler,NSW,98112,70028,0,0,0,0,70028,71.38
@@ -84,7 +84,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 127,Kingsford Smith,NSW,97747,66255,0,0,0,0,66255,67.78
 186,Kingston,SA,102296,75857,0,0,0,0,75857,74.15
 221,Kooyong,VIC,89659,61736,0,0,0,0,61736,68.86
-223,La Trobe,VIC,97960,71087,0,0,0,0,71087,72.44
+223,La Trobe,VIC,97960,71090,0,0,0,0,71090,72.57
 222,Lalor,VIC,117023,93909,0,0,0,0,93909,80.25
 168,Leichhardt,QLD,93140,68292,0,0,0,0,68292,73.32
 169,Lilley,QLD,97415,75643,0,0,0,0,75643,77.65
@@ -112,7 +112,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 172,Moncrieff,QLD,89087,67672,0,0,0,0,67672,75.96
 242,Moore,WA,92295,71538,0,0,1563,0,73101,79.2
 173,Moreton,QLD,92733,68052,0,0,0,0,68052,73.38
-231,Murray,VIC,90218,70861,0,0,0,0,70861,78.49
+231,Murray,VIC,90218,71097,0,0,0,0,71097,78.54
 135,New England,NSW,99677,66387,0,0,0,0,66387,66.6
 136,Newcastle,NSW,92896,73700,0,0,0,0,73700,79.34
 137,North Sydney,NSW,97567,72749,0,0,0,0,72749,74.56
@@ -147,6 +147,6 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 251,Watson,NSW,97765,75126,0,0,0,0,75126,76.84
 152,Wentworth,NSW,101464,65123,0,0,0,0,65123,64.18
 153,Werriwa,NSW,90994,64825,0,0,0,0,64825,71.24
-178,Wide Bay,QLD,92636,69329,0,0,0,0,69329,74.82
+178,Wide Bay,QLD,92636,69339,0,0,0,0,69339,74.84
 234,Wills,VIC,98599,72084,0,0,0,0,72084,73.11
 316,Wright,QLD,85304,62507,1047,0,0,0,63554,74.5
