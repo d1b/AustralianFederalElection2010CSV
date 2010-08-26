@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-27T09:22:30 Cycle:226c0ad8-6f12-41a7-a2df-a666f2f83524 Created:2010-08-27T09:02:56 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-27T09:37:50 Cycle:4a390417-1c23-445d-88c2-eb3544be1d2d Created:2010-08-27T09:18:01 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -1226,12 +1226,12 @@ NSW,122,Greenway,11979,Pendle Hill (Greenway),753,55.29,609,44.71,1362,-9.56
 NSW,122,Greenway,11978,Pendle Hill Central,402,56.07,315,43.93,717,-7.84
 NSW,122,Greenway,2272,Pendle Hill North (Greenway),249,53.66,215,46.34,464,-1.67
 NSW,122,Greenway,1045,Prospect,174,46.52,200,53.48,374,-4.44
-NSW,122,Greenway,1034,Prospect West,914,52.89,814,47.11,1728,-7.03
-NSW,122,Greenway,1047,Quakers Hill East (Greenway),1253,53.21,1102,46.79,2355,-3.18
-NSW,122,Greenway,11946,Quakers Hill North,1462,48.75,1537,51.25,2999,-5.64
+NSW,122,Greenway,1034,Prospect West,898,52.67,807,47.33,1705,-7.25
+NSW,122,Greenway,1047,Quakers Hill East (Greenway),1183,51.3,1123,48.7,2306,-5.09
+NSW,122,Greenway,11946,Quakers Hill North,1442,48.44,1535,51.56,2977,-5.95
 NSW,122,Greenway,34019,Quakers Hill West,103,58.52,73,41.48,176,-4.81
 NSW,122,Greenway,1048,Riverstone,649,52.09,597,47.91,1246,-0.58
-NSW,122,Greenway,1049,Riverstone East,564,37.75,930,62.25,1494,-8.4
+NSW,122,Greenway,1049,Riverstone East,655,44.65,812,55.35,1467,-1.5
 NSW,122,Greenway,1050,Schofields,443,42.43,601,57.57,1044,-2.58
 NSW,122,Greenway,1051,Seven Hills,837,58.9,584,41.1,1421,-6.31
 NSW,122,Greenway,1052,Seven Hills High,723,48.2,777,51.8,1500,-4.26
@@ -1240,7 +1240,7 @@ NSW,122,Greenway,1054,Seven Hills West,1076,62.27,652,37.73,1728,-5.94
 NSW,122,Greenway,57204,Special Hospital Team 1,32,60.38,21,39.62,53,27.05
 NSW,122,Greenway,47683,Stanhope Gardens,846,44.67,1048,55.33,1894,0.8
 NSW,122,Greenway,14082,Sydney (Greenway),40,57.97,29,42.03,69,1.13
-NSW,122,Greenway,47684,The Ponds,456,39.65,694,60.35,1150,-4.14
+NSW,122,Greenway,47684,The Ponds,467,39.68,710,60.32,1177,-4.11
 NSW,122,Greenway,1810,Vineyard East (Greenway),83,45.6,99,54.4,182,10.98
 NSW,124,Hughes,31034,Alfords Point,703,33.25,1411,66.75,2114,-5.09
 NSW,124,Hughes,1192,Bangor,1415,34.16,2727,65.84,4142,-1.12
@@ -5457,12 +5457,12 @@ SA,188,Mayo,7193,Lenswood,153,36.43,267,63.57,420,2.66
 SA,188,Mayo,7194,Littlehampton,786,41.59,1104,58.41,1890,-2.23
 SA,188,Mayo,7195,Lobethal,484,37.23,816,62.77,1300,0.16
 SA,188,Mayo,7196,Longwood,159,45.95,187,54.05,346,-5.26
-SA,188,Mayo,7197,Macclesfield,450,50.34,444,49.66,894,-2.19
+SA,188,Mayo,7197,Macclesfield,451,50.39,444,49.61,895,-2.14
 SA,188,Mayo,36828,Magill (Mayo),268,37.02,456,62.98,724,-1.12
 SA,188,Mayo,7200,Meadows,334,38.22,540,61.78,874,-2.43
 SA,188,Mayo,7201,Middleton,321,46.86,364,53.14,685,1.41
-SA,188,Mayo,7202,Milang,249,40.49,366,59.51,615,-1.89
-SA,188,Mayo,7204,Montacute,82,46.07,96,53.93,178,-4.19
+SA,188,Mayo,7202,Milang,249,40.62,364,59.38,613,-1.76
+SA,188,Mayo,7204,Montacute,81,45.76,96,54.24,177,-4.5
 SA,188,Mayo,7205,Mount Barker,1779,43.96,2268,56.04,4047,-3.6
 SA,188,Mayo,46416,Mount Barker Central,700,45.48,839,54.52,1539,-0.32
 SA,188,Mayo,7206,Mount Compass,471,42.28,643,57.72,1114,-1.66
@@ -5978,13 +5978,13 @@ TAS,196,Lyons,58627,Launceston LYONS PPVC,452,54.92,371,45.08,823,-3.64
 TAS,196,Lyons,11916,Legana (Lyons),400,47.79,437,52.21,837,8.91
 TAS,196,Lyons,8617,Levendale,58,52.73,52,47.27,110,-0.66
 TAS,196,Lyons,8619,Longford,1223,60.42,801,39.58,2024,2.74
-TAS,196,Lyons,8620,Lower Barrington,228,51.47,215,48.53,443,5.82
+TAS,196,Lyons,8620,Lower Barrington,227,51.36,215,48.64,442,5.71
 TAS,196,Lyons,8623,Magra,352,71.98,137,28.02,489,5.18
-TAS,196,Lyons,8625,Mathinna,78,86.67,12,13.33,90,5.06
-TAS,196,Lyons,8626,Maydena,108,73.97,38,26.03,146,-1.19
-TAS,196,Lyons,8627,Meander,147,57.42,109,42.58,256,6.98
-TAS,196,Lyons,8630,Midway Point,946,69.71,411,30.29,1357,6.7
-TAS,196,Lyons,34050,Miena,71,68.93,32,31.07,103,19.78
+TAS,196,Lyons,8625,Mathinna,75,84.27,14,15.73,89,2.66
+TAS,196,Lyons,8626,Maydena,107,73.29,39,26.71,146,-1.87
+TAS,196,Lyons,8627,Meander,145,56.86,110,43.14,255,6.42
+TAS,196,Lyons,8630,Midway Point,949,69.93,408,30.07,1357,6.92
+TAS,196,Lyons,34050,Miena,66,65.35,35,34.65,101,16.2
 TAS,196,Lyons,8631,Mole Creek,160,50.16,159,49.84,319,1.72
 TAS,196,Lyons,8632,Molesworth,193,62.66,115,37.34,308,-6.81
 TAS,196,Lyons,8634,Moriarty,110,45.08,134,54.92,244,4.92
