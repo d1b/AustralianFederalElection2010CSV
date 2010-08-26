@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T19:21:21 Cycle:578bde7e-3a17-4ecd-b0bf-1d3ecc4188d6 Created:2010-08-26T19:04:31 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T19:37:12 Cycle:bb54af9b-365d-4276-b877-15be2f6ca0af Created:2010-08-26T19:19:36 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 179,Adelaide,SA,98526,74586,75.7,-18.89
 197,Aston,VIC,93448,79826,85.42,-10.97
@@ -54,7 +54,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 162,Forde,QLD,82558,67161,81.35,-11.34
 239,Forrest,WA,89636,74929,83.59,-10.91
 119,Fowler,NSW,95561,77787,81.4,-11.94
-195,Franklin,TAS,71090,59350,83.49,-12.37
+195,Franklin,TAS,71090,61662,86.74,-9.12
 102,Fraser,ACT,123444,103583,83.91,-11.76
 240,Fremantle,WA,93341,74349,79.65,-14.13
 212,Gellibrand,VIC,95611,70713,73.96,-20.2
@@ -101,7 +101,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 170,Maranoa,QLD,97957,82965,84.7,-10.22
 225,Maribyrnong,VIC,88412,70345,79.56,-14.59
 188,Mayo,SA,101565,86243,84.91,-10.97
-226,McEwen,VIC,115783,91472,79,-17.24
+226,McEwen,VIC,115783,91477,79.01,-17.23
 315,McMahon,NSW,96058,79612,82.88,-10.65
 227,McMillan,VIC,93323,80197,85.93,-9.95
 171,McPherson,QLD,90090,72061,79.99,-14.74
@@ -126,7 +126,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 245,Perth,WA,91904,70819,77.06,-16.13
 175,Petrie,QLD,86683,68139,78.61,-15.49
 189,Port Adelaide,SA,104308,87435,83.82,-11.05
-176,Rankin,QLD,94602,74646,78.91,-14.8
+176,Rankin,QLD,94602,75758,80.08,-13.63
 144,Reid,NSW,95873,74149,77.34,-15.8
 145,Richmond,NSW,92384,72968,78.98,-15.51
 250,Riverina,NSW,98594,85332,86.55,-9.2
@@ -135,7 +135,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 232,Scullin,VIC,90822,74944,82.52,-13.18
 148,Shortland,NSW,94245,78819,83.63,-12.65
 307,Solomon,NT,59879,50370,84.12,-7.94
-246,Stirling,WA,91728,78719,85.82,-7.78
+246,Stirling,WA,91728,80235,87.47,-6.13
 190,Sturt,SA,99061,77989,78.73,-16.85
 247,Swan,WA,90766,74294,81.85,-11.15
 149,Sydney,NSW,95277,61943,65.01,-26.8

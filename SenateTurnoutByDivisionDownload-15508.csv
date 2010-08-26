@@ -1,4 +1,4 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T19:21:50 Cycle:578bde7e-3a17-4ecd-b0bf-1d3ecc4188d6 Created:2010-08-26T19:04:31 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T19:37:42 Cycle:bb54af9b-365d-4276-b877-15be2f6ca0af Created:2010-08-26T19:19:36 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 179,Adelaide,SA,98526,72646,73.73
 197,Aston,VIC,93448,74163,79.36
@@ -6,13 +6,13 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 103,Banks,NSW,98762,78700,79.69
 180,Barker,SA,104888,84600,80.66
 104,Barton,NSW,95243,70718,74.25
-192,Bass,TAS,71689,58529,80.67
+192,Bass,TAS,71689,58536,81.64
 199,Batman,VIC,89160,62372,69.96
 200,Bendigo,VIC,100701,79365,78.81
 105,Bennelong,NSW,98900,78008,78.88
 106,Berowra,NSW,95115,74280,78.09
 304,Blair,QLD,83071,67115,80.79
-107,Blaxland,NSW,95354,73770,76.9
+107,Blaxland,NSW,95354,73867,77.36
 310,Bonner,QLD,92684,69151,74.61
 182,Boothby,SA,97898,71656,73.19
 155,Bowman,QLD,91892,75548,82.21
@@ -21,7 +21,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 235,Brand,WA,88203,33976,38.52
 156,Brisbane,QLD,92222,64960,70.44
 201,Bruce,VIC,88171,64060,72.65
-109,Calare,NSW,98504,76585,77.75
+109,Calare,NSW,98504,76650,77.75
 203,Calwell,VIC,101314,76338,75.35
 101,Canberra,ACT,124215,100154,80.63
 236,Canning,WA,90107,60620,67.28
@@ -44,7 +44,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 115,Dobell,NSW,93661,70807,75.6
 210,Dunkley,VIC,95324,71247,74.74
 312,Durack,WA,85782,54153,63.13
-117,Eden-Monaro,NSW,96465,65344,67.71
+117,Eden-Monaro,NSW,96465,65423,67.74
 159,Fadden,QLD,85236,63850,74.91
 160,Fairfax,QLD,89743,70666,78.74
 118,Farrer,NSW,94061,74356,79.05
@@ -80,7 +80,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 218,Indi,VIC,92956,55703,59.92
 219,Isaacs,VIC,102790,79179,77.03
 220,Jagajaga,VIC,95202,74656,78.42
-167,Kennedy,QLD,94465,70517,73.96
+167,Kennedy,QLD,94465,70578,74.65
 127,Kingsford Smith,NSW,97747,66255,67.78
 186,Kingston,SA,102296,75857,74.15
 221,Kooyong,VIC,89659,61736,68.86
@@ -92,7 +92,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 306,Lingiari,NT,61126,33670,55.08
 302,Longman,QLD,87062,65475,75.21
 130,Lyne,NSW,92565,71660,77.42
-196,Lyons,TAS,72865,63831,87.6
+196,Lyons,TAS,72865,63967,87.6
 131,Macarthur,NSW,90059,69597,77.28
 132,Mackellar,NSW,98556,78499,79.65
 133,Macquarie,NSW,97560,79759,81.75
@@ -115,13 +115,13 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 231,Murray,VIC,90218,71097,78.81
 135,New England,NSW,99677,68097,68.32
 136,Newcastle,NSW,92896,73922,79.58
-137,North Sydney,NSW,97567,72782,74.56
+137,North Sydney,NSW,97567,72927,74.6
 243,O'Connor,WA,92875,27439,29.54
 174,Oxley,QLD,82782,64083,77.41
-138,Page,NSW,94360,77342,81.93
+138,Page,NSW,94360,77367,81.96
 139,Parkes,NSW,100169,79815,79.68
 140,Parramatta,NSW,94014,70595,75.09
-249,Paterson,NSW,92149,75330,81.75
+249,Paterson,NSW,92149,75362,81.75
 244,Pearce,WA,89526,62061,69.32
 245,Perth,WA,91904,68086,74.08
 175,Petrie,QLD,86683,61505,70.95
@@ -133,7 +133,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 146,Robertson,NSW,96593,66380,68.72
 177,Ryan,QLD,98224,70652,71.93
 232,Scullin,VIC,90822,75483,83.11
-148,Shortland,NSW,94245,76430,80.97
+148,Shortland,NSW,94245,76580,81.1
 307,Solomon,NT,59879,44655,74.58
 246,Stirling,WA,91728,69366,75.62
 190,Sturt,SA,99061,72041,72.72
@@ -144,7 +144,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 191,Wakefield,SA,100209,79293,79.13
 233,Wannon,VIC,92264,75054,81.35
 151,Warringah,NSW,96706,63545,65.71
-251,Watson,NSW,97765,75252,76.97
+251,Watson,NSW,97765,75346,76.97
 152,Wentworth,NSW,101464,65123,64.18
 153,Werriwa,NSW,90994,64825,71.24
 178,Wide Bay,QLD,92636,69353,74.87

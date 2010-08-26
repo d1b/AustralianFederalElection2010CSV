@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T19:21:21 Cycle:578bde7e-3a17-4ecd-b0bf-1d3ecc4188d6 Created:2010-08-26T19:04:31 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T19:37:12 Cycle:bb54af9b-365d-4276-b877-15be2f6ca0af Created:2010-08-26T19:19:36 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,TotalPercentage
 179,Adelaide,SA,98526,73421,0,0,0,1165,74586,75.7
 197,Aston,VIC,93448,74337,0,0,0,5489,79826,85.42
@@ -54,7 +54,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 162,Forde,QLD,82558,61183,0,0,1608,4370,67161,81.35
 239,Forrest,WA,89636,72677,0,0,0,2252,74929,83.59
 119,Fowler,NSW,95561,75698,0,0,0,2089,77787,81.4
-195,Franklin,TAS,71090,57354,0,0,0,1996,59350,83.49
+195,Franklin,TAS,71090,57354,0,0,0,4308,61662,86.74
 102,Fraser,ACT,123444,103583,0,0,0,0,103583,83.91
 240,Fremantle,WA,93341,72353,0,0,999,997,74349,79.65
 212,Gellibrand,VIC,95611,70713,0,0,0,0,70713,73.96
@@ -101,7 +101,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 170,Maranoa,QLD,97957,72667,1861,0,0,8437,82965,84.7
 225,Maribyrnong,VIC,88412,67402,0,0,0,2943,70345,79.56
 188,Mayo,SA,101565,80802,0,0,0,5441,86243,84.91
-226,McEwen,VIC,115783,88478,0,0,0,2994,91472,79
+226,McEwen,VIC,115783,88483,0,0,0,2994,91477,79.01
 315,McMahon,NSW,96058,78016,0,0,0,1596,79612,82.88
 227,McMillan,VIC,93323,75612,0,0,0,4585,80197,85.93
 171,McPherson,QLD,90090,71031,1030,0,0,0,72061,79.99
@@ -126,7 +126,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 245,Perth,WA,91904,68592,356,0,572,1299,70819,77.06
 175,Petrie,QLD,86683,67039,0,0,0,1100,68139,78.61
 189,Port Adelaide,SA,104308,82713,0,0,0,4722,87435,83.82
-176,Rankin,QLD,94602,72473,0,0,0,2173,74646,78.91
+176,Rankin,QLD,94602,72473,1112,0,0,2173,75758,80.08
 144,Reid,NSW,95873,74149,0,0,0,0,74149,77.34
 145,Richmond,NSW,92384,72968,0,0,0,0,72968,78.98
 250,Riverina,NSW,98594,82420,0,0,0,2912,85332,86.55
@@ -135,7 +135,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 232,Scullin,VIC,90822,72040,0,0,0,2904,74944,82.52
 148,Shortland,NSW,94245,76324,0,0,0,2495,78819,83.63
 307,Solomon,NT,59879,47883,791,0,0,1696,50370,84.12
-246,Stirling,WA,91728,69810,4030,0,1540,3339,78719,85.82
+246,Stirling,WA,91728,69810,4030,0,1540,4855,80235,87.47
 190,Sturt,SA,99061,76768,0,0,0,1221,77989,78.73
 247,Swan,WA,90766,68565,1156,0,1578,2995,74294,81.85
 149,Sydney,NSW,95277,61943,0,0,0,0,61943,65.01

@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T19:21:47 Cycle:578bde7e-3a17-4ecd-b0bf-1d3ecc4188d6 Created:2010-08-26T19:04:31 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T19:37:39 Cycle:bb54af9b-365d-4276-b877-15be2f6ca0af Created:2010-08-26T19:19:36 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -2732,7 +2732,7 @@ NSW,146,Robertson,2623,Somersby,215,37.65,356,62.35,571,6.77
 NSW,146,Robertson,13755,Special Hospital Team 1,0,0,0,0,0,-44.21
 NSW,146,Robertson,13803,Special Hospital Team 2,0,0,0,0,0,-44.21
 NSW,146,Robertson,31496,Special Hospital Team 3,0,0,0,0,0,-44.37
-NSW,146,Robertson,2624,Spencer,116,62.03,71,37.97,187,2.44
+NSW,146,Robertson,2624,Spencer,116,62.37,70,37.63,186,2.78
 NSW,146,Robertson,2625,Springfield,916,54.69,759,45.31,1675,2.11
 NSW,146,Robertson,14154,Sydney (Robertson),46,61.33,29,38.67,75,8.55
 NSW,146,Robertson,2626,Terrigal (Robertson),1203,50.61,1174,49.39,2377,4.11
@@ -5685,13 +5685,13 @@ TAS,192,Bass,8313,East Launceston,477,52.65,429,47.35,906,3.06
 TAS,192,Bass,8297,Elphin,430,52.63,387,47.37,817,5.42
 TAS,192,Bass,8314,Five Ways,652,59,453,41,1105,3.44
 TAS,192,Bass,8300,General Hospital,484,62.05,296,37.95,780,2.55
-TAS,192,Bass,8301,George Town,1039,63.28,603,36.72,1642,1.41
+TAS,192,Bass,8301,George Town,1039,63.24,604,36.76,1643,1.37
 TAS,192,Bass,8302,George Town South,606,63.52,348,36.48,954,3.87
-TAS,192,Bass,8303,Gladstone,71,50.35,70,49.65,141,11.22
+TAS,192,Bass,8303,Gladstone,72,50.7,70,49.3,142,11.57
 TAS,192,Bass,8605,Hadspen,634,58.7,446,41.3,1080,8.5
 TAS,192,Bass,8304,Hillwood,225,57.25,168,42.75,393,6.34
 TAS,192,Bass,8305,Inveresk,720,65.57,378,34.43,1098,1.87
-TAS,192,Bass,8306,Invermay,821,64.24,457,35.76,1278,3.61
+TAS,192,Bass,8306,Invermay,824,64.27,458,35.73,1282,3.64
 TAS,192,Bass,8308,Karoola,158,60.31,104,39.69,262,5.46
 TAS,192,Bass,8309,Kings Meadows,1323,59.17,913,40.83,2236,8.28
 TAS,192,Bass,8310,Lady Barron,63,49.22,65,50.78,128,8.25
@@ -7494,10 +7494,10 @@ VIC,226,McEwen,4884,Hoddles Creek,178,50.28,176,49.72,354,9.23
 VIC,226,McEwen,3385,Hurstbridge,1360,64.55,747,35.45,2107,6.88
 VIC,226,McEwen,3387,Kangaroo Ground,415,47.92,451,52.08,866,2.55
 VIC,226,McEwen,4335,Kilmore,1718,54.33,1444,45.67,3162,6.66
-VIC,226,McEwen,4336,Kinglake,357,51.89,331,48.11,688,-11.47
+VIC,226,McEwen,4336,Kinglake,358,51.96,331,48.04,689,-11.4
 VIC,226,McEwen,4337,Kinglake West,379,48.9,396,51.1,775,-7
-VIC,226,McEwen,3299,Lancefield,723,54.2,611,45.8,1334,5.29
-VIC,226,McEwen,4888,Launching Place,542,56.81,412,43.19,954,8.57
+VIC,226,McEwen,3299,Lancefield,719,54.1,610,45.9,1329,5.19
+VIC,226,McEwen,4888,Launching Place,541,56.83,411,43.17,952,8.59
 VIC,226,McEwen,47802,Laurimar,938,55.47,753,44.53,1691,11.33
 VIC,226,McEwen,3302,Macedon,659,59.69,445,40.31,1104,3.62
 VIC,226,McEwen,4891,Marysville,95,46.12,111,53.88,206,4.56
@@ -8827,10 +8827,10 @@ WA,246,Stirling,38196,Dianella St Andrew's,492,33.54,975,66.46,1467,-2.51
 WA,246,Stirling,8181,Dianella West,437,34.33,836,65.67,1273,-5.77
 WA,246,Stirling,30237,Divisional Office (PREPOLL),1260,37.61,2090,62.39,3350,-5.6
 WA,246,Stirling,8182,Doubleview (Stirling),385,43.06,509,56.94,894,-1.33
-WA,246,Stirling,8184,Doubleview North,0,0,0,0,0,-46.87
+WA,246,Stirling,8184,Doubleview North,870,42.42,1181,57.58,2051,-4.45
 WA,246,Stirling,7576,Hamersley,808,44.81,995,55.19,1803,-0.82
 WA,246,Stirling,11911,Hamersley East,384,41.38,544,58.62,928,-8.42
-WA,246,Stirling,8186,Innaloo North,1335,46.53,1534,53.47,2869,-2.64
+WA,246,Stirling,8186,Innaloo North,1337,46.68,1527,53.32,2864,-2.49
 WA,246,Stirling,7608,Joondanna,769,48.18,827,51.82,1596,-0.4
 WA,246,Stirling,8187,Karrinyup,845,37.21,1426,62.79,2271,-2.57
 WA,246,Stirling,8188,Lake Gwelup,851,33.93,1657,66.07,2508,-4.09
