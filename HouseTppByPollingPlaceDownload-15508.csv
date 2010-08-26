@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T18:19:56 Cycle:39295b0e-578f-450f-b06f-90e640dd5c20 Created:2010-08-26T18:04:10 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T18:35:20 Cycle:1e1c6027-6d50-4b56-bbf9-2d996e5dee0c Created:2010-08-26T18:19:10 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -94,10 +94,10 @@ ACT,102,Fraser,8836,Turner,1645,76.58,503,23.42,2148,-0.61
 ACT,102,Fraser,8837,Watson,2183,73.23,798,26.77,2981,1.14
 ACT,102,Fraser,8838,Weetangera,1453,63.95,819,36.05,2272,-0.82
 ACT,102,Fraser,8839,Wreck Bay,59,86.76,9,13.24,68,-9.07
-NSW,103,Banks,31,Allawah,756,52.94,672,47.06,1428,-16.55
-NSW,103,Banks,67,Allawah South,593,53.76,510,46.24,1103,-11.65
+NSW,103,Banks,31,Allawah,759,53.26,666,46.74,1425,-16.23
+NSW,103,Banks,67,Allawah South,596,54.28,502,45.72,1098,-11.13
 NSW,103,Banks,56500,Beverly Hills North (Banks),264,59.73,178,40.27,442,-4.14
-NSW,103,Banks,2646,Beverly Hills South,779,56.08,610,43.92,1389,-11.72
+NSW,103,Banks,2646,Beverly Hills South,777,56.02,610,43.98,1387,-11.78
 NSW,103,Banks,36,Blakehurst,233,35.09,431,64.91,664,-10.18
 NSW,103,Banks,46,Blakehurst North,407,50.62,397,49.38,804,-6.02
 NSW,103,Banks,33,Blakehurst South,394,27.75,1026,72.25,1420,-6.07
@@ -404,8 +404,8 @@ NSW,109,Calare,1750,Black Springs,58,28.29,147,71.71,205,-8.68
 NSW,109,Calare,228,Blayney,614,35.11,1135,64.89,1749,-9.74
 NSW,109,Calare,229,Bletchington,983,35.36,1797,64.64,2780,-7.16
 NSW,109,Calare,230,Bloomfield Hospital,52,35.37,95,64.63,147,-19.45
-NSW,109,Calare,2156,Bogan Gate,41,22.28,143,77.72,184,-4.91
-NSW,109,Calare,2157,Borenore,98,29.88,230,70.12,328,-8.45
+NSW,109,Calare,2156,Bogan Gate,41,22.4,142,77.6,183,-4.79
+NSW,109,Calare,2157,Borenore,98,29.97,229,70.03,327,-8.36
 NSW,109,Calare,231,Bowen,839,39.65,1277,60.35,2116,-7.46
 NSW,109,Calare,232,Bowenfels South,118,48.36,126,51.64,244,-8.11
 NSW,109,Calare,1753,Burraga,24,35.29,44,64.71,68,-4.99
@@ -1413,13 +1413,13 @@ NSW,126,Hunter,1358,Cessnock East,576,76.49,177,23.51,753,-0.95
 NSW,126,Hunter,1360,Cessnock North,598,67.12,293,32.88,891,-2.63
 NSW,126,Hunter,33974,Cessnock PPVC,1559,68.2,727,31.8,2286,35.21
 NSW,126,Hunter,1362,Cessnock West,1537,72.74,576,27.26,2113,0.62
-NSW,126,Hunter,1363,Denman,517,56.2,403,43.8,920,-3.66
+NSW,126,Hunter,1363,Denman,516,56.33,400,43.67,916,-3.53
 NSW,126,Hunter,30117,Divisional Office (PREPOLL),7,53.85,6,46.15,13,21.85
 NSW,126,Hunter,57455,East Maitland (Hunter),444,58.19,319,41.81,763,-5.56
 NSW,126,Hunter,1365,East Maitland Heights (Hunter),759,57.89,552,42.11,1311,-2.35
 NSW,126,Hunter,33978,East Maitland HUNTER PPVC,1178,62,722,38,1900,29.03
 NSW,126,Hunter,1366,East Maitland South,409,57.04,308,42.96,717,-2.06
-NSW,126,Hunter,1369,Elderslie,124,51.45,117,48.55,241,0.27
+NSW,126,Hunter,1369,Elderslie,121,50.63,118,49.37,239,-0.55
 NSW,126,Hunter,1370,Ellalong,311,59.92,208,40.08,519,-2.83
 NSW,126,Hunter,1372,Gillieston Heights,301,67.34,146,32.66,447,-3.5
 NSW,126,Hunter,33177,Glendon,83,39.9,125,60.1,208,0.31
@@ -1433,10 +1433,10 @@ NSW,126,Hunter,1379,Kearsley,422,71.4,169,28.6,591,1.11
 NSW,126,Hunter,1380,Kitchener,265,63.7,151,36.3,416,-4.25
 NSW,126,Hunter,356,Kurri Kurri,1275,77.41,372,22.59,1647,0.5
 NSW,126,Hunter,357,Kurri Kurri East,1318,74.76,445,25.24,1763,-0.63
-NSW,126,Hunter,33973,Kurri Kurri PPVC,1004,74.48,344,25.52,1348,41.48
+NSW,126,Hunter,33973,Kurri Kurri PPVC,1003,74.35,346,25.65,1349,41.35
 NSW,126,Hunter,1382,Lochinvar,466,50,466,50,932,-7.88
 NSW,126,Hunter,1384,Lower Belford,102,48.57,108,51.43,210,-6.41
-NSW,126,Hunter,1385,Maitland,342,67.19,167,32.81,509,1.36
+NSW,126,Hunter,1385,Maitland,341,67.26,166,32.74,507,1.43
 NSW,126,Hunter,1389,Maitland West,599,61.25,379,38.75,978,-4.17
 NSW,126,Hunter,1391,Martindale,47,34.06,91,65.94,138,2.95
 NSW,126,Hunter,1393,Merriwa,400,46.14,467,53.86,867,-7.81
@@ -1449,7 +1449,7 @@ NSW,126,Hunter,1130,Murrurundi,272,49.19,281,50.81,553,-6.19
 NSW,126,Hunter,1131,Muswellbrook,604,59.74,407,40.26,1011,-9.23
 NSW,126,Hunter,1132,Muswellbrook East,1001,62.92,590,37.08,1591,-6.08
 NSW,126,Hunter,1133,Muswellbrook North,548,61.57,342,38.43,890,-6.01
-NSW,126,Hunter,33977,Muswellbrook PPVC,1755,61.19,1113,38.81,2868,28.17
+NSW,126,Hunter,33977,Muswellbrook PPVC,1767,61.27,1117,38.73,2884,28.25
 NSW,126,Hunter,1134,Muswellbrook South,418,65.31,222,34.69,640,-7.22
 NSW,126,Hunter,1401,Neath,194,66.21,99,33.79,293,-8.01
 NSW,126,Hunter,1410,North Rothbury,137,69.9,59,30.1,196,-0.63
@@ -1471,10 +1471,10 @@ NSW,126,Hunter,1418,Singleton Heights,1805,60.75,1166,39.25,2971,-3.82
 NSW,126,Hunter,33975,Singleton PPVC,1937,61.67,1204,38.33,3141,28.68
 NSW,126,Hunter,1421,Singleton South,1073,62.17,653,37.83,1726,-4.89
 NSW,126,Hunter,33627,Special Hospital Team 1,105,85.37,18,14.63,123,20.74
-NSW,126,Hunter,33669,Special Hospital Team 2,0,0,0,0,0,-64.84
+NSW,126,Hunter,33669,Special Hospital Team 2,85,60.28,56,39.72,141,-4.56
 NSW,126,Hunter,33670,Special Hospital Team 3,40,75.47,13,24.53,53,10.76
-NSW,126,Hunter,46489,Special Hospital Team 4,0,0,0,0,0,-64.63
-NSW,126,Hunter,369,Stanford Merthyr,523,74.08,183,25.92,706,0.62
+NSW,126,Hunter,46489,Special Hospital Team 4,50,57.47,37,42.53,87,-7.16
+NSW,126,Hunter,369,Stanford Merthyr,518,73.27,189,26.73,707,-0.19
 NSW,126,Hunter,14096,Sydney (Hunter),20,74.07,7,25.93,27,5.32
 NSW,126,Hunter,1423,Telarah,1090,73.55,392,26.45,1482,-1.47
 NSW,126,Hunter,378,Weston,1262,77.57,365,22.43,1627,-1.22
@@ -2332,8 +2332,8 @@ NSW,139,Parkes,312,Wollar,39,41.94,54,58.06,93,-10.44
 NSW,139,Parkes,2238,Wongarbon,109,29.14,265,70.86,374,-7.43
 NSW,140,Parramatta,58025,Blaxcell (Parramatta),191,70.74,79,29.26,270,2.41
 NSW,140,Parramatta,2374,Cardinal Gilroy Village,167,43.83,214,56.17,381,-5.38
-NSW,140,Parramatta,33795,Carlingford (Parramatta),491,53.84,421,46.16,912,-2.49
-NSW,140,Parramatta,635,Carlingford North,899,41.7,1257,58.3,2156,-7.53
+NSW,140,Parramatta,33795,Carlingford (Parramatta),489,53.74,421,46.26,910,-2.59
+NSW,140,Parramatta,635,Carlingford North,897,41.66,1256,58.34,2153,-7.57
 NSW,140,Parramatta,636,Cumberland High,1212,50.35,1195,49.65,2407,-2.69
 NSW,140,Parramatta,2251,Darcy Road (Parramatta),843,55.68,671,44.32,1514,-7.38
 NSW,140,Parramatta,30131,Divisional Office (PREPOLL),0,0,0,0,0,-47.29
@@ -2342,11 +2342,11 @@ NSW,140,Parramatta,641,Dundas Valley,483,54.09,410,45.91,893,-3.4
 NSW,140,Parramatta,58040,Ermington West (Parramatta),133,50.57,130,49.43,263,-9.73
 NSW,140,Parramatta,2377,Fowler Road (Parramatta),949,50.08,946,49.92,1895,-6.74
 NSW,140,Parramatta,2378,Granville,1367,63.94,771,36.06,2138,-9.29
-NSW,140,Parramatta,58042,Granville East (Parramatta),453,51.3,430,48.7,883,-10.82
+NSW,140,Parramatta,58042,Granville East (Parramatta),452,50.96,435,49.04,887,-11.16
 NSW,140,Parramatta,2379,Granville North,590,62.3,357,37.7,947,-8.88
 NSW,140,Parramatta,58026,Granville South (Parramatta),189,59.06,131,40.94,320,-3.61
 NSW,140,Parramatta,2257,Lake Parramatta,704,51.35,667,48.65,1371,2.1
-NSW,140,Parramatta,2250,Macarthur High,1101,58.32,787,41.68,1888,-6.97
+NSW,140,Parramatta,2250,Macarthur High,1109,58.22,796,41.78,1905,-7.07
 NSW,140,Parramatta,2387,Merrylands (Parramatta),655,47.4,727,52.6,1382,-12.75
 NSW,140,Parramatta,45838,Merrylands Central (Parramatta),1514,48.25,1624,51.75,3138,-8.21
 NSW,140,Parramatta,2388,Merrylands East,945,56.49,728,43.51,1673,-7.43
@@ -2354,12 +2354,12 @@ NSW,140,Parramatta,2259,Merrylands North,894,62.56,535,37.44,1429,-6.06
 NSW,140,Parramatta,58012,Merrylands West (Parramatta),338,58.68,238,41.32,576,-1.27
 NSW,140,Parramatta,2262,Noller Park,249,62.56,149,37.44,398,4.54
 NSW,140,Parramatta,33798,North Rocks (Parramatta),700,40.58,1025,59.42,1725,-3.54
-NSW,140,Parramatta,57981,Northmead (Parramatta),845,48.79,887,51.21,1732,-1.24
+NSW,140,Parramatta,57981,Northmead (Parramatta),835,48.55,885,51.45,1720,-1.48
 NSW,140,Parramatta,652,Oatlands,920,33.59,1819,66.41,2739,-2.37
 NSW,140,Parramatta,2265,Old Toongabbie (Parramatta),917,51.17,875,48.83,1792,-8.08
 NSW,140,Parramatta,45817,Parramatta Central,1370,67.06,673,32.94,2043,-3.27
 NSW,140,Parramatta,2267,Parramatta East,805,51.54,757,48.46,1562,-6.95
-NSW,140,Parramatta,2268,Parramatta High,574,59.98,383,40.02,957,-10.28
+NSW,140,Parramatta,2268,Parramatta High,568,59.41,388,40.59,956,-10.85
 NSW,140,Parramatta,2269,Parramatta North,1019,60.87,655,39.13,1674,-3
 NSW,140,Parramatta,33868,Parramatta PPVC,1792,57.4,1330,42.6,3122,10.08
 NSW,140,Parramatta,57989,Pendle Hill (Parramatta),211,60.46,138,39.54,349,-4.37
@@ -4292,7 +4292,7 @@ QLD,302,Longman,5479,Elimbah,896,44.23,1130,55.77,2026,-5.72
 QLD,302,Longman,55950,Kallangur (Longman),774,55.6,618,44.4,1392,-5.39
 QLD,302,Longman,55954,Kallangur East (Longman),203,58.17,146,41.83,349,-2.37
 QLD,302,Longman,55951,Kallangur West (Longman),404,55.49,324,44.51,728,-3.8
-QLD,302,Longman,31486,Morayfield,2138,53.52,1857,46.48,3995,-2.97
+QLD,302,Longman,31486,Morayfield,2120,53.55,1839,46.45,3959,-2.94
 QLD,302,Longman,11997,Morayfield East,1373,53.28,1204,46.72,2577,-2.83
 QLD,302,Longman,32501,Morayfield West,1250,51.19,1192,48.81,2442,-3.49
 QLD,302,Longman,5499,Mount Mee,105,37.1,178,62.9,283,0.94
@@ -4304,7 +4304,7 @@ QLD,302,Longman,32660,Special Hospital Team 1,56,46.28,65,53.72,121,8.64
 QLD,302,Longman,32662,Special Hospital Team 2,48,51.06,46,48.94,94,13.43
 QLD,302,Longman,5514,Toorbul,187,41.56,263,58.44,450,-10.68
 QLD,302,Longman,58546,Upper Caboolture,278,40.17,414,59.83,692,-14.49
-QLD,302,Longman,5517,Wamuran,589,38.17,954,61.83,1543,-5.87
+QLD,302,Longman,5517,Wamuran,583,38.3,939,61.7,1522,-5.74
 QLD,302,Longman,5519,Woodford,941,43.63,1216,56.37,2157,-8.94
 QLD,302,Longman,5520,Woorim,525,44.6,652,55.4,1177,-6.28
 QLD,170,Maranoa,6430,Allora,232,21.87,829,78.13,1061,-10.21
@@ -5275,7 +5275,7 @@ SA,185,Hindmarsh,7050,Brooklyn Park,1186,62.49,712,37.51,1898,-0.15
 SA,185,Hindmarsh,7051,Brooklyn Park South,829,58.13,597,41.87,1426,2.53
 SA,185,Hindmarsh,7052,Camden Park,578,57.8,422,42.2,1000,2.09
 SA,185,Hindmarsh,7053,Cowandilla,1490,71.88,583,28.12,2073,-0.83
-SA,185,Hindmarsh,7054,Cowandilla West,315,69.84,136,30.16,451,1.47
+SA,185,Hindmarsh,7054,Cowandilla West,313,69.56,137,30.44,450,1.19
 SA,185,Hindmarsh,30176,Divisional Office (PREPOLL),80,50.31,79,49.69,159,-6.1
 SA,185,Hindmarsh,7014,Edwardstown,1014,62.4,611,37.6,1625,1.99
 SA,185,Hindmarsh,7058,Flinders Park,1606,60.4,1053,39.6,2659,-0.75
@@ -7434,7 +7434,7 @@ VIC,225,Maribyrnong,3348,Avondale Heights,1271,69.11,568,30.89,1839,-3.05
 VIC,225,Maribyrnong,12080,Avondale Heights Central,1581,63.06,926,36.94,2507,1.15
 VIC,225,Maribyrnong,3349,Avondale Heights North,1158,70.74,479,29.26,1637,1.31
 VIC,225,Maribyrnong,4582,Buckley Park,1201,57.11,902,42.89,2103,3.32
-VIC,225,Maribyrnong,30216,Divisional Office (PREPOLL),515,56.72,393,43.28,908,9.19
+VIC,225,Maribyrnong,30216,Divisional Office (PREPOLL),521,57,393,43,914,9.47
 VIC,225,Maribyrnong,33305,Essendon,1084,56.58,832,43.42,1916,2.29
 VIC,225,Maribyrnong,4585,Essendon North,1075,59.62,728,40.38,1803,3.12
 VIC,225,Maribyrnong,4586,Essendon South,1160,62.4,699,37.6,1859,3.83
@@ -7461,8 +7461,8 @@ VIC,225,Maribyrnong,3362,St Albans North,1152,74.66,391,25.34,1543,-3.84
 VIC,225,Maribyrnong,3364,St Albans South East,1344,79.43,348,20.57,1692,0.05
 VIC,225,Maribyrnong,3699,Sunshine,972,71.68,384,28.32,1356,-2.34
 VIC,225,Maribyrnong,33180,Sunshine MARIBYRNONG PPVC,2085,75.98,659,24.02,2744,28.42
-VIC,225,Maribyrnong,3367,Sunshine North,1676,79.92,421,20.08,2097,2.67
-VIC,225,Maribyrnong,3368,Sunvale (Maribyrnong),977,77.23,288,22.77,1265,5.5
+VIC,225,Maribyrnong,3367,Sunshine North,1676,79.77,425,20.23,2101,2.52
+VIC,225,Maribyrnong,3368,Sunvale (Maribyrnong),923,76.53,283,23.47,1206,4.8
 VIC,226,McEwen,4307,Alexandra,700,47.72,767,52.28,1467,5.67
 VIC,226,McEwen,4309,Arthurs Creek,169,40.14,252,59.86,421,4.2
 VIC,226,McEwen,4868,Badger Creek,619,60.63,402,39.37,1021,8.04
@@ -7718,7 +7718,7 @@ VIC,230,Melbourne Ports,8904,Redan Central,700,68.69,319,31.31,1019,-0.89
 VIC,230,Melbourne Ports,3879,Ripponlea East,714,65.5,376,34.5,1090,3.02
 VIC,230,Melbourne Ports,3880,Ripponlea North,1080,70.82,445,29.18,1525,2.18
 VIC,230,Melbourne Ports,4686,Sandridge,943,67.99,444,32.01,1387,-3.32
-VIC,230,Melbourne Ports,4687,South Melbourne,1263,54.49,1055,45.51,2318,-0.55
+VIC,230,Melbourne Ports,4687,South Melbourne,1261,54.38,1058,45.62,2319,-0.66
 VIC,230,Melbourne Ports,36435,Southbank,758,53.23,666,46.77,1424,5.3
 VIC,230,Melbourne Ports,4690,Special Hospital Team 1,65,58.56,46,41.44,111,7.59
 VIC,230,Melbourne Ports,11584,Special Hospital Team 2,23,65.71,12,34.29,35,13.79
@@ -7857,7 +7857,7 @@ VIC,231,Murray,4821,Waaia,37,14.98,210,85.02,247,-3.87
 VIC,231,Murray,4822,Wanganui,503,40.5,739,59.5,1242,-0.99
 VIC,231,Murray,3210,Wedderburn,257,38.13,417,61.87,674,-6.12
 VIC,231,Murray,4824,Wilmot Road,1074,36.28,1886,63.72,2960,-4.32
-VIC,231,Murray,4122,Wunghnu,62,21.91,221,78.09,283,-1.5
+VIC,231,Murray,4122,Wunghnu,63,22.26,220,77.74,283,-1.15
 VIC,231,Murray,4825,Wyuna,32,16.08,167,83.92,199,-6.79
 VIC,231,Murray,4828,Yarrawalla South,16,20.51,62,79.49,78,4.01
 VIC,231,Murray,4125,Yarrawonga,514,39.69,781,60.31,1295,0.3
