@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T15:45:52 Cycle:98c386f8-fa1c-43f0-8a84-2bfb3ebb6635 Created:2010-08-26T15:33:43 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T16:00:50 Cycle:27fe2f2f-2d42-41d2-a448-9fe0a931600e Created:2010-08-26T15:48:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 179,Adelaide,SA,98526,74586,75.7,-18.89
 197,Aston,VIC,93448,78320,83.81,-12.58
@@ -24,7 +24,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 109,Calare,NSW,98504,84828,86.12,-10.3
 203,Calwell,VIC,101314,81146,80.09,-14.75
 101,Canberra,ACT,124215,105128,84.63,-11.38
-236,Canning,WA,90107,72585,80.55,-12.57
+236,Canning,WA,90107,72586,80.56,-12.56
 157,Capricornia,QLD,91962,76522,83.21,-12.19
 204,Casey,VIC,92357,75798,82.07,-14.15
 110,Charlton,NSW,94480,75750,80.18,-15.82
@@ -34,7 +34,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 207,Corangamite,VIC,101569,87265,85.92,-10.55
 208,Corio,VIC,91974,77909,84.71,-10.71
 237,Cowan,WA,89546,75567,84.39,-10.2
-113,Cowper,NSW,94645,77606,82,-13.08
+113,Cowper,NSW,94645,77931,82.34,-12.74
 114,Cunningham,NSW,100698,82166,81.6,-14.53
 238,Curtin,WA,90400,70275,77.74,-16.14
 158,Dawson,QLD,94553,74822,79.13,-16.28
@@ -64,15 +64,15 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 309,Gorton,VIC,113656,92421,81.32,-13.6
 121,Grayndler,NSW,98112,75259,76.71,-17.6
 122,Greenway,NSW,93828,81714,87.09,-7.01
-183,Grey,SA,99817,79750,79.9,-15.05
+183,Grey,SA,99817,79749,79.9,-15.05
 163,Griffith,QLD,92588,71108,76.8,-16.82
 164,Groom,QLD,93374,77279,82.76,-12.7
 305,Hasluck,WA,93892,81284,86.57,-7.1
 165,Herbert,QLD,91044,77138,84.73,-8.93
 215,Higgins,VIC,90398,64695,71.57,-22.2
-185,Hindmarsh,SA,100245,76689,76.5,-18.87
+185,Hindmarsh,SA,100245,76690,76.5,-18.87
 166,Hinkler,QLD,91397,78294,85.66,-8.81
-216,Holt,VIC,108893,83750,76.91,-18.52
+216,Holt,VIC,108893,83751,76.91,-18.52
 217,Hotham,VIC,89581,67451,75.3,-19.49
 124,Hughes,NSW,97995,78738,80.35,-15.7
 125,Hume,NSW,97698,81657,83.58,-12.22
@@ -102,16 +102,16 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 225,Maribyrnong,VIC,88412,68760,77.77,-16.38
 188,Mayo,SA,101565,84843,83.54,-12.34
 226,McEwen,VIC,115783,91470,79,-17.24
-315,McMahon,NSW,96058,77661,80.85,-12.68
+315,McMahon,NSW,96058,79530,82.79,-10.74
 227,McMillan,VIC,93323,79636,85.33,-10.55
 171,McPherson,QLD,90090,71029,78.84,-15.89
 228,Melbourne,VIC,102879,76143,74.01,-17.49
 230,Melbourne Ports,VIC,97765,69201,70.78,-20.94
 229,Menzies,VIC,90966,69989,76.94,-19.21
 134,Mitchell,NSW,93588,77406,82.71,-12.26
-172,Moncrieff,QLD,89087,68541,76.94,-17.63
+172,Moncrieff,QLD,89087,68539,76.93,-17.64
 242,Moore,WA,92295,74533,80.76,-13
-173,Moreton,QLD,92733,74960,80.83,-14.19
+173,Moreton,QLD,92733,77405,83.47,-11.55
 231,Murray,VIC,90218,77134,85.5,-10.22
 135,New England,NSW,99677,83819,84.09,-12.01
 136,Newcastle,NSW,92896,73878,79.53,-15.72
@@ -124,7 +124,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 249,Paterson,NSW,92149,75630,82.07,-13.66
 244,Pearce,WA,89526,67405,75.29,-17.89
 245,Perth,WA,91904,69512,75.64,-17.55
-175,Petrie,QLD,86683,68148,78.62,-15.48
+175,Petrie,QLD,86683,68139,78.61,-15.49
 189,Port Adelaide,SA,104308,87435,83.82,-11.05
 176,Rankin,QLD,94602,74646,78.91,-14.8
 144,Reid,NSW,95873,74147,77.34,-15.8
@@ -149,4 +149,4 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 153,Werriwa,NSW,90994,71591,78.68,-15.22
 178,Wide Bay,QLD,92636,73910,79.79,-14.74
 234,Wills,VIC,98599,75129,76.2,-17.47
-316,Wright,QLD,85304,68754,80.6,-12.98
+316,Wright,QLD,85304,68757,80.6,-12.98

@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T15:46:18 Cycle:98c386f8-fa1c-43f0-8a84-2bfb3ebb6635 Created:2010-08-26T15:33:43 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T16:01:16 Cycle:27fe2f2f-2d42-41d2-a448-9fe0a931600e Created:2010-08-26T15:48:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -712,9 +712,9 @@ NSW,113,Cowper,33724,South Grafton (Cowper),107,47.35,119,52.65,226,-12.42
 NSW,113,Cowper,510,South West Rocks,538,38.54,858,61.46,1396,-12.25
 NSW,113,Cowper,32333,South West Rocks South,486,34.62,918,65.38,1404,-10.05
 NSW,113,Cowper,33611,Special Hospital Team 1,46,38.66,73,61.34,119,-1.18
-NSW,113,Cowper,33716,Special Hospital Team 2,0,0,0,0,0,-39.85
+NSW,113,Cowper,33716,Special Hospital Team 2,52,34.9,97,65.1,149,-4.95
 NSW,113,Cowper,33717,Special Hospital Team 3,0,0,0,0,0,-40
-NSW,113,Cowper,46428,Special Hospital Team 4,0,0,0,0,0,-39.73
+NSW,113,Cowper,46428,Special Hospital Team 4,52,32.1,110,67.9,162,-7.63
 NSW,113,Cowper,511,Stuarts Point,353,49.03,367,50.97,720,-6.51
 NSW,113,Cowper,14041,Sydney (Cowper),13,37.14,22,62.86,35,-7.86
 NSW,113,Cowper,514,Taylors Arm,74,39.15,115,60.85,189,-1.05
@@ -1813,7 +1813,7 @@ NSW,315,McMahon,31643,Abbotsbury,803,42.26,1097,57.74,1900,-8.14
 NSW,315,McMahon,2330,Bossley Park,1587,55.07,1295,44.93,2882,-7.54
 NSW,315,McMahon,2351,Bossley Park East,1492,66.94,737,33.06,2229,-4.13
 NSW,315,McMahon,8880,Bossley Park South,978,54.73,809,45.27,1787,-4.7
-NSW,315,McMahon,57628,Divisional Office (PREPOLL),0,0,0,0,0,-65.63
+NSW,315,McMahon,57628,Divisional Office (PREPOLL),968,61.15,615,38.85,1583,-4.48
 NSW,315,McMahon,873,Edensor Park North,1152,62.57,689,37.43,1841,-5.34
 NSW,315,McMahon,11939,Erskine Park,1792,53.32,1569,46.68,3361,-5.59
 NSW,315,McMahon,2335,Fairfield,578,69.81,250,30.19,828,-4.57
@@ -3546,7 +3546,7 @@ QLD,252,Dickson,32609,Special Hospital Team 1,36,41.38,51,58.62,87,-4.69
 QLD,252,Dickson,5509,Strathpine,1293,52.01,1193,47.99,2486,-7.06
 QLD,252,Dickson,46594,Strathpine DICKSON PPVC,2019,43.72,2599,56.28,4618,-5.08
 QLD,252,Dickson,5511,Strathpine West,976,53.8,838,46.2,1814,-7.89
-QLD,252,Dickson,32542,Warner,1339,39.99,2009,60.01,3348,-5.84
+QLD,252,Dickson,32542,Warner,1346,40.18,2004,59.82,3350,-5.65
 QLD,159,Fadden,6253,Alberton,82,21.98,291,78.02,373,-10.61
 QLD,159,Fadden,31650,Arundel,1995,35.98,3550,64.02,5545,-2.7
 QLD,159,Fadden,32499,Arundel East,402,41.02,578,58.98,980,-0.32
@@ -4531,7 +4531,7 @@ QLD,172,Moncrieff,30163,Divisional Office (PREPOLL),0,0,0,0,0,-35.58
 QLD,172,Moncrieff,6076,Evandale,615,23.66,1984,76.34,2599,-5.06
 QLD,172,Moncrieff,6077,Florida Gardens,232,24.07,732,75.93,964,-3.2
 QLD,172,Moncrieff,34127,Highland Park,1206,40.88,1744,59.12,2950,-0.42
-QLD,172,Moncrieff,6080,Isle Of Capri,460,20.56,1777,79.44,2237,-3.73
+QLD,172,Moncrieff,6080,Isle Of Capri,458,20.56,1770,79.44,2228,-3.73
 QLD,172,Moncrieff,6291,Keebra Park,688,44.47,859,55.53,1547,-2.81
 QLD,172,Moncrieff,6082,Main Beach,340,18.45,1503,81.55,1843,-2.91
 QLD,172,Moncrieff,6083,Mermaid Beach,461,33.48,916,66.52,1377,-1.88
@@ -4557,7 +4557,7 @@ QLD,172,Moncrieff,32565,Special Hospital Team 2,22,21.57,80,78.43,102,-4.21
 QLD,172,Moncrieff,32566,Special Hospital Team 3,47,31.97,100,68.03,147,5.84
 QLD,172,Moncrieff,6099,Surfers Paradise,549,34.79,1029,65.21,1578,-2.95
 QLD,172,Moncrieff,32563,Surfers Paradise MONCRIEFF PPVC,211,25.67,611,74.33,822,-9.75
-QLD,172,Moncrieff,12028,Worongary,316,47.09,355,52.91,671,0.2
+QLD,172,Moncrieff,12028,Worongary,311,42.84,415,57.16,726,-4.05
 QLD,173,Moreton,5525,Acacia Ridge,750,67.93,354,32.07,1104,-6.81
 QLD,173,Moreton,5526,Acacia Ridge South,1193,63.42,688,36.58,1881,-10.48
 QLD,173,Moreton,37838,Annerley (Moreton),371,65.55,195,34.45,566,-1.66
@@ -4662,7 +4662,7 @@ QLD,175,Petrie,12040,Deception Bay South,1259,57.44,933,42.56,2192,-2.89
 QLD,175,Petrie,30166,Divisional Office (PREPOLL),51,43.22,67,56.78,118,-6.78
 QLD,175,Petrie,6411,Kippa-Ring,1394,58.72,980,41.28,2374,-2.79
 QLD,175,Petrie,6412,Kippa-Ring North,669,50.95,644,49.05,1313,-2.9
-QLD,175,Petrie,6416,Kippa-Ring West,1250,58.88,873,41.12,2123,0.04
+QLD,175,Petrie,6416,Kippa-Ring West,1256,59.41,858,40.59,2114,0.57
 QLD,175,Petrie,12063,Mango Hill,577,52.5,522,47.5,1099,-2.78
 QLD,175,Petrie,6413,Margate,983,56.4,760,43.6,1743,-2.1
 QLD,175,Petrie,31440,Moreton Downs,772,59.29,530,40.71,1302,0.33
@@ -4843,7 +4843,7 @@ QLD,316,Wright,31682,Bonogin (Wright),583,34.97,1084,65.03,1667,1.1
 QLD,316,Wright,6432,Boonah,680,32.11,1438,67.89,2118,-9
 QLD,316,Wright,56431,Brisbane City (Wright),21,52.5,19,47.5,40,-8.48
 QLD,316,Wright,56383,Browns Plains (Wright),249,37.96,407,62.04,656,-26.41
-QLD,316,Wright,6262,Canungra,539,38.64,856,61.36,1395,-1.66
+QLD,316,Wright,6262,Canungra,539,38.58,858,61.42,1397,-1.72
 QLD,316,Wright,56441,Divisional Office (PREPOLL),0,0,0,0,0,-50
 QLD,316,Wright,32547,Flagstone,830,52.83,741,47.17,1571,-5.55
 QLD,316,Wright,5607,Flagstone Creek,36,22.64,123,77.36,159,-4.57
@@ -5161,7 +5161,7 @@ SA,183,Grey,7344,Coobowie,83,40.69,121,59.31,204,-4.93
 SA,183,Grey,7345,Corny Point,36,32.73,74,67.27,110,-8.09
 SA,183,Grey,6918,Cowell,140,21.67,506,78.33,646,-2.16
 SA,183,Grey,6919,Crystal Brook,245,26.57,677,73.43,922,-11.09
-SA,183,Grey,6920,Cummins,84,12.52,587,87.48,671,-2.67
+SA,183,Grey,6920,Cummins,86,12.86,583,87.14,669,-2.33
 SA,183,Grey,7346,Curramulka,42,21.32,155,78.68,197,1.69
 SA,183,Grey,6921,Darke Peak,5,5.21,91,94.79,96,-3.34
 SA,183,Grey,30174,Divisional Office (PREPOLL),0,0,0,0,0,-50
@@ -5287,7 +5287,7 @@ SA,185,Hindmarsh,7018,Glenelg Central,787,45.89,928,54.11,1715,-2.38
 SA,185,Hindmarsh,7019,Glenelg East,350,52.32,319,47.68,669,1.81
 SA,185,Hindmarsh,7020,Glenelg North,1016,47.72,1113,52.28,2129,1.54
 SA,185,Hindmarsh,32098,Glenelg PPVC,739,43.96,942,56.04,1681,-11.32
-SA,185,Hindmarsh,7021,Glenelg South,924,45.32,1115,54.68,2039,3.42
+SA,185,Hindmarsh,7021,Glenelg South,924,45.38,1112,54.62,2036,3.48
 SA,185,Hindmarsh,7022,Glengowrie,910,49.81,917,50.19,1827,2.77
 SA,185,Hindmarsh,7063,Grange,1406,51.16,1342,48.84,2748,0.11
 SA,185,Hindmarsh,7023,Grovene,520,45.9,613,54.1,1133,3.39
@@ -5297,7 +5297,7 @@ SA,185,Hindmarsh,7068,Kidman Park,238,60.41,156,39.59,394,0.51
 SA,185,Hindmarsh,7069,Kidman Park South,1412,55.57,1129,44.43,2541,2.35
 SA,185,Hindmarsh,7070,Kurralta Park,917,60.05,610,39.95,1527,1.29
 SA,185,Hindmarsh,7071,Lockleys,729,48.8,765,51.2,1494,2.29
-SA,185,Hindmarsh,7072,Lockleys North,715,51.81,665,48.19,1380,-1.55
+SA,185,Hindmarsh,7072,Lockleys North,716,51.88,664,48.12,1380,-1.48
 SA,185,Hindmarsh,34117,Mile End (Hindmarsh),448,74.05,157,25.95,605,3.74
 SA,185,Hindmarsh,7026,Morphettville,790,60.03,526,39.97,1316,4.81
 SA,185,Hindmarsh,7074,Netley,662,61.87,408,38.13,1070,2.78
@@ -5313,7 +5313,7 @@ SA,185,Hindmarsh,36688,Seaton (Hindmarsh),307,53.86,263,46.14,570,-1.89
 SA,185,Hindmarsh,36701,Seaton West (Hindmarsh),676,50.9,652,49.1,1328,1.95
 SA,185,Hindmarsh,7271,Semaphore Park,698,63.45,402,36.55,1100,0.72
 SA,185,Hindmarsh,7272,Semaphore Park South,639,72.2,246,27.8,885,-0.35
-SA,185,Hindmarsh,7034,Somerton Park East,739,50.07,737,49.93,1476,2.2
+SA,185,Hindmarsh,7034,Somerton Park East,732,49.63,743,50.37,1475,1.76
 SA,185,Hindmarsh,7035,South Plympton,878,58.81,615,41.19,1493,-0.39
 SA,185,Hindmarsh,13130,Special Hospital Team 1,46,44.66,57,55.34,103,-1.19
 SA,185,Hindmarsh,31163,Special Hospital Team 2,90,44.55,112,55.45,202,-1.28
@@ -6944,7 +6944,7 @@ VIC,216,Holt,47814,Cranbourne North East,553,66.47,279,33.53,832,9.95
 VIC,216,Holt,3961,Cranbourne Park,1433,65.11,768,34.89,2201,4.52
 VIC,216,Holt,11647,Cranbourne West,2269,67.41,1097,32.59,3366,3.63
 VIC,216,Holt,58783,Dandenong HOLT PPVC,1170,66.67,585,33.33,1755,24.78
-VIC,216,Holt,30207,Divisional Office (PREPOLL),558,56.19,435,43.81,993,14.27
+VIC,216,Holt,30207,Divisional Office (PREPOLL),556,55.99,437,44.01,993,14.07
 VIC,216,Holt,4276,Doveton North,1215,72.8,454,27.2,1669,-1.09
 VIC,216,Holt,4277,Doveton West,753,68.58,345,31.42,1098,-3.73
 VIC,216,Holt,4279,Endeavour Hills,1219,62.38,735,37.62,1954,-0.63
@@ -7758,7 +7758,7 @@ VIC,229,Menzies,31723,Special Hospital Team 1,72,25.81,207,74.19,279,-3.87
 VIC,229,Menzies,31724,Special Hospital Team 2,104,26.94,282,73.06,386,-2.93
 VIC,229,Menzies,31725,Special Hospital Team 3,91,27.91,235,72.09,326,-1.88
 VIC,229,Menzies,4711,Templestowe,666,41.21,950,58.79,1616,-1.29
-VIC,229,Menzies,4712,Templestowe Heights,1877,43.37,2451,56.63,4328,-3.42
+VIC,229,Menzies,4712,Templestowe Heights,1874,43.35,2449,56.65,4323,-3.44
 VIC,229,Menzies,4713,Templestowe Park,752,33.1,1520,66.9,2272,-2.48
 VIC,229,Menzies,4714,Templestowe Valley,650,43.16,856,56.84,1506,-6.27
 VIC,229,Menzies,11876,The Pines,978,36.67,1689,63.33,2667,-5.16
@@ -8097,11 +8097,11 @@ WA,236,Canning,7473,Barragup,580,44.58,721,55.42,1301,1.26
 WA,236,Canning,8850,Bedfordale,244,41.43,345,58.57,589,6.58
 WA,236,Canning,7985,Boddington,246,37.5,410,62.5,656,1.94
 WA,236,Canning,11634,Brookdale,454,61.35,286,38.65,740,6.49
-WA,236,Canning,7477,Byford,1503,45,1837,55,3340,6.35
-WA,236,Canning,7479,Carcoola,268,54.47,224,45.53,492,-4.07
-WA,236,Canning,11602,Coodanup,992,52.49,898,47.51,1890,-3.37
+WA,236,Canning,7477,Byford,1503,44.99,1838,55.01,3341,6.34
+WA,236,Canning,7479,Carcoola,266,54.18,225,45.82,491,-4.36
+WA,236,Canning,11602,Coodanup,1034,54.94,848,45.06,1882,-0.92
 WA,236,Canning,7481,Coolup,109,33.54,216,66.46,325,-1.49
-WA,236,Canning,7482,Dawesville,816,41.89,1132,58.11,1948,1.37
+WA,236,Canning,7482,Dawesville,810,41.67,1134,58.33,1944,1.15
 WA,236,Canning,30227,Divisional Office (PREPOLL),46,48.42,49,51.58,95,-7.14
 WA,236,Canning,7494,Dudley Park,804,47.46,890,52.54,1694,0.29
 WA,236,Canning,7483,Dwellingup,159,46.49,183,53.51,342,-7.74
@@ -8461,7 +8461,7 @@ WA,240,Fremantle,7781,Richmond,679,41.86,943,58.14,1622,-5.54
 WA,240,Fremantle,7782,Rottnest (Fremantle),48,53.93,41,46.07,89,0.63
 WA,240,Fremantle,7783,Samson,1001,55,819,45,1820,-3.74
 WA,240,Fremantle,7784,South Fremantle,1160,65.8,603,34.2,1763,-3.12
-WA,240,Fremantle,7785,South Lake,1048,60.2,693,39.8,1741,-2.98
+WA,240,Fremantle,7785,South Lake,1035,60,690,40,1725,-3.18
 WA,240,Fremantle,7786,Spearwood,1252,62.41,754,37.59,2006,-2.49
 WA,240,Fremantle,58696,Spearwood PPVC,1333,58.96,928,41.04,2261,2
 WA,240,Fremantle,7787,Spearwood South,1287,58,932,42,2219,-5.75
