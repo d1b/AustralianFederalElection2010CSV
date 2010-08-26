@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives First Preferences By Candidate By Polling Place for VIC [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T16:31:46 Cycle:ee1c8e00-a59b-4a85-802e-86c0580d31ef Created:2010-08-26T16:18:49 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives First Preferences By Candidate By Polling Place for VIC [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T16:46:39 Cycle:bfecac08-0764-4e08-8b56-d316fd2f7d35 Created:2010-08-26T16:33:49 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 VIC,197,Aston,2942,Bayswater,21100,HANNA,Rachel,1,N,N,FFP,Family First,155,1.44
 VIC,197,Aston,2942,Bayswater,21092,EVANS,Rupert,2,N,N,ALP,Australian Labor Party,953,-0.79
@@ -215,11 +215,11 @@ VIC,198,Ballarat,2991,Ballarat North West,21098,BANWELL,Mark,2,N,N,LP,Liberal,90
 VIC,198,Ballarat,2991,Ballarat North West,21122,RAINEY,Jim,3,N,N,FFP,Family First,40,-0.32
 VIC,198,Ballarat,2991,Ballarat North West,21104,KING,Catherine,4,N,Y,ALP,Australian Labor Party,922,3.26
 VIC,198,Ballarat,2991,Ballarat North West,999,Informal,Informal,999,N,N,,Informal,56,1.02
-VIC,198,Ballarat,34062,Ballarat PPVC,21671,COATES,Belinda,1,N,N,GRN,Australian Greens,1072,2.06
-VIC,198,Ballarat,34062,Ballarat PPVC,21098,BANWELL,Mark,2,N,N,LP,Liberal,4605,-0.79
+VIC,198,Ballarat,34062,Ballarat PPVC,21671,COATES,Belinda,1,N,N,GRN,Australian Greens,1071,2.05
+VIC,198,Ballarat,34062,Ballarat PPVC,21098,BANWELL,Mark,2,N,N,LP,Liberal,4605,-0.78
 VIC,198,Ballarat,34062,Ballarat PPVC,21122,RAINEY,Jim,3,N,N,FFP,Family First,280,-1.5
-VIC,198,Ballarat,34062,Ballarat PPVC,21104,KING,Catherine,4,N,Y,ALP,Australian Labor Party,5713,0.23
-VIC,198,Ballarat,34062,Ballarat PPVC,999,Informal,Informal,999,N,N,,Informal,378,1.33
+VIC,198,Ballarat,34062,Ballarat PPVC,21104,KING,Catherine,4,N,Y,ALP,Australian Labor Party,5710,0.23
+VIC,198,Ballarat,34062,Ballarat PPVC,999,Informal,Informal,999,N,N,,Informal,382,1.36
 VIC,198,Ballarat,2993,Ballarat South,21671,COATES,Belinda,1,N,N,GRN,Australian Greens,86,-0.51
 VIC,198,Ballarat,2993,Ballarat South,21098,BANWELL,Mark,2,N,N,LP,Liberal,340,-2.3
 VIC,198,Ballarat,2993,Ballarat South,21122,RAINEY,Jim,3,N,N,FFP,Family First,46,-0.22
@@ -586,12 +586,12 @@ VIC,199,Batman,35015,Murray (Batman),21225,BHATHAL,Alexandra Kaur,3,N,N,GRN,Aust
 VIC,199,Batman,35015,Murray (Batman),21121,SARAZEN,Con,4,N,N,DEM,Australian Democrats,2,-2.04
 VIC,199,Batman,35015,Murray (Batman),21035,FERGUSON,Martin John,5,N,Y,ALP,Australian Labor Party,101,-11.19
 VIC,199,Batman,35015,Murray (Batman),999,Informal,Informal,999,N,N,,Informal,21,5.5
-VIC,199,Batman,5107,Newlands (Batman),21038,CONLON,Andrew,1,N,N,FFP,Family First,17,1.37
-VIC,199,Batman,5107,Newlands (Batman),21028,SOURIS,George,2,N,N,LP,Liberal,158,3.01
-VIC,199,Batman,5107,Newlands (Batman),21225,BHATHAL,Alexandra Kaur,3,N,N,GRN,Australian Greens,164,9.74
-VIC,199,Batman,5107,Newlands (Batman),21121,SARAZEN,Con,4,N,N,DEM,Australian Democrats,9,-1.29
-VIC,199,Batman,5107,Newlands (Batman),21035,FERGUSON,Martin John,5,N,Y,ALP,Australian Labor Party,342,-11.87
-VIC,199,Batman,5107,Newlands (Batman),999,Informal,Informal,999,N,N,,Informal,73,4.65
+VIC,199,Batman,5107,Newlands (Batman),21038,CONLON,Andrew,1,N,N,FFP,Family First,17,1.38
+VIC,199,Batman,5107,Newlands (Batman),21028,SOURIS,George,2,N,N,LP,Liberal,156,2.78
+VIC,199,Batman,5107,Newlands (Batman),21225,BHATHAL,Alexandra Kaur,3,N,N,GRN,Australian Greens,164,9.81
+VIC,199,Batman,5107,Newlands (Batman),21121,SARAZEN,Con,4,N,N,DEM,Australian Democrats,9,-1.28
+VIC,199,Batman,5107,Newlands (Batman),21035,FERGUSON,Martin John,5,N,Y,ALP,Australian Labor Party,342,-11.73
+VIC,199,Batman,5107,Newlands (Batman),999,Informal,Informal,999,N,N,,Informal,76,5.03
 VIC,199,Batman,3096,Northcote,21038,CONLON,Andrew,1,N,N,FFP,Family First,39,0.34
 VIC,199,Batman,3096,Northcote,21028,SOURIS,George,2,N,N,LP,Liberal,351,-1.55
 VIC,199,Batman,3096,Northcote,21225,BHATHAL,Alexandra Kaur,3,N,N,GRN,Australian Greens,1049,9.25
@@ -7125,20 +7125,20 @@ VIC,223,La Trobe,4873,Clematis,21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Part
 VIC,223,La Trobe,4873,Clematis,21266,REIHER,Jim,5,N,N,GRN,Australian Greens,88,3.86
 VIC,223,La Trobe,4873,Clematis,21238,BENNETT,Shem,6,N,N,LDP,Liberal Democrats (LDP),2,0.1
 VIC,223,La Trobe,4873,Clematis,999,Informal,Informal,999,N,N,,Informal,22,0.96
-VIC,223,La Trobe,3959,Clyde (La Trobe),20914,LEAHY,Martin,1,N,N,ASXP,Australian Sex Party,8,3.16
-VIC,223,La Trobe,3959,Clyde (La Trobe),21197,WOOD,Jason,2,N,Y,LP,Liberal,153,-5.04
+VIC,223,La Trobe,3959,Clyde (La Trobe),20914,LEAHY,Martin,1,N,N,ASXP,Australian Sex Party,8,3.15
+VIC,223,La Trobe,3959,Clyde (La Trobe),21197,WOOD,Jason,2,N,Y,LP,Liberal,154,-4.88
 VIC,223,La Trobe,3959,Clyde (La Trobe),21213,BARROW,David,3,N,N,FFP,Family First,2,-0.37
-VIC,223,La Trobe,3959,Clyde (La Trobe),21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,69,-2.01
-VIC,223,La Trobe,3959,Clyde (La Trobe),21266,REIHER,Jim,5,N,N,GRN,Australian Greens,20,5.3
-VIC,223,La Trobe,3959,Clyde (La Trobe),21238,BENNETT,Shem,6,N,N,LDP,Liberal Democrats (LDP),1,-0.47
-VIC,223,La Trobe,3959,Clyde (La Trobe),999,Informal,Informal,999,N,N,,Informal,11,0.27
+VIC,223,La Trobe,3959,Clyde (La Trobe),21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,69,-2.11
+VIC,223,La Trobe,3959,Clyde (La Trobe),21266,REIHER,Jim,5,N,N,GRN,Australian Greens,20,5.26
+VIC,223,La Trobe,3959,Clyde (La Trobe),21238,BENNETT,Shem,6,N,N,LDP,Liberal Democrats (LDP),1,-0.48
+VIC,223,La Trobe,3959,Clyde (La Trobe),999,Informal,Informal,999,N,N,,Informal,11,0.25
 VIC,223,La Trobe,4874,Cockatoo,20914,LEAHY,Martin,1,N,N,ASXP,Australian Sex Party,70,3.68
-VIC,223,La Trobe,4874,Cockatoo,21197,WOOD,Jason,2,N,Y,LP,Liberal,643,-2.97
+VIC,223,La Trobe,4874,Cockatoo,21197,WOOD,Jason,2,N,Y,LP,Liberal,646,-2.83
 VIC,223,La Trobe,4874,Cockatoo,21213,BARROW,David,3,N,N,FFP,Family First,39,-0.75
-VIC,223,La Trobe,4874,Cockatoo,21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,840,-4.8
-VIC,223,La Trobe,4874,Cockatoo,21266,REIHER,Jim,5,N,N,GRN,Australian Greens,299,5.92
+VIC,223,La Trobe,4874,Cockatoo,21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,837,-4.98
+VIC,223,La Trobe,4874,Cockatoo,21266,REIHER,Jim,5,N,N,GRN,Australian Greens,300,5.96
 VIC,223,La Trobe,4874,Cockatoo,21238,BENNETT,Shem,6,N,N,LDP,Liberal Democrats (LDP),10,0.53
-VIC,223,La Trobe,4874,Cockatoo,999,Informal,Informal,999,N,N,,Informal,95,1.4
+VIC,223,La Trobe,4874,Cockatoo,999,Informal,Informal,999,N,N,,Informal,94,1.35
 VIC,223,La Trobe,58658,Cranbourne LA TROBE PPVC,20914,LEAHY,Martin,1,N,N,ASXP,Australian Sex Party,22,3.06
 VIC,223,La Trobe,58658,Cranbourne LA TROBE PPVC,21197,WOOD,Jason,2,N,Y,LP,Liberal,375,3.2
 VIC,223,La Trobe,58658,Cranbourne LA TROBE PPVC,21213,BARROW,David,3,N,N,FFP,Family First,22,0.75
@@ -7153,13 +7153,13 @@ VIC,223,La Trobe,30214,Divisional Office (PREPOLL),21205,SMYTH,Laura,4,N,N,ALP,A
 VIC,223,La Trobe,30214,Divisional Office (PREPOLL),21266,REIHER,Jim,5,N,N,GRN,Australian Greens,0,-8.79
 VIC,223,La Trobe,30214,Divisional Office (PREPOLL),21238,BENNETT,Shem,6,N,N,LDP,Liberal Democrats (LDP),0,0
 VIC,223,La Trobe,30214,Divisional Office (PREPOLL),999,Informal,Informal,999,N,N,,Informal,0,-3.19
-VIC,223,La Trobe,4880,Emerald,20914,LEAHY,Martin,1,N,N,ASXP,Australian Sex Party,66,2.31
-VIC,223,La Trobe,4880,Emerald,21197,WOOD,Jason,2,N,Y,LP,Liberal,1222,-0.87
-VIC,223,La Trobe,4880,Emerald,21213,BARROW,David,3,N,N,FFP,Family First,27,-1.59
-VIC,223,La Trobe,4880,Emerald,21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,1112,-1.9
-VIC,223,La Trobe,4880,Emerald,21266,REIHER,Jim,5,N,N,GRN,Australian Greens,422,3.17
-VIC,223,La Trobe,4880,Emerald,21238,BENNETT,Shem,6,N,N,LDP,Liberal Democrats (LDP),12,0.33
-VIC,223,La Trobe,4880,Emerald,999,Informal,Informal,999,N,N,,Informal,138,1.4
+VIC,223,La Trobe,4880,Emerald,20914,LEAHY,Martin,1,N,N,ASXP,Australian Sex Party,67,2.35
+VIC,223,La Trobe,4880,Emerald,21197,WOOD,Jason,2,N,Y,LP,Liberal,1215,-1.04
+VIC,223,La Trobe,4880,Emerald,21213,BARROW,David,3,N,N,FFP,Family First,27,-1.58
+VIC,223,La Trobe,4880,Emerald,21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,1111,-1.87
+VIC,223,La Trobe,4880,Emerald,21266,REIHER,Jim,5,N,N,GRN,Australian Greens,423,3.23
+VIC,223,La Trobe,4880,Emerald,21238,BENNETT,Shem,6,N,N,LDP,Liberal Democrats (LDP),13,0.37
+VIC,223,La Trobe,4880,Emerald,999,Informal,Informal,999,N,N,,Informal,140,1.47
 VIC,223,La Trobe,2950,Fairhills,20914,LEAHY,Martin,1,N,N,ASXP,Australian Sex Party,49,2.7
 VIC,223,La Trobe,2950,Fairhills,21197,WOOD,Jason,2,N,Y,LP,Liberal,696,-1.61
 VIC,223,La Trobe,2950,Fairhills,21213,BARROW,David,3,N,N,FFP,Family First,39,-1.74
@@ -7168,12 +7168,12 @@ VIC,223,La Trobe,2950,Fairhills,21266,REIHER,Jim,5,N,N,GRN,Australian Greens,170
 VIC,223,La Trobe,2950,Fairhills,21238,BENNETT,Shem,6,N,N,LDP,Liberal Democrats (LDP),13,0.62
 VIC,223,La Trobe,2950,Fairhills,999,Informal,Informal,999,N,N,,Informal,136,2.6
 VIC,223,La Trobe,4282,Ferntree Gully,20914,LEAHY,Martin,1,N,N,ASXP,Australian Sex Party,43,2.76
-VIC,223,La Trobe,4282,Ferntree Gully,21197,WOOD,Jason,2,N,Y,LP,Liberal,605,-2.79
+VIC,223,La Trobe,4282,Ferntree Gully,21197,WOOD,Jason,2,N,Y,LP,Liberal,604,-2.81
 VIC,223,La Trobe,4282,Ferntree Gully,21213,BARROW,David,3,N,N,FFP,Family First,38,-0.65
-VIC,223,La Trobe,4282,Ferntree Gully,21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,651,-2.07
-VIC,223,La Trobe,4282,Ferntree Gully,21266,REIHER,Jim,5,N,N,GRN,Australian Greens,211,4.35
+VIC,223,La Trobe,4282,Ferntree Gully,21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,650,-2.08
+VIC,223,La Trobe,4282,Ferntree Gully,21266,REIHER,Jim,5,N,N,GRN,Australian Greens,211,4.37
 VIC,223,La Trobe,4282,Ferntree Gully,21238,BENNETT,Shem,6,N,N,LDP,Liberal Democrats (LDP),11,0.45
-VIC,223,La Trobe,4282,Ferntree Gully,999,Informal,Informal,999,N,N,,Informal,67,-0.85
+VIC,223,La Trobe,4282,Ferntree Gully,999,Informal,Informal,999,N,N,,Informal,69,-0.73
 VIC,223,La Trobe,4283,Ferntree Gully North,20914,LEAHY,Martin,1,N,N,ASXP,Australian Sex Party,54,3.35
 VIC,223,La Trobe,4283,Ferntree Gully North,21197,WOOD,Jason,2,N,Y,LP,Liberal,655,-1.57
 VIC,223,La Trobe,4283,Ferntree Gully North,21213,BARROW,David,3,N,N,FFP,Family First,33,-1.9
