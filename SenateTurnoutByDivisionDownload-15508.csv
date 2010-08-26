@@ -1,4 +1,4 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T11:36:42 Cycle:a94c6b94-5127-4d85-aaa0-4b805b7ee932 Created:2010-08-26T11:18:15 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-26T11:52:22 Cycle:608ff73a-b9db-48ee-bb1f-1acee5f5b838 Created:2010-08-26T11:33:16 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 179,Adelaide,SA,98526,72646,73.73
 197,Aston,VIC,93448,74163,79.36
@@ -21,7 +21,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 235,Brand,WA,88203,33976,38.52
 156,Brisbane,QLD,92222,64960,70.44
 201,Bruce,VIC,88171,64060,72.65
-109,Calare,NSW,98504,76442,77.55
+109,Calare,NSW,98504,76467,77.6
 203,Calwell,VIC,101314,76338,75.35
 101,Canberra,ACT,124215,92364,74.36
 236,Canning,WA,90107,60620,67.28
@@ -30,7 +30,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 110,Charlton,NSW,94480,73373,77.66
 111,Chifley,NSW,97605,61998,63.52
 205,Chisholm,VIC,86275,63773,73.92
-112,Cook,NSW,100748,66989,66.49
+112,Cook,NSW,100748,70340,66.49
 207,Corangamite,VIC,101569,80417,79.17
 208,Corio,VIC,91974,70849,77.03
 237,Cowan,WA,89546,67263,75.12
@@ -77,7 +77,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 124,Hughes,NSW,97995,67633,69.02
 125,Hume,NSW,97698,77793,79.63
 126,Hunter,NSW,91516,71750,78.4
-218,Indi,VIC,92956,55699,59.92
+218,Indi,VIC,92956,55703,59.92
 219,Isaacs,VIC,102790,77642,75.53
 220,Jagajaga,VIC,95202,74333,78.08
 167,Kennedy,QLD,94465,68418,72.43
@@ -108,7 +108,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 228,Melbourne,VIC,102879,70177,68.21
 230,Melbourne Ports,VIC,97765,57108,58.41
 229,Menzies,VIC,90966,68782,75.61
-134,Mitchell,NSW,93588,76924,82.18
+134,Mitchell,NSW,93588,76954,82.19
 172,Moncrieff,QLD,89087,67672,75.96
 242,Moore,WA,92295,73101,79.2
 173,Moreton,QLD,92733,68052,73.38
@@ -147,6 +147,6 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 251,Watson,NSW,97765,75126,76.84
 152,Wentworth,NSW,101464,65123,64.18
 153,Werriwa,NSW,90994,64825,71.24
-178,Wide Bay,QLD,92636,69350,74.85
+178,Wide Bay,QLD,92636,69353,74.86
 234,Wills,VIC,98599,72084,73.11
 316,Wright,QLD,85304,63554,74.5
