@@ -1,4 +1,4 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-27T10:23:16 Cycle:3d8b0ec0-ca2b-4d1d-af1b-47493825b9e3 Created:2010-08-27T10:03:07 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-27T10:38:20 Cycle:0513a5ff-e85a-4d65-afdf-030b236085d2 Created:2010-08-27T10:18:12 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 179,Adelaide,SA,98526,72646,73.73
 197,Aston,VIC,93448,74163,79.36
@@ -40,14 +40,14 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 158,Dawson,QLD,94553,66945,70.8
 209,Deakin,VIC,87744,67850,77.33
 194,Denison,TAS,71349,55246,77.43
-252,Dickson,QLD,90111,65825,73.05
+252,Dickson,QLD,90111,65829,73.05
 115,Dobell,NSW,93661,70807,75.6
 210,Dunkley,VIC,95324,71233,74.73
 312,Durack,WA,85782,54153,63.13
 117,Eden-Monaro,NSW,96465,65424,67.82
 159,Fadden,QLD,85236,63850,74.91
 160,Fairfax,QLD,89743,70666,78.74
-118,Farrer,NSW,94061,76736,79.06
+118,Farrer,NSW,94061,78076,81.58
 161,Fisher,QLD,83754,65722,78.47
 211,Flinders,VIC,100875,79373,78.68
 311,Flynn,QLD,91377,66466,72.74
@@ -70,7 +70,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 305,Hasluck,WA,93892,66909,71.26
 165,Herbert,QLD,91044,66305,72.83
 215,Higgins,VIC,90398,57085,63.15
-185,Hindmarsh,SA,100245,73396,73.22
+185,Hindmarsh,SA,100245,73415,73.22
 166,Hinkler,QLD,91397,64266,70.32
 216,Holt,VIC,108893,84373,77.48
 217,Hotham,VIC,89581,62524,69.8
@@ -87,7 +87,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 223,La Trobe,VIC,97960,76884,78.49
 222,Lalor,VIC,117023,99870,85.34
 168,Leichhardt,QLD,93140,70746,75.96
-169,Lilley,QLD,97415,75656,77.65
+169,Lilley,QLD,97415,75680,77.66
 128,Lindsay,NSW,95975,78575,81.87
 306,Lingiari,NT,61126,33670,55.08
 302,Longman,QLD,87062,65475,75.21
@@ -113,7 +113,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 242,Moore,WA,92295,74407,80.62
 173,Moreton,QLD,92733,68052,73.38
 231,Murray,VIC,90218,71097,78.81
-135,New England,NSW,99677,68097,68.32
+135,New England,NSW,99677,68102,68.32
 136,Newcastle,NSW,92896,73932,79.59
 137,North Sydney,NSW,97567,72963,74.78
 243,O'Connor,WA,92875,27439,29.54
@@ -148,5 +148,5 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 152,Wentworth,NSW,101464,65123,64.18
 153,Werriwa,NSW,90994,64825,71.24
 178,Wide Bay,QLD,92636,70809,76.44
-234,Wills,VIC,98599,72534,73.51
+234,Wills,VIC,98599,72534,73.56
 316,Wright,QLD,85304,68168,79.91
