@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-27T15:40:24 Cycle:02bc6462-579c-43bc-bdf8-c9df98075b31 Created:2010-08-27T15:19:05 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-27T15:55:17 Cycle:0e6687cd-1efc-4e09-b383-a58bd6457f67 Created:2010-08-27T15:34:15 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -406,8 +406,8 @@ NSW,109,Calare,229,Bletchington,983,35.36,1797,64.64,2780,-7.16
 NSW,109,Calare,230,Bloomfield Hospital,52,35.37,95,64.63,147,-19.45
 NSW,109,Calare,2156,Bogan Gate,41,22.4,142,77.6,183,-4.79
 NSW,109,Calare,2157,Borenore,98,29.97,229,70.03,327,-8.36
-NSW,109,Calare,231,Bowen,839,39.65,1277,60.35,2116,-7.46
-NSW,109,Calare,232,Bowenfels South,118,48.36,126,51.64,244,-8.11
+NSW,109,Calare,231,Bowen,832,39.68,1265,60.32,2097,-7.43
+NSW,109,Calare,232,Bowenfels South,113,46.31,131,53.69,244,-10.16
 NSW,109,Calare,1753,Burraga,24,35.29,44,64.71,68,-4.99
 NSW,109,Calare,235,Calare School,559,33.45,1112,66.55,1671,-8.72
 NSW,109,Calare,236,Canobolas,72,31.72,155,68.28,227,-7.94
@@ -2462,14 +2462,14 @@ NSW,249,Paterson,1658,Wootton,37,40.66,54,59.34,91,-5.32
 NSW,144,Reid,1515,Abbotsford,1679,47.81,1833,52.19,3512,-5.86
 NSW,144,Reid,2365,Auburn,1321,67.78,628,32.22,1949,-12.83
 NSW,144,Reid,2392,Auburn Central,876,63.89,495,36.11,1371,-11.32
-NSW,144,Reid,58110,Auburn East (Reid),215,54.16,182,45.84,397,-12.61
+NSW,144,Reid,58110,Auburn East (Reid),214,54.04,182,45.96,396,-12.73
 NSW,144,Reid,2367,Auburn Hospital,223,63.9,126,36.1,349,-10.19
 NSW,144,Reid,2368,Auburn North,1128,73.63,404,26.37,1532,-6.83
 NSW,144,Reid,33836,Auburn PPVC,1283,69.28,569,30.72,1852,7.69
 NSW,144,Reid,2369,Auburn West (Reid),1468,65.48,774,34.52,2242,-8.49
 NSW,144,Reid,58111,Berala (Reid),436,65.37,231,34.63,667,-10.47
-NSW,144,Reid,58092,Burwood (Reid),530,57.55,391,42.45,921,-9.05
-NSW,144,Reid,1517,Burwood East (Reid),1212,58.19,871,41.81,2083,-8
+NSW,144,Reid,58092,Burwood (Reid),532,57.64,391,42.36,923,-8.96
+NSW,144,Reid,1517,Burwood East (Reid),1209,58.01,875,41.99,2084,-8.18
 NSW,144,Reid,1519,Burwood Park,510,56.17,398,43.83,908,-9.77
 NSW,144,Reid,1521,Chiswick,814,43.93,1039,56.07,1853,-9.04
 NSW,144,Reid,1522,Concord,481,51.89,446,48.11,927,-7.76
@@ -2479,12 +2479,12 @@ NSW,144,Reid,1524,Concord East,1219,47.07,1371,52.93,2590,-9.41
 NSW,144,Reid,1525,Concord North,995,51.5,937,48.5,1932,-7.64
 NSW,144,Reid,1527,Concord West,719,50.24,712,49.76,1431,-6.24
 NSW,144,Reid,45017,Croydon (Reid),233,63.49,134,36.51,367,-4.18
-NSW,144,Reid,30135,Divisional Office (PREPOLL),109,53.17,96,46.83,205,-8.41
+NSW,144,Reid,30135,Divisional Office (PREPOLL),109,53.43,95,46.57,204,-8.15
 NSW,144,Reid,1530,Drummoyne,797,45.75,945,54.25,1742,-5.66
 NSW,144,Reid,1542,Drummoyne East,291,37.36,488,62.64,779,-12.42
 NSW,144,Reid,1531,Drummoyne North,1127,43.89,1441,56.11,2568,-7.8
 NSW,144,Reid,1533,Five Dock,1249,56.54,960,43.46,2209,-4.43
-NSW,144,Reid,1534,Five Dock Central,1121,48.13,1208,51.87,2329,-7.44
+NSW,144,Reid,1534,Five Dock Central,1142,49.01,1188,50.99,2330,-6.56
 NSW,144,Reid,1535,Flemington,876,63.43,505,36.57,1381,-11.97
 NSW,144,Reid,1536,Homebush,1188,53.27,1042,46.73,2230,-9.78
 NSW,144,Reid,46751,Homebush Bay,299,41.02,430,58.98,729,1.02
@@ -2495,13 +2495,13 @@ NSW,144,Reid,2386,Lidcombe South,922,62.13,562,37.87,1484,-7.76
 NSW,144,Reid,1541,Mortlake,1515,40.87,2192,59.13,3707,-5.87
 NSW,144,Reid,34328,Newington Central,1098,47.33,1222,52.67,2320,-8.47
 NSW,144,Reid,1543,Rhodes,423,47.9,460,52.1,883,-6.89
-NSW,144,Reid,1544,Russell Lea,689,47.81,752,52.19,1441,-6.71
+NSW,144,Reid,1544,Russell Lea,686,47.91,746,52.09,1432,-6.61
 NSW,144,Reid,2394,Silverwater,589,67.39,285,32.61,874,-8.88
 NSW,144,Reid,33638,Special Hospital Team 1,74,49.01,77,50.99,151,-9.2
 NSW,144,Reid,1545,Strathfield (Reid),549,45.45,659,54.55,1208,-15.11
 NSW,144,Reid,58096,Strathfield Central (Reid),168,37.5,280,62.5,448,-4.13
 NSW,144,Reid,1547,Strathfield North,1342,49.74,1356,50.26,2698,-9.37
-NSW,144,Reid,34043,Strathfield PPVC,1020,48.97,1063,51.03,2083,-12.63
+NSW,144,Reid,34043,Strathfield PPVC,1022,49.09,1060,50.91,2082,-12.51
 NSW,144,Reid,58098,Strathfield West (Reid),105,33.33,210,66.67,315,-3.74
 NSW,144,Reid,14108,Sydney (Reid),103,55.08,84,44.92,187,-12.74
 NSW,144,Reid,1550,Wareemba,619,47.84,675,52.16,1294,-11.58
@@ -4635,7 +4635,7 @@ QLD,174,Oxley,47724,Redbank South,576,61.47,361,38.53,937,-9.57
 QLD,174,Oxley,6472,Richlands,309,55.18,251,44.82,560,-15.84
 QLD,174,Oxley,6473,Richlands East,1002,71.06,408,28.94,1410,-10.94
 QLD,174,Oxley,6479,Serviceton South,1353,69.49,594,30.51,1947,-9.95
-QLD,174,Oxley,5551,Seventeen Mile Rocks,1361,43.76,1749,56.24,3110,-5.01
+QLD,174,Oxley,5551,Seventeen Mile Rocks,1363,43.83,1747,56.17,3110,-4.94
 QLD,174,Oxley,32733,Special Hospital Team 1,43,44.79,53,55.21,96,-4.15
 QLD,174,Oxley,32734,Special Hospital Team 2,18,30,42,70,60,-19.32
 QLD,174,Oxley,31480,Springfield,1553,61.24,983,38.76,2536,-1.53
@@ -4900,7 +4900,7 @@ QLD,316,Wright,5647,Upper Tenthill,40,18.43,177,81.57,217,-2.52
 QLD,316,Wright,6481,Warrill View,74,27.41,196,72.59,270,2.52
 QLD,316,Wright,5650,Withcott,365,31.3,801,68.7,1166,-9.24
 QLD,316,Wright,6296,Woodhill,533,40.91,770,59.09,1303,-3.2
-SA,179,Adelaide,6648,Adelaide (Adelaide),228,73.08,84,26.92,312,6.63
+SA,179,Adelaide,6648,Adelaide (Adelaide),228,72.61,86,27.39,314,6.16
 SA,179,Adelaide,32952,Adelaide ADELAIDE PPVC,1033,56.29,802,43.71,1835,8.14
 SA,179,Adelaide,6649,Adelaide East,646,58.3,462,41.7,1108,2.14
 SA,179,Adelaide,58808,Adelaide East PPVC,0,0,0,0,0,0
@@ -5391,7 +5391,7 @@ SA,187,Makin,38321,Modbury PPVC,1748,55.37,1409,44.63,3157,5.05
 SA,187,Makin,7140,Modbury West,1563,62.07,955,37.93,2518,3.62
 SA,187,Makin,7142,Para Hills,1396,67.44,674,32.56,2070,2.16
 SA,187,Makin,7143,Para Hills East,1092,68,514,32,1606,6.05
-SA,187,Makin,7144,Para Hills West,1272,72.64,479,27.36,1751,7.09
+SA,187,Makin,7144,Para Hills West,1267,73.15,465,26.85,1732,7.6
 SA,187,Makin,6678,Para Vista,1775,69.01,797,30.99,2572,2.7
 SA,187,Makin,7145,Pooraka,1637,74.31,566,25.69,2203,3.43
 SA,187,Makin,34289,Pooraka North,982,72.96,364,27.04,1346,2.86
@@ -5400,7 +5400,7 @@ SA,187,Makin,7146,Redwood Park,1522,62.71,905,37.29,2427,5.84
 SA,187,Makin,7147,Ridgehaven,1567,62.21,952,37.79,2519,5.7
 SA,187,Makin,7150,Salisbury East,1349,67.21,658,32.79,2007,1.76
 SA,187,Makin,6846,Salisbury East Central,1186,68.44,547,31.56,1733,4.24
-SA,187,Makin,33167,Salisbury East Estate,964,65.49,508,34.51,1472,2.38
+SA,187,Makin,33167,Salisbury East Estate,957,65.19,511,34.81,1468,2.08
 SA,187,Makin,33171,Salisbury Heights,1287,56.95,973,43.05,2260,2.36
 SA,187,Makin,33191,Special Hospital Team 1,65,60.75,42,39.25,107,11.16
 SA,187,Makin,33193,Special Hospital Team 2,54,51.92,50,48.08,104,1.92
@@ -5411,7 +5411,7 @@ SA,187,Makin,7152,Tea Tree Gully,784,54.33,659,45.67,1443,6.77
 SA,187,Makin,12045,Valley View,787,63.16,459,36.84,1246,3.02
 SA,187,Makin,38200,Walkley Heights,1265,60.47,827,39.53,2092,2.34
 SA,187,Makin,8848,Wynn Vale,1957,59.12,1353,40.88,3310,6.19
-SA,187,Makin,51055,Wynn Vale West,550,55.84,435,44.16,985,2.68
+SA,187,Makin,51055,Wynn Vale West,544,55.68,433,44.32,977,2.52
 SA,188,Mayo,6857,Aberfoyle Park,1497,54.48,1251,45.52,2748,5.74
 SA,188,Mayo,31782,Aberfoyle Park North (Mayo),1109,48.66,1170,51.34,2279,3.9
 SA,188,Mayo,31740,Aberfoyle Park South,615,51.59,577,48.41,1192,2.57
@@ -5635,8 +5635,8 @@ SA,191,Wakefield,6833,Elizabeth Park,998,76.83,301,23.17,1299,8.26
 SA,191,Wakefield,46573,Elizabeth PPVC,1330,60.7,861,39.3,2191,9.13
 SA,191,Wakefield,6834,Elizabeth South,1232,75.58,398,24.42,1630,3.48
 SA,191,Wakefield,6835,Elizabeth Vale,1453,70.64,604,29.36,2057,4.73
-SA,191,Wakefield,7352,Evanston,1051,62.3,636,37.7,1687,4.45
-SA,191,Wakefield,7353,Evanston Gardens,767,61.26,485,38.74,1252,6.63
+SA,191,Wakefield,7352,Evanston,1046,62.04,640,37.96,1686,4.19
+SA,191,Wakefield,7353,Evanston Gardens,769,61.27,486,38.73,1255,6.64
 SA,191,Wakefield,46572,Evanston South,343,56.6,263,43.4,606,12.06
 SA,191,Wakefield,7355,Freeling,439,47.61,483,52.39,922,7.22
 SA,191,Wakefield,7356,Gawler,944,52.53,853,47.47,1797,6.13
@@ -8116,7 +8116,7 @@ WA,236,Canning,7541,Karragullen,98,32.34,205,67.66,303,5.75
 WA,236,Canning,7542,Kelmscott,931,56.7,711,43.3,1642,2.35
 WA,236,Canning,7543,Kelmscott East,928,49.15,960,50.85,1888,7.12
 WA,236,Canning,7544,Kelmscott North,715,52.81,639,47.19,1354,7.07
-WA,236,Canning,31065,Lake Clifton,131,45.96,154,54.04,285,-2.67
+WA,236,Canning,31065,Lake Clifton,133,46.34,154,53.66,287,-2.29
 WA,236,Canning,7491,Mandurah,330,48.25,354,51.75,684,-4.95
 WA,236,Canning,7492,Mandurah Central,707,53.04,626,46.96,1333,-0.58
 WA,236,Canning,7493,Mandurah East,477,53.66,412,46.34,889,-3.25

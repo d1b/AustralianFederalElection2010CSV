@@ -1,6 +1,6 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-27T15:40:27 Cycle:02bc6462-579c-43bc-bdf8-c9df98075b31 Created:2010-08-27T15:19:05 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-27T15:55:20 Cycle:0e6687cd-1efc-4e09-b383-a58bd6457f67 Created:2010-08-27T15:34:15 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
-179,Adelaide,SA,98526,72792,73.88
+179,Adelaide,SA,98526,72912,73.88
 197,Aston,VIC,93448,74504,79.73
 198,Ballarat,VIC,97802,78619,80.39
 103,Banks,NSW,98762,78700,79.69
@@ -11,7 +11,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 200,Bendigo,VIC,100701,79365,78.81
 105,Bennelong,NSW,98900,78008,78.88
 106,Berowra,NSW,95115,74293,78.11
-304,Blair,QLD,83071,67115,80.79
+304,Blair,QLD,83071,67164,80.79
 107,Blaxland,NSW,95354,73867,77.47
 310,Bonner,QLD,92684,69151,74.61
 182,Boothby,SA,97898,71656,73.19
@@ -20,11 +20,11 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 108,Bradfield,NSW,97251,74855,76.97
 235,Brand,WA,88203,36690,41.6
 156,Brisbane,QLD,92222,64960,70.44
-201,Bruce,VIC,88171,64274,72.9
+201,Bruce,VIC,88171,64318,72.9
 109,Calare,NSW,98504,76885,78.05
 203,Calwell,VIC,101314,76450,75.46
 101,Canberra,ACT,124215,101577,81.78
-236,Canning,WA,90107,66822,73.81
+236,Canning,WA,90107,66825,74.16
 157,Capricornia,QLD,91962,71306,77.54
 204,Casey,VIC,92357,73312,79.38
 110,Charlton,NSW,94480,73809,78.12
@@ -41,7 +41,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 209,Deakin,VIC,87744,67933,77.42
 194,Denison,TAS,71349,55257,77.45
 252,Dickson,QLD,90111,65829,73.05
-115,Dobell,NSW,93661,71019,75.83
+115,Dobell,NSW,93661,71049,75.83
 210,Dunkley,VIC,95324,71233,74.73
 312,Durack,WA,85782,54153,63.13
 117,Eden-Monaro,NSW,96465,65424,67.82
@@ -59,7 +59,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 240,Fremantle,WA,93341,70446,75.47
 212,Gellibrand,VIC,95611,69815,73.02
 120,Gilmore,NSW,96317,65773,68.29
-213,Gippsland,VIC,97543,81474,83.52
+213,Gippsland,VIC,97543,81474,83.53
 214,Goldstein,VIC,93945,69203,73.66
 309,Gorton,VIC,113656,88982,78.29
 121,Grayndler,NSW,98112,70028,71.38
@@ -79,14 +79,14 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 126,Hunter,NSW,91516,71750,78.4
 218,Indi,VIC,92956,55747,59.97
 219,Isaacs,VIC,102790,79179,77.03
-220,Jagajaga,VIC,95202,69156,70.04
+220,Jagajaga,VIC,95202,69156,72.64
 167,Kennedy,QLD,94465,72085,76.31
 127,Kingsford Smith,NSW,97747,66255,67.78
 186,Kingston,SA,102296,75857,74.15
 221,Kooyong,VIC,89659,61736,68.86
 223,La Trobe,VIC,97960,76884,78.49
 222,Lalor,VIC,117023,100486,85.87
-168,Leichhardt,QLD,93140,70746,75.96
+168,Leichhardt,QLD,93140,70733,75.96
 169,Lilley,QLD,97415,75680,77.69
 128,Lindsay,NSW,95975,78575,81.87
 306,Lingiari,NT,61126,33670,55.08
@@ -94,9 +94,9 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 130,Lyne,NSW,92565,71660,77.42
 196,Lyons,TAS,72865,64423,88.41
 131,Macarthur,NSW,90059,69597,77.28
-132,Mackellar,NSW,98556,78772,79.88
+132,Mackellar,NSW,98556,78783,79.93
 133,Macquarie,NSW,97560,79759,81.75
-187,Makin,SA,96263,83084,86.18
+187,Makin,SA,96263,83084,86.31
 224,Mallee,VIC,89840,76414,85.06
 170,Maranoa,QLD,97957,69510,70.96
 225,Maribyrnong,VIC,88412,66630,75.36
@@ -122,7 +122,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 139,Parkes,NSW,100169,83192,83.05
 140,Parramatta,NSW,94014,72430,77.04
 249,Paterson,NSW,92149,75473,81.9
-244,Pearce,WA,89526,63416,70.84
+244,Pearce,WA,89526,63481,70.84
 245,Perth,WA,91904,68086,74.08
 175,Petrie,QLD,86683,61505,70.95
 189,Port Adelaide,SA,104308,86090,82.53
@@ -134,9 +134,9 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 177,Ryan,QLD,98224,70652,71.93
 232,Scullin,VIC,90822,75602,83.24
 148,Shortland,NSW,94245,76664,81.35
-307,Solomon,NT,59879,44655,74.58
+307,Solomon,NT,59879,44671,74.58
 246,Stirling,WA,91728,69090,75.32
-190,Sturt,SA,99061,72041,72.72
+190,Sturt,SA,99061,72108,72.72
 247,Swan,WA,90766,69901,77.01
 149,Sydney,NSW,95277,51401,53.95
 248,Tangney,WA,92176,75432,81.83
@@ -149,4 +149,4 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 153,Werriwa,NSW,90994,64825,71.24
 178,Wide Bay,QLD,92636,70809,76.44
 234,Wills,VIC,98599,73100,74.14
-316,Wright,QLD,85304,68168,79.91
+316,Wright,QLD,85304,70785,79.91
