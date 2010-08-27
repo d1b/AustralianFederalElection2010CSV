@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-27T12:23:56 Cycle:3e393fdb-11aa-4d0d-a452-8ec23213cf75 Created:2010-08-27T12:03:33 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-27T12:38:52 Cycle:e0a9ed32-2c26-4f1b-94a1-7aee34d72a53 Created:2010-08-27T12:18:43 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -2506,9 +2506,9 @@ NSW,144,Reid,58098,Strathfield West (Reid),105,33.33,210,66.67,315,-3.74
 NSW,144,Reid,14108,Sydney (Reid),102,54.84,84,45.16,186,-12.98
 NSW,144,Reid,1550,Wareemba,619,47.84,675,52.16,1294,-11.58
 NSW,145,Richmond,2399,Bangalow,795,61.72,493,38.28,1288,-1.36
-NSW,145,Richmond,2400,Banora Point,1082,47.17,1212,52.83,2294,-0.09
-NSW,145,Richmond,31668,Banora Point South,1699,51.55,1597,48.45,3296,-2.4
-NSW,145,Richmond,31672,Banora Point West,931,48.92,972,51.08,1903,-1.59
+NSW,145,Richmond,2400,Banora Point,1069,47.03,1204,52.97,2273,-0.23
+NSW,145,Richmond,31668,Banora Point South,1692,51.71,1580,48.29,3272,-2.24
+NSW,145,Richmond,31672,Banora Point West,917,48.6,970,51.4,1887,-1.91
 NSW,145,Richmond,2401,Bexhill,185,46.37,214,53.63,399,-1.06
 NSW,145,Richmond,2402,Bilambil,681,53.88,583,46.12,1264,-1.18
 NSW,145,Richmond,2403,Billinudgel,490,61.48,307,38.52,797,-5.29
@@ -2529,10 +2529,10 @@ NSW,145,Richmond,2418,Crabbes Creek,128,56.89,97,43.11,225,-4.14
 NSW,145,Richmond,2419,Crystal Creek,168,49.7,170,50.3,338,0.46
 NSW,145,Richmond,2420,Cudgen,375,51.09,359,48.91,734,-5.43
 NSW,145,Richmond,30136,Divisional Office (PREPOLL),313,48.53,332,51.47,645,-7.78
-NSW,145,Richmond,2422,Dungay,161,45.35,194,54.65,355,-4
+NSW,145,Richmond,2422,Dungay,160,45.07,195,54.93,355,-4.28
 NSW,145,Richmond,2423,Dunoon,350,63.75,199,36.25,549,-2.92
 NSW,145,Richmond,2424,Duranbah,58,42.65,78,57.35,136,-3.3
-NSW,145,Richmond,2425,Durrumbul,242,70.97,99,29.03,341,6.59
+NSW,145,Richmond,2425,Durrumbul,242,71.18,98,28.82,340,6.8
 NSW,145,Richmond,2427,Eureka,90,59.21,62,40.79,152,-1.24
 NSW,145,Richmond,2428,Ewingsdale,176,58.67,124,41.33,300,-7.84
 NSW,145,Richmond,2429,Federal,307,68.68,140,31.32,447,-12.83
@@ -4296,7 +4296,7 @@ QLD,302,Longman,31486,Morayfield,2120,53.55,1839,46.45,3959,-2.94
 QLD,302,Longman,11997,Morayfield East,1373,53.28,1204,46.72,2577,-2.83
 QLD,302,Longman,32501,Morayfield West,1250,51.19,1192,48.81,2442,-3.49
 QLD,302,Longman,5499,Mount Mee,105,37.1,178,62.9,283,0.94
-QLD,302,Longman,5502,Narangba,986,45.95,1160,54.05,2146,-4.91
+QLD,302,Longman,5502,Narangba,975,45.82,1153,54.18,2128,-5.04
 QLD,302,Longman,32502,Narangba Valley,1971,51,1894,49,3865,-2.8
 QLD,302,Longman,5503,Ningi,920,43.96,1173,56.04,2093,-2.83
 QLD,302,Longman,58493,Sandstone Point,596,42.63,802,57.37,1398,-4.6
@@ -4608,7 +4608,7 @@ QLD,174,Oxley,47707,Augustine Heights,537,46.98,606,53.02,1143,-15.83
 QLD,174,Oxley,12052,AVEO Durack,242,42.91,322,57.09,564,-0.36
 QLD,174,Oxley,6370,Bellbird Park,1840,67.06,904,32.94,2744,-4.33
 QLD,174,Oxley,14230,Brisbane City (Oxley),59,62.11,36,37.89,95,-2.28
-QLD,174,Oxley,6351,Camira,1950,60.54,1271,39.46,3221,-5.52
+QLD,174,Oxley,6351,Camira,1949,60.47,1274,39.53,3223,-5.59
 QLD,174,Oxley,6435,Carole Park,603,68.91,272,31.09,875,-5.84
 QLD,174,Oxley,6354,Collingwood Park (Oxley),637,63.64,364,36.36,1001,-4.87
 QLD,174,Oxley,6441,Darra,1018,63.7,580,36.3,1598,-5.92
@@ -4623,7 +4623,7 @@ QLD,174,Oxley,33102,Grand Ave,1765,55.84,1396,44.16,3161,-3.41
 QLD,174,Oxley,6449,Inala,1558,68.36,721,31.64,2279,-7.78
 QLD,174,Oxley,6450,Inala West,905,69.88,390,30.12,1295,-8.29
 QLD,174,Oxley,58725,Ipswich OXLEY PPVC,182,55.83,144,44.17,326,-1.56
-QLD,174,Oxley,5538,Jamboree Heights,1807,41.86,2510,58.14,4317,-5.7
+QLD,174,Oxley,5538,Jamboree Heights,1805,41.79,2514,58.21,4319,-5.77
 QLD,174,Oxley,5539,Jindalee,1194,40.86,1728,59.14,2922,-3.65
 QLD,174,Oxley,31488,Jindalee South,696,39.12,1083,60.88,1779,-2.75
 QLD,174,Oxley,5546,Middle Park,1803,45.35,2173,54.65,3976,-1.32
@@ -4750,13 +4750,13 @@ QLD,177,Ryan,11996,Keperra,1194,50.77,1158,49.23,2352,-4.89
 QLD,177,Ryan,38089,Milton (Ryan),670,45.95,788,54.05,1458,-3.42
 QLD,177,Ryan,5188,Mitchelton,1153,50.17,1145,49.83,2298,-7.04
 QLD,177,Ryan,6515,Moggill,1260,39.02,1969,60.98,3229,-8.13
-QLD,177,Ryan,5193,Oxford Park,804,58.77,564,41.23,1368,-4.91
-QLD,177,Ryan,6518,Pullenvale,461,31.42,1006,68.58,1467,-7.36
+QLD,177,Ryan,5193,Oxford Park,803,58.74,564,41.26,1367,-4.94
+QLD,177,Ryan,6518,Pullenvale,459,31.31,1007,68.69,1466,-7.47
 QLD,177,Ryan,6519,Rainworth,968,45.68,1151,54.32,2119,-3.33
 QLD,177,Ryan,32735,Special Hospital Team 1,26,38.24,42,61.76,68,0.22
 QLD,177,Ryan,32736,Special Hospital Team 2,43,24.02,136,75.98,179,-13.99
 QLD,177,Ryan,58484,Special Hospital Team 3,48,36.36,84,63.64,132,36.36
-QLD,177,Ryan,6521,St Lucia,558,43.83,715,56.17,1273,-3.5
+QLD,177,Ryan,6521,St Lucia,560,43.85,717,56.15,1277,-3.48
 QLD,177,Ryan,32738,St Lucia Interstate PPVC,0,0,0,0,0,0
 QLD,177,Ryan,6524,The Gap,1249,46.04,1464,53.96,2713,-5.62
 QLD,177,Ryan,6525,The Gap East,1610,48.02,1743,51.98,3353,-3.11
@@ -7793,7 +7793,7 @@ VIC,231,Murray,4741,Echuca,646,31.03,1436,68.97,2082,0.09
 VIC,231,Murray,8903,Echuca Central,140,24.6,429,75.4,569,-6.8
 VIC,231,Murray,4742,Echuca East,568,34.42,1082,65.58,1650,-1.03
 VIC,231,Murray,32033,Echuca PPVC,708,24.88,2138,75.12,2846,-6.77
-VIC,231,Murray,4744,Echuca South,376,32.44,783,67.56,1159,-3.17
+VIC,231,Murray,4744,Echuca South,382,33.22,768,66.78,1150,-2.39
 VIC,231,Murray,4745,Echuca Village,27,19.15,114,80.85,141,5.02
 VIC,231,Murray,4746,Echuca West,73,21.28,270,78.72,343,1.16
 VIC,231,Murray,4748,Girgarre,87,25.22,258,74.78,345,1.88
@@ -7858,7 +7858,7 @@ VIC,231,Murray,4822,Wanganui,503,40.5,739,59.5,1242,-0.99
 VIC,231,Murray,3210,Wedderburn,257,38.13,417,61.87,674,-6.12
 VIC,231,Murray,4824,Wilmot Road,1074,36.28,1886,63.72,2960,-4.32
 VIC,231,Murray,4122,Wunghnu,63,22.26,220,77.74,283,-1.15
-VIC,231,Murray,4825,Wyuna,32,16.08,167,83.92,199,-6.79
+VIC,231,Murray,4825,Wyuna,31,15.66,167,84.34,198,-7.21
 VIC,231,Murray,4828,Yarrawalla South,16,20.78,61,79.22,77,4.28
 VIC,231,Murray,4125,Yarrawonga,514,39.69,781,60.31,1295,0.3
 VIC,231,Murray,33125,Yarrawonga PPVC,865,38.21,1399,61.79,2264,6.56
