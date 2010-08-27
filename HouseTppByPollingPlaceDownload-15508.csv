@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-27T10:08:13 Cycle:598f897d-5510-4251-bc38-47212ef8c374 Created:2010-08-27T09:48:02 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-27T10:23:13 Cycle:3d8b0ec0-ca2b-4d1d-af1b-47493825b9e3 Created:2010-08-27T10:03:07 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -1705,7 +1705,7 @@ NSW,131,Macarthur,895,Wallacia,293,36.9,501,63.1,794,-0.69
 NSW,131,Macarthur,1707,Warragamba,701,42.59,945,57.41,1646,-4.69
 NSW,131,Macarthur,2936,Wedderburn,100,31.95,213,68.05,313,-9.85
 NSW,131,Macarthur,2938,Woodbine,1000,50.94,963,49.06,1963,-11.41
-NSW,132,Mackellar,1715,Avalon,1634,43.3,2140,56.7,3774,-1.51
+NSW,132,Mackellar,1715,Avalon,1630,43.2,2143,56.8,3773,-1.61
 NSW,132,Mackellar,1716,Barrenjoey,617,41.92,855,58.08,1472,-1.67
 NSW,132,Mackellar,1717,Bayview,340,29.23,823,70.77,1163,-1.54
 NSW,132,Mackellar,1718,Beacon Hill (Mackellar),727,33.56,1439,66.44,2166,-6.35
@@ -5182,7 +5182,7 @@ SA,183,Grey,12047,Karkoo,15,12.61,104,87.39,119,2.71
 SA,183,Grey,6932,Kimba,54,9.22,532,90.78,586,-9.81
 SA,183,Grey,6933,Kirton Point,653,36.89,1117,63.11,1770,-4.55
 SA,183,Grey,7375,Laura,117,24.27,365,75.73,482,-11
-SA,183,Grey,6936,Leigh Creek,107,50.47,105,49.53,212,-0.41
+SA,183,Grey,6936,Leigh Creek,106,50.24,105,49.76,211,-0.64
 SA,183,Grey,7376,Lochiel,44,36.67,76,63.33,120,3.09
 SA,183,Grey,6937,Lock,29,11.33,227,88.67,256,-1.44
 SA,183,Grey,7379,Maitland,242,28.91,595,71.09,837,2.99
@@ -5217,7 +5217,7 @@ SA,183,Grey,6954,Port Neill,33,20.37,129,79.63,162,-1.53
 SA,183,Grey,13111,Port Pirie PPVC,720,50.35,710,49.65,1430,-1.21
 SA,183,Grey,6945,Port Pirie South,128,33.51,254,66.49,382,-20.91
 SA,183,Grey,6956,Port Pirie West,1211,54.72,1002,45.28,2213,-12.08
-SA,183,Grey,7408,Port Victoria,66,29.2,160,70.8,226,1.48
+SA,183,Grey,7408,Port Victoria,65,28.76,161,71.24,226,1.04
 SA,183,Grey,7409,Port Vincent,111,30.49,253,69.51,364,-2.58
 SA,183,Grey,6957,Quorn,206,32.49,428,67.51,634,-9.5
 SA,183,Grey,7411,Redhill,39,31.71,84,68.29,123,-2.91
@@ -6771,10 +6771,10 @@ VIC,213,Gippsland,3804,Nicholson,205,32.39,428,67.61,633,-7.43
 VIC,213,Gippsland,3805,Nowa Nowa,80,39.6,122,60.4,202,-8.14
 VIC,213,Gippsland,3806,Nungurner,83,34.3,159,65.7,242,-8.26
 VIC,213,Gippsland,3807,Omeo,72,25.44,211,74.56,283,-10.89
-VIC,213,Gippsland,3808,Orbost,436,35.94,777,64.06,1213,1.49
+VIC,213,Gippsland,3808,Orbost,399,32.98,811,67.02,1210,-1.47
 VIC,213,Gippsland,3810,Paynesville,649,38.61,1032,61.39,1681,0.41
-VIC,213,Gippsland,3811,Port Albert,79,39.11,123,60.89,202,-5.82
-VIC,213,Gippsland,3815,Rosedale,368,36.18,649,63.82,1017,-7.3
+VIC,213,Gippsland,3811,Port Albert,79,39.3,122,60.7,201,-5.63
+VIC,213,Gippsland,3815,Rosedale,366,36.09,648,63.91,1014,-7.39
 VIC,213,Gippsland,3817,Sale,541,28.15,1381,71.85,1922,-10.23
 VIC,213,Gippsland,3818,Sale East,587,29.02,1436,70.98,2023,-7.7
 VIC,213,Gippsland,3819,Sale North,730,36.32,1280,63.68,2010,-5.47
@@ -8296,7 +8296,7 @@ WA,312,Durack,32883,Kununurra PPVC,0,0,0,0,0,0
 WA,312,Durack,8051,Latham,4,10.26,35,89.74,39,-1.5
 WA,312,Durack,8052,Leeman,75,27.68,196,72.32,271,-2.1
 WA,312,Durack,7859,Marble Bar,35,44.3,44,55.7,79,-11.54
-WA,312,Durack,8053,Meckering,44,29.33,106,70.67,150,-2.84
+WA,312,Durack,8053,Meckering,41,27.7,107,72.3,148,-4.47
 WA,312,Durack,7861,Meekatharra,108,48,117,52,225,-4.4
 WA,312,Durack,8054,Merredin,218,24.77,662,75.23,880,-8.45
 WA,312,Durack,8056,Merredin South,154,28.1,394,71.9,548,-9.38
