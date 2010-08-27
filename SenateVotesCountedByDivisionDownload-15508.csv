@@ -1,7 +1,7 @@
-2010 Federal Election Senate Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-27T10:38:20 Cycle:0513a5ff-e85a-4d65-afdf-030b236085d2 Created:2010-08-27T10:18:12 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-27T10:53:40 Cycle:e9d80f14-c2ff-4c28-b1ec-19f1d588a2f7 Created:2010-08-27T10:33:12 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,TotalPercentage
 179,Adelaide,SA,98526,72646,0,0,0,0,72646,73.73
-197,Aston,VIC,93448,74163,0,0,0,0,74163,79.36
+197,Aston,VIC,93448,74482,0,0,0,0,74482,79.36
 198,Ballarat,VIC,97802,78619,0,0,0,0,78619,80.39
 103,Banks,NSW,98762,78700,0,0,0,0,78700,79.69
 180,Barker,SA,104888,84600,0,0,0,0,84600,80.66
@@ -47,7 +47,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 117,Eden-Monaro,NSW,96465,65424,0,0,0,0,65424,67.82
 159,Fadden,QLD,85236,63850,0,0,0,0,63850,74.91
 160,Fairfax,QLD,89743,70666,0,0,0,0,70666,78.74
-118,Farrer,NSW,94061,75740,0,0,0,2336,78076,81.58
+118,Farrer,NSW,94061,75740,0,0,0,2336,78076,83.01
 161,Fisher,QLD,83754,64752,970,0,0,0,65722,78.47
 211,Flinders,VIC,100875,74409,0,0,0,4964,79373,78.68
 311,Flynn,QLD,91377,65801,0,0,0,665,66466,72.74
@@ -59,7 +59,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 240,Fremantle,WA,93341,68515,0,0,971,960,70446,75.47
 212,Gellibrand,VIC,95611,69815,0,0,0,0,69815,73.02
 120,Gilmore,NSW,96317,65773,0,0,0,0,65773,68.29
-213,Gippsland,VIC,97543,81452,0,0,0,0,81452,83.5
+213,Gippsland,VIC,97543,81464,0,0,0,0,81464,83.5
 214,Goldstein,VIC,93945,69103,0,0,0,0,69103,73.56
 309,Gorton,VIC,113656,86368,0,0,0,2614,88982,78.29
 121,Grayndler,NSW,98112,70028,0,0,0,0,70028,71.38
@@ -70,7 +70,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 305,Hasluck,WA,93892,66909,0,0,0,0,66909,71.26
 165,Herbert,QLD,91044,66305,0,0,0,0,66305,72.83
 215,Higgins,VIC,90398,57085,0,0,0,0,57085,63.15
-185,Hindmarsh,SA,100245,73415,0,0,0,0,73415,73.22
+185,Hindmarsh,SA,100245,73415,0,0,0,0,73415,73.24
 166,Hinkler,QLD,91397,64266,0,0,0,0,64266,70.32
 216,Holt,VIC,108893,84373,0,0,0,0,84373,77.48
 217,Hotham,VIC,89581,62524,0,0,0,0,62524,69.8
@@ -87,7 +87,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 223,La Trobe,VIC,97960,71103,0,0,0,5781,76884,78.49
 222,Lalor,VIC,117023,93909,0,0,0,5961,99870,85.34
 168,Leichhardt,QLD,93140,70746,0,0,0,0,70746,75.96
-169,Lilley,QLD,97415,75680,0,0,0,0,75680,77.66
+169,Lilley,QLD,97415,75680,0,0,0,0,75680,77.69
 128,Lindsay,NSW,95975,78575,0,0,0,0,78575,81.87
 306,Lingiari,NT,61126,33670,0,0,0,0,33670,55.08
 302,Longman,QLD,87062,65475,0,0,0,0,65475,75.21
@@ -113,7 +113,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 242,Moore,WA,92295,71617,1225,0,1565,0,74407,80.62
 173,Moreton,QLD,92733,68052,0,0,0,0,68052,73.38
 231,Murray,VIC,90218,71097,0,0,0,0,71097,78.81
-135,New England,NSW,99677,68102,0,0,0,0,68102,68.32
+135,New England,NSW,99677,68109,0,0,0,0,68109,68.32
 136,Newcastle,NSW,92896,73932,0,0,0,0,73932,79.59
 137,North Sydney,NSW,97567,72963,0,0,0,0,72963,74.78
 243,O'Connor,WA,92875,27439,0,0,0,0,27439,29.54
@@ -148,5 +148,5 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 152,Wentworth,NSW,101464,65123,0,0,0,0,65123,64.18
 153,Werriwa,NSW,90994,64825,0,0,0,0,64825,71.24
 178,Wide Bay,QLD,92636,69377,0,0,0,1432,70809,76.44
-234,Wills,VIC,98599,72534,0,0,0,0,72534,73.56
+234,Wills,VIC,98599,72583,0,0,0,0,72583,73.56
 316,Wright,QLD,85304,62507,1047,0,0,4614,68168,79.91
