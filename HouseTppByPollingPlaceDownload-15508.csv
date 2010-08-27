@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-27T11:23:11 Cycle:ff848576-4161-4506-9f18-c4f19c94a03d Created:2010-08-27T11:03:22 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-27T11:38:18 Cycle:d69a8ca7-8c06-42ce-8e59-61698af92059 Created:2010-08-27T11:18:28 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -2631,7 +2631,7 @@ NSW,250,Riverina,1289,Kooringal,841,34.38,1605,65.62,2446,4.05
 NSW,250,Riverina,1315,Kooringal North,653,34.05,1265,65.95,1918,-3.57
 NSW,250,Riverina,1290,Lacmalac,55,41.67,77,58.33,132,2.41
 NSW,250,Riverina,1291,Ladysmith,43,17.62,201,82.38,244,-5.82
-NSW,250,Riverina,1292,Lake Albert,730,30.03,1701,69.97,2431,0.89
+NSW,250,Riverina,1292,Lake Albert,758,31.01,1686,68.99,2444,1.87
 NSW,250,Riverina,2526,Lake Wyangan,139,23.76,446,76.24,585,-5.36
 NSW,250,Riverina,2527,Leeton,473,30.05,1101,69.95,1574,-5.58
 NSW,250,Riverina,2528,Leeton North,223,26.02,634,73.98,857,-7.51
@@ -6279,7 +6279,7 @@ VIC,201,Bruce,3247,Wheelers Hill South,1216,46.59,1394,53.41,2610,1.21
 VIC,201,Bruce,4013,Whiteside,584,72.73,219,27.27,803,-0.66
 VIC,201,Bruce,3982,Wooranna Park,1385,66.52,697,33.48,2082,-1.24
 VIC,201,Bruce,3983,Yarraman Park,880,70.97,360,29.03,1240,1.48
-VIC,203,Calwell,3258,Bethal,1539,80.2,380,19.8,1919,-3.65
+VIC,203,Calwell,3258,Bethal,1538,80.19,380,19.81,1918,-3.66
 VIC,203,Calwell,4840,Broadmeadows,1443,81.43,329,18.57,1772,-0.23
 VIC,203,Calwell,4842,Broadmeadows North,1811,76.41,559,23.59,2370,-5.25
 VIC,203,Calwell,3261,Bulla,240,52.17,220,47.83,460,1.39
@@ -7280,7 +7280,7 @@ VIC,223,La Trobe,4303,Upwey,1438,58.74,1010,41.26,2448,3.09
 VIC,222,Lalor,4241,Bellbridge,2957,75.9,939,24.1,3896,6.46
 VIC,222,Lalor,36443,Boardwalk,2128,70.02,911,29.98,3039,5.03
 VIC,222,Lalor,31055,Cambridge,2306,74.68,782,25.32,3088,7.13
-VIC,222,Lalor,4251,Coburn,2169,76.48,667,23.52,2836,10.76
+VIC,222,Lalor,4251,Coburn,2147,75.76,687,24.24,2834,10.04
 VIC,222,Lalor,31056,Derrimut Heath,2472,71.9,966,28.1,3438,7.96
 VIC,222,Lalor,3352,Diggers Rest,598,67.65,286,32.35,884,6.41
 VIC,222,Lalor,30213,Divisional Office (PREPOLL),6,85.71,1,14.29,7,50
@@ -7297,7 +7297,7 @@ VIC,222,Lalor,8895,Manorvale,1617,73.17,593,26.83,2210,10.26
 VIC,222,Lalor,32018,Melbourne (Lalor),70,71.43,28,28.57,98,-4.97
 VIC,222,Lalor,4250,Melton,1757,75.15,581,24.85,2338,8.38
 VIC,222,Lalor,8896,Melton Central,1095,74.44,376,25.56,1471,5.79
-VIC,222,Lalor,38304,Melton PPVC,2303,72.31,882,27.69,3185,35.51
+VIC,222,Lalor,38304,Melton PPVC,2308,72.24,887,27.76,3195,35.44
 VIC,222,Lalor,4252,Melton South,2041,75.48,663,24.52,2704,6.29
 VIC,222,Lalor,4253,Mossfiel,1614,71.54,642,28.46,2256,1.55
 VIC,222,Lalor,46531,Point Cook,1773,62.41,1068,37.59,2841,6.07
@@ -7311,8 +7311,8 @@ VIC,222,Lalor,31622,Thomas Chirnside,1082,78.52,296,21.48,1378,10.69
 VIC,222,Lalor,3334,Toolern,238,57.63,175,42.37,413,13.58
 VIC,222,Lalor,4258,Werribee,1028,69.6,449,30.4,1477,10.84
 VIC,222,Lalor,4259,Werribee Central,2131,66.84,1057,33.16,3188,9.67
-VIC,222,Lalor,31959,Werribee PPVC,7225,68.62,3304,31.38,10529,31.84
-VIC,222,Lalor,4261,Werribee South,326,43.99,415,56.01,741,6.41
+VIC,222,Lalor,31959,Werribee PPVC,7221,68.72,3287,31.28,10508,31.94
+VIC,222,Lalor,4261,Werribee South,328,44.26,413,55.74,741,6.68
 VIC,222,Lalor,31623,Westgrove,2296,75.3,753,24.7,3049,6.48
 VIC,222,Lalor,8897,Westlake,1498,75.24,493,24.76,1991,11.64
 VIC,222,Lalor,4263,Westmelton,2118,67.43,1023,32.57,3141,1.64
@@ -8291,7 +8291,7 @@ WA,312,Durack,47800,Karratha PPVC,435,42.65,585,57.35,1020,-1.37
 WA,312,Durack,7851,Karratha West,529,41.49,746,58.51,1275,-9.11
 WA,312,Durack,8040,Kellerberrin,145,24.58,445,75.42,590,-3.05
 WA,312,Durack,8044,Koorda,49,21.21,182,78.79,231,-6.79
-WA,312,Durack,7853,Kununurra,0,0,0,0,0,-42.19
+WA,312,Durack,7853,Kununurra,562,34.5,1067,65.5,1629,-7.69
 WA,312,Durack,32883,Kununurra PPVC,0,0,0,0,0,0
 WA,312,Durack,8051,Latham,4,10.26,35,89.74,39,-1.5
 WA,312,Durack,8052,Leeman,73,26.94,198,73.06,271,-2.84
@@ -8326,7 +8326,7 @@ WA,312,Durack,7879,Port Hedland,218,43.6,282,56.4,500,-8.55
 WA,312,Durack,7815,Port Hedland - Cooke Point,274,38.16,444,61.84,718,-9.01
 WA,312,Durack,32884,Port Hedland PPVC,0,0,0,0,0,0
 WA,312,Durack,47094,Prison Mobile Team 1,23,41.82,32,58.18,55,-8.18
-WA,312,Durack,47095,Prison Mobile Team 2,0,0,0,0,0,-50
+WA,312,Durack,47095,Prison Mobile Team 2,57,62.64,34,37.36,91,12.64
 WA,312,Durack,47090,Remote Mobile Team 1,95,55.56,76,44.44,171,-18.6
 WA,312,Durack,47091,Remote Mobile Team 2,429,63.56,246,36.44,675,-10.25
 WA,312,Durack,47092,Remote Mobile Team 3,0,0,0,0,0,-73.8
