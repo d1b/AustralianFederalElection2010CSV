@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-27T17:50:00 Cycle:95dca1de-92a2-411e-a025-17eb48dbd5f0 Created:2010-08-27T17:34:22 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-27T18:05:27 Cycle:0bcc3194-d4bf-4571-ab35-3c50ea7bd670 Created:2010-08-27T17:49:27 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -110,7 +110,7 @@ NSW,103,Banks,44,Hurstville Central,68,46.58,78,53.42,146,-11.34
 NSW,103,Banks,2664,Hurstville East,1083,55.06,884,44.94,1967,-14.04
 NSW,103,Banks,45,Hurstville Grove,1019,43.72,1312,56.28,2331,-11.51
 NSW,103,Banks,2665,Hurstville North,1079,53.02,956,46.98,2035,-14.85
-NSW,103,Banks,34046,Hurstville PPVC,2098,50.82,2030,49.18,4128,14.47
+NSW,103,Banks,34046,Hurstville PPVC,2114,51.21,2014,48.79,4128,14.86
 NSW,103,Banks,4,Lugarno,1048,36.21,1846,63.79,2894,-4.6
 NSW,103,Banks,55,Mortdale Central,991,56.63,759,43.37,1750,-5.9
 NSW,103,Banks,56,Mortdale East,801,54.86,659,45.14,1460,-6.7
@@ -130,14 +130,14 @@ NSW,103,Banks,19,Penshurst,901,54.28,759,45.72,1660,-9.25
 NSW,103,Banks,60,Penshurst Central,1255,58.62,886,41.38,2141,-11.06
 NSW,103,Banks,23,Punchbowl (Banks),734,68.66,335,31.34,1069,-7.85
 NSW,103,Banks,24,Revesby (Banks),457,61.84,282,38.16,739,-4.92
-NSW,103,Banks,25,Revesby North (Banks),1208,60.67,783,39.33,1991,-5.39
+NSW,103,Banks,25,Revesby North (Banks),1200,60.42,786,39.58,1986,-5.64
 NSW,103,Banks,58722,Revesby PPVC,539,51.83,501,48.17,1040,15.45
 NSW,103,Banks,3,Riverwood East,985,60.54,642,39.46,1627,-11.14
 NSW,103,Banks,27,Riverwood North,886,70.04,379,29.96,1265,-7.43
 NSW,103,Banks,28,Riverwood South,899,54.68,745,45.32,1644,-10.48
-NSW,103,Banks,35,South Hurstville,508,50.75,493,49.25,1001,-13.74
-NSW,103,Banks,43,South Hurstville South,390,44.17,493,55.83,883,-10.85
-NSW,103,Banks,33594,Special Hospital Team 1,87,48.6,92,51.4,179,-3.72
+NSW,103,Banks,35,South Hurstville,509,50.85,492,49.15,1001,-13.64
+NSW,103,Banks,43,South Hurstville South,390,44.22,492,55.78,882,-10.8
+NSW,103,Banks,33594,Special Hospital Team 1,87,48.33,93,51.67,180,-3.99
 NSW,103,Banks,14011,Sydney (Banks),94,61.04,60,38.96,154,-6.65
 NSW,104,Barton,32,Arncliffe,643,63.79,365,36.21,1008,-12.72
 NSW,104,Barton,34,Arncliffe Central,792,67.35,384,32.65,1176,-7.34
@@ -4501,8 +4501,8 @@ QLD,171,McPherson,6094,Palm Beach,703,42.27,960,57.73,1663,-4.3
 QLD,171,McPherson,47725,Palm Beach McPHERSON PPVC,485,40.18,722,59.82,1207,-19.36
 QLD,171,McPherson,6095,Palm Beach North,1112,44.82,1369,55.18,2481,1.16
 QLD,171,McPherson,6096,Palm Beach South,1166,46.7,1331,53.3,2497,-2.54
-QLD,171,McPherson,32522,Reedy Creek,961,35.98,1710,64.02,2671,-1.34
-QLD,171,McPherson,6097,Robina,1513,28.94,3715,71.06,5228,-4.46
+QLD,171,McPherson,32522,Reedy Creek,963,36.05,1708,63.95,2671,-1.27
+QLD,171,McPherson,6097,Robina,1589,30.41,3636,69.59,5225,-2.99
 QLD,171,McPherson,33996,Robina West (McPherson),851,35.17,1569,64.83,2420,-1.75
 QLD,171,McPherson,58704,Southport McPHERSON PPVC,241,31.3,529,68.7,770,-28.29
 QLD,171,McPherson,32570,Special Hospital Team 1,32,39.02,50,60.98,82,-1.43
@@ -6404,7 +6404,7 @@ VIC,205,Chisholm,3245,Wayburne (Chisholm),342,51.98,316,48.02,658,-3.48
 VIC,207,Corangamite,3449,Aireys Inlet,419,66.72,209,33.28,628,4.36
 VIC,207,Corangamite,3450,Alvie,37,36.27,65,63.73,102,1.49
 VIC,207,Corangamite,3451,Anglesea,740,55.6,591,44.4,1331,-1.1
-VIC,207,Corangamite,3452,Apollo Bay,609,59.01,423,40.99,1032,3.54
+VIC,207,Corangamite,3452,Apollo Bay,607,59.05,421,40.95,1028,3.58
 VIC,207,Corangamite,3454,Bannockburn,1058,54.42,886,45.58,1944,-0.36
 VIC,207,Corangamite,3455,Barongarook,52,53.61,45,46.39,97,6.11
 VIC,207,Corangamite,3457,Barwon Heads,997,52.58,899,47.42,1896,-4.45
@@ -6787,17 +6787,17 @@ VIC,213,Gippsland,36434,Special Hospital Team 4,36,40,54,60,90,6.06
 VIC,213,Gippsland,47754,Special Hospital Team 5,12,21.43,44,78.57,56,-12.5
 VIC,213,Gippsland,3821,Staceys Bridge,19,12.58,132,87.42,151,-5.37
 VIC,213,Gippsland,3823,Stradbroke,46,35.11,85,64.89,131,4.48
-VIC,213,Gippsland,3824,Stratford,407,30.9,910,69.1,1317,-5.95
-VIC,213,Gippsland,3827,Swifts Creek,91,37.3,153,62.7,244,-7.45
-VIC,213,Gippsland,3833,Tinamba,53,17.49,250,82.51,303,-0.93
-VIC,213,Gippsland,3834,Toongabbie,234,47.27,261,52.73,495,-2.93
+VIC,213,Gippsland,3824,Stratford,406,30.9,908,69.1,1314,-5.95
+VIC,213,Gippsland,3827,Swifts Creek,91,36.84,156,63.16,247,-7.91
+VIC,213,Gippsland,3833,Tinamba,53,17.55,249,82.45,302,-0.87
+VIC,213,Gippsland,3834,Toongabbie,234,47.37,260,52.63,494,-2.83
 VIC,213,Gippsland,3836,Toorloo Arm,195,31.5,424,68.5,619,-10.9
-VIC,213,Gippsland,4428,Traralgon,954,39.31,1473,60.69,2427,-8.69
-VIC,213,Gippsland,4429,Traralgon East,1247,47.58,1374,52.42,2621,-5.99
+VIC,213,Gippsland,4428,Traralgon,955,39.41,1468,60.59,2423,-8.59
+VIC,213,Gippsland,4429,Traralgon East,1246,47.54,1375,52.46,2621,-6.03
 VIC,213,Gippsland,4389,Traralgon North,1313,43.77,1687,56.23,3000,-6.72
 VIC,213,Gippsland,46515,Traralgon North East,574,41.47,810,58.53,1384,-4.68
 VIC,213,Gippsland,32107,Traralgon PPVC,2677,42.65,3599,57.35,6276,-4.76
-VIC,213,Gippsland,4430,Traralgon South,179,40.68,261,59.32,440,-7.93
+VIC,213,Gippsland,4430,Traralgon South,178,40.27,264,59.73,442,-8.34
 VIC,213,Gippsland,4431,Traralgon West,448,41.06,643,58.94,1091,-8.02
 VIC,213,Gippsland,4432,Tyers,221,44.83,272,55.17,493,-3.24
 VIC,213,Gippsland,3839,Won Wron,48,35.29,88,64.71,136,-4.4
@@ -8024,29 +8024,29 @@ VIC,234,Wills,4848,Glenroy,1044,74.31,361,25.69,1405,2.49
 VIC,234,Wills,4849,Glenroy Central,730,72.93,271,27.07,1001,0.54
 VIC,234,Wills,4850,Glenroy East,867,72.19,334,27.81,1201,-2.59
 VIC,234,Wills,4851,Glenroy North,1011,77.59,292,22.41,1303,-1.89
-VIC,234,Wills,4591,Glenroy West,1461,69.21,650,30.79,2111,-1.16
+VIC,234,Wills,4591,Glenroy West,1459,69.15,651,30.85,2110,-1.22
 VIC,234,Wills,34056,Glenroy WILLS PPVC,2550,72.38,973,27.62,3523,0.19
 VIC,234,Wills,38411,Gowanbrae,781,63.76,444,36.24,1225,0.8
 VIC,234,Wills,4852,Gowrie Park,981,72.99,363,27.01,1344,-2.69
 VIC,234,Wills,4853,Hadfield,822,73.92,290,26.08,1112,-0.25
 VIC,234,Wills,5101,Lake Park,470,73.32,171,26.68,641,0.17
-VIC,234,Wills,32909,Melbourne (Wills),148,80.87,35,19.13,183,9.97
+VIC,234,Wills,32909,Melbourne (Wills),149,81.42,34,18.58,183,10.52
 VIC,234,Wills,5102,Melville,1157,74.98,386,25.02,1543,1.27
 VIC,234,Wills,5103,Merlynston,703,69.6,307,30.4,1010,-2.37
 VIC,234,Wills,5104,Mitchell,1441,79.39,374,20.61,1815,-2.14
 VIC,234,Wills,4860,Moomba Park,1052,71.23,425,28.77,1477,-1.01
 VIC,234,Wills,58752,Moonee Ponds WILLS PPVC,920,65.9,476,34.1,1396,-6.29
-VIC,234,Wills,5105,Moreland,1361,76.59,416,23.41,1777,0.36
+VIC,234,Wills,5105,Moreland,1366,76.66,416,23.34,1782,0.43
 VIC,234,Wills,5106,Murray (Wills),480,77.05,143,22.95,623,-1.78
 VIC,234,Wills,36421,Newlands (Wills),397,80.69,95,19.31,492,2.12
-VIC,234,Wills,5108,Oak Park,1243,63.97,700,36.03,1943,1.96
-VIC,234,Wills,5109,Pascoe Vale,969,66.83,481,33.17,1450,0.6
+VIC,234,Wills,5108,Oak Park,1248,64.4,690,35.6,1938,2.39
+VIC,234,Wills,5109,Pascoe Vale,961,66.83,477,33.17,1438,0.6
 VIC,234,Wills,5110,Pascoe Vale Central,501,70.66,208,29.34,709,0.09
-VIC,234,Wills,5111,Pascoe Vale North,1610,71.02,657,28.98,2267,-0.71
-VIC,234,Wills,5112,Pascoe Vale South,1894,68.1,887,31.9,2781,1.12
+VIC,234,Wills,5111,Pascoe Vale North,1621,71.13,658,28.87,2279,-0.6
+VIC,234,Wills,5112,Pascoe Vale South,1886,68.01,887,31.99,2773,1.03
 VIC,234,Wills,5113,Pascoe Vale West,900,67.57,432,32.43,1332,3.01
 VIC,234,Wills,31590,Special Hospital Team 1,15,60,10,40,25,10
-VIC,234,Wills,4603,Strathmore,1281,55.26,1037,44.74,2318,4.21
+VIC,234,Wills,4603,Strathmore,1281,55.19,1040,44.81,2321,4.14
 VIC,234,Wills,4604,Strathmore North,1151,62.18,700,37.82,1851,3.16
 VIC,234,Wills,4605,Strathmore South,365,51.85,339,48.15,704,3.06
 WA,235,Brand,7472,Baldivis,1896,43.69,2444,56.31,4340,-0.19
