@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-27T15:09:54 Cycle:0567b30e-484d-4ebc-a4e1-c15092b0fce4 Created:2010-08-27T14:49:30 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-27T15:25:02 Cycle:7790ecf1-a81a-4a6b-a304-fdf0cba51162 Created:2010-08-27T15:04:10 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -115,11 +115,11 @@ NSW,103,Banks,4,Lugarno,1048,36.21,1846,63.79,2894,-4.6
 NSW,103,Banks,55,Mortdale Central,991,56.63,759,43.37,1750,-5.9
 NSW,103,Banks,56,Mortdale East,801,54.86,659,45.14,1460,-6.7
 NSW,103,Banks,57,Mortdale Heights,521,49.06,541,50.94,1062,-4.03
-NSW,103,Banks,5,Mortdale West,1137,54.32,956,45.68,2093,-7.97
-NSW,103,Banks,6,Narwee,1528,56.74,1165,43.26,2693,-9.04
-NSW,103,Banks,58,Oatley,1158,43.45,1507,56.55,2665,-7.33
-NSW,103,Banks,59,Oatley West,1094,44.47,1366,55.53,2460,-5.49
-NSW,103,Banks,7,Padstow,1681,57.69,1233,42.31,2914,-7.15
+NSW,103,Banks,5,Mortdale West,1133,54.24,956,45.76,2089,-8.05
+NSW,103,Banks,6,Narwee,1519,56.68,1161,43.32,2680,-9.1
+NSW,103,Banks,58,Oatley,1155,43.37,1508,56.63,2663,-7.41
+NSW,103,Banks,59,Oatley West,1094,44.45,1367,55.55,2461,-5.51
+NSW,103,Banks,7,Padstow,1673,57.59,1232,42.41,2905,-7.25
 NSW,103,Banks,8,Padstow East,679,54.89,558,45.11,1237,-7.6
 NSW,103,Banks,9,Padstow North,769,57.69,564,42.31,1333,-6.4
 NSW,103,Banks,10,Padstow South,1312,50,1312,50,2624,-4.75
@@ -368,9 +368,9 @@ NSW,108,Bradfield,208,Roseville,496,31.73,1067,68.27,1563,-5.87
 NSW,108,Bradfield,209,Roseville Chase,249,26.95,675,73.05,924,-9.46
 NSW,108,Bradfield,210,Roseville East,354,36.38,619,63.62,973,-1.64
 NSW,108,Bradfield,2032,Roseville South (Bradfield),275,33.78,539,66.22,814,-6.07
-NSW,108,Bradfield,33599,Special Hospital Team 1,0,0,0,0,0,-19.15
-NSW,108,Bradfield,33804,Special Hospital Team 2,0,0,0,0,0,-19.1
-NSW,108,Bradfield,33805,Special Hospital Team 3,0,0,0,0,0,-19.29
+NSW,108,Bradfield,33599,Special Hospital Team 1,76,20.49,295,79.51,371,1.34
+NSW,108,Bradfield,33804,Special Hospital Team 2,39,14.61,228,85.39,267,-4.49
+NSW,108,Bradfield,33805,Special Hospital Team 3,53,13.09,352,86.91,405,-6.2
 NSW,108,Bradfield,211,St Ives,415,23.33,1364,76.67,1779,-0.54
 NSW,108,Bradfield,212,St Ives Chase,280,29.29,676,70.71,956,6.11
 NSW,108,Bradfield,213,St Ives North,576,23.55,1870,76.45,2446,-2.62
@@ -4901,7 +4901,7 @@ QLD,316,Wright,6481,Warrill View,74,27.41,196,72.59,270,2.52
 QLD,316,Wright,5650,Withcott,365,31.3,801,68.7,1166,-9.24
 QLD,316,Wright,6296,Woodhill,533,40.91,770,59.09,1303,-3.2
 SA,179,Adelaide,6648,Adelaide (Adelaide),228,73.08,84,26.92,312,6.63
-SA,179,Adelaide,32952,Adelaide ADELAIDE PPVC,983,53.57,852,46.43,1835,5.42
+SA,179,Adelaide,32952,Adelaide ADELAIDE PPVC,1033,56.29,802,43.71,1835,8.14
 SA,179,Adelaide,6649,Adelaide East,646,58.3,462,41.7,1108,2.14
 SA,179,Adelaide,58808,Adelaide East PPVC,0,0,0,0,0,0
 SA,179,Adelaide,6650,Adelaide Hospital,292,56.81,222,43.19,514,-7.8
@@ -4920,7 +4920,7 @@ SA,179,Adelaide,6657,Croydon Park,1109,75.34,363,24.66,1472,-0.01
 SA,179,Adelaide,12086,Croydon Park West (Adelaide),245,73.8,87,26.2,332,2.03
 SA,179,Adelaide,30170,Divisional Office (PREPOLL),0,0,0,0,0,0
 SA,179,Adelaide,6887,Dulwich,448,42.03,618,57.97,1066,-1.59
-SA,179,Adelaide,6659,Enfield,860,67.35,417,32.65,1277,2.2
+SA,179,Adelaide,6659,Enfield,859,67.43,415,32.57,1274,2.28
 SA,179,Adelaide,6660,Enfield North (Adelaide),731,69.55,320,30.45,1051,-2.56
 SA,179,Adelaide,6661,Enfield South,194,63.4,112,36.6,306,0.32
 SA,179,Adelaide,6868,Fullarton,758,47.7,831,52.3,1589,-2.36
@@ -4929,7 +4929,7 @@ SA,179,Adelaide,6872,Goodwood Park,601,61.83,371,38.17,972,2.8
 SA,179,Adelaide,6663,Greenacres,780,63.99,439,36.01,1219,1.46
 SA,179,Adelaide,6671,Hampstead Gardens,537,60.27,354,39.73,891,0.12
 SA,179,Adelaide,7066,Hindmarsh,71,67.62,34,32.38,105,2.43
-SA,179,Adelaide,6878,Hyde Park,551,34.74,1035,65.26,1586,-4.31
+SA,179,Adelaide,6878,Hyde Park,552,34.89,1030,65.11,1582,-4.16
 SA,179,Adelaide,7303,Kent Town,372,55.36,300,44.64,672,0.35
 SA,179,Adelaide,7067,Keswick,392,62.92,231,37.08,623,2.33
 SA,179,Adelaide,6668,Kilburn,1149,72.31,440,27.69,1589,-4.48
@@ -4939,7 +4939,7 @@ SA,179,Adelaide,36446,Marden West (Adelaide),356,56.78,271,43.22,627,-4.48
 SA,179,Adelaide,6673,Maylands,659,59.8,443,40.2,1102,-4.94
 SA,179,Adelaide,7079,Mile End (Adelaide),1176,73.96,414,26.04,1590,-1.91
 SA,179,Adelaide,6674,Nailsworth,1093,61.27,691,38.73,1784,1.21
-SA,179,Adelaide,6675,North Adelaide,1133,45.81,1340,54.19,2473,-0.62
+SA,179,Adelaide,6675,North Adelaide,1130,45.88,1333,54.12,2463,-0.55
 SA,179,Adelaide,6676,Northfield,695,74.25,241,25.75,936,-0.77
 SA,179,Adelaide,12082,Northfield South,773,63.62,442,36.38,1215,-0.24
 SA,179,Adelaide,38208,Northgate,732,55.92,577,44.08,1309,1.91
@@ -5625,10 +5625,10 @@ SA,191,Wakefield,6830,Davoren Park North,934,67.19,456,32.81,1390,-2.83
 SA,191,Wakefield,6836,Davoren Park South,965,77.32,283,22.68,1248,2.37
 SA,191,Wakefield,6826,Direk,713,75.69,229,24.31,942,1.68
 SA,191,Wakefield,30182,Divisional Office (PREPOLL),0,0,0,0,0,0
-SA,191,Wakefield,7347,Dublin,311,54.18,263,45.82,574,9.7
-SA,191,Wakefield,6827,Elizabeth,512,66.24,261,33.76,773,6.63
-SA,191,Wakefield,6828,Elizabeth Downs,1459,77.4,426,22.6,1885,4.83
-SA,191,Wakefield,6829,Elizabeth East,1300,73.53,468,26.47,1768,6.95
+SA,191,Wakefield,7347,Dublin,310,54.01,264,45.99,574,9.53
+SA,191,Wakefield,6827,Elizabeth,510,66.06,262,33.94,772,6.45
+SA,191,Wakefield,6828,Elizabeth Downs,1452,77.28,427,22.72,1879,4.71
+SA,191,Wakefield,6829,Elizabeth East,1296,73.47,468,26.53,1764,6.89
 SA,191,Wakefield,6831,Elizabeth Grove,721,78.63,196,21.37,917,6.88
 SA,191,Wakefield,6832,Elizabeth North,1309,75.23,431,24.77,1740,5.73
 SA,191,Wakefield,6833,Elizabeth Park,1000,76.8,302,23.2,1302,8.23
@@ -6775,18 +6775,18 @@ VIC,213,Gippsland,3808,Orbost,399,32.98,811,67.02,1210,-1.47
 VIC,213,Gippsland,3810,Paynesville,646,38.48,1033,61.52,1679,0.28
 VIC,213,Gippsland,3811,Port Albert,79,39.3,122,60.7,201,-5.63
 VIC,213,Gippsland,3815,Rosedale,366,36.09,648,63.91,1014,-7.39
-VIC,213,Gippsland,3817,Sale,541,28.15,1381,71.85,1922,-10.23
-VIC,213,Gippsland,3818,Sale East,587,29.02,1436,70.98,2023,-7.7
-VIC,213,Gippsland,3819,Sale North,730,36.32,1280,63.68,2010,-5.47
+VIC,213,Gippsland,3817,Sale,536,28.08,1373,71.92,1909,-10.3
+VIC,213,Gippsland,3818,Sale East,588,29.07,1435,70.93,2023,-7.65
+VIC,213,Gippsland,3819,Sale North,729,36.36,1276,63.64,2005,-5.43
 VIC,213,Gippsland,38292,Sale PPVC,668,30.35,1533,69.65,2201,-17.07
-VIC,213,Gippsland,3820,Seaspray,85,37.28,143,62.72,228,-6.52
+VIC,213,Gippsland,3820,Seaspray,85,37.12,144,62.88,229,-6.68
 VIC,213,Gippsland,32022,Special Hospital Team 1,48,31.58,104,68.42,152,-2.67
 VIC,213,Gippsland,32023,Special Hospital Team 2,56,42.75,75,57.25,131,8.87
 VIC,213,Gippsland,32025,Special Hospital Team 3,72,56.25,56,43.75,128,22.02
 VIC,213,Gippsland,36434,Special Hospital Team 4,36,40,54,60,90,6.06
 VIC,213,Gippsland,47754,Special Hospital Team 5,12,21.43,44,78.57,56,-12.5
 VIC,213,Gippsland,3821,Staceys Bridge,19,12.58,132,87.42,151,-5.37
-VIC,213,Gippsland,3823,Stradbroke,48,36.36,84,63.64,132,5.73
+VIC,213,Gippsland,3823,Stradbroke,46,35.11,85,64.89,131,4.48
 VIC,213,Gippsland,3824,Stratford,407,30.9,910,69.1,1317,-5.95
 VIC,213,Gippsland,3827,Swifts Creek,91,37.3,153,62.7,244,-7.45
 VIC,213,Gippsland,3833,Tinamba,53,17.49,250,82.51,303,-0.93
