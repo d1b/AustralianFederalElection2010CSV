@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives First Preferences By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-27T09:37:25 Cycle:4a390417-1c23-445d-88c2-eb3544be1d2d Created:2010-08-27T09:18:01 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives First Preferences By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-27T09:52:34 Cycle:644c4677-4b5f-471b-897e-6eda5bef58fa Created:2010-08-27T09:33:01 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,Swing
 ACT,101,Canberra,20863,JONES,Giulia,1,N,N,LP,Liberal,37228,0,0,0,0,37228,2.11
 ACT,101,Canberra,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,18056,0,0,0,0,18056,5.11
@@ -137,18 +137,18 @@ NSW,121,Grayndler,21656,ALBANESE,Anthony,4,N,Y,ALP,Labor,32568,376,0,0,0,32944,-
 NSW,121,Grayndler,21865,BYRNE,Sam,5,N,N,GRN,The Greens,17720,364,0,0,0,18084,6.95
 NSW,121,Grayndler,21860,GAROFANI,Perry Lodovico,6,N,N,DEM,Australian Democrats,854,13,0,0,0,867,-0.44
 NSW,121,Grayndler,999,Informal,Informal,999,N,N,,Informal,5535,52,0,0,0,5587,1.35
-NSW,122,Greenway,21246,ROWLAND,Michelle,1,N,N,ALP,Labor,29121,940,0,0,1160,31221,-7.06
-NSW,122,Greenway,21609,DIAZ,Jaymes,2,N,N,LP,Liberal,28425,849,0,0,1094,30368,2.16
-NSW,122,Greenway,21965,SANTOS,Michael,3,N,N,IND,Independent,628,33,0,0,33,694,0.95
+NSW,122,Greenway,21246,ROWLAND,Michelle,1,N,N,ALP,Labor,29121,913,0,0,1150,31184,-7.08
+NSW,122,Greenway,21609,DIAZ,Jaymes,2,N,N,LP,Liberal,28425,831,0,0,1091,30347,2.17
+NSW,122,Greenway,21965,SANTOS,Michael,3,N,N,IND,Independent,628,34,0,0,32,694,0.95
 NSW,122,Greenway,20742,PETTITT,Tony,4,N,N,AFN,Australia First Party,676,34,0,0,13,723,0.99
-NSW,122,Greenway,21010,GREEN,Allan,5,N,N,CDP,Christian Democratic Party (Fred Nile Group),2486,107,0,0,97,2690,0.85
-NSW,122,Greenway,21948,BAIADA,John,6,N,N,BAP,Building Australia,696,39,0,0,18,753,1.03
+NSW,122,Greenway,21010,GREEN,Allan,5,N,N,CDP,Christian Democratic Party (Fred Nile Group),2486,108,0,0,97,2691,0.86
+NSW,122,Greenway,21948,BAIADA,John,6,N,N,BAP,Building Australia,696,39,0,0,17,752,1.03
 NSW,122,Greenway,21373,VILLAVER,Ronaldo,7,N,N,DEM,Australian Democrats,431,23,0,0,20,474,0.65
-NSW,122,Greenway,21668,DE LIMA,Joaquim Eduardo,8,N,N,LDP,Liberal Democrats (LDP),396,41,0,0,14,451,0.45
+NSW,122,Greenway,21668,DE LIMA,Joaquim Eduardo,8,N,N,LDP,Liberal Democrats (LDP),396,41,0,0,13,450,0.44
 NSW,122,Greenway,22018,TANDA,Amarjit,9,N,N,IND,Independent,436,21,0,0,13,470,0.64
-NSW,122,Greenway,20843,TAYLOR,Paul,10,N,N,GRN,The Greens,3954,179,0,0,134,4267,1.38
-NSW,122,Greenway,21632,MULLER,Iris,11,N,N,FFP,Family First,1023,79,0,0,44,1146,0.31
-NSW,122,Greenway,999,Informal,Informal,999,N,N,,Informal,8113,258,0,0,100,8471,4.18
+NSW,122,Greenway,20843,TAYLOR,Paul,10,N,N,GRN,The Greens,3954,177,0,0,133,4264,1.39
+NSW,122,Greenway,21632,MULLER,Iris,11,N,N,FFP,Family First,1023,80,0,0,44,1147,0.32
+NSW,122,Greenway,999,Informal,Informal,999,N,N,,Informal,8113,316,0,0,117,8546,4.27
 NSW,124,Hughes,21851,BUSSA,Peter,1,N,N,ON,One Nation,1202,0,0,0,0,1202,1.64
 NSW,124,Hughes,21467,KELLY,Craig,2,N,N,LP,Liberal,36576,0,0,0,0,36576,3.35
 NSW,124,Hughes,21701,ROBERTS,Susan,3,N,N,GRN,The Greens,4342,0,0,0,0,4342,0.56
@@ -582,8 +582,8 @@ SA,182,Boothby,21409,BLINCO,Fiona,8,N,N,GRN,The Greens,9300,728,0,0,467,10495,2.
 SA,182,Boothby,21842,CHAPMAN,Avi,9,N,N,SPA,Secular Party of Australia,274,15,0,0,10,299,0.36
 SA,182,Boothby,999,Informal,Informal,999,N,N,,Informal,3299,217,0,0,143,3659,1.4
 SA,183,Grey,21339,MELVILLE-SMITH,Andrew Colin,1,N,N,GRN,The Greens,5589,0,0,0,0,5589,3.3
-SA,183,Grey,20998,SANSBURY,Tauto,2,N,N,ALP,Australian Labor Party,24118,0,0,0,0,24118,-6.63
-SA,183,Grey,20832,RAMSEY,Rowan,3,N,Y,LP,Liberal,41545,0,0,0,0,41545,7.92
+SA,183,Grey,20998,SANSBURY,Tauto,2,N,N,ALP,Australian Labor Party,24119,0,0,0,0,24119,-6.63
+SA,183,Grey,20832,RAMSEY,Rowan,3,N,Y,LP,Liberal,41544,0,0,0,0,41544,7.92
 SA,183,Grey,20995,HOLLAND,Sylvia,4,N,N,FFP,Family First,4041,0,0,0,0,4041,0.87
 SA,183,Grey,999,Informal,Informal,999,N,N,,Informal,4458,0,0,0,0,4458,1.34
 SA,185,Hindmarsh,21343,FISHER,Matthew,1,N,N,GRN,The Greens,8543,0,0,58,164,8765,4.69
@@ -636,11 +636,11 @@ SA,191,Wakefield,20937,STRAUSS,David,3,N,N,LP,Liberal,23124,0,0,0,1674,24798,-7.
 SA,191,Wakefield,22036,HASSAN,Darren,4,N,N,DEM,Australian Democrats,904,0,0,0,74,978,0.06
 SA,191,Wakefield,21074,COOMBE,Paul,5,N,N,FFP,Family First,5053,0,0,0,248,5301,1.52
 SA,191,Wakefield,999,Informal,Informal,999,N,N,,Informal,5156,0,0,0,95,5251,1.54
-TAS,192,Bass,21024,TITMUS,Steve,1,N,N,LP,Liberal,22350,770,0,44,1892,25056,-3.83
-TAS,192,Bass,21013,LYONS,Geoff,2,N,N,ALP,Australian Labor Party,24628,884,0,36,2194,27742,6.57
+TAS,192,Bass,21024,TITMUS,Steve,1,N,N,LP,Liberal,22352,770,0,44,1892,25058,-3.83
+TAS,192,Bass,21013,LYONS,Geoff,2,N,N,ALP,Australian Labor Party,24629,884,0,36,2194,27743,6.57
 TAS,192,Bass,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,8605,445,0,36,598,9684,0.16
 TAS,192,Bass,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,705,34,0,3,69,811,0.93
-TAS,192,Bass,999,Informal,Informal,999,N,N,,Informal,2473,71,0,3,95,2642,0.78
+TAS,192,Bass,999,Informal,Informal,999,N,N,,Informal,2471,71,0,3,95,2640,0.77
 TAS,193,Braddon,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,22243,342,0,0,1553,24138,-3.81
 TAS,193,Braddon,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,6734,198,0,0,371,7303,3.71
 TAS,193,Braddon,20935,SIDEBOTTOM,Sid,3,N,Y,ALP,Australian Labor Party,28245,427,0,0,1575,30247,4.83
@@ -656,11 +656,11 @@ TAS,195,Franklin,21693,FORSTER,John,2,N,N,IND,Independent,1500,0,0,0,118,1618,2.
 TAS,195,Franklin,20948,HOWLETT,Jane,3,N,N,LP,Liberal,18388,0,0,0,1530,19918,-7.84
 TAS,195,Franklin,20944,COLLINS,Julie,4,N,Y,ALP,Australian Labor Party,23916,0,0,0,1950,25866,2.78
 TAS,195,Franklin,999,Informal,Informal,999,N,N,,Informal,2106,0,0,0,57,2163,0.86
-TAS,196,Lyons,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,848,137,0,3,60,1048,1.65
-TAS,196,Lyons,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,17646,1466,0,120,1544,20776,-0.84
-TAS,196,Lyons,20926,ADAMS,Dick,3,N,Y,ALP,Australian Labor Party,26949,2265,0,147,1944,31305,5.7
-TAS,196,Lyons,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,8904,985,0,59,568,10516,5.56
-TAS,196,Lyons,999,Informal,Informal,999,N,N,,Informal,2919,226,0,11,82,3238,1.78
+TAS,196,Lyons,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,852,137,0,3,60,1052,1.65
+TAS,196,Lyons,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,17588,1466,0,120,1544,20718,-0.93
+TAS,196,Lyons,20926,ADAMS,Dick,3,N,Y,ALP,Australian Labor Party,26985,2265,0,147,1944,31341,5.76
+TAS,196,Lyons,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,8917,985,0,59,568,10529,5.58
+TAS,196,Lyons,999,Informal,Informal,999,N,N,,Informal,2931,226,0,11,82,3250,1.8
 VIC,197,Aston,21100,HANNA,Rachel,1,N,N,FFP,Family First,3307,0,0,0,265,3572,1.21
 VIC,197,Aston,21092,EVANS,Rupert,2,N,N,ALP,Australian Labor Party,27843,0,0,0,1788,29631,-0.02
 VIC,197,Aston,21084,TUDGE,Alan,3,N,N,LP,Liberal,33254,0,0,0,2906,36160,-3.34
