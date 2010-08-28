@@ -1,4 +1,4 @@
-2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-28T14:42:37 Cycle:b94c7be2-be0f-40fc-b399-47a42b96a85e Created:2010-08-28T14:34:12 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-28T14:58:07 Cycle:8f467981-69b0-4bd9-a43b-158e081c80e9 Created:2010-08-28T14:50:17 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent
 119,Fowler,NSW,62623,8217,70840,11.6
 251,Watson,NSW,67170,8414,75584,11.13
@@ -17,7 +17,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 212,Gellibrand,VIC,64997,4818,69815,6.9
 162,Forde,QLD,57206,4072,61278,6.65
 140,Parramatta,NSW,67610,4820,72430,6.65
-199,Batman,VIC,58236,4115,62351,6.6
+199,Batman,VIC,58547,3998,62545,6.39
 122,Greenway,NSW,64757,4289,69046,6.21
 217,Hotham,VIC,61229,3961,65190,6.08
 174,Oxley,QLD,60204,3879,64083,6.05
@@ -39,11 +39,11 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 158,Dawson,QLD,63418,3527,66945,5.27
 245,Perth,WA,64501,3588,68089,5.27
 167,Kennedy,QLD,68363,3722,72085,5.16
-226,McEwen,VIC,77515,4192,81707,5.13
 307,Solomon,NT,44514,2409,46923,5.13
 110,Charlton,NSW,72544,3912,76456,5.12
 165,Herbert,QLD,62909,3396,66305,5.12
 229,Menzies,VIC,66491,3559,70050,5.08
+226,McEwen,VIC,78478,4192,82670,5.07
 189,Port Adelaide,SA,81803,4287,86090,4.98
 196,Lyons,TAS,61247,3176,64423,4.93
 148,Shortland,NSW,72963,3780,76743,4.93
@@ -55,7 +55,6 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 139,Parkes,NSW,79260,3932,83192,4.73
 172,Moncrieff,QLD,69673,3450,73123,4.72
 166,Hinkler,QLD,61248,3018,64266,4.7
-197,Aston,VIC,71048,3474,74522,4.66
 191,Wakefield,SA,75594,3699,79293,4.66
 224,Mallee,VIC,72863,3551,76414,4.65
 233,Wannon,VIC,72277,3515,75792,4.64
@@ -67,6 +66,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 175,Petrie,QLD,58684,2821,61505,4.59
 218,Indi,VIC,53231,2516,55747,4.51
 171,McPherson,QLD,71769,3382,75151,4.5
+197,Aston,VIC,71137,3339,74476,4.48
 240,Fremantle,WA,67312,3158,70470,4.48
 146,Robertson,NSW,63404,2976,66380,4.48
 193,Braddon,TAS,61185,2854,64039,4.46
@@ -124,7 +124,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 209,Deakin,VIC,65494,2463,67957,3.62
 187,Makin,SA,80088,2996,83084,3.61
 236,Canning,WA,71902,2675,74577,3.59
-204,Casey,VIC,70688,2624,73312,3.58
+204,Casey,VIC,70788,2629,73417,3.58
 134,Mitchell,NSW,76225,2814,79039,3.56
 132,Mackellar,NSW,76016,2768,78784,3.51
 195,Franklin,TAS,58321,2115,60436,3.5
