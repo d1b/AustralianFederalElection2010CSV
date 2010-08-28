@@ -1,4 +1,4 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-28T15:13:21 Cycle:1a4b0211-9e4f-4641-844e-a79378e1a57c Created:2010-08-28T15:04:22 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-28T15:28:23 Cycle:dcd2e92a-9bff-4d1b-bf67-8fa4897b07bb Created:2010-08-28T15:19:27 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 179,Adelaide,SA,98526,74266,75.38
 197,Aston,VIC,93448,74476,79.7
@@ -29,10 +29,10 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 204,Casey,VIC,92357,73417,79.49
 110,Charlton,NSW,94480,76456,80.92
 111,Chifley,NSW,97605,61998,63.52
-205,Chisholm,VIC,86275,63945,74.13
+205,Chisholm,VIC,86275,63945,74.12
 112,Cook,NSW,100748,72529,71.99
 207,Corangamite,VIC,101569,85731,84.41
-208,Corio,VIC,91974,78031,84.81
+208,Corio,VIC,91974,78031,84.84
 237,Cowan,WA,89546,71009,79.3
 113,Cowper,NSW,94645,72365,76.46
 114,Cunningham,NSW,100698,82627,82.05
@@ -49,7 +49,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 160,Fairfax,QLD,89743,70728,78.81
 118,Farrer,NSW,94061,78125,83.06
 161,Fisher,QLD,83754,65727,78.48
-211,Flinders,VIC,100875,79432,78.76
+211,Flinders,VIC,100875,79432,78.74
 311,Flynn,QLD,91377,66466,72.74
 162,Forde,QLD,82558,61278,74.22
 239,Forrest,WA,89636,67882,75.73
@@ -60,7 +60,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 212,Gellibrand,VIC,95611,69815,73.02
 120,Gilmore,NSW,96317,65773,68.29
 213,Gippsland,VIC,97543,81515,83.57
-214,Goldstein,VIC,93945,69478,73.91
+214,Goldstein,VIC,93945,69478,73.96
 309,Gorton,VIC,113656,88982,78.29
 121,Grayndler,NSW,98112,70028,71.38
 122,Greenway,NSW,93828,69046,73.59
@@ -72,20 +72,20 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 215,Higgins,VIC,90398,57085,63.15
 185,Hindmarsh,SA,100245,73415,73.24
 166,Hinkler,QLD,91397,64266,70.32
-216,Holt,VIC,108893,90797,83.53
-217,Hotham,VIC,89581,65199,72.77
+216,Holt,VIC,108893,90797,83.38
+217,Hotham,VIC,89581,65199,72.78
 124,Hughes,NSW,97995,78198,79.8
 125,Hume,NSW,97698,79420,81.29
 126,Hunter,NSW,91516,75855,82.89
 218,Indi,VIC,92956,55746,59.97
 219,Isaacs,VIC,102790,79179,77.03
-220,Jagajaga,VIC,95202,69176,72.64
+220,Jagajaga,VIC,95202,69176,72.66
 167,Kennedy,QLD,94465,72085,76.31
 127,Kingsford Smith,NSW,97747,68322,69.9
 186,Kingston,SA,102296,75857,74.15
 221,Kooyong,VIC,89659,61736,68.86
-223,La Trobe,VIC,97960,76898,78.49
-222,Lalor,VIC,117023,100481,85.87
+223,La Trobe,VIC,97960,76898,78.5
+222,Lalor,VIC,117023,100481,85.86
 168,Leichhardt,QLD,93140,73462,78.87
 169,Lilley,QLD,97415,75680,77.69
 128,Lindsay,NSW,95975,78575,81.87
@@ -101,7 +101,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 170,Maranoa,QLD,97957,69510,70.96
 225,Maribyrnong,VIC,88412,66662,75.4
 188,Mayo,SA,101565,76002,74.83
-226,McEwen,VIC,115783,86008,71.4
+226,McEwen,VIC,115783,86008,74.28
 315,McMahon,NSW,96058,72197,75.16
 227,McMillan,VIC,93323,74469,79.8
 171,McPherson,QLD,90090,75151,83.42
