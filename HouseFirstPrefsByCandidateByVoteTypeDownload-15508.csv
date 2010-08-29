@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives First Preferences By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-29T15:25:42 Cycle:5465de7b-c4d6-4e89-8878-3ad92fd0fb80 Created:2010-08-29T15:04:29 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives First Preferences By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-29T15:41:03 Cycle:ff380e3d-6ec5-4104-800d-e9fe6c91452d Created:2010-08-29T15:19:34 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,Swing
 ACT,101,Canberra,20863,JONES,Giulia,1,N,N,LP,Liberal,37228,0,0,0,0,37228,2.11
 ACT,101,Canberra,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,18056,0,0,0,0,18056,5.11
@@ -122,14 +122,14 @@ NSW,119,Fowler,21665,DANG,Thomas,2,N,N,LP,Liberal,24041,0,0,0,820,24861,13.93
 NSW,119,Fowler,21261,HAYES,Chris,3,N,Y,ALP,Labor,35203,0,0,0,1020,36223,-14.34
 NSW,119,Fowler,20818,WESTERBERG,Signe,4,N,N,GRN,The Greens,4139,0,0,0,112,4251,0.33
 NSW,119,Fowler,999,Informal,Informal,999,N,N,,Informal,10081,0,0,0,98,10179,4.61
-NSW,120,Gilmore,21129,BRUMERSKYJ,Bohdan,1,N,N,CDP,Christian Democratic Party (Fred Nile Group),2058,0,0,0,0,2058,0.23
-NSW,120,Gilmore,20735,van der WIJNGAART,Ben,2,N,N,GRN,The Greens,7116,0,0,0,0,7116,1.34
-NSW,120,Gilmore,21750,CUNNINGHAM,Elizabeth,3,N,N,FFP,Family First,661,0,0,0,0,661,0.48
-NSW,120,Gilmore,21253,REILLY,Neil,4,N,N,ALP,Labor,26939,0,0,0,0,26939,-6.34
-NSW,120,Gilmore,21727,GASH,Joanna,5,N,Y,LP,Liberal,38234,0,0,0,0,38234,4.84
-NSW,120,Gilmore,21663,WILLIAMS,Annette,6,N,N,SPA,Secular Party of Australia,230,0,0,0,0,230,0.3
-NSW,120,Gilmore,21738,KEYS,Don,7,N,N,LDP,Liberal Democrats (LDP),290,0,0,0,0,290,0.23
-NSW,120,Gilmore,999,Informal,Informal,999,N,N,,Informal,4136,0,0,0,0,4136,0.95
+NSW,120,Gilmore,21129,BRUMERSKYJ,Bohdan,1,N,N,CDP,Christian Democratic Party (Fred Nile Group),2058,0,0,0,45,2103,0.21
+NSW,120,Gilmore,20735,van der WIJNGAART,Ben,2,N,N,GRN,The Greens,7116,0,0,0,123,7239,1.21
+NSW,120,Gilmore,21750,CUNNINGHAM,Elizabeth,3,N,N,FFP,Family First,661,0,0,0,11,672,0.46
+NSW,120,Gilmore,21253,REILLY,Neil,4,N,N,ALP,Labor,26939,0,0,0,790,27729,-6.41
+NSW,120,Gilmore,21727,GASH,Joanna,5,N,Y,LP,Liberal,38234,0,0,0,1381,39615,5.07
+NSW,120,Gilmore,21663,WILLIAMS,Annette,6,N,N,SPA,Secular Party of Australia,230,0,0,0,8,238,0.31
+NSW,120,Gilmore,21738,KEYS,Don,7,N,N,LDP,Liberal Democrats (LDP),290,0,0,0,13,303,0.24
+NSW,120,Gilmore,999,Informal,Informal,999,N,N,,Informal,4136,0,0,0,63,4199,0.87
 NSW,121,Grayndler,21624,COGAN,James Michael,1,N,N,SEP,Socialist Equality Party,844,7,0,0,23,874,0.81
 NSW,121,Grayndler,21682,HINMAN,Pip,2,N,N,SAL,Socialist Alliance,877,7,0,0,8,892,1.18
 NSW,121,Grayndler,21672,DORE,Alexander,3,N,N,LP,Liberal,16865,172,0,0,592,17629,3.35
@@ -484,12 +484,12 @@ QLD,168,Leichhardt,21694,ST JOHN-WOOD,Neville,5,N,N,GRN,The Greens,6188,211,0,49
 QLD,168,Leichhardt,21689,TURNOUR,Jim,6,N,Y,ALP,Australian Labor Party,24476,471,0,175,1274,26396,-8.07
 QLD,168,Leichhardt,20954,LANE,Steve,7,N,N,IND,Independent,1201,22,0,7,58,1288,1.71
 QLD,168,Leichhardt,999,Informal,Informal,999,N,N,,Informal,4638,82,0,21,140,4881,1.05
-QLD,169,Lilley,21563,HERSCHELL,Andrew,1,N,N,FFP,Family First,2171,173,0,0,65,2409,1.3
-QLD,169,Lilley,21151,CROWHURST,Douglas,2,N,N,IND,Independent,1664,133,0,0,60,1857,2.37
-QLD,169,Lilley,21552,SWAN,Wayne,3,N,Y,ALP,Australian Labor Party,29482,1339,0,0,1121,31942,-10.49
-QLD,169,Lilley,21560,JEREMIJENKO,Andrew Martin,4,N,N,GRN,The Greens,8920,606,0,0,213,9739,6.08
-QLD,169,Lilley,20739,McGARVIE,Rod,5,N,N,LNQ,Liberal National Party of Queensland,29857,1310,0,0,1199,32366,2.5
-QLD,169,Lilley,999,Informal,Informal,999,N,N,,Informal,3511,197,0,0,68,3776,1.65
+QLD,169,Lilley,21563,HERSCHELL,Andrew,1,N,N,FFP,Family First,2168,173,0,0,65,2406,1.29
+QLD,169,Lilley,21151,CROWHURST,Douglas,2,N,N,IND,Independent,1663,133,0,0,60,1856,2.37
+QLD,169,Lilley,21552,SWAN,Wayne,3,N,Y,ALP,Australian Labor Party,29581,1339,0,0,1121,32041,-10.37
+QLD,169,Lilley,21560,JEREMIJENKO,Andrew Martin,4,N,N,GRN,The Greens,8823,606,0,0,213,9642,5.95
+QLD,169,Lilley,20739,McGARVIE,Rod,5,N,N,LNQ,Liberal National Party of Queensland,29860,1310,0,0,1199,32369,2.5
+QLD,169,Lilley,999,Informal,Informal,999,N,N,,Informal,3522,197,0,0,68,3787,1.66
 QLD,302,Longman,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,23960,657,0,0,1887,26504,-7.98
 QLD,302,Longman,21500,JACKSON,Andrew Phillip,2,N,N,DLP,D.L.P. - Democratic Labor Party,415,22,0,0,24,461,0.66
 QLD,302,Longman,21782,VAN BOECKEL,Michael,3,N,N,IND,Independent,720,22,0,0,51,793,1.13
