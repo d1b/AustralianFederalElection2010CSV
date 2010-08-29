@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives First Preferences By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T09:03:25 Cycle:205a04c4-98b1-4058-8ece-f54913cc0d33 Created:2010-08-30T08:47:59 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives First Preferences By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T09:18:40 Cycle:665b4b94-9a4b-41c2-af8d-4c616a4459d6 Created:2010-08-30T09:03:04 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,Swing
 ACT,101,Canberra,20863,JONES,Giulia,1,N,N,LP,Liberal,37228,0,0,0,0,37228,2.11
 ACT,101,Canberra,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,18056,0,0,0,0,18056,5.11
@@ -698,12 +698,12 @@ VIC,204,Casey,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,25345,0,0,0,672
 VIC,204,Casey,21212,HARRISON,Daniel,3,N,N,FFP,Family First,3436,0,0,0,82,3518,0.66
 VIC,204,Casey,21216,POWELL,Brendan,4,N,N,GRN,Australian Greens,7718,0,0,0,188,7906,3.58
 VIC,204,Casey,999,Informal,Informal,999,N,N,,Informal,3181,0,0,0,55,3236,1.49
-VIC,205,Chisholm,21076,GOODMAN,Phil,1,N,N,FFP,Family First,1569,38,0,0,54,1661,0.12
-VIC,205,Chisholm,21069,BURKE,Anna Elizabeth,2,N,Y,ALP,Australian Labor Party,27916,285,0,0,1207,29408,-2.68
-VIC,205,Chisholm,21056,EVANS,Nimrod,3,N,N,SPA,Secular Party of Australia,431,10,0,0,13,454,0.7
-VIC,205,Chisholm,21172,FERGEUS,Josh,4,N,N,GRN,Australian Greens,7049,111,0,0,181,7341,2.87
-VIC,205,Chisholm,21050,NGUYEN,John,5,N,N,LP,Liberal,24724,242,0,0,892,25858,0.5
-VIC,205,Chisholm,999,Informal,Informal,999,N,N,,Informal,2370,38,0,0,49,2457,1.05
+VIC,205,Chisholm,21076,GOODMAN,Phil,1,N,N,FFP,Family First,1569,38,0,0,103,1710,0.1
+VIC,205,Chisholm,21069,BURKE,Anna Elizabeth,2,N,Y,ALP,Australian Labor Party,27916,285,0,0,2230,30431,-2.74
+VIC,205,Chisholm,21056,EVANS,Nimrod,3,N,N,SPA,Secular Party of Australia,431,10,0,0,22,463,0.69
+VIC,205,Chisholm,21172,FERGEUS,Josh,4,N,N,GRN,Australian Greens,7049,111,0,0,381,7541,2.78
+VIC,205,Chisholm,21050,NGUYEN,John,5,N,N,LP,Liberal,24724,242,0,0,1949,26915,0.69
+VIC,205,Chisholm,999,Informal,Informal,999,N,N,,Informal,2370,38,0,0,109,2517,1.01
 VIC,207,Corangamite,21276,LAWRENCE,Mike,1,N,N,GRN,Australian Greens,8562,953,0,393,519,10427,3.42
 VIC,207,Corangamite,21234,HENDERSON,Sarah,2,N,N,LP,Liberal,35089,1595,0,1363,3037,41084,0.18
 VIC,207,Corangamite,21312,CHEESEMAN,Darren,3,N,Y,ALP,Australian Labor Party,31485,1755,0,971,2112,36323,-2.23
@@ -717,14 +717,14 @@ VIC,208,Corio,21061,MARLES,Richard Donald,3,N,Y,ALP,Australian Labor Party,36504
 VIC,208,Corio,21066,AMBERLEY,Scott,4,N,N,FFP,Family First,2542,0,0,0,120,2662,-0.38
 VIC,208,Corio,21048,GIBSON,Don,5,N,N,LP,Liberal,21458,0,0,0,1472,22930,1.25
 VIC,208,Corio,999,Informal,Informal,999,N,N,,Informal,3504,0,0,0,91,3595,0.88
-VIC,209,Deakin,21040,LAKE,Peter,1,N,N,FFP,Family First,1987,0,0,0,51,2038,-0.15
-VIC,209,Deakin,21155,HOWELL,David,2,N,N,GRN,Australian Greens,8450,0,0,0,151,8601,4.18
-VIC,209,Deakin,21303,WALSH,Benjamin,3,N,N,LDP,Liberal Democrats (LDP),340,0,0,0,23,363,-0.18
-VIC,209,Deakin,21030,BARRESI,Phil,4,N,N,LP,Liberal,27375,0,0,0,1084,28459,-2.46
-VIC,209,Deakin,21036,SYMON,Mike,5,N,Y,ALP,Australian Labor Party,26537,0,0,0,1040,27577,-1.27
-VIC,209,Deakin,21432,NORWICK,Alex,6,N,N,AFN,Australia First Party,233,0,0,0,10,243,0.36
-VIC,209,Deakin,20896,SEVILOGLOU,Abraham,7,N,N,IND,Independent,647,0,0,0,12,659,0.97
-VIC,209,Deakin,999,Informal,Informal,999,N,N,,Informal,2498,0,0,0,22,2520,1.49
+VIC,209,Deakin,21040,LAKE,Peter,1,N,N,FFP,Family First,1987,85,0,0,51,2123,-0.09
+VIC,209,Deakin,21155,HOWELL,David,2,N,N,GRN,Australian Greens,8450,209,0,0,151,8810,4.24
+VIC,209,Deakin,21303,WALSH,Benjamin,3,N,N,LDP,Liberal Democrats (LDP),340,20,0,0,23,383,-0.16
+VIC,209,Deakin,21030,BARRESI,Phil,4,N,N,LP,Liberal,27375,498,0,0,1084,28957,-2.55
+VIC,209,Deakin,21036,SYMON,Mike,5,N,Y,ALP,Australian Labor Party,26537,499,0,0,1040,28076,-1.33
+VIC,209,Deakin,21432,NORWICK,Alex,6,N,N,AFN,Australia First Party,233,7,0,0,10,250,0.36
+VIC,209,Deakin,20896,SEVILOGLOU,Abraham,7,N,N,IND,Independent,647,13,0,0,12,672,0.97
+VIC,209,Deakin,999,Informal,Informal,999,N,N,,Informal,2498,75,0,0,22,2595,1.52
 VIC,210,Dunkley,21075,DE ZILWA,Yasmin,1,N,N,FFP,Family First,1826,42,0,19,140,2027,-0.02
 VIC,210,Dunkley,21032,CONSTAS,Helen,2,N,N,ALP,Australian Labor Party,27917,255,0,187,2151,30510,0.36
 VIC,210,Dunkley,21148,TILLER,Simon,3,N,N,GRN,Australian Greens,8290,97,0,58,530,8975,3.61
@@ -801,12 +801,12 @@ VIC,221,Kooyong,21057,FRYDENBERG,Josh,3,N,N,LP,Liberal,34031,0,0,0,2863,36894,-1
 VIC,221,Kooyong,21086,LAIDLER,John,4,N,N,FFP,Family First,932,0,0,0,77,1009,-0.08
 VIC,221,Kooyong,999,Informal,Informal,999,N,N,,Informal,1926,0,0,0,78,2004,0.72
 VIC,223,La Trobe,20914,LEAHY,Martin,1,N,N,ASXP,Australian Sex Party,1898,247,0,38,149,2332,2.79
-VIC,223,La Trobe,21197,WOOD,Jason,2,N,Y,LP,Liberal,31115,1336,0,800,3401,36652,-2.61
+VIC,223,La Trobe,21197,WOOD,Jason,2,N,Y,LP,Liberal,31114,1336,0,800,3401,36651,-2.61
 VIC,223,La Trobe,21213,BARROW,David,3,N,N,FFP,Family First,1403,163,0,45,154,1765,-0.73
 VIC,223,La Trobe,21205,SMYTH,Laura,4,N,N,ALP,Australian Labor Party,27782,1451,0,499,2399,32131,-1.93
-VIC,223,La Trobe,21266,REIHER,Jim,5,N,N,GRN,Australian Greens,8845,616,0,128,553,10142,3.3
+VIC,223,La Trobe,21266,REIHER,Jim,5,N,N,GRN,Australian Greens,8846,616,0,128,553,10143,3.3
 VIC,223,La Trobe,21238,BENNETT,Shem,6,N,N,LDP,Liberal Democrats (LDP),405,73,0,7,42,527,0.53
-VIC,223,La Trobe,999,Informal,Informal,999,N,N,,Informal,3146,224,0,40,147,3557,0.8
+VIC,223,La Trobe,999,Informal,Informal,999,N,N,,Informal,3147,224,0,40,147,3558,0.8
 VIC,222,Lalor,21043,SHEEHAN,Paul,1,N,N,SPA,Secular Party of Australia,698,0,0,0,40,738,0.78
 VIC,222,Lalor,21938,SHAW,Brian William,2,N,N,IND,Independent,526,0,0,0,42,568,0.6
 VIC,222,Lalor,21033,INGRAM,Sheridan,3,N,N,LP,Liberal,20499,0,0,0,1289,21788,-6.67
@@ -842,13 +842,13 @@ VIC,227,McMillan,21320,BROADBENT,Russell,4,N,Y,LP,Liberal,35664,0,0,0,2508,38172
 VIC,227,McMillan,21345,McKELVIE,Malcolm,5,N,N,GRN,Australian Greens,6769,0,0,0,354,7123,3.24
 VIC,227,McMillan,999,Informal,Informal,999,N,N,,Informal,3041,0,0,0,87,3128,0.47
 VIC,228,Melbourne,21654,PEARSON,Georgia,1,N,N,FFP,Family First,1004,0,0,0,77,1081,0.45
-VIC,228,Melbourne,21657,BANDT,Adam,2,N,N,GRN,Australian Greens,25609,0,0,0,1086,26695,13.04
+VIC,228,Melbourne,21657,BANDT,Adam,2,N,N,GRN,Australian Greens,25610,0,0,0,1086,26696,13.05
 VIC,228,Melbourne,20847,MURRAY,Joel,3,N,N,ASXP,Australian Sex Party,1246,0,0,0,72,1318,1.77
 VIC,228,Melbourne,21631,COLLYER,David,4,N,N,DEM,Australian Democrats,423,0,0,0,46,469,-0.8
-VIC,228,Melbourne,21636,GREEN,Penelope,5,N,N,SPA,Secular Party of Australia,471,0,0,0,45,516,0.69
-VIC,228,Melbourne,21650,BOWTELL,Cath,6,N,N,ALP,Australian Labor Party,27488,0,0,0,1662,29150,-10.38
-VIC,228,Melbourne,21633,OLSEN,Simon,7,N,N,LP,Liberal,14157,0,0,0,1101,15258,-3.01
-VIC,228,Melbourne,999,Informal,Informal,999,N,N,,Informal,2475,0,0,0,98,2573,0.54
+VIC,228,Melbourne,21636,GREEN,Penelope,5,N,N,SPA,Secular Party of Australia,470,0,0,0,45,515,0.69
+VIC,228,Melbourne,21650,BOWTELL,Cath,6,N,N,ALP,Australian Labor Party,27472,0,0,0,1662,29134,-10.39
+VIC,228,Melbourne,21633,OLSEN,Simon,7,N,N,LP,Liberal,14160,0,0,0,1101,15261,-3
+VIC,228,Melbourne,999,Informal,Informal,999,N,N,,Informal,2481,0,0,0,98,2579,0.55
 VIC,230,Melbourne Ports,21579,EKENDAHL,Kevin,1,N,N,LP,Liberal,23430,0,0,0,2940,26370,-2.18
 VIC,230,Melbourne Ports,21573,PLOWRIGHT,Sue,2,N,N,GRN,Australian Greens,13486,0,0,0,742,14228,5.2
 VIC,230,Melbourne Ports,21599,DANBY,Michael David,3,N,Y,ALP,Australian Labor Party,24707,0,0,0,2800,27507,-3.35

@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T09:03:26 Cycle:205a04c4-98b1-4058-8ece-f54913cc0d33 Created:2010-08-30T08:47:59 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T09:18:40 Cycle:665b4b94-9a4b-41c2-af8d-4c616a4459d6 Created:2010-08-30T09:03:04 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,Swing
 ACT,101,Canberra,20863,JONES,Giulia,1,N,N,LP,Liberal,39113,0,0,0,0,39113,2.36
 ACT,101,Canberra,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,57358,0,0,0,0,57358,-2.36
@@ -210,14 +210,14 @@ VIC,203,Calwell,21159,VAMVAKINOU,Maria,4,N,Y,ALP,Australian Labor Party,53112,0,
 VIC,203,Calwell,21153,TSENG,Wayne,5,N,N,LP,Liberal,22656,0,0,0,1027,23683,-0.65
 VIC,204,Casey,21201,SMITH,Tony,1,N,Y,LP,Liberal,37729,0,0,0,1487,39216,-1.89
 VIC,204,Casey,21204,HISHEH,Sami,2,N,N,ALP,Australian Labor Party,32497,0,0,0,849,33346,1.89
-VIC,205,Chisholm,21069,BURKE,Anna Elizabeth,2,N,Y,ALP,Australian Labor Party,34863,397,0,0,1383,36643,-0.76
-VIC,205,Chisholm,21050,NGUYEN,John,5,N,N,LP,Liberal,26826,289,0,0,964,28079,0.76
+VIC,205,Chisholm,21069,BURKE,Anna Elizabeth,2,N,Y,ALP,Australian Labor Party,34863,397,0,0,2587,37847,-0.94
+VIC,205,Chisholm,21050,NGUYEN,John,5,N,N,LP,Liberal,26826,289,0,0,2098,29213,0.94
 VIC,207,Corangamite,21234,HENDERSON,Sarah,2,N,N,LP,Liberal,38468,1985,0,1530,3305,45288,0.32
 VIC,207,Corangamite,21312,CHEESEMAN,Darren,3,N,Y,ALP,Australian Labor Party,39716,2625,0,1316,2599,46256,-0.32
 VIC,208,Corio,21061,MARLES,Richard Donald,3,N,Y,ALP,Australian Labor Party,45292,0,0,0,2781,48073,5.76
 VIC,208,Corio,21048,GIBSON,Don,5,N,N,LP,Liberal,24617,0,0,0,1624,26241,-5.76
-VIC,209,Deakin,21030,BARRESI,Phil,4,N,N,LP,Liberal,30839,0,0,0,1186,32025,-1.45
-VIC,209,Deakin,21036,SYMON,Mike,5,N,Y,ALP,Australian Labor Party,34730,0,0,0,1185,35915,1.45
+VIC,209,Deakin,21030,BARRESI,Phil,4,N,N,LP,Liberal,30839,625,0,0,1186,32650,-1.46
+VIC,209,Deakin,21036,SYMON,Mike,5,N,Y,ALP,Australian Labor Party,34730,706,0,0,1185,36621,1.46
 VIC,210,Dunkley,21032,CONSTAS,Helen,2,N,N,ALP,Australian Labor Party,35517,356,0,240,2603,38716,3.05
 VIC,210,Dunkley,21027,BILLSON,Bruce,4,N,Y,LP,Liberal,35893,284,0,267,3831,40275,-3.05
 VIC,211,Flinders,21118,GAGLIANO-VENTURA,Francis,1,N,N,ALP,Australian Labor Party,30262,0,0,0,1501,31763,-0.66
@@ -256,8 +256,8 @@ VIC,226,McEwen,21088,MITCHELL,Rob,1,N,N,ALP,Australian Labor Party,47006,1081,0,
 VIC,226,McEwen,21042,CAINE,Cameron,4,N,N,LP,Liberal,37525,683,0,0,1451,39659,-5.57
 VIC,227,McMillan,21324,MAXFIELD,Christine,1,N,N,ALP,Australian Labor Party,33291,0,0,0,1774,35065,0.29
 VIC,227,McMillan,21320,BROADBENT,Russell,4,N,Y,LP,Liberal,39280,0,0,0,2724,42004,-0.29
-VIC,228,Melbourne,21657,BANDT,Adam,2,N,N,GRN,Australian Greens,39240,0,0,0,2039,41279,10.13
-VIC,228,Melbourne,21650,BOWTELL,Cath,6,N,N,ALP,Australian Labor Party,31158,0,0,0,2050,33208,-10.13
+VIC,228,Melbourne,21657,BANDT,Adam,2,N,N,GRN,Australian Greens,39212,0,0,0,2039,41251,10.1
+VIC,228,Melbourne,21650,BOWTELL,Cath,6,N,N,ALP,Australian Labor Party,31173,0,0,0,2050,33223,-10.1
 VIC,230,Melbourne Ports,21579,EKENDAHL,Kevin,1,N,N,LP,Liberal,26178,0,0,0,3150,29328,-1.14
 VIC,230,Melbourne Ports,21599,DANBY,Michael David,3,N,Y,ALP,Australian Labor Party,37485,0,0,0,3508,40993,1.14
 VIC,229,Menzies,21103,ANDREWS,Kevin,3,N,Y,LP,Liberal,39121,0,0,0,3231,42352,3.02

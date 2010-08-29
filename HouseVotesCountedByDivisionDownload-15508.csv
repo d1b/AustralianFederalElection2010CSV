@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T09:03:24 Cycle:205a04c4-98b1-4058-8ece-f54913cc0d33 Created:2010-08-30T08:47:59 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T09:18:39 Cycle:665b4b94-9a4b-41c2-af8d-4c616a4459d6 Created:2010-08-30T09:03:04 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,TotalPercentage
 179,Adelaide,SA,98526,73423,1562,0,0,1165,76150,77.29
 197,Aston,VIC,93448,74337,0,0,599,5963,80899,86.57
@@ -29,7 +29,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 204,Casey,VIC,92357,73407,0,0,0,2391,75798,82.07
 110,Charlton,NSW,94480,76146,0,0,0,0,76146,80.59
 111,Chifley,NSW,97605,79425,0,0,0,0,79425,81.37
-205,Chisholm,VIC,86275,64059,724,0,0,2396,67179,77.87
+205,Chisholm,VIC,86275,64059,724,0,0,4794,69577,80.65
 112,Cook,NSW,100748,83368,0,0,0,0,83368,82.75
 207,Corangamite,VIC,101569,80803,4792,0,2912,6034,94541,93.08
 208,Corio,VIC,91974,73413,0,0,0,4496,77909,84.71
@@ -38,7 +38,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 114,Cunningham,NSW,100698,82434,726,0,267,3988,87415,86.81
 238,Curtin,WA,90400,68394,1809,0,1121,3762,75086,83.06
 158,Dawson,QLD,94553,72867,3615,0,627,4589,81698,86.4
-209,Deakin,VIC,87744,68067,0,0,0,2393,70460,80.3
+209,Deakin,VIC,87744,68067,1406,0,0,2393,71866,81.9
 194,Denison,TAS,71349,57801,2952,130,1655,4186,66724,93.52
 252,Dickson,QLD,90111,70787,1994,0,0,5996,78777,87.42
 115,Dobell,NSW,93661,76460,0,0,0,2705,79165,84.52
@@ -84,7 +84,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 127,Kingsford Smith,NSW,97747,76773,0,0,0,0,76773,78.54
 186,Kingston,SA,102296,81591,1216,0,1031,5989,89827,87.81
 221,Kooyong,VIC,89659,66637,0,0,0,4499,71136,79.34
-223,La Trobe,VIC,97960,74594,4110,0,1557,6845,87106,88.92
+223,La Trobe,VIC,97960,74595,4110,0,1557,6845,87107,88.92
 222,Lalor,VIC,117023,94153,0,0,0,6193,100346,85.75
 168,Leichhardt,QLD,93140,74386,1538,0,593,3876,80393,86.31
 169,Lilley,QLD,97415,75629,3758,0,0,2726,82113,84.29
@@ -105,7 +105,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 315,McMahon,NSW,96058,78056,0,0,0,2822,80878,84.2
 227,McMillan,VIC,93323,75612,0,0,0,4585,80197,85.93
 171,McPherson,QLD,90090,71032,1030,0,0,3523,75585,83.9
-228,Melbourne,VIC,102879,72873,0,0,0,4187,77060,74.9
+228,Melbourne,VIC,102879,72866,0,0,0,4187,77053,74.9
 230,Melbourne Ports,VIC,97765,65837,0,0,0,6792,72629,74.29
 229,Menzies,VIC,90966,69999,0,0,0,4797,74796,82.22
 134,Mitchell,NSW,93588,77406,0,0,0,2944,80350,85.86
