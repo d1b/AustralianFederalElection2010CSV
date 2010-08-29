@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-29T10:35:32 Cycle:e8c85f67-2326-4215-bdb1-f8fb697e9efb Created:2010-08-29T10:18:21 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-29T10:51:01 Cycle:8f984df6-ab4f-43de-bb7a-43de286008e8 Created:2010-08-29T10:33:26 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,Swing
 ACT,101,Canberra,20863,JONES,Giulia,1,N,N,LP,Liberal,39113,0,0,0,0,39113,2.36
 ACT,101,Canberra,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,57358,0,0,0,0,57358,-2.36
@@ -84,8 +84,8 @@ NSW,145,Richmond,21416,ELLIOT,Justine,2,N,Y,ALP,Labor,39421,0,0,0,710,40131,-2.2
 NSW,145,Richmond,21262,HUNTER,Alan,6,N,N,NP,The Nationals,30011,0,0,0,729,30740,2.24
 NSW,250,Riverina,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,52789,0,0,0,2174,54963,3.87
 NSW,250,Riverina,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,24684,0,0,0,682,25366,-3.87
-NSW,146,Robertson,21435,O'NEILL,Deborah,4,N,N,ALP,Labor,37894,0,131,0,1307,39332,1.28
-NSW,146,Robertson,21617,JAMESON,Darren,5,N,N,LP,Liberal,35442,0,83,0,1716,37241,-1.28
+NSW,146,Robertson,21435,O'NEILL,Deborah,4,N,N,ALP,Labor,37894,1451,131,0,1307,40783,1.34
+NSW,146,Robertson,21617,JAMESON,Darren,5,N,N,LP,Liberal,35442,1271,83,0,1716,38512,-1.34
 NSW,148,Shortland,21547,NARAYANAN,Deborah,2,N,N,LP,Liberal,26294,0,0,0,1786,28080,1.64
 NSW,148,Shortland,21423,HALL,Jill,3,N,Y,ALP,Labor,44970,0,0,0,3056,48026,-1.64
 NSW,149,Sydney,21559,PLIBERSEK,Tanya,3,N,Y,ALP,Labor,40089,0,0,0,0,40089,-0.94
@@ -124,8 +124,8 @@ QLD,160,Fairfax,21607,McINTYRE,Dan,1,N,N,ALP,Australian Labor Party,29285,1065,0
 QLD,160,Fairfax,20738,SOMLYAY,Alex,4,N,Y,LNQ,Liberal National Party of Queensland,37841,1186,0,680,2848,42555,4.03
 QLD,161,Fisher,21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor Party,28553,1628,0,0,1232,31413,-0.43
 QLD,161,Fisher,20759,SLIPPER,Peter,4,N,Y,LNQ,Liberal National Party of Queensland,32910,1727,0,0,2179,36816,0.43
-QLD,311,Flynn,20809,O'DOWD,Ken,2,N,N,LNQ,Liberal National Party of Queensland,32906,0,0,0,2779,35685,4.74
-QLD,311,Flynn,21781,TREVOR,Chris,4,N,Y,ALP,Australian Labor Party,30752,0,0,0,1529,32281,-4.74
+QLD,311,Flynn,20809,O'DOWD,Ken,2,N,N,LNQ,Liberal National Party of Queensland,32905,0,0,0,2775,35680,4.74
+QLD,311,Flynn,21781,TREVOR,Chris,4,N,Y,ALP,Australian Labor Party,30753,0,0,0,1533,32286,-4.74
 QLD,162,Forde,21769,VAN MANEN,Bert,2,N,N,LNQ,Liberal National Party of Queensland,29075,1091,0,840,2074,33080,4.76
 QLD,162,Forde,21853,RAGUSE,Brett,3,N,Y,ALP,Australian Labor Party,27397,1016,0,717,2145,31275,-4.76
 QLD,163,Griffith,20820,DOCHERTY,Rebecca,4,N,N,LNQ,Liberal National Party of Queensland,27325,257,0,0,1363,28945,4.14
