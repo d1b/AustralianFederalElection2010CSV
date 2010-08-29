@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-29T17:33:35 Cycle:9f6a9e7d-e566-4702-abfa-051c57bf4c27 Created:2010-08-29T17:20:06 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-29T17:49:08 Cycle:e46d493e-8574-4fb1-8a5b-1fcb8206917c Created:2010-08-29T17:35:11 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -1061,15 +1061,15 @@ NSW,119,Fowler,37053,Green Valley North,1133,63.44,653,36.56,1786,-10.31
 NSW,119,Fowler,877,Heckenberg,992,65.91,513,34.09,1505,-12.49
 NSW,119,Fowler,11942,Hinchinbrook,1745,60.19,1154,39.81,2899,-10.63
 NSW,119,Fowler,37054,Hinchinbrook North,583,56.17,455,43.83,1038,-9.23
-NSW,119,Fowler,2348,Lansvale,796,60.72,515,39.28,1311,-14.55
+NSW,119,Fowler,2348,Lansvale,794,60.8,512,39.2,1306,-14.47
 NSW,119,Fowler,173,Lansvale East,607,51.92,562,48.08,1169,-14.21
 NSW,119,Fowler,57099,Liverpool (Fowler),230,63.71,131,36.29,361,-7.66
 NSW,119,Fowler,58778,Liverpool FOWLER PPVC,0,0,0,0,0,-66.36
 NSW,119,Fowler,882,Liverpool West (Fowler),793,60.58,516,39.42,1309,-8.08
 NSW,119,Fowler,884,Marsden Road,1020,60.9,655,39.1,1675,-3.37
-NSW,119,Fowler,885,Miller,823,68.81,373,31.19,1196,-10.64
+NSW,119,Fowler,885,Miller,844,70.45,354,29.55,1198,-9
 NSW,119,Fowler,887,Mount Pritchard,1419,56.81,1079,43.19,2498,-13.32
-NSW,119,Fowler,888,Mount Pritchard East,936,59.39,640,40.61,1576,-11.29
+NSW,119,Fowler,888,Mount Pritchard East,936,59.35,641,40.65,1577,-11.33
 NSW,119,Fowler,892,Sadleir,555,68.94,250,31.06,805,-12.97
 NSW,119,Fowler,58587,Special Hospital Team 1,3,23.08,10,76.92,13,-40.08
 NSW,119,Fowler,893,St Johns Park,1586,59.92,1061,40.08,2647,-14.28
@@ -2696,8 +2696,8 @@ NSW,250,Riverina,2567,Yoogali,163,22.96,547,77.04,710,-9.44
 NSW,146,Robertson,2586,Avoca Beach,1061,51.83,986,48.17,2047,2.42
 NSW,146,Robertson,2588,Booker Bay,390,48.39,416,51.61,806,-3.4
 NSW,146,Robertson,2589,Copacabana,724,54.19,612,45.81,1336,0.05
-NSW,146,Robertson,2590,Davistown,713,51.78,664,48.22,1377,1.58
-NSW,146,Robertson,30137,Divisional Office (PREPOLL),178,38.95,279,61.05,457,-9.45
+NSW,146,Robertson,2590,Davistown,708,52.02,653,47.98,1361,1.82
+NSW,146,Robertson,30137,Divisional Office (PREPOLL),176,38.94,276,61.06,452,-9.46
 NSW,146,Robertson,2591,Empire Bay,1245,47.57,1372,52.43,2617,0.28
 NSW,146,Robertson,2592,Erina,1765,47.94,1917,52.06,3682,3.13
 NSW,146,Robertson,2593,Erina Heights (Robertson),361,39.54,552,60.46,913,1.6
@@ -4724,7 +4724,7 @@ QLD,176,Rankin,5536,Woodridge East,859,69.33,380,30.67,1239,-4.59
 QLD,176,Rankin,5555,Woodridge North,1330,69.34,588,30.66,1918,-7.92
 QLD,176,Rankin,34276,Woodridge PPVC,1622,61.18,1029,38.82,2651,0.07
 QLD,176,Rankin,6489,Yugumbir,1978,60.45,1294,39.55,3272,-2.29
-QLD,177,Ryan,5169,Ashgrove West (Ryan),615,46.56,706,53.44,1321,-6.23
+QLD,177,Ryan,5169,Ashgrove West (Ryan),612,46.47,705,53.53,1317,-6.32
 QLD,177,Ryan,6496,Auchenflower,820,45.76,972,54.24,1792,-5.47
 QLD,177,Ryan,6498,Bardon,608,49.96,609,50.04,1217,-5.61
 QLD,177,Ryan,46367,Bellbowrie,613,35.5,1114,64.5,1727,-9.38
@@ -7163,7 +7163,7 @@ VIC,220,Jagajaga,4169,Golf Links,584,62.39,352,37.61,936,3.84
 VIC,220,Jagajaga,4329,Greenhills,1414,59.26,972,40.74,2386,5.33
 VIC,220,Jagajaga,11648,Greensborough Central,728,65.88,377,34.12,1105,2.32
 VIC,220,Jagajaga,58458,Greensborough JAGAJAGA PPVC,1963,57.23,1467,42.77,3430,0.34
-VIC,220,Jagajaga,4171,Haig,1235,72.6,466,27.4,1701,-1.02
+VIC,220,Jagajaga,4171,Haig,1229,72.55,465,27.45,1694,-1.07
 VIC,220,Jagajaga,4172,Heidelberg,1556,60.47,1017,39.53,2573,-0.7
 VIC,220,Jagajaga,38297,Heidelberg PPVC,2786,58.05,2013,41.95,4799,1.13
 VIC,220,Jagajaga,4175,Heidelberg West,915,75.31,300,24.69,1215,1.54
@@ -7173,7 +7173,7 @@ VIC,220,Jagajaga,4179,Ivanhoe West,705,71.28,284,28.72,989,-0.1
 VIC,220,Jagajaga,4707,Lower Plenty,829,46.89,939,53.11,1768,5.08
 VIC,220,Jagajaga,4182,Macleod,1782,66.12,913,33.88,2695,3.78
 VIC,220,Jagajaga,31988,Melbourne (Jagajaga),50,61.73,31,38.27,81,-15.65
-VIC,220,Jagajaga,4347,Montmorency,2080,60.25,1372,39.75,3452,2.44
+VIC,220,Jagajaga,4347,Montmorency,2080,60.27,1371,39.73,3451,2.46
 VIC,220,Jagajaga,4348,Montmorency South,1080,66.06,555,33.94,1635,5.69
 VIC,220,Jagajaga,4174,Olympic Village,1604,82.3,345,17.7,1949,3.12
 VIC,220,Jagajaga,3397,Research (Jagajaga),531,58.03,384,41.97,915,5.48
