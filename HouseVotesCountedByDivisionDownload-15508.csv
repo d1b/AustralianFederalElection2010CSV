@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T10:20:32 Cycle:43e18da6-c826-47e9-a80d-9cf6973e6dd7 Created:2010-08-30T10:03:20 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T10:35:58 Cycle:649f8be7-082c-464c-80ce-b6431649cd1e Created:2010-08-30T10:18:20 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,TotalPercentage
 179,Adelaide,SA,98526,73423,1562,0,0,1165,76150,77.29
 197,Aston,VIC,93448,74337,0,0,599,5963,80899,86.57
@@ -7,7 +7,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 180,Barker,SA,104888,85195,0,0,0,3498,88693,84.56
 104,Barton,NSW,95243,74168,0,0,0,0,74168,77.87
 192,Bass,TAS,71689,58769,2382,0,122,4848,66121,92.23
-199,Batman,VIC,89160,67162,0,0,0,4983,72145,80.92
+199,Batman,VIC,89160,67177,0,0,0,4983,72160,80.93
 200,Bendigo,VIC,100701,81762,0,0,0,5944,87706,87.1
 105,Bennelong,NSW,98900,77763,0,0,0,2998,80761,81.66
 106,Berowra,NSW,95115,76438,0,0,0,0,76438,80.36
@@ -103,7 +103,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 188,Mayo,SA,101565,80804,0,0,0,5441,86245,84.92
 226,McEwen,VIC,115783,88501,1867,0,0,2994,93362,80.64
 315,McMahon,NSW,96058,78056,0,0,0,2822,80878,84.2
-227,McMillan,VIC,93323,75612,0,0,0,4585,80197,85.93
+227,McMillan,VIC,93323,75612,0,0,647,4585,80844,86.63
 171,McPherson,QLD,90090,71032,1030,0,0,3523,75585,83.9
 228,Melbourne,VIC,102879,72970,0,0,0,4187,77157,75
 230,Melbourne Ports,VIC,97765,65837,0,0,0,6792,72629,74.29
@@ -114,7 +114,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 173,Moreton,QLD,92733,69433,3994,0,1251,5126,79804,86.06
 231,Murray,VIC,90218,74513,0,0,0,3998,78511,87.02
 135,New England,NSW,99677,83969,0,0,0,0,83969,84.24
-136,Newcastle,NSW,92896,74007,0,0,0,1999,76006,81.82
+136,Newcastle,NSW,92896,74011,0,0,0,3993,78004,83.97
 137,North Sydney,NSW,97567,75129,0,0,0,0,75129,77
 243,O'Connor,WA,92875,72243,3640,0,1196,2626,79705,85.82
 174,Oxley,QLD,82782,65098,2140,0,0,1784,69022,83.38
@@ -141,7 +141,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,OrdinaryVotes,AbsentVotes,ProvisionalVot
 149,Sydney,NSW,95277,61943,0,0,0,0,61943,65.01
 248,Tangney,WA,92176,72699,1301,175,1523,2114,77812,84.42
 150,Throsby,NSW,95874,80244,0,0,0,948,81192,84.69
-191,Wakefield,SA,100209,79863,715,0,0,5594,86172,85.99
+191,Wakefield,SA,100209,79862,715,0,0,5594,86171,85.99
 233,Wannon,VIC,92264,75021,0,0,0,2419,77440,83.93
 151,Warringah,NSW,96706,74586,1974,0,0,0,76560,79.17
 251,Watson,NSW,97765,74011,0,0,0,0,74011,75.7

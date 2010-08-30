@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T10:20:32 Cycle:43e18da6-c826-47e9-a80d-9cf6973e6dd7 Created:2010-08-30T10:03:20 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T10:35:58 Cycle:649f8be7-082c-464c-80ce-b6431649cd1e Created:2010-08-30T10:18:20 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 179,Adelaide,SA,98526,76150,77.29,-17.3
 197,Aston,VIC,93448,80899,86.57,-9.82
@@ -7,7 +7,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 180,Barker,SA,104888,88693,84.56,-11.41
 104,Barton,NSW,95243,74168,77.87,-17.18
 192,Bass,TAS,71689,66121,92.23,-4.07
-199,Batman,VIC,89160,72145,80.92,-13.28
+199,Batman,VIC,89160,72160,80.93,-13.27
 200,Bendigo,VIC,100701,87706,87.1,-8.93
 105,Bennelong,NSW,98900,80761,81.66,-13.34
 106,Berowra,NSW,95115,76438,80.36,-14.99
@@ -103,7 +103,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 188,Mayo,SA,101565,86245,84.92,-10.96
 226,McEwen,VIC,115783,93362,80.64,-15.6
 315,McMahon,NSW,96058,80878,84.2,-9.33
-227,McMillan,VIC,93323,80197,85.93,-9.95
+227,McMillan,VIC,93323,80844,86.63,-9.25
 171,McPherson,QLD,90090,75585,83.9,-10.83
 228,Melbourne,VIC,102879,77157,75,-16.5
 230,Melbourne Ports,VIC,97765,72629,74.29,-17.43
@@ -114,7 +114,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 173,Moreton,QLD,92733,79804,86.06,-8.96
 231,Murray,VIC,90218,78511,87.02,-8.7
 135,New England,NSW,99677,83969,84.24,-11.86
-136,Newcastle,NSW,92896,76006,81.82,-13.43
+136,Newcastle,NSW,92896,78004,83.97,-11.28
 137,North Sydney,NSW,97567,75129,77,-17.21
 243,O'Connor,WA,92875,79705,85.82,-7.23
 174,Oxley,QLD,82782,69022,83.38,-10.03
@@ -141,7 +141,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 149,Sydney,NSW,95277,61943,65.01,-26.8
 248,Tangney,WA,92176,77812,84.42,-10.66
 150,Throsby,NSW,95874,81192,84.69,-11.17
-191,Wakefield,SA,100209,86172,85.99,-9.14
+191,Wakefield,SA,100209,86171,85.99,-9.14
 233,Wannon,VIC,92264,77440,83.93,-12.47
 151,Warringah,NSW,96706,76560,79.17,-15.66
 251,Watson,NSW,97765,74011,75.7,-16.54
