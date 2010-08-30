@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T13:24:26 Cycle:d7d8f1c3-5e25-40e6-b313-06a2a926474a Created:2010-08-30T13:03:52 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T13:40:00 Cycle:6eee50fc-66f5-48de-9532-6136e957d412 Created:2010-08-30T13:18:52 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 ACT,101,Canberra,8829,Barton,20863,JONES,Giulia,1,N,N,LP,Liberal,790,-2.73
 ACT,101,Canberra,8829,Barton,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1399,2.73
@@ -262,14 +262,14 @@ NSW,103,Banks,24,Revesby (Banks),21087,MELHAM,Daryl,3,N,Y,ALP,Labor,457,-4.92
 NSW,103,Banks,24,Revesby (Banks),21561,DELEZIO,Ron,4,N,N,LP,Liberal,282,4.92
 NSW,103,Banks,25,Revesby North (Banks),21087,MELHAM,Daryl,3,N,Y,ALP,Labor,1200,-5.64
 NSW,103,Banks,25,Revesby North (Banks),21561,DELEZIO,Ron,4,N,N,LP,Liberal,786,5.64
-NSW,103,Banks,58722,Revesby PPVC,21087,MELHAM,Daryl,3,N,Y,ALP,Labor,539,15.45
-NSW,103,Banks,58722,Revesby PPVC,21561,DELEZIO,Ron,4,N,N,LP,Liberal,501,-15.45
+NSW,103,Banks,58722,Revesby PPVC,21087,MELHAM,Daryl,3,N,Y,ALP,Labor,540,15.39
+NSW,103,Banks,58722,Revesby PPVC,21561,DELEZIO,Ron,4,N,N,LP,Liberal,503,-15.39
 NSW,103,Banks,3,Riverwood East,21087,MELHAM,Daryl,3,N,Y,ALP,Labor,985,-11.14
 NSW,103,Banks,3,Riverwood East,21561,DELEZIO,Ron,4,N,N,LP,Liberal,642,11.14
-NSW,103,Banks,27,Riverwood North,21087,MELHAM,Daryl,3,N,Y,ALP,Labor,886,-7.43
-NSW,103,Banks,27,Riverwood North,21561,DELEZIO,Ron,4,N,N,LP,Liberal,379,7.43
-NSW,103,Banks,28,Riverwood South,21087,MELHAM,Daryl,3,N,Y,ALP,Labor,899,-10.48
-NSW,103,Banks,28,Riverwood South,21561,DELEZIO,Ron,4,N,N,LP,Liberal,745,10.48
+NSW,103,Banks,27,Riverwood North,21087,MELHAM,Daryl,3,N,Y,ALP,Labor,886,-7.49
+NSW,103,Banks,27,Riverwood North,21561,DELEZIO,Ron,4,N,N,LP,Liberal,380,7.49
+NSW,103,Banks,28,Riverwood South,21087,MELHAM,Daryl,3,N,Y,ALP,Labor,897,-10.5
+NSW,103,Banks,28,Riverwood South,21561,DELEZIO,Ron,4,N,N,LP,Liberal,744,10.5
 NSW,103,Banks,35,South Hurstville,21087,MELHAM,Daryl,3,N,Y,ALP,Labor,509,-13.64
 NSW,103,Banks,35,South Hurstville,21561,DELEZIO,Ron,4,N,N,LP,Liberal,492,13.64
 NSW,103,Banks,43,South Hurstville South,21087,MELHAM,Daryl,3,N,Y,ALP,Labor,390,-10.8
@@ -5720,8 +5720,8 @@ NSW,150,Throsby,540,Cringila,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,196,10.95
 NSW,150,Throsby,540,Cringila,21431,JONES,Stephen,2,N,N,ALP,Labor,905,-10.95
 NSW,150,Throsby,541,Dapto,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,668,6.06
 NSW,150,Throsby,541,Dapto,21431,JONES,Stephen,2,N,N,ALP,Labor,1436,-6.06
-NSW,150,Throsby,38319,Dapto PPVC,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,636,-1.29
-NSW,150,Throsby,38319,Dapto PPVC,21431,JONES,Stephen,2,N,N,ALP,Labor,1146,1.29
+NSW,150,Throsby,38319,Dapto PPVC,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,546,-6.15
+NSW,150,Throsby,38319,Dapto PPVC,21431,JONES,Stephen,2,N,N,ALP,Labor,1225,6.15
 NSW,150,Throsby,30141,Divisional Office (PREPOLL),21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,194,-6.3
 NSW,150,Throsby,30141,Divisional Office (PREPOLL),21431,JONES,Stephen,2,N,N,ALP,Labor,440,6.3
 NSW,150,Throsby,921,Exeter,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,188,-7.55
@@ -8958,8 +8958,8 @@ QLD,171,McPherson,6063,Broadbeach (McPherson),21691,BYRON,Dan,2,N,N,ALP,Australi
 QLD,171,McPherson,6063,Broadbeach (McPherson),20749,ANDREWS,Karen,3,N,N,LNQ,Liberal National Party of Queensland,116,-2.42
 QLD,171,McPherson,6064,Burleigh Heads (McPherson),21691,BYRON,Dan,2,N,N,ALP,Australian Labor Party,1190,-2.78
 QLD,171,McPherson,6064,Burleigh Heads (McPherson),20749,ANDREWS,Karen,3,N,N,LNQ,Liberal National Party of Queensland,1663,2.78
-QLD,171,McPherson,32572,Burleigh Heads McPHERSON PPVC,21691,BYRON,Dan,2,N,N,ALP,Australian Labor Party,3180,-21.12
-QLD,171,McPherson,32572,Burleigh Heads McPHERSON PPVC,20749,ANDREWS,Karen,3,N,N,LNQ,Liberal National Party of Queensland,5102,21.12
+QLD,171,McPherson,32572,Burleigh Heads McPHERSON PPVC,21691,BYRON,Dan,2,N,N,ALP,Australian Labor Party,3187,-21.13
+QLD,171,McPherson,32572,Burleigh Heads McPHERSON PPVC,20749,ANDREWS,Karen,3,N,N,LNQ,Liberal National Party of Queensland,5115,21.13
 QLD,171,McPherson,6065,Burleigh North (McPherson),21691,BYRON,Dan,2,N,N,ALP,Australian Labor Party,351,-2.13
 QLD,171,McPherson,6065,Burleigh North (McPherson),20749,ANDREWS,Karen,3,N,N,LNQ,Liberal National Party of Queensland,528,2.13
 QLD,171,McPherson,6067,Burleigh Waters,21691,BYRON,Dan,2,N,N,ALP,Australian Labor Party,1059,-5.21
@@ -10244,16 +10244,16 @@ SA,182,Boothby,6883,Netherby,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Pa
 SA,182,Boothby,6883,Netherby,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,727,-0.26
 SA,182,Boothby,7027,North Brighton,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,615,2.81
 SA,182,Boothby,7027,North Brighton,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,581,-2.81
-SA,182,Boothby,7029,Oaklands Park,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,733,2.37
-SA,182,Boothby,7029,Oaklands Park,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,642,-2.37
+SA,182,Boothby,7029,Oaklands Park,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,731,2.38
+SA,182,Boothby,7029,Oaklands Park,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,640,-2.38
 SA,182,Boothby,31787,Oaklands Park PPVC,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,1267,-6.6
 SA,182,Boothby,31787,Oaklands Park PPVC,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,1606,6.6
-SA,182,Boothby,6884,Panorama,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,697,2.21
-SA,182,Boothby,6884,Panorama,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,765,-2.21
-SA,182,Boothby,7032,Pasadena,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,1248,1.5
-SA,182,Boothby,7032,Pasadena,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,1257,-1.5
-SA,182,Boothby,7117,Seacliff,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,1049,2.9
-SA,182,Boothby,7117,Seacliff,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,1059,-2.9
+SA,182,Boothby,6884,Panorama,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,688,2.05
+SA,182,Boothby,6884,Panorama,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,760,-2.05
+SA,182,Boothby,7032,Pasadena,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,1241,1.48
+SA,182,Boothby,7032,Pasadena,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,1251,-1.48
+SA,182,Boothby,7117,Seacliff,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,1051,3.12
+SA,182,Boothby,7117,Seacliff,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,1052,-3.12
 SA,182,Boothby,7118,Seacombe Heights,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,1741,3.51
 SA,182,Boothby,7118,Seacombe Heights,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,1311,-3.51
 SA,182,Boothby,7119,Seaview Downs,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,632,1.93
@@ -10268,8 +10268,8 @@ SA,182,Boothby,33240,Special Hospital Team 4,20941,DIGANCE,Annabel,1,N,N,ALP,Aus
 SA,182,Boothby,33240,Special Hospital Team 4,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,62,8.95
 SA,182,Boothby,33241,Special Hospital Team 5,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,28,22.93
 SA,182,Boothby,33241,Special Hospital Team 5,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,21,-22.93
-SA,182,Boothby,7036,St Marys,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,905,2.73
-SA,182,Boothby,7036,St Marys,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,612,-2.73
+SA,182,Boothby,7036,St Marys,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,896,2.64
+SA,182,Boothby,7036,St Marys,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,608,-2.64
 SA,182,Boothby,7038,Tonsley Park,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,724,2.76
 SA,182,Boothby,7038,Tonsley Park,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,431,-2.76
 SA,182,Boothby,6863,Torrens Park,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,435,1.56
@@ -12362,22 +12362,22 @@ VIC,200,Bendigo,3266,Carisbrook,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor P
 VIC,200,Bendigo,3266,Carisbrook,21026,HUNTER,Craig,3,N,N,LP,Liberal,359,-5.05
 VIC,200,Bendigo,3267,Castlemaine,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,1376,5.13
 VIC,200,Bendigo,3267,Castlemaine,21026,HUNTER,Craig,3,N,N,LP,Liberal,547,-5.13
-VIC,200,Bendigo,3268,Castlemaine North,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,1171,4.65
-VIC,200,Bendigo,3268,Castlemaine North,21026,HUNTER,Craig,3,N,N,LP,Liberal,409,-4.65
-VIC,200,Bendigo,3142,Central Deborah,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,274,0.46
-VIC,200,Bendigo,3142,Central Deborah,21026,HUNTER,Craig,3,N,N,LP,Liberal,211,-0.46
+VIC,200,Bendigo,3268,Castlemaine North,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,1172,4.62
+VIC,200,Bendigo,3268,Castlemaine North,21026,HUNTER,Craig,3,N,N,LP,Liberal,410,-4.62
+VIC,200,Bendigo,3142,Central Deborah,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,275,0.67
+VIC,200,Bendigo,3142,Central Deborah,21026,HUNTER,Craig,3,N,N,LP,Liberal,210,-0.67
 VIC,200,Bendigo,3269,Chewton,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,488,-0.38
 VIC,200,Bendigo,3269,Chewton,21026,HUNTER,Craig,3,N,N,LP,Liberal,198,0.38
-VIC,200,Bendigo,3144,Comet Hill,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,1042,6.22
-VIC,200,Bendigo,3144,Comet Hill,21026,HUNTER,Craig,3,N,N,LP,Liberal,449,-6.22
+VIC,200,Bendigo,3144,Comet Hill,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,1045,6.28
+VIC,200,Bendigo,3144,Comet Hill,21026,HUNTER,Craig,3,N,N,LP,Liberal,449,-6.28
 VIC,200,Bendigo,30191,Divisional Office (PREPOLL),21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,0,-51.61
 VIC,200,Bendigo,30191,Divisional Office (PREPOLL),21026,HUNTER,Craig,3,N,N,LP,Liberal,0,-48.39
-VIC,200,Bendigo,3148,Dunolly,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,371,0.13
-VIC,200,Bendigo,3148,Dunolly,21026,HUNTER,Craig,3,N,N,LP,Liberal,320,-0.13
-VIC,200,Bendigo,3149,Eaglehawk,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,1220,0.98
-VIC,200,Bendigo,3149,Eaglehawk,21026,HUNTER,Craig,3,N,N,LP,Liberal,665,-0.98
-VIC,200,Bendigo,3191,Eaglehawk North,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,474,3.22
-VIC,200,Bendigo,3191,Eaglehawk North,21026,HUNTER,Craig,3,N,N,LP,Liberal,200,-3.22
+VIC,200,Bendigo,3148,Dunolly,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,373,0.5
+VIC,200,Bendigo,3148,Dunolly,21026,HUNTER,Craig,3,N,N,LP,Liberal,317,-0.5
+VIC,200,Bendigo,3149,Eaglehawk,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,1215,0.92
+VIC,200,Bendigo,3149,Eaglehawk,21026,HUNTER,Craig,3,N,N,LP,Liberal,664,-0.92
+VIC,200,Bendigo,3191,Eaglehawk North,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,473,3.17
+VIC,200,Bendigo,3191,Eaglehawk North,21026,HUNTER,Craig,3,N,N,LP,Liberal,200,-3.17
 VIC,200,Bendigo,4747,Elmore,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,203,2.71
 VIC,200,Bendigo,4747,Elmore,21026,HUNTER,Craig,3,N,N,LP,Liberal,305,-2.71
 VIC,200,Bendigo,3281,Elphinstone,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,181,-1.75
@@ -15610,8 +15610,8 @@ VIC,231,Murray,4062,Katamatite,21059,STONE,Sharman,1,N,Y,LP,Liberal,298,2.3
 VIC,231,Murray,4062,Katamatite,21091,MORTENSEN,Hugh,4,N,N,ALP,Australian Labor Party,67,-2.3
 VIC,231,Murray,4063,Katandra West,21059,STONE,Sharman,1,N,Y,LP,Liberal,346,2.45
 VIC,231,Murray,4063,Katandra West,21091,MORTENSEN,Hugh,4,N,N,ALP,Australian Labor Party,75,-2.45
-VIC,231,Murray,4758,Katunga,21059,STONE,Sharman,1,N,Y,LP,Liberal,331,2.38
-VIC,231,Murray,4758,Katunga,21091,MORTENSEN,Hugh,4,N,N,ALP,Australian Labor Party,90,-2.38
+VIC,231,Murray,4758,Katunga,21059,STONE,Sharman,1,N,Y,LP,Liberal,326,2.13
+VIC,231,Murray,4758,Katunga,21091,MORTENSEN,Hugh,4,N,N,ALP,Australian Labor Party,90,-2.13
 VIC,231,Murray,4761,Kialla,21059,STONE,Sharman,1,N,Y,LP,Liberal,328,0.47
 VIC,231,Murray,4761,Kialla,21091,MORTENSEN,Hugh,4,N,N,ALP,Australian Labor Party,97,-0.47
 VIC,231,Murray,32603,Kialla Park,21059,STONE,Sharman,1,N,Y,LP,Liberal,263,-0.68
