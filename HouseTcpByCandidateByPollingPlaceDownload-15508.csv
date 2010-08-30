@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T13:08:53 Cycle:0ac81f24-9097-4e52-ac4d-3b111ebfcdad Created:2010-08-30T12:48:52 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T13:24:26 Cycle:d7d8f1c3-5e25-40e6-b313-06a2a926474a Created:2010-08-30T13:03:52 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 ACT,101,Canberra,8829,Barton,20863,JONES,Giulia,1,N,N,LP,Liberal,790,-2.73
 ACT,101,Canberra,8829,Barton,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1399,2.73
@@ -4442,8 +4442,8 @@ NSW,139,Parkes,1085,Collarenebri,21089,BROOKS,Andrew,3,N,N,ALP,Country Labor,103
 NSW,139,Parkes,1085,Collarenebri,21023,COULTON,Mark,4,N,Y,NP,The Nationals,149,0.77
 NSW,139,Parkes,2165,Collie,21089,BROOKS,Andrew,3,N,N,ALP,Country Labor,12,1.45
 NSW,139,Parkes,2165,Collie,21023,COULTON,Mark,4,N,Y,NP,The Nationals,80,-1.45
-NSW,139,Parkes,2499,Condobolin,21089,BROOKS,Andrew,3,N,N,ALP,Country Labor,622,0.43
-NSW,139,Parkes,2499,Condobolin,21023,COULTON,Mark,4,N,Y,NP,The Nationals,976,-0.43
+NSW,139,Parkes,2499,Condobolin,21089,BROOKS,Andrew,3,N,N,ALP,Country Labor,622,0.41
+NSW,139,Parkes,2499,Condobolin,21023,COULTON,Mark,4,N,Y,NP,The Nationals,977,-0.41
 NSW,139,Parkes,2168,Coolabah,21089,BROOKS,Andrew,3,N,N,ALP,Country Labor,8,9.69
 NSW,139,Parkes,2168,Coolabah,21023,COULTON,Mark,4,N,Y,NP,The Nationals,30,-9.69
 NSW,139,Parkes,1087,Coolah,21089,BROOKS,Andrew,3,N,N,ALP,Country Labor,165,-1.41
@@ -4454,8 +4454,8 @@ NSW,139,Parkes,1089,Coonabarabran,21089,BROOKS,Andrew,3,N,N,ALP,Country Labor,74
 NSW,139,Parkes,1089,Coonabarabran,21023,COULTON,Mark,4,N,Y,NP,The Nationals,1330,5.49
 NSW,139,Parkes,2169,Coonamble,21089,BROOKS,Andrew,3,N,N,ALP,Country Labor,629,2.79
 NSW,139,Parkes,2169,Coonamble,21023,COULTON,Mark,4,N,Y,NP,The Nationals,892,-2.79
-NSW,139,Parkes,1091,Croppa Creek,21089,BROOKS,Andrew,3,N,N,ALP,Country Labor,8,-7.28
-NSW,139,Parkes,1091,Croppa Creek,21023,COULTON,Mark,4,N,Y,NP,The Nationals,79,7.28
+NSW,139,Parkes,1091,Croppa Creek,21089,BROOKS,Andrew,3,N,N,ALP,Country Labor,8,-7.39
+NSW,139,Parkes,1091,Croppa Creek,21023,COULTON,Mark,4,N,Y,NP,The Nationals,80,7.39
 NSW,139,Parkes,1093,Cumborah,21089,BROOKS,Andrew,3,N,N,ALP,Country Labor,40,-2.07
 NSW,139,Parkes,1093,Cumborah,21023,COULTON,Mark,4,N,Y,NP,The Nationals,90,2.07
 NSW,139,Parkes,2172,Curban,21089,BROOKS,Andrew,3,N,N,ALP,Country Labor,9,-0.06
@@ -9824,8 +9824,8 @@ SA,179,Adelaide,6654,Blair Athol North,20845,WESTLEY,Luke,2,N,N,LP,Liberal,251,3
 SA,179,Adelaide,6654,Blair Athol North,20987,ELLIS,Kate,5,N,Y,ALP,Australian Labor Party,671,-3.94
 SA,179,Adelaide,6655,Broadview,20845,WESTLEY,Luke,2,N,N,LP,Liberal,892,1.4
 SA,179,Adelaide,6655,Broadview,20987,ELLIS,Kate,5,N,Y,ALP,Australian Labor Party,1053,-1.4
-SA,179,Adelaide,7049,Brompton,20845,WESTLEY,Luke,2,N,N,LP,Liberal,401,2.11
-SA,179,Adelaide,7049,Brompton,20987,ELLIS,Kate,5,N,Y,ALP,Australian Labor Party,988,-2.11
+SA,179,Adelaide,7049,Brompton,20845,WESTLEY,Luke,2,N,N,LP,Liberal,377,0.62
+SA,179,Adelaide,7049,Brompton,20987,ELLIS,Kate,5,N,Y,ALP,Australian Labor Party,1000,-0.62
 SA,179,Adelaide,7010,Clarence Park,20845,WESTLEY,Luke,2,N,N,LP,Liberal,518,0.97
 SA,179,Adelaide,7010,Clarence Park,20987,ELLIS,Kate,5,N,Y,ALP,Australian Labor Party,547,-0.97
 SA,179,Adelaide,6664,College Park,20845,WESTLEY,Luke,2,N,N,LP,Liberal,714,1.36
@@ -10238,12 +10238,12 @@ SA,182,Boothby,6881,Mitcham,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Par
 SA,182,Boothby,6881,Mitcham,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,1583,-2.66
 SA,182,Boothby,7025,Mitchell Park,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,992,0.66
 SA,182,Boothby,7025,Mitchell Park,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,677,-0.66
-SA,182,Boothby,6882,Myrtle Bank,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,823,1.73
-SA,182,Boothby,6882,Myrtle Bank,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,1253,-1.73
-SA,182,Boothby,6883,Netherby,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,268,-2.2
-SA,182,Boothby,6883,Netherby,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,755,2.2
-SA,182,Boothby,7027,North Brighton,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,625,3.13
-SA,182,Boothby,7027,North Brighton,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,583,-3.13
+SA,182,Boothby,6882,Myrtle Bank,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,798,1.15
+SA,182,Boothby,6882,Myrtle Bank,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,1245,-1.15
+SA,182,Boothby,6883,Netherby,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,292,0.26
+SA,182,Boothby,6883,Netherby,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,727,-0.26
+SA,182,Boothby,7027,North Brighton,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,615,2.81
+SA,182,Boothby,7027,North Brighton,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,581,-2.81
 SA,182,Boothby,7029,Oaklands Park,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,733,2.37
 SA,182,Boothby,7029,Oaklands Park,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,642,-2.37
 SA,182,Boothby,31787,Oaklands Park PPVC,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,1267,-6.6
@@ -12298,8 +12298,8 @@ VIC,199,Batman,3101,Preston,21225,BHATHAL,Alexandra Kaur,3,N,N,GRN,Australian Gr
 VIC,199,Batman,3101,Preston,21035,FERGUSON,Martin John,5,N,Y,ALP,Australian Labor Party,761,63.05
 VIC,199,Batman,3102,Preston East,21225,BHATHAL,Alexandra Kaur,3,N,N,GRN,Australian Greens,607,35.41
 VIC,199,Batman,3102,Preston East,21035,FERGUSON,Martin John,5,N,Y,ALP,Australian Labor Party,1107,64.59
-VIC,199,Batman,3104,Preston North East,21225,BHATHAL,Alexandra Kaur,3,N,N,GRN,Australian Greens,0,0
-VIC,199,Batman,3104,Preston North East,21035,FERGUSON,Martin John,5,N,Y,ALP,Australian Labor Party,0,0
+VIC,199,Batman,3104,Preston North East,21225,BHATHAL,Alexandra Kaur,3,N,N,GRN,Australian Greens,402,27.11
+VIC,199,Batman,3104,Preston North East,21035,FERGUSON,Martin John,5,N,Y,ALP,Australian Labor Party,1081,72.89
 VIC,199,Batman,3105,Preston South,21225,BHATHAL,Alexandra Kaur,3,N,N,GRN,Australian Greens,577,40.92
 VIC,199,Batman,3105,Preston South,21035,FERGUSON,Martin John,5,N,Y,ALP,Australian Labor Party,833,59.08
 VIC,199,Batman,5114,Preston West,21225,BHATHAL,Alexandra Kaur,3,N,N,GRN,Australian Greens,957,38.54
@@ -12358,10 +12358,10 @@ VIC,200,Bendigo,3139,California Gully,21029,GIBBONS,Steve,1,N,Y,ALP,Australian L
 VIC,200,Bendigo,3139,California Gully,21026,HUNTER,Craig,3,N,N,LP,Liberal,278,0.14
 VIC,200,Bendigo,3265,Campbells Creek,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,748,4.62
 VIC,200,Bendigo,3265,Campbells Creek,21026,HUNTER,Craig,3,N,N,LP,Liberal,346,-4.62
-VIC,200,Bendigo,3266,Carisbrook,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,461,5.41
-VIC,200,Bendigo,3266,Carisbrook,21026,HUNTER,Craig,3,N,N,LP,Liberal,357,-5.41
-VIC,200,Bendigo,3267,Castlemaine,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,1377,5.15
-VIC,200,Bendigo,3267,Castlemaine,21026,HUNTER,Craig,3,N,N,LP,Liberal,547,-5.15
+VIC,200,Bendigo,3266,Carisbrook,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,457,5.05
+VIC,200,Bendigo,3266,Carisbrook,21026,HUNTER,Craig,3,N,N,LP,Liberal,359,-5.05
+VIC,200,Bendigo,3267,Castlemaine,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,1376,5.13
+VIC,200,Bendigo,3267,Castlemaine,21026,HUNTER,Craig,3,N,N,LP,Liberal,547,-5.13
 VIC,200,Bendigo,3268,Castlemaine North,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,1171,4.65
 VIC,200,Bendigo,3268,Castlemaine North,21026,HUNTER,Craig,3,N,N,LP,Liberal,409,-4.65
 VIC,200,Bendigo,3142,Central Deborah,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,274,0.46
@@ -15318,8 +15318,8 @@ VIC,228,Melbourne,4629,East Melbourne,21657,BANDT,Adam,2,N,N,GRN,Australian Gree
 VIC,228,Melbourne,4629,East Melbourne,21650,BOWTELL,Cath,6,N,N,ALP,Australian Labor Party,682,-8.29
 VIC,228,Melbourne,4631,Fitzroy,21657,BANDT,Adam,2,N,N,GRN,Australian Greens,894,15.35
 VIC,228,Melbourne,4631,Fitzroy,21650,BOWTELL,Cath,6,N,N,ALP,Australian Labor Party,733,-15.35
-VIC,228,Melbourne,33053,Fitzroy East,21657,BANDT,Adam,2,N,N,GRN,Australian Greens,1415,12.22
-VIC,228,Melbourne,33053,Fitzroy East,21650,BOWTELL,Cath,6,N,N,ALP,Australian Labor Party,937,-12.22
+VIC,228,Melbourne,33053,Fitzroy East,21657,BANDT,Adam,2,N,N,GRN,Australian Greens,1418,12.27
+VIC,228,Melbourne,33053,Fitzroy East,21650,BOWTELL,Cath,6,N,N,ALP,Australian Labor Party,937,-12.27
 VIC,228,Melbourne,4633,Fitzroy North,21657,BANDT,Adam,2,N,N,GRN,Australian Greens,1410,13.53
 VIC,228,Melbourne,4633,Fitzroy North,21650,BOWTELL,Cath,6,N,N,ALP,Australian Labor Party,900,-13.53
 VIC,228,Melbourne,4634,Flemington,21657,BANDT,Adam,2,N,N,GRN,Australian Greens,1030,10.52
@@ -15612,8 +15612,8 @@ VIC,231,Murray,4063,Katandra West,21059,STONE,Sharman,1,N,Y,LP,Liberal,346,2.45
 VIC,231,Murray,4063,Katandra West,21091,MORTENSEN,Hugh,4,N,N,ALP,Australian Labor Party,75,-2.45
 VIC,231,Murray,4758,Katunga,21059,STONE,Sharman,1,N,Y,LP,Liberal,331,2.38
 VIC,231,Murray,4758,Katunga,21091,MORTENSEN,Hugh,4,N,N,ALP,Australian Labor Party,90,-2.38
-VIC,231,Murray,4761,Kialla,21059,STONE,Sharman,1,N,Y,LP,Liberal,329,0.34
-VIC,231,Murray,4761,Kialla,21091,MORTENSEN,Hugh,4,N,N,ALP,Australian Labor Party,98,-0.34
+VIC,231,Murray,4761,Kialla,21059,STONE,Sharman,1,N,Y,LP,Liberal,328,0.47
+VIC,231,Murray,4761,Kialla,21091,MORTENSEN,Hugh,4,N,N,ALP,Australian Labor Party,97,-0.47
 VIC,231,Murray,32603,Kialla Park,21059,STONE,Sharman,1,N,Y,LP,Liberal,263,-0.68
 VIC,231,Murray,32603,Kialla Park,21091,MORTENSEN,Hugh,4,N,N,ALP,Australian Labor Party,111,0.68
 VIC,231,Murray,4762,Kialla West,21059,STONE,Sharman,1,N,Y,LP,Liberal,357,0.66
