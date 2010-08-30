@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T12:53:35 Cycle:b949a651-702b-483a-93b2-a58224ac2f47 Created:2010-08-30T12:33:51 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T13:08:57 Cycle:0ac81f24-9097-4e52-ac4d-3b111ebfcdad Created:2010-08-30T12:48:52 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -4293,7 +4293,7 @@ QLD,302,Longman,55950,Kallangur (Longman),768,55.45,617,44.55,1385,-5.54
 QLD,302,Longman,55954,Kallangur East (Longman),203,58.17,146,41.83,349,-2.37
 QLD,302,Longman,55951,Kallangur West (Longman),404,55.49,324,44.51,728,-3.8
 QLD,302,Longman,31486,Morayfield,2120,53.55,1839,46.45,3959,-2.94
-QLD,302,Longman,11997,Morayfield East,1373,53.28,1204,46.72,2577,-2.83
+QLD,302,Longman,11997,Morayfield East,1375,53.29,1205,46.71,2580,-2.82
 QLD,302,Longman,32501,Morayfield West,1250,51.19,1192,48.81,2442,-3.49
 QLD,302,Longman,5499,Mount Mee,105,37.1,178,62.9,283,0.94
 QLD,302,Longman,5502,Narangba,975,45.82,1153,54.18,2128,-5.04
@@ -4902,7 +4902,7 @@ QLD,316,Wright,5650,Withcott,365,31.3,801,68.7,1166,-9.24
 QLD,316,Wright,6296,Woodhill,533,40.91,770,59.09,1303,-3.2
 SA,179,Adelaide,6648,Adelaide (Adelaide),228,72.61,86,27.39,314,6.16
 SA,179,Adelaide,32952,Adelaide ADELAIDE PPVC,1033,56.29,802,43.71,1835,8.14
-SA,179,Adelaide,6649,Adelaide East,646,58.3,462,41.7,1108,2.14
+SA,179,Adelaide,6649,Adelaide East,646,58.51,458,41.49,1104,2.35
 SA,179,Adelaide,58808,Adelaide East PPVC,0,0,0,0,0,0
 SA,179,Adelaide,6650,Adelaide Hospital,292,56.81,222,43.19,514,-7.8
 SA,179,Adelaide,6651,Adelaide South,1241,62.49,745,37.51,1986,0.97
@@ -4925,7 +4925,7 @@ SA,179,Adelaide,6660,Enfield North (Adelaide),731,69.55,320,30.45,1051,-2.56
 SA,179,Adelaide,6661,Enfield South,194,63.4,112,36.6,306,0.32
 SA,179,Adelaide,6868,Fullarton,758,47.7,831,52.3,1589,-2.36
 SA,179,Adelaide,6871,Goodwood,1017,69,457,31,1474,1.01
-SA,179,Adelaide,6872,Goodwood Park,601,61.83,371,38.17,972,2.8
+SA,179,Adelaide,6872,Goodwood Park,597,61.93,367,38.07,964,2.9
 SA,179,Adelaide,6663,Greenacres,780,63.99,439,36.01,1219,1.46
 SA,179,Adelaide,6671,Hampstead Gardens,537,60.27,354,39.73,891,0.12
 SA,179,Adelaide,7066,Hindmarsh,71,67.62,34,32.38,105,2.43
@@ -4945,12 +4945,12 @@ SA,179,Adelaide,12082,Northfield South,773,63.62,442,36.38,1215,-0.24
 SA,179,Adelaide,38208,Northgate,732,55.92,577,44.08,1309,1.91
 SA,179,Adelaide,7311,Norwood (Adelaide),616,57.57,454,42.43,1070,-0.28
 SA,179,Adelaide,7312,Norwood West,1162,56.9,880,43.1,2042,1.2
-SA,179,Adelaide,6886,Parkside East,1135,60.5,741,39.5,1876,1.17
+SA,179,Adelaide,6886,Parkside East,1127,60.46,737,39.54,1864,1.13
 SA,179,Adelaide,6679,Prospect,1901,64.38,1052,35.62,2953,7.2
 SA,179,Adelaide,6683,Prospect East,197,63.75,112,36.25,309,1.1
 SA,179,Adelaide,6681,Prospect North,1309,64.93,707,35.07,2016,-0.41
 SA,179,Adelaide,6682,Prospect South,905,54.82,746,45.18,1651,0.83
-SA,179,Adelaide,7077,Renown Park,1096,74.97,366,25.03,1462,1.63
+SA,179,Adelaide,7077,Renown Park,1091,75.09,362,24.91,1453,1.75
 SA,179,Adelaide,6888,Rose Park,786,43.19,1034,56.81,1820,0.93
 SA,179,Adelaide,33202,Special Hospital Team 1,30,34.88,56,65.12,86,-10.12
 SA,179,Adelaide,33203,Special Hospital Team 2,26,49.06,27,50.94,53,3.73
@@ -5116,9 +5116,9 @@ SA,182,Boothby,6879,Kingswood,719,46.9,814,53.1,1533,3.29
 SA,182,Boothby,7104,Marino,661,50.23,655,49.77,1316,3.15
 SA,182,Boothby,7024,Marion,592,55.48,475,44.52,1067,6.41
 SA,182,Boothby,7037,Marion South,422,49.47,431,50.53,853,1.3
-SA,182,Boothby,7013,Melrose Park,1169,56.91,885,43.09,2054,4.57
-SA,182,Boothby,6881,Mitcham,1032,39.39,1588,60.61,2620,2.72
-SA,182,Boothby,7025,Mitchell Park,997,59.59,676,40.41,1673,0.81
+SA,182,Boothby,7013,Melrose Park,1159,56.76,883,43.24,2042,4.42
+SA,182,Boothby,6881,Mitcham,1026,39.33,1583,60.67,2609,2.66
+SA,182,Boothby,7025,Mitchell Park,992,59.44,677,40.56,1669,0.66
 SA,182,Boothby,6882,Myrtle Bank,823,39.64,1253,60.36,2076,1.73
 SA,182,Boothby,6883,Netherby,268,26.2,755,73.8,1023,-2.2
 SA,182,Boothby,7027,North Brighton,625,51.74,583,48.26,1208,3.13
@@ -5351,7 +5351,7 @@ SA,186,Kingston,7110,O'Halloran Hill,1548,62.42,932,37.58,2480,10.3
 SA,186,Kingston,7217,Old Noarlunga,490,62.1,299,37.9,789,7.64
 SA,186,Kingston,31288,Onkaparinga Hills,910,66.52,458,33.48,1368,11.83
 SA,186,Kingston,7111,O'Sullivan Beach,773,69.64,337,30.36,1110,8
-SA,186,Kingston,7112,Pimpala,1212,65.23,646,34.77,1858,12.28
+SA,186,Kingston,7112,Pimpala,1212,65.34,643,34.66,1855,12.39
 SA,186,Kingston,7113,Port Noarlunga,1005,68,473,32,1478,10.23
 SA,186,Kingston,7114,Reynella,1648,64.63,902,35.37,2550,8.73
 SA,186,Kingston,7115,Reynella East,2249,65.59,1180,34.41,3429,9.82
@@ -6178,7 +6178,7 @@ VIC,200,Bendigo,32094,Bendigo PPVC,4178,55.14,3399,44.86,7577,3.17
 VIC,200,Bendigo,3134,Big Hill,306,51.52,288,48.48,594,6.33
 VIC,200,Bendigo,3136,Bowenvale,165,54.64,137,45.36,302,-2.96
 VIC,200,Bendigo,3139,California Gully,555,66.63,278,33.37,833,-0.14
-VIC,200,Bendigo,3265,Campbells Creek,746,68.32,346,31.68,1092,4.57
+VIC,200,Bendigo,3265,Campbells Creek,748,68.37,346,31.63,1094,4.62
 VIC,200,Bendigo,3266,Carisbrook,461,56.36,357,43.64,818,5.41
 VIC,200,Bendigo,3267,Castlemaine,1377,71.57,547,28.43,1924,5.15
 VIC,200,Bendigo,3268,Castlemaine North,1171,74.11,409,25.89,1580,4.65
@@ -7627,7 +7627,7 @@ VIC,227,McMillan,3835,Toora,229,44.73,283,55.27,512,0.77
 VIC,227,McMillan,4427,Trafalgar,819,43.8,1051,56.2,1870,-1.87
 VIC,227,McMillan,4433,Tynong,135,38.46,216,61.54,351,-0.19
 VIC,227,McMillan,4913,Tynong North,42,36.84,72,63.16,114,6.54
-VIC,227,McMillan,46587,Vision Australia PPVC,221,34.26,424,65.74,645,-9.99
+VIC,227,McMillan,46587,Vision Australia PPVC,226,34.77,424,65.23,650,-9.48
 VIC,227,McMillan,4434,Warragul,893,45.68,1062,54.32,1955,0.47
 VIC,227,McMillan,4435,Warragul East,503,40.66,734,59.34,1237,-0.64
 VIC,227,McMillan,4436,Warragul North,690,42.78,923,57.22,1613,3.74
@@ -7704,15 +7704,15 @@ VIC,230,Melbourne Ports,3863,Elsternwick,1235,62.03,756,37.97,1991,4.33
 VIC,230,Melbourne Ports,3864,Elsternwick North,703,56.83,534,43.17,1237,-2.51
 VIC,230,Melbourne Ports,4661,Elwood,880,62.32,532,37.68,1412,3.72
 VIC,230,Melbourne Ports,4662,Elwood North,2172,68.11,1017,31.89,3189,-0.43
-VIC,230,Melbourne Ports,4663,Emerald Hill,1079,57.7,791,42.3,1870,-0.47
+VIC,230,Melbourne Ports,4663,Emerald Hill,1097,57.65,806,42.35,1903,-0.52
 VIC,230,Melbourne Ports,4665,Graham,673,57.57,496,42.43,1169,-0.71
 VIC,230,Melbourne Ports,4669,Kerferd,1763,54.62,1465,45.38,3228,-0.09
 VIC,230,Melbourne Ports,32038,Melbourne (Melbourne Ports),420,55.26,340,44.74,760,-0.71
-VIC,230,Melbourne Ports,58803,Melbourne CBD MELBOURNE PORTS PPVC,502,59.83,337,40.17,839,2.29
-VIC,230,Melbourne Ports,58641,Melbourne Central MELB PORTS PPVC,408,50.75,396,49.25,804,-6.77
+VIC,230,Melbourne Ports,58803,Melbourne CBD MELBOURNE PORTS PPVC,507,60.07,337,39.93,844,2.53
+VIC,230,Melbourne Ports,58641,Melbourne Central MELB PORTS PPVC,413,51.37,391,48.63,804,-6.15
 VIC,230,Melbourne Ports,4655,Melbourne South,595,45.21,721,54.79,1316,-5.85
 VIC,230,Melbourne Ports,58782,Melbourne West MELB PORTS PPVC,554,51.73,517,48.27,1071,-5.82
-VIC,230,Melbourne Ports,4670,Middle Park,446,59.15,308,40.85,754,0.83
+VIC,230,Melbourne Ports,4670,Middle Park,446,58.84,312,41.16,758,0.52
 VIC,230,Melbourne Ports,4672,Port Melbourne,1721,56.32,1335,43.68,3056,0.41
 VIC,230,Melbourne Ports,8904,Redan Central,700,68.69,319,31.31,1019,-0.89
 VIC,230,Melbourne Ports,3879,Ripponlea East,714,65.5,376,34.5,1090,3.02
@@ -7723,11 +7723,11 @@ VIC,230,Melbourne Ports,36435,Southbank,758,53.23,666,46.77,1424,5.3
 VIC,230,Melbourne Ports,4690,Special Hospital Team 1,65,58.56,46,41.44,111,7.59
 VIC,230,Melbourne Ports,11584,Special Hospital Team 2,23,65.71,12,34.29,35,13.79
 VIC,230,Melbourne Ports,4681,St Kilda,2012,70.2,854,29.8,2866,-1.88
-VIC,230,Melbourne Ports,4682,St Kilda Beach,636,66.46,321,33.54,957,-4.56
+VIC,230,Melbourne Ports,4682,St Kilda Beach,636,66.39,322,33.61,958,-4.63
 VIC,230,Melbourne Ports,4683,St Kilda North,1192,70.37,502,29.63,1694,4.52
 VIC,230,Melbourne Ports,4684,St Kilda Park,1562,67.91,738,32.09,2300,1.56
-VIC,230,Melbourne Ports,11763,St Kilda PPVC,3108,59.71,2097,40.29,5205,2.18
-VIC,230,Melbourne Ports,4685,St Kilda South,1350,70.83,556,29.17,1906,-0.92
+VIC,230,Melbourne Ports,11763,St Kilda PPVC,3116,59.77,2097,40.23,5213,2.24
+VIC,230,Melbourne Ports,4685,St Kilda South,1307,68.64,597,31.36,1904,-3.11
 VIC,229,Menzies,4692,Beverley Hills,1128,47.04,1270,52.96,2398,-1.13
 VIC,229,Menzies,4694,Bulleen,1290,48.15,1389,51.85,2679,-2
 VIC,229,Menzies,4695,Bulleen West,494,50.46,485,49.54,979,-4.19
