@@ -1,4 +1,4 @@
-2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T17:15:49 Cycle:cc5610c5-2182-4d5a-bf69-17d0d641908a Created:2010-08-30T16:56:45 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T17:31:05 Cycle:13abbfe4-1e06-46fb-a446-88f2315d26d4 Created:2010-08-30T17:11:45 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent
 119,Fowler,NSW,63932,8217,72149,11.39
 251,Watson,NSW,67168,8413,75581,11.13
@@ -7,7 +7,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 309,Gorton,VIC,81931,7688,89619,8.58
 153,Werriwa,NSW,59334,5525,64859,8.52
 203,Calwell,VIC,70596,6256,76852,8.14
-104,Barton,NSW,65358,5719,71077,8.05
+104,Barton,NSW,65377,5719,71096,8.04
 225,Maribyrnong,VIC,61314,5348,66662,8.02
 111,Chifley,NSW,58898,5086,63984,7.95
 234,Wills,VIC,67805,5596,73401,7.62
@@ -23,7 +23,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 150,Throsby,NSW,66991,4215,71206,5.92
 103,Banks,NSW,75980,4758,80738,5.89
 222,Lalor,VIC,94564,5917,100481,5.89
-122,Greenway,NSW,72384,4510,76894,5.87
+122,Greenway,NSW,73189,4538,77727,5.84
 174,Oxley,QLD,64396,3977,68373,5.82
 127,Kingsford Smith,NSW,64405,3917,68322,5.73
 231,Murray,VIC,67627,3949,71576,5.52
@@ -43,15 +43,15 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 229,Menzies,VIC,66951,3559,70510,5.05
 110,Charlton,NSW,74969,3949,78918,5
 250,Riverina,NSW,75169,3932,79101,4.97
-196,Lyons,TAS,61253,3173,64426,4.93
 148,Shortland,NSW,72963,3780,76743,4.93
 305,Hasluck,WA,63622,3288,66910,4.91
 226,McEwen,VIC,81816,4192,86008,4.87
 189,Port Adelaide,SA,82033,4191,86224,4.86
+196,Lyons,TAS,63161,3209,66370,4.84
 118,Farrer,NSW,74352,3776,78128,4.83
 316,Wright,QLD,69597,3444,73041,4.72
 208,Corio,VIC,74365,3666,78031,4.7
-172,Moncrieff,QLD,71568,3509,75077,4.67
+172,Moncrieff,QLD,71585,3509,75094,4.67
 139,Parkes,NSW,80470,3932,84402,4.66
 191,Wakefield,SA,75710,3699,79409,4.66
 224,Mallee,VIC,72975,3551,76526,4.64
@@ -61,8 +61,8 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 246,Stirling,WA,65906,3179,69085,4.6
 306,Lingiari,NT,37933,1826,39759,4.59
 175,Petrie,QLD,58684,2821,61505,4.59
-171,McPherson,QLD,71834,3382,75216,4.5
 146,Robertson,NSW,63404,2976,66380,4.48
+171,McPherson,QLD,73839,3429,77268,4.44
 173,Moreton,QLD,65035,3021,68056,4.44
 193,Braddon,TAS,61211,2839,64050,4.43
 168,Leichhardt,QLD,70411,3265,73676,4.43
@@ -98,9 +98,9 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 164,Groom,QLD,70989,2966,73955,4.01
 120,Gilmore,NSW,68593,2854,71447,3.99
 160,Fairfax,QLD,67874,2812,70686,3.98
-192,Bass,TAS,61711,2554,64265,3.97
 228,Melbourne,VIC,67391,2786,70177,3.97
 227,McMillan,VIC,71518,2951,74469,3.96
+192,Bass,TAS,63198,2598,65796,3.95
 169,Lilley,QLD,72966,2995,75961,3.94
 105,Bennelong,NSW,74945,3063,78008,3.93
 249,Paterson,NSW,75354,3082,78436,3.93
@@ -127,7 +127,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 187,Makin,SA,82853,2935,85788,3.42
 214,Goldstein,VIC,72361,2528,74889,3.38
 145,Richmond,NSW,70714,2428,73142,3.32
-106,Berowra,NSW,72249,2426,74675,3.25
+106,Berowra,NSW,72250,2426,74676,3.25
 152,Wentworth,NSW,63138,2122,65260,3.25
 137,North Sydney,NSW,71316,2363,73679,3.21
 195,Franklin,TAS,58910,1942,60852,3.19
@@ -142,7 +142,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 102,Fraser,ACT,97896,2910,100806,2.89
 188,Mayo,SA,73837,2166,76003,2.85
 221,Kooyong,VIC,59984,1752,61736,2.84
-248,Tangney,WA,75768,2151,77919,2.76
+248,Tangney,WA,75784,2151,77935,2.76
 215,Higgins,VIC,55623,1569,57192,2.74
 151,Warringah,NSW,65303,1806,67109,2.69
 182,Boothby,SA,69766,1890,71656,2.64
