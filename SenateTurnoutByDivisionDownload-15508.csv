@@ -1,11 +1,11 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T17:00:49 Cycle:8960a29c-37b9-4e22-be4f-3336e6b75e2b Created:2010-08-30T16:41:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T17:15:49 Cycle:cc5610c5-2182-4d5a-bf69-17d0d641908a Created:2010-08-30T16:56:45 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 179,Adelaide,SA,98526,74295,75.41
 197,Aston,VIC,93448,78076,83.55
 198,Ballarat,VIC,97802,78621,80.39
 103,Banks,NSW,98762,80738,81.75
 180,Barker,SA,104888,84597,80.65
-104,Barton,NSW,95243,71025,74.57
+104,Barton,NSW,95243,71077,74.57
 192,Bass,TAS,71689,64265,89.64
 199,Batman,VIC,89160,67335,75.52
 200,Bendigo,VIC,100701,85049,84.46
@@ -22,10 +22,10 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 156,Brisbane,QLD,92222,64960,70.44
 201,Bruce,VIC,88171,64338,72.97
 109,Calare,NSW,98504,80191,81.41
-203,Calwell,VIC,101314,76852,75.5
+203,Calwell,VIC,101314,76852,75.86
 101,Canberra,ACT,124215,101577,81.78
 236,Canning,WA,90107,74577,82.76
-157,Capricornia,QLD,91962,72311,78.62
+157,Capricornia,QLD,91962,72311,78.63
 204,Casey,VIC,92357,73445,79.52
 110,Charlton,NSW,94480,78918,83.53
 111,Chifley,NSW,97605,63984,65.55
@@ -41,7 +41,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 209,Deakin,VIC,87744,67958,77.45
 194,Denison,TAS,71349,55596,77.92
 252,Dickson,QLD,90111,65891,73.12
-115,Dobell,NSW,93661,80825,85.25
+115,Dobell,NSW,93661,80825,86.3
 210,Dunkley,VIC,95324,71233,74.73
 312,Durack,WA,85782,54153,63.13
 117,Eden-Monaro,NSW,96465,75277,78.04
@@ -49,7 +49,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 160,Fairfax,QLD,89743,70686,78.76
 118,Farrer,NSW,94061,78128,83.06
 161,Fisher,QLD,83754,65781,78.54
-211,Flinders,VIC,100875,79539,78.76
+211,Flinders,VIC,100875,79539,78.85
 311,Flynn,QLD,91377,70046,76.66
 162,Forde,QLD,82558,61372,74.34
 239,Forrest,WA,89636,67932,75.79
@@ -59,8 +59,8 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 240,Fremantle,WA,93341,73309,78.54
 212,Gellibrand,VIC,95611,69815,73.02
 120,Gilmore,NSW,96317,71447,74.18
-213,Gippsland,VIC,97543,81537,83.59
-214,Goldstein,VIC,93945,69615,74.1
+213,Gippsland,VIC,97543,81540,83.59
+214,Goldstein,VIC,93945,74889,74.1
 309,Gorton,VIC,113656,89619,78.85
 121,Grayndler,NSW,98112,70143,71.49
 122,Greenway,NSW,93828,76894,81.95
@@ -97,7 +97,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 132,Mackellar,NSW,98556,78867,80.02
 133,Macquarie,NSW,97560,79759,81.75
 187,Makin,SA,96263,85788,89.12
-224,Mallee,VIC,89840,76492,85.14
+224,Mallee,VIC,89840,76526,85.14
 170,Maranoa,QLD,97957,73445,74.98
 225,Maribyrnong,VIC,88412,66662,75.4
 188,Mayo,SA,101565,76003,74.83
@@ -109,7 +109,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 230,Melbourne Ports,VIC,97765,60478,61.86
 229,Menzies,VIC,90966,70510,77.51
 134,Mitchell,NSW,93588,79037,84.45
-172,Moncrieff,QLD,89087,75051,84.24
+172,Moncrieff,QLD,89087,75077,84.24
 242,Moore,WA,92295,77475,83.94
 173,Moreton,QLD,92733,68056,73.39
 231,Murray,VIC,90218,71576,79.34
@@ -122,14 +122,14 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 139,Parkes,NSW,100169,84402,84.26
 140,Parramatta,NSW,94014,72430,77.04
 249,Paterson,NSW,92149,78436,85.12
-244,Pearce,WA,89526,67762,73.42
+244,Pearce,WA,89526,67762,75.69
 245,Perth,WA,91904,68089,74.09
 175,Petrie,QLD,86683,61505,70.95
 189,Port Adelaide,SA,104308,86224,82.66
 176,Rankin,QLD,94602,73306,77.49
 144,Reid,NSW,95873,78655,82.04
 145,Richmond,NSW,92384,73142,79.17
-250,Riverina,NSW,98594,79072,80.2
+250,Riverina,NSW,98594,79101,80.2
 146,Robertson,NSW,96593,66380,68.72
 177,Ryan,QLD,98224,70652,71.93
 232,Scullin,VIC,90822,75655,83.3
@@ -142,7 +142,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 248,Tangney,WA,92176,77919,84.53
 150,Throsby,NSW,95874,71206,74.27
 191,Wakefield,SA,100209,79409,79.24
-233,Wannon,VIC,92264,75826,82.15
+233,Wannon,VIC,92264,75826,82.18
 151,Warringah,NSW,96706,67109,69.39
 251,Watson,NSW,97765,75581,77.31
 152,Wentworth,NSW,101464,65260,64.32

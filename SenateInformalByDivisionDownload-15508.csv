@@ -1,4 +1,4 @@
-2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T17:00:49 Cycle:8960a29c-37b9-4e22-be4f-3336e6b75e2b Created:2010-08-30T16:41:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T17:15:49 Cycle:cc5610c5-2182-4d5a-bf69-17d0d641908a Created:2010-08-30T16:56:45 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent
 119,Fowler,NSW,63932,8217,72149,11.39
 251,Watson,NSW,67168,8413,75581,11.13
@@ -7,7 +7,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 309,Gorton,VIC,81931,7688,89619,8.58
 153,Werriwa,NSW,59334,5525,64859,8.52
 203,Calwell,VIC,70596,6256,76852,8.14
-104,Barton,NSW,65306,5719,71025,8.05
+104,Barton,NSW,65358,5719,71077,8.05
 225,Maribyrnong,VIC,61314,5348,66662,8.02
 111,Chifley,NSW,58898,5086,63984,7.95
 234,Wills,VIC,67805,5596,73401,7.62
@@ -42,7 +42,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 165,Herbert,QLD,62909,3396,66305,5.12
 229,Menzies,VIC,66951,3559,70510,5.05
 110,Charlton,NSW,74969,3949,78918,5
-250,Riverina,NSW,75140,3932,79072,4.97
+250,Riverina,NSW,75169,3932,79101,4.97
 196,Lyons,TAS,61253,3173,64426,4.93
 148,Shortland,NSW,72963,3780,76743,4.93
 305,Hasluck,WA,63622,3288,66910,4.91
@@ -51,10 +51,10 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 118,Farrer,NSW,74352,3776,78128,4.83
 316,Wright,QLD,69597,3444,73041,4.72
 208,Corio,VIC,74365,3666,78031,4.7
-172,Moncrieff,QLD,71542,3509,75051,4.68
+172,Moncrieff,QLD,71568,3509,75077,4.67
 139,Parkes,NSW,80470,3932,84402,4.66
 191,Wakefield,SA,75710,3699,79409,4.66
-224,Mallee,VIC,72941,3551,76492,4.64
+224,Mallee,VIC,72975,3551,76526,4.64
 233,Wannon,VIC,72311,3515,75826,4.64
 166,Hinkler,QLD,61440,2972,64412,4.61
 126,Hunter,NSW,72371,3490,75861,4.6
@@ -107,7 +107,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 244,Pearce,WA,65121,2641,67762,3.9
 157,Capricornia,QLD,69518,2793,72311,3.86
 163,Griffith,QLD,64707,2552,67259,3.79
-213,Gippsland,VIC,78483,3054,81537,3.75
+213,Gippsland,VIC,78486,3054,81540,3.75
 223,La Trobe,VIC,74012,2886,76898,3.75
 230,Melbourne Ports,VIC,58208,2270,60478,3.75
 239,Forrest,WA,65388,2544,67932,3.74
@@ -123,9 +123,9 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 204,Casey,VIC,70816,2629,73445,3.58
 185,Hindmarsh,SA,72718,2688,75406,3.56
 134,Mitchell,NSW,76225,2812,79037,3.56
-214,Goldstein,VIC,67166,2449,69615,3.52
 132,Mackellar,NSW,76099,2768,78867,3.51
 187,Makin,SA,82853,2935,85788,3.42
+214,Goldstein,VIC,72361,2528,74889,3.38
 145,Richmond,NSW,70714,2428,73142,3.32
 106,Berowra,NSW,72249,2426,74675,3.25
 152,Wentworth,NSW,63138,2122,65260,3.25
