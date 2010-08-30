@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T10:51:39 Cycle:6e1075d2-9191-43d1-9059-7a4c54817c2b Created:2010-08-30T10:33:20 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T11:07:13 Cycle:96a76bb6-b3fd-40db-91e6-25555b890ee4 Created:2010-08-30T10:48:25 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -594,7 +594,7 @@ NSW,111,Chifley,405,Rooty Hill East,219,54.61,182,45.39,401,-10.3
 NSW,111,Chifley,407,Rooty Hill North,1818,63.06,1065,36.94,2883,-8.84
 NSW,111,Chifley,408,Rooty Hill South,1107,56.48,853,43.52,1960,-14.63
 NSW,111,Chifley,411,Shalvey,967,71.37,388,28.63,1355,-6.71
-NSW,111,Chifley,44088,Special Hospital Team 1,0,0,0,0,0,-34.59
+NSW,111,Chifley,44088,Special Hospital Team 1,26,29.55,62,70.45,88,-5.04
 NSW,111,Chifley,14039,Sydney (Chifley),45,63.38,26,36.62,71,-2.18
 NSW,111,Chifley,412,Tregear,1084,67.62,519,32.38,1603,-8.32
 NSW,111,Chifley,414,Whalan,1017,71.42,407,28.58,1424,-7.23
@@ -1049,7 +1049,7 @@ NSW,119,Fowler,876,Cabramatta West Central,1602,59.93,1071,40.07,2673,-18.73
 NSW,119,Fowler,2331,Canley Heights,1575,62.35,951,37.65,2526,-15.76
 NSW,119,Fowler,2332,Canley Vale,1544,63.2,899,36.8,2443,-18.23
 NSW,119,Fowler,31654,Canley Vale North,548,62.49,329,37.51,877,-11.52
-NSW,119,Fowler,871,Cartwright,740,68.39,342,31.61,1082,-7.94
+NSW,119,Fowler,871,Cartwright,746,69.01,335,30.99,1081,-7.32
 NSW,119,Fowler,31747,Cecil Hills,1498,46.81,1702,53.19,3200,-13.47
 NSW,119,Fowler,37055,Cecil Hills North,190,44.92,233,55.08,423,-11.11
 NSW,119,Fowler,30110,Divisional Office (PREPOLL),860,59.07,596,40.93,1456,-7.21
@@ -1074,7 +1074,7 @@ NSW,119,Fowler,892,Sadleir,555,68.94,250,31.06,805,-12.97
 NSW,119,Fowler,58587,Special Hospital Team 1,3,23.08,10,76.92,13,-40.08
 NSW,119,Fowler,893,St Johns Park,1586,59.92,1061,40.08,2647,-14.28
 NSW,119,Fowler,14058,Sydney (Fowler),35,47.3,39,52.7,74,-13.65
-NSW,119,Fowler,894,Wakeley,1581,57.83,1153,42.17,2734,-14.37
+NSW,119,Fowler,894,Wakeley,1580,57.75,1156,42.25,2736,-14.45
 NSW,120,Gilmore,11921,Barrack Heights,672,70.74,278,29.26,950,-10.34
 NSW,120,Gilmore,11943,Basin View,492,47.77,538,52.23,1030,-5.49
 NSW,120,Gilmore,671,Bawley Point,274,54.26,231,45.74,505,-4.53
@@ -5089,11 +5089,11 @@ SA,180,Barker,6807,Winkie,76,36.71,131,63.29,207,-0.23
 SA,180,Barker,6809,Wolseley,40,33.61,79,66.39,119,1.89
 SA,180,Barker,7241,Woods Point,47,27.01,127,72.99,174,0.22
 SA,180,Barker,6813,Yahl,139,35.01,258,64.99,397,-7.42
-SA,182,Boothby,33173,Aberfoyle Park North (Boothby),390,52.99,346,47.01,736,7.84
+SA,182,Boothby,33173,Aberfoyle Park North (Boothby),392,53.26,344,46.74,736,8.11
 SA,182,Boothby,31785,Adelaide (Boothby),61,61,39,39,100,7.28
 SA,182,Boothby,58733,Adelaide BOOTHBY PPVC,267,48.19,287,51.81,554,-2.64
-SA,182,Boothby,7007,Ascot Park South,485,65.01,261,34.99,746,4.31
-SA,182,Boothby,6858,Bedford Park,391,58.53,277,41.47,668,1.95
+SA,182,Boothby,7007,Ascot Park South,482,64.52,265,35.48,747,3.82
+SA,182,Boothby,6858,Bedford Park,401,59.85,269,40.15,670,3.27
 SA,182,Boothby,6859,Belair,1834,53.04,1624,46.96,3458,7.24
 SA,182,Boothby,6860,Bellevue Heights,765,44.68,947,55.32,1712,-0.42
 SA,182,Boothby,6861,Blackwood,958,44.87,1177,55.13,2135,2.3
@@ -5674,7 +5674,7 @@ SA,191,Wakefield,7429,Two Wells,1110,53.86,951,46.14,2061,5.03
 SA,191,Wakefield,7430,Virginia (Wakefield),590,51.26,561,48.74,1151,2.78
 SA,191,Wakefield,7435,Wasleys,189,55.59,151,44.41,340,4.25
 SA,191,Wakefield,7436,Watervale,148,43.4,193,56.6,341,4.3
-SA,191,Wakefield,7438,Willaston - Hewett,1497,56.47,1154,43.53,2651,9.18
+SA,191,Wakefield,7438,Willaston - Hewett,1496,56.43,1155,43.57,2651,9.14
 TAS,192,Bass,8289,Blessington Upper,44,48.35,47,51.65,91,0.46
 TAS,192,Bass,8290,Branxholm,94,48.21,101,51.79,195,-4.84
 TAS,192,Bass,8291,Bridport,456,42.86,608,57.14,1064,4.13
