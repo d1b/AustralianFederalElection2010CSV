@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T14:42:03 Cycle:bc80bd46-be7c-4239-a4f4-faff0add92c3 Created:2010-08-30T14:26:38 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T14:57:45 Cycle:07c2f222-5bc3-4626-a2f4-7883130277e9 Created:2010-08-30T14:41:43 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -426,11 +426,11 @@ NSW,109,Calare,2183,Eugowra,98,20.25,386,79.75,484,-3.99
 NSW,109,Calare,2186,Forbes,597,27.2,1598,72.8,2195,-7.05
 NSW,109,Calare,2187,Forbes Hospital,45,26.32,126,73.68,171,-4.75
 NSW,109,Calare,2188,Forbes North,389,33.22,782,66.78,1171,-5.24
-NSW,109,Calare,2189,Forbes South,188,20.61,724,79.39,912,-11.41
+NSW,109,Calare,2189,Forbes South,192,21.24,712,78.76,904,-10.78
 NSW,109,Calare,249,Glen Alice,30,31.91,64,68.09,94,-16.24
 NSW,109,Calare,250,Glenroi,731,51.55,687,48.45,1418,-8.5
 NSW,109,Calare,253,Hampton,58,40.28,86,59.72,144,-6.7
-NSW,109,Calare,1767,Hartley,171,38.69,271,61.31,442,-7.62
+NSW,109,Calare,1767,Hartley,170,38.46,272,61.54,442,-7.85
 NSW,109,Calare,255,Hermitage,341,59.82,229,40.18,570,-8.9
 NSW,109,Calare,256,Hill End,38,52.05,35,47.95,73,-12.89
 NSW,109,Calare,260,Kelso,1129,42.99,1497,57.01,2626,-9.89
@@ -2845,7 +2845,7 @@ NSW,149,Sydney,1472,Zetland,493,63.94,278,36.06,771,4.98
 NSW,149,Sydney,1468,Zetland South,502,57.24,375,42.76,877,-0.89
 NSW,150,Throsby,32916,Albion Park,1011,58.92,705,41.08,1716,-7.43
 NSW,150,Throsby,2774,Albion Park Rail,2219,68.76,1008,31.24,3227,-4.74
-NSW,150,Throsby,2773,Albion Park South,1408,65.37,746,34.63,2154,-4.54
+NSW,150,Throsby,2773,Albion Park South,1405,65.38,744,34.62,2149,-4.53
 NSW,150,Throsby,900,Avoca,51,30.72,115,69.28,166,-4.28
 NSW,150,Throsby,535,Berkeley,1418,76.48,436,23.52,1854,-5.41
 NSW,150,Throsby,536,Berkeley South,294,78.19,82,21.81,376,-7.28
@@ -4540,7 +4540,7 @@ QLD,172,Moncrieff,12060,Mermaid Waters (Moncrieff),655,35.99,1165,64.01,1820,-1.
 QLD,172,Moncrieff,12062,Merrimac (Moncrieff),425,29.17,1032,70.83,1457,-4.9
 QLD,172,Moncrieff,6087,Merrimac East (Moncrieff),437,27.14,1173,72.86,1610,-4.18
 QLD,172,Moncrieff,6088,Miami,597,40.07,893,59.93,1490,-3.11
-QLD,172,Moncrieff,6085,Miami West (Moncrieff),841,36.9,1438,63.1,2279,-0.33
+QLD,172,Moncrieff,6085,Miami West (Moncrieff),848,37.16,1434,62.84,2282,-0.07
 QLD,172,Moncrieff,6089,Moana Park,402,26.26,1129,73.74,1531,-2.82
 QLD,172,Moncrieff,6279,Musgrave Hill (Moncrieff),750,46.01,880,53.99,1630,-3.99
 QLD,172,Moncrieff,37828,Nerang (Moncrieff),365,38.3,588,61.7,953,-2.19
@@ -5027,7 +5027,7 @@ SA,180,Barker,6762,Murray Bridge East,447,34.62,844,65.38,1291,-0.6
 SA,180,Barker,12996,Murray Bridge PPVC,480,34.46,913,65.54,1393,-16.82
 SA,180,Barker,7210,Murray Bridge South,1276,45.49,1529,54.51,2805,-3.61
 SA,180,Barker,7211,Murray Bridge West,909,39.06,1418,60.94,2327,-1.96
-SA,180,Barker,7213,Mypolonga,116,36.59,201,63.41,317,-1.92
+SA,180,Barker,7213,Mypolonga,116,36.48,202,63.52,318,-2.03
 SA,180,Barker,6763,Nangula,40,29.2,97,70.8,137,-6.42
 SA,180,Barker,6764,Nangwarry,168,64.12,94,35.88,262,-6.49
 SA,180,Barker,6765,Naracoorte,474,24.91,1429,75.09,1903,-8.1
@@ -5044,8 +5044,8 @@ SA,180,Barker,6774,Paringa,227,33.88,443,66.12,670,-1.45
 SA,180,Barker,6777,Peake,21,16.54,106,83.46,127,-5.39
 SA,180,Barker,6778,Penola,331,32.84,677,67.16,1008,-6.93
 SA,180,Barker,6779,Pinnaroo,125,28.6,312,71.4,437,-0.86
-SA,180,Barker,6781,Ponde,51,31.1,113,68.9,164,-1.14
-SA,180,Barker,6782,Port MacDonnell,210,35.78,377,64.22,587,-7.15
+SA,180,Barker,6781,Ponde,49,30.06,114,69.94,163,-2.18
+SA,180,Barker,6782,Port MacDonnell,207,35.51,376,64.49,583,-7.42
 SA,180,Barker,46638,Prison Mobile Team 1,0,0,0,0,0,-100
 SA,180,Barker,46640,Prison Mobile Team 2,0,0,0,0,0,-100
 SA,180,Barker,46753,Prison Mobile Team 3,0,0,0,0,0,-100
@@ -5060,7 +5060,7 @@ SA,180,Barker,6789,Renmark West,216,33.33,432,66.67,648,-3.14
 SA,180,Barker,6790,Robe,183,24.83,554,75.17,737,-3.92
 SA,180,Barker,7416,Sandy Creek,237,42.7,318,57.3,555,3.24
 SA,180,Barker,7417,Sedan,57,39.86,86,60.14,143,-2.8
-SA,180,Barker,6793,Southend,46,28.57,115,71.43,161,-3.92
+SA,180,Barker,6793,Southend,47,29.38,113,70.63,160,-3.11
 SA,180,Barker,33222,Special Hospital Team 1,16,33.33,32,66.67,48,-9.26
 SA,180,Barker,33223,Special Hospital Team 2,11,35.48,20,64.52,31,-7.38
 SA,180,Barker,33224,Special Hospital Team 3,6,35.29,11,64.71,17,-7.57
@@ -5072,11 +5072,11 @@ SA,180,Barker,36550,Special Hospital Team 8,26,36.62,45,63.38,71,-5.56
 SA,180,Barker,36551,Special Hospital Team 9,96,45.28,116,54.72,212,3.09
 SA,180,Barker,7423,Stockwell,182,37.53,303,62.47,485,8.66
 SA,180,Barker,6794,Suttontown,376,36.5,654,63.5,1030,-4.92
-SA,180,Barker,6795,Swan Reach,90,46.63,103,53.37,193,5.94
+SA,180,Barker,6795,Swan Reach,89,46.35,103,53.65,192,5.66
 SA,180,Barker,6796,Tailem Bend,486,40.5,714,59.5,1200,-7.93
-SA,180,Barker,6797,Tantanoola,86,37.39,144,62.61,230,-7.94
+SA,180,Barker,6797,Tantanoola,87,37.83,143,62.17,230,-7.5
 SA,180,Barker,7424,Tanunda,800,31.7,1724,68.3,2524,-5.2
-SA,180,Barker,6799,Tarpeena,145,52.73,130,47.27,275,-0.6
+SA,180,Barker,6799,Tarpeena,144,52.36,131,47.64,275,-0.97
 SA,180,Barker,6802,Tintinara,27,7.78,320,92.22,347,-4.63
 SA,180,Barker,7428,Truro,154,46.53,177,53.47,331,3.44
 SA,180,Barker,6803,Waikerie,566,33.77,1110,66.23,1676,-4.14
@@ -5246,13 +5246,13 @@ SA,183,Grey,6966,Streaky Bay,199,27.26,531,72.74,730,-1.85
 SA,183,Grey,7427,Terowie,32,42.11,44,57.89,76,-7.33
 SA,183,Grey,6969,Tumby Bay,220,20.04,878,79.96,1098,-4.12
 SA,183,Grey,6970,Ungarra,22,25.58,64,74.42,86,2.63
-SA,183,Grey,7432,Wallaroo,935,47.49,1034,52.51,1969,-3.21
+SA,183,Grey,7432,Wallaroo,934,47.51,1032,52.49,1966,-3.19
 SA,183,Grey,7433,Wallaroo Mines,490,44.91,601,55.09,1091,-6.03
 SA,183,Grey,6972,Wangary,92,28.84,227,71.16,319,3.44
 SA,183,Grey,7434,Warooka,108,29.03,264,70.97,372,-4.55
 SA,183,Grey,6975,Warramboo,5,5.43,87,94.57,92,-4.57
 SA,183,Grey,6977,Whyalla Central East,426,45.91,502,54.09,928,-8.43
-SA,183,Grey,6981,Whyalla Central West,877,52.36,798,47.64,1675,-5.24
+SA,183,Grey,6981,Whyalla Central West,878,52.42,797,47.58,1675,-5.18
 SA,183,Grey,6983,Whyalla Norrie East,883,51.22,841,48.78,1724,-13.59
 SA,183,Grey,6979,Whyalla Norrie North,883,58.91,616,41.09,1499,-9.09
 SA,183,Grey,6926,Whyalla Norrie North-West,538,60.79,347,39.21,885,-6.19
@@ -6202,9 +6202,9 @@ VIC,200,Bendigo,3290,Harcourt,465,60.86,299,39.14,764,5.56
 VIC,200,Bendigo,3292,Heathcote,1012,59.85,679,40.15,1691,5.44
 VIC,200,Bendigo,3160,Huntly,626,54.53,522,45.47,1148,4.11
 VIC,200,Bendigo,3162,Ironbark,583,65.36,309,34.64,892,2.03
-VIC,200,Bendigo,3164,Jobs Gully,918,71.55,365,28.45,1283,5.98
+VIC,200,Bendigo,3164,Jobs Gully,918,71.61,364,28.39,1282,6.04
 VIC,200,Bendigo,31954,Junortoun,255,43.15,336,56.85,591,-0.34
-VIC,200,Bendigo,3165,Kangaroo Flat,1620,63.45,933,36.55,2553,6.26
+VIC,200,Bendigo,3165,Kangaroo Flat,1621,63.49,932,36.51,2553,6.3
 VIC,200,Bendigo,32002,Kangaroo Flat South,1530,61.1,974,38.9,2504,2.25
 VIC,200,Bendigo,3127,Kennington,636,54.31,535,45.69,1171,2.55
 VIC,200,Bendigo,3298,Kyneton,1934,59.49,1317,40.51,3251,5.84
@@ -6780,7 +6780,7 @@ VIC,213,Gippsland,3818,Sale East,588,29.07,1435,70.93,2023,-7.65
 VIC,213,Gippsland,3819,Sale North,729,36.36,1276,63.64,2005,-5.43
 VIC,213,Gippsland,38292,Sale PPVC,668,30.35,1533,69.65,2201,-17.07
 VIC,213,Gippsland,3820,Seaspray,85,37.12,144,62.88,229,-6.68
-VIC,213,Gippsland,32022,Special Hospital Team 1,48,31.58,104,68.42,152,-2.67
+VIC,213,Gippsland,32022,Special Hospital Team 1,48,32,102,68,150,-2.25
 VIC,213,Gippsland,32023,Special Hospital Team 2,56,42.75,75,57.25,131,8.87
 VIC,213,Gippsland,32025,Special Hospital Team 3,72,56.25,56,43.75,128,22.02
 VIC,213,Gippsland,36434,Special Hospital Team 4,36,40,54,60,90,6.06
@@ -7366,7 +7366,7 @@ VIC,224,Mallee,32001,Melbourne (Mallee),8,16.67,40,83.33,48,-20.83
 VIC,224,Mallee,4505,Merbein,430,32.16,907,67.84,1337,-10.05
 VIC,224,Mallee,4506,Merbein South,38,21.23,141,78.77,179,-6.46
 VIC,224,Mallee,4507,Merbein West,45,21.74,162,78.26,207,-10.6
-VIC,224,Mallee,4509,Mildura,736,32.29,1543,67.71,2279,-7.02
+VIC,224,Mallee,4509,Mildura,735,32.27,1543,67.73,2278,-7.04
 VIC,224,Mallee,11892,Mildura City Central,656,33.55,1299,66.45,1955,-9
 VIC,224,Mallee,4511,Mildura Deakin,895,33.85,1749,66.15,2644,-4.17
 VIC,224,Mallee,38298,Mildura PPVC,1733,26.12,4902,73.88,6635,-45.22
@@ -7383,7 +7383,7 @@ VIC,224,Mallee,4522,Nangiloc,42,17.57,197,82.43,239,-13.45
 VIC,224,Mallee,4524,Natimuk,133,33.67,262,66.33,395,6.6
 VIC,224,Mallee,4525,Netherby,6,7.79,71,92.21,77,-3.19
 VIC,224,Mallee,4527,Nhill,292,23.4,956,76.6,1248,-3
-VIC,224,Mallee,4528,Nichols Point,158,21.47,578,78.53,736,-2.25
+VIC,224,Mallee,4528,Nichols Point,146,19.86,589,80.14,735,-3.86
 VIC,224,Mallee,5027,Noradjuha,15,18.99,64,81.01,79,4.97
 VIC,224,Mallee,4529,Nullawil,13,16.25,67,83.75,80,-0.24
 VIC,224,Mallee,4530,Nyah,78,22.54,268,77.46,346,-3.51
@@ -7399,7 +7399,7 @@ VIC,224,Mallee,4540,Red Cliffs,517,29.13,1258,70.87,1775,-6.25
 VIC,224,Mallee,4542,Riverside,42,22.34,146,77.66,188,7.62
 VIC,224,Mallee,4543,Robinvale,243,19.69,991,80.31,1234,-6.54
 VIC,224,Mallee,4545,Rupanyup,86,28.01,221,71.99,307,-3.37
-VIC,224,Mallee,4546,Sea Lake,92,21.55,335,78.45,427,-2.16
+VIC,224,Mallee,4546,Sea Lake,92,21.6,334,78.4,426,-2.11
 VIC,224,Mallee,4547,Serviceton,12,14.29,72,85.71,84,-1.68
 VIC,224,Mallee,31602,Special Hospital Team 1,44,29.33,106,70.67,150,6.06
 VIC,224,Mallee,31604,Special Hospital Team 2,48,25.4,141,74.6,189,2.48

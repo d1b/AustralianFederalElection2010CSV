@@ -1,11 +1,11 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T14:42:06 Cycle:bc80bd46-be7c-4239-a4f4-faff0add92c3 Created:2010-08-30T14:26:38 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T14:57:48 Cycle:07c2f222-5bc3-4626-a2f4-7883130277e9 Created:2010-08-30T14:41:43 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 179,Adelaide,SA,98526,74295,75.41
 197,Aston,VIC,93448,74926,80.18
 198,Ballarat,VIC,97802,78621,80.39
 103,Banks,NSW,98762,80738,81.75
 180,Barker,SA,104888,84597,80.65
-104,Barton,NSW,95243,70743,74.25
+104,Barton,NSW,95243,70743,74.28
 192,Bass,TAS,71689,64254,89.63
 199,Batman,VIC,89160,67300,75.48
 200,Bendigo,VIC,100701,85049,84.46
@@ -15,7 +15,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 107,Blaxland,NSW,95354,73851,77.45
 310,Bonner,QLD,92684,69152,74.61
 182,Boothby,SA,97898,71656,73.19
-155,Bowman,QLD,91892,76876,83.57
+155,Bowman,QLD,91892,76876,83.66
 193,Braddon,TAS,71574,64039,89.47
 108,Bradfield,NSW,97251,75995,78.14
 235,Brand,WA,88203,53148,60.26
@@ -36,7 +36,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 237,Cowan,WA,89546,71009,79.3
 113,Cowper,NSW,94645,72843,76.96
 114,Cunningham,NSW,100698,82634,82.06
-238,Curtin,WA,90400,72902,80.64
+238,Curtin,WA,90400,72979,80.64
 158,Dawson,QLD,94553,66945,70.8
 209,Deakin,VIC,87744,67958,77.45
 194,Denison,TAS,71349,55261,77.45
@@ -87,16 +87,16 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 223,La Trobe,VIC,97960,76898,78.5
 222,Lalor,VIC,117023,100481,85.86
 168,Leichhardt,QLD,93140,73676,79.1
-169,Lilley,QLD,97415,75961,77.99
+169,Lilley,QLD,97415,75961,77.98
 128,Lindsay,NSW,95975,85434,89.02
 306,Lingiari,NT,61126,39759,65.04
 302,Longman,QLD,87062,65475,75.21
 130,Lyne,NSW,92565,71660,77.42
 196,Lyons,TAS,72865,64423,88.41
 131,Macarthur,NSW,90059,69735,77.43
-132,Mackellar,NSW,98556,78828,79.96
+132,Mackellar,NSW,98556,78856,79.98
 133,Macquarie,NSW,97560,79759,81.75
-187,Makin,SA,96263,85787,89.12
+187,Makin,SA,96263,85788,89.12
 224,Mallee,VIC,89840,76489,85.14
 170,Maranoa,QLD,97957,69532,70.98
 225,Maribyrnong,VIC,88412,66662,75.4
@@ -132,7 +132,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 250,Riverina,NSW,98594,79070,80.2
 146,Robertson,NSW,96593,66380,68.72
 177,Ryan,QLD,98224,70652,71.93
-232,Scullin,VIC,90822,75655,83.24
+232,Scullin,VIC,90822,75655,83.3
 148,Shortland,NSW,94245,76743,81.43
 307,Solomon,NT,59879,46923,78.36
 246,Stirling,WA,91728,69085,75.32
