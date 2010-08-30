@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T15:43:41 Cycle:1d4ecf46-021d-4498-b914-65d2bd7f4102 Created:2010-08-30T15:26:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T15:58:55 Cycle:d9a23402-9c3f-4bcb-9453-c14bd5b1f8e2 Created:2010-08-30T15:41:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -47,9 +47,9 @@ ACT,101,Canberra,8792,Waramanga,1748,63.29,1014,36.71,2762,-1.77
 ACT,101,Canberra,8793,Weston,918,63.14,536,36.86,1454,-1.66
 ACT,101,Canberra,32705,Woden PPVC,3711,57.23,2773,42.77,6484,20.01
 ACT,101,Canberra,8840,Yarralumla,1046,58.08,755,41.92,1801,-3.17
-ACT,102,Fraser,8801,Ainslie North,1729,76.47,532,23.53,2261,-0.99
-ACT,102,Fraser,8804,Ainslie South,635,76.78,192,23.22,827,2.07
-ACT,102,Fraser,38197,Amaroo,1688,55.67,1344,44.33,3032,4.3
+ACT,102,Fraser,8801,Ainslie North,1727,76.42,533,23.58,2260,-1.04
+ACT,102,Fraser,8804,Ainslie South,634,76.66,193,23.34,827,1.95
+ACT,102,Fraser,38197,Amaroo,1694,55.78,1343,44.22,3037,4.41
 ACT,102,Fraser,8803,Aranda,2037,73.12,749,26.88,2786,-1.27
 ACT,102,Fraser,8805,Belconnen,1632,65.31,867,34.69,2499,-1.57
 ACT,102,Fraser,32464,Belconnen PPVC,4257,58.12,3068,41.88,7325,-7.76
@@ -2111,7 +2111,7 @@ NSW,137,North Sydney,2036,Willoughby North,847,35.68,1527,64.32,2374,-9.01
 NSW,137,North Sydney,2037,Wollstonecraft,884,39.52,1353,60.48,2237,-9.43
 NSW,137,North Sydney,109,Woolwich,228,27.98,587,72.02,815,-5.88
 NSW,138,Page,2043,Alstonville,1390,51.56,1306,48.44,2696,5.88
-NSW,138,Page,2044,Ballina,1696,60.94,1087,39.06,2783,4.26
+NSW,138,Page,2044,Ballina,1701,61.14,1081,38.86,2782,4.46
 NSW,138,Page,2045,Ballina East,1254,57.52,926,42.48,2180,7.85
 NSW,138,Page,2046,Ballina Hospital,1015,58.64,716,41.36,1731,2.97
 NSW,138,Page,33751,Ballina PPVC,1197,48.13,1290,51.87,2487,-1.5
@@ -2133,13 +2133,13 @@ NSW,138,Page,2059,Clovass,111,37,189,63,300,2.14
 NSW,138,Page,2060,Copmanhurst,179,52.34,163,47.66,342,4.03
 NSW,138,Page,2061,Coraki,522,58.92,364,41.08,886,6.57
 NSW,138,Page,2064,Coutts Crossing,386,52.3,352,47.7,738,-5.77
-NSW,138,Page,33719,Cowper (Page),119,50,119,50,238,1.52
+NSW,138,Page,33719,Cowper (Page),120,48.39,128,51.61,248,-0.09
 NSW,138,Page,30129,Divisional Office (PREPOLL),82,45.81,97,54.19,179,-4.19
-NSW,138,Page,2124,Dundurrabin,89,62.24,54,37.76,143,1.96
+NSW,138,Page,2124,Dundurrabin,89,62.68,53,37.32,142,2.4
 NSW,138,Page,2426,Eltham,118,50.21,117,49.79,235,-3.86
 NSW,138,Page,2072,Empire Vale,113,45.38,136,54.62,249,1.85
-NSW,138,Page,2074,Evans Head,986,58.31,705,41.69,1691,3.77
-NSW,138,Page,2075,Fairy Hill,142,33.33,284,66.67,426,-4.63
+NSW,138,Page,2074,Evans Head,992,58.56,702,41.44,1694,4.02
+NSW,138,Page,2075,Fairy Hill,143,33.57,283,66.43,426,-4.39
 NSW,138,Page,33111,Gillwinga,458,56.27,356,43.73,814,2.08
 NSW,138,Page,2433,Goonellabah,1322,54.54,1102,45.46,2424,2.96
 NSW,138,Page,2434,Goonellabah South,1095,54.26,923,45.74,2018,0.62
@@ -3052,7 +3052,7 @@ NSW,153,Werriwa,2912,Eschol Park,1256,55.02,1027,44.98,2283,-6.03
 NSW,153,Werriwa,2913,Glenfield,1191,57.01,898,42.99,2089,-9.44
 NSW,153,Werriwa,2914,Glenfield East,775,54.77,640,45.23,1415,-8.07
 NSW,153,Werriwa,46482,Horningsea Park,523,58.05,378,41.95,901,-6.03
-NSW,153,Werriwa,2916,Hoxton Park,1286,59.98,858,40.02,2144,-11.13
+NSW,153,Werriwa,2916,Hoxton Park,1282,59.99,855,40.01,2137,-11.12
 NSW,153,Werriwa,2918,Ingleburn,1557,51.69,1455,48.31,3012,-11.87
 NSW,153,Werriwa,2919,Ingleburn East,720,52.48,652,47.52,1372,-9
 NSW,153,Werriwa,2920,Ingleburn North,329,32.19,693,67.81,1022,-7.93
@@ -3934,7 +3934,7 @@ QLD,165,Herbert,14221,Brisbane City (Herbert),17,45.95,20,54.05,37,-9.82
 QLD,165,Herbert,31569,Condon,1276,49.42,1306,50.58,2582,-3.81
 QLD,165,Herbert,5664,Cranbrook,946,45.22,1146,54.78,2092,-3.19
 QLD,165,Herbert,5665,Currajong,1224,55.28,990,44.72,2214,-2.03
-QLD,165,Herbert,5666,Currajong North,424,51.46,400,48.54,824,2.52
+QLD,165,Herbert,5666,Currajong North,424,51.39,401,48.61,825,2.45
 QLD,165,Herbert,5703,Cutheringa,531,55.72,422,44.28,953,0.24
 QLD,165,Herbert,31566,Deeragun,1092,41.81,1520,58.19,2612,-3.67
 QLD,165,Herbert,30156,Divisional Office (PREPOLL),0,0,0,0,0,-47.62
@@ -3942,7 +3942,7 @@ QLD,165,Herbert,5680,Douglas,248,49.9,249,50.1,497,1.37
 QLD,165,Herbert,5667,Garbutt,852,60.25,562,39.75,1414,-1.65
 QLD,165,Herbert,5670,Heatley,1530,50.76,1484,49.24,3014,-5.15
 QLD,165,Herbert,5671,Hermit Park,932,53.72,803,46.28,1735,-3.15
-QLD,165,Herbert,5691,Hermit Park South,594,58.18,427,41.82,1021,2.14
+QLD,165,Herbert,5691,Hermit Park South,595,58.22,427,41.78,1022,2.18
 QLD,165,Herbert,5672,Kelso,1159,50.24,1148,49.76,2307,-5.08
 QLD,165,Herbert,5673,Kirwan,1817,43.09,2400,56.91,4217,-4.55
 QLD,165,Herbert,5674,Kirwan South,1525,48.6,1613,51.4,3138,-3.58
@@ -3950,14 +3950,14 @@ QLD,165,Herbert,8867,Mount Louisa,1123,43.99,1430,56.01,2553,-1.24
 QLD,165,Herbert,5678,Mundingburra,1244,50.82,1204,49.18,2448,0.66
 QLD,165,Herbert,5679,Mundingburra South,531,50.33,524,49.67,1055,-2.01
 QLD,165,Herbert,5681,Nelly Bay,296,49.66,300,50.34,596,-2.91
-QLD,165,Herbert,5682,North Ward,1041,43.72,1340,56.28,2381,0.4
-QLD,165,Herbert,40275,Northern Beaches,1420,48.35,1517,51.65,2937,-2.2
+QLD,165,Herbert,5682,North Ward,1039,43.69,1339,56.31,2378,0.37
+QLD,165,Herbert,40275,Northern Beaches,1417,48.21,1522,51.79,2939,-2.34
 QLD,165,Herbert,5684,Pallarenda,179,43.77,230,56.23,409,-2.81
 QLD,165,Herbert,5685,Palm Island,319,65.77,166,34.23,485,-0.01
-QLD,165,Herbert,5686,Picnic Bay,88,55.7,70,44.3,158,0.28
+QLD,165,Herbert,5686,Picnic Bay,87,55.06,71,44.94,158,-0.36
 QLD,165,Herbert,5687,Pimlico,862,50.92,831,49.08,1693,-2.69
-QLD,165,Herbert,5688,Railway Estate,928,58,672,42,1600,-0.77
-QLD,165,Herbert,5689,Rasmussen,1106,50,1106,50,2212,-5.06
+QLD,165,Herbert,5688,Railway Estate,930,58.05,672,41.95,1602,-0.72
+QLD,165,Herbert,5689,Rasmussen,1103,49.93,1106,50.07,2209,-5.13
 QLD,165,Herbert,38206,Riverside,436,37.95,713,62.05,1149,-3.53
 QLD,165,Herbert,32664,Special Hospital Team 1,43,50,43,50,86,3.78
 QLD,165,Herbert,32669,Special Hospital Team 2,120,45.45,144,54.55,264,-0.86
@@ -6219,7 +6219,7 @@ VIC,200,Bendigo,3177,Marong,248,49.01,258,50.99,506,-0.08
 VIC,200,Bendigo,3178,Maryborough,1547,60.22,1022,39.78,2569,4.03
 VIC,200,Bendigo,3179,Maryborough East,1235,62.88,729,37.12,1964,1.94
 VIC,200,Bendigo,31987,Melbourne (Bendigo),36,56.25,28,43.75,64,-5.97
-VIC,200,Bendigo,3184,Newbridge,78,41.71,109,58.29,187,-1.57
+VIC,200,Bendigo,3184,Newbridge,78,41.94,108,58.06,186,-1.34
 VIC,200,Bendigo,3319,Newstead,445,63.48,256,36.52,701,-0.69
 VIC,200,Bendigo,3187,Quarry Hill,636,64.9,344,35.1,980,2.03
 VIC,200,Bendigo,3188,Raywood,181,50.99,174,49.01,355,-2.16
@@ -7365,14 +7365,14 @@ VIC,224,Mallee,4504,Manangatang,37,15.55,201,84.45,238,-2.4
 VIC,224,Mallee,32001,Melbourne (Mallee),8,16.67,40,83.33,48,-20.83
 VIC,224,Mallee,4505,Merbein,429,32.11,907,67.89,1336,-10.1
 VIC,224,Mallee,4506,Merbein South,37,20.79,141,79.21,178,-6.9
-VIC,224,Mallee,4507,Merbein West,45,21.74,162,78.26,207,-10.6
+VIC,224,Mallee,4507,Merbein West,45,21.84,161,78.16,206,-10.5
 VIC,224,Mallee,4509,Mildura,735,32.27,1543,67.73,2278,-7.04
 VIC,224,Mallee,11892,Mildura City Central,655,33.54,1298,66.46,1953,-9.01
 VIC,224,Mallee,4511,Mildura Deakin,895,33.85,1749,66.15,2644,-4.17
 VIC,224,Mallee,38298,Mildura PPVC,1733,26.12,4902,73.88,6635,-45.22
 VIC,224,Mallee,4512,Mildura South,316,27.92,816,72.08,1132,-7.16
 VIC,224,Mallee,58622,Mildura South West,482,30.26,1111,69.74,1593,-7.13
-VIC,224,Mallee,4513,Mildura West,549,30.21,1268,69.79,1817,0.8
+VIC,224,Mallee,4513,Mildura West,545,29.96,1274,70.04,1819,0.55
 VIC,224,Mallee,4514,Minimay,11,13.1,73,86.9,84,2.99
 VIC,224,Mallee,4515,Minyip,101,27.75,263,72.25,364,-0.72
 VIC,224,Mallee,4518,Murra Warra,11,13.41,71,86.59,82,7.98
@@ -8308,7 +8308,7 @@ WA,312,Durack,8064,Moora,185,20.46,719,79.54,904,-7.9
 WA,312,Durack,7864,Morawa,93,25.98,265,74.02,358,-5.76
 WA,312,Durack,7866,Mount Magnet,76,42.94,101,57.06,177,3.93
 WA,312,Durack,8068,Mukinbudin,39,12.96,262,87.04,301,1
-WA,312,Durack,7867,Mullewa,84,25.07,251,74.93,335,-7.7
+WA,312,Durack,7867,Mullewa,87,25.97,248,74.03,335,-6.8
 WA,312,Durack,7869,Nabawa,58,26.61,160,73.39,218,-1.17
 WA,312,Durack,8076,New Norcia,15,21.43,55,78.57,70,4.76
 WA,312,Durack,7870,Newman,296,42.35,403,57.65,699,-12.06
@@ -8707,7 +8707,7 @@ WA,243,O'Connor,8121,Yealering,0,0,0,0,0,0
 WA,243,O'Connor,7745,Yornup,0,0,0,0,0,0
 WA,244,Pearce,47772,Aveley,380,35.85,680,64.15,1060,-7.55
 WA,244,Pearce,7977,Bakers Hill,243,36.11,430,63.89,673,-3.8
-WA,244,Pearce,47774,Beechboro West (Pearce),708,57.24,529,42.76,1237,11.42
+WA,244,Pearce,47774,Beechboro West (Pearce),706,57.26,527,42.74,1233,11.44
 WA,244,Pearce,7982,Beverley,252,30.04,587,69.96,839,-2.17
 WA,244,Pearce,7921,Bindoon,246,30.22,568,69.78,814,2.06
 WA,244,Pearce,7923,Bullsbrook,654,33.18,1317,66.82,1971,-7.41
@@ -8825,7 +8825,7 @@ WA,246,Stirling,8178,Deanmore,583,44,742,56,1325,0.07
 WA,246,Stirling,8180,Dianella Heights,564,36.11,998,63.89,1562,-3.68
 WA,246,Stirling,38196,Dianella St Andrew's,492,33.54,975,66.46,1467,-2.51
 WA,246,Stirling,8181,Dianella West,437,34.33,836,65.67,1273,-5.77
-WA,246,Stirling,30237,Divisional Office (PREPOLL),1260,37.61,2090,62.39,3350,-5.6
+WA,246,Stirling,30237,Divisional Office (PREPOLL),1259,37.55,2094,62.45,3353,-5.66
 WA,246,Stirling,8182,Doubleview (Stirling),385,43.06,509,56.94,894,-1.33
 WA,246,Stirling,8184,Doubleview North,870,42.42,1181,57.58,2051,-4.45
 WA,246,Stirling,7576,Hamersley,808,44.81,995,55.19,1803,-0.82

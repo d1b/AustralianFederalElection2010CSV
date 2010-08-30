@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T15:43:36 Cycle:1d4ecf46-021d-4498-b914-65d2bd7f4102 Created:2010-08-30T15:26:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T15:58:50 Cycle:d9a23402-9c3f-4bcb-9453-c14bd5b1f8e2 Created:2010-08-30T15:41:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 ACT,101,Canberra,8829,Barton,20863,JONES,Giulia,1,N,N,LP,Liberal,790,-2.73
 ACT,101,Canberra,8829,Barton,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1399,2.73
@@ -94,12 +94,12 @@ ACT,101,Canberra,32705,Woden PPVC,20863,JONES,Giulia,1,N,N,LP,Liberal,2773,-20.0
 ACT,101,Canberra,32705,Woden PPVC,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,3711,20.01
 ACT,101,Canberra,8840,Yarralumla,20863,JONES,Giulia,1,N,N,LP,Liberal,755,3.17
 ACT,101,Canberra,8840,Yarralumla,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1046,-3.17
-ACT,102,Fraser,8801,Ainslie North,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,532,0.99
-ACT,102,Fraser,8801,Ainslie North,21210,LEIGH,Andrew,3,N,N,ALP,Australian Labor Party,1729,-0.99
-ACT,102,Fraser,8804,Ainslie South,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,192,-2.07
-ACT,102,Fraser,8804,Ainslie South,21210,LEIGH,Andrew,3,N,N,ALP,Australian Labor Party,635,2.07
-ACT,102,Fraser,38197,Amaroo,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,1344,-4.3
-ACT,102,Fraser,38197,Amaroo,21210,LEIGH,Andrew,3,N,N,ALP,Australian Labor Party,1688,4.3
+ACT,102,Fraser,8801,Ainslie North,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,533,1.04
+ACT,102,Fraser,8801,Ainslie North,21210,LEIGH,Andrew,3,N,N,ALP,Australian Labor Party,1727,-1.04
+ACT,102,Fraser,8804,Ainslie South,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,193,-1.95
+ACT,102,Fraser,8804,Ainslie South,21210,LEIGH,Andrew,3,N,N,ALP,Australian Labor Party,634,1.95
+ACT,102,Fraser,38197,Amaroo,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,1343,-4.41
+ACT,102,Fraser,38197,Amaroo,21210,LEIGH,Andrew,3,N,N,ALP,Australian Labor Party,1694,4.41
 ACT,102,Fraser,8803,Aranda,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,749,1.27
 ACT,102,Fraser,8803,Aranda,21210,LEIGH,Andrew,3,N,N,ALP,Australian Labor Party,2037,-1.27
 ACT,102,Fraser,8805,Belconnen,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,867,1.57
@@ -4222,8 +4222,8 @@ NSW,137,North Sydney,109,Woolwich,21692,HOCKEY,Joe,1,N,Y,LP,Liberal,587,5.88
 NSW,137,North Sydney,109,Woolwich,21705,WEBB,Leta,2,N,N,ALP,Labor,228,-5.88
 NSW,138,Page,2043,Alstonville,21495,SAFFIN,Janelle,2,N,Y,ALP,Labor,1390,5.88
 NSW,138,Page,2043,Alstonville,21484,HOGAN,Kevin,3,N,N,NP,The Nationals,1306,-5.88
-NSW,138,Page,2044,Ballina,21495,SAFFIN,Janelle,2,N,Y,ALP,Labor,1696,4.26
-NSW,138,Page,2044,Ballina,21484,HOGAN,Kevin,3,N,N,NP,The Nationals,1087,-4.26
+NSW,138,Page,2044,Ballina,21495,SAFFIN,Janelle,2,N,Y,ALP,Labor,1701,4.46
+NSW,138,Page,2044,Ballina,21484,HOGAN,Kevin,3,N,N,NP,The Nationals,1081,-4.46
 NSW,138,Page,2045,Ballina East,21495,SAFFIN,Janelle,2,N,Y,ALP,Labor,1254,7.85
 NSW,138,Page,2045,Ballina East,21484,HOGAN,Kevin,3,N,N,NP,The Nationals,926,-7.85
 NSW,138,Page,2046,Ballina Hospital,21495,SAFFIN,Janelle,2,N,Y,ALP,Labor,1015,2.97
@@ -4266,20 +4266,20 @@ NSW,138,Page,2061,Coraki,21495,SAFFIN,Janelle,2,N,Y,ALP,Labor,522,6.57
 NSW,138,Page,2061,Coraki,21484,HOGAN,Kevin,3,N,N,NP,The Nationals,364,-6.57
 NSW,138,Page,2064,Coutts Crossing,21495,SAFFIN,Janelle,2,N,Y,ALP,Labor,386,-5.77
 NSW,138,Page,2064,Coutts Crossing,21484,HOGAN,Kevin,3,N,N,NP,The Nationals,352,5.77
-NSW,138,Page,33719,Cowper (Page),21495,SAFFIN,Janelle,2,N,Y,ALP,Labor,119,1.52
-NSW,138,Page,33719,Cowper (Page),21484,HOGAN,Kevin,3,N,N,NP,The Nationals,119,-1.52
+NSW,138,Page,33719,Cowper (Page),21495,SAFFIN,Janelle,2,N,Y,ALP,Labor,120,-0.09
+NSW,138,Page,33719,Cowper (Page),21484,HOGAN,Kevin,3,N,N,NP,The Nationals,128,0.09
 NSW,138,Page,30129,Divisional Office (PREPOLL),21495,SAFFIN,Janelle,2,N,Y,ALP,Labor,82,-4.19
 NSW,138,Page,30129,Divisional Office (PREPOLL),21484,HOGAN,Kevin,3,N,N,NP,The Nationals,97,4.19
-NSW,138,Page,2124,Dundurrabin,21495,SAFFIN,Janelle,2,N,Y,ALP,Labor,89,1.96
-NSW,138,Page,2124,Dundurrabin,21484,HOGAN,Kevin,3,N,N,NP,The Nationals,54,-1.96
+NSW,138,Page,2124,Dundurrabin,21495,SAFFIN,Janelle,2,N,Y,ALP,Labor,89,2.4
+NSW,138,Page,2124,Dundurrabin,21484,HOGAN,Kevin,3,N,N,NP,The Nationals,53,-2.4
 NSW,138,Page,2426,Eltham,21495,SAFFIN,Janelle,2,N,Y,ALP,Labor,118,-3.86
 NSW,138,Page,2426,Eltham,21484,HOGAN,Kevin,3,N,N,NP,The Nationals,117,3.86
 NSW,138,Page,2072,Empire Vale,21495,SAFFIN,Janelle,2,N,Y,ALP,Labor,113,1.85
 NSW,138,Page,2072,Empire Vale,21484,HOGAN,Kevin,3,N,N,NP,The Nationals,136,-1.85
-NSW,138,Page,2074,Evans Head,21495,SAFFIN,Janelle,2,N,Y,ALP,Labor,986,3.77
-NSW,138,Page,2074,Evans Head,21484,HOGAN,Kevin,3,N,N,NP,The Nationals,705,-3.77
-NSW,138,Page,2075,Fairy Hill,21495,SAFFIN,Janelle,2,N,Y,ALP,Labor,142,-4.63
-NSW,138,Page,2075,Fairy Hill,21484,HOGAN,Kevin,3,N,N,NP,The Nationals,284,4.63
+NSW,138,Page,2074,Evans Head,21495,SAFFIN,Janelle,2,N,Y,ALP,Labor,992,4.02
+NSW,138,Page,2074,Evans Head,21484,HOGAN,Kevin,3,N,N,NP,The Nationals,702,-4.02
+NSW,138,Page,2075,Fairy Hill,21495,SAFFIN,Janelle,2,N,Y,ALP,Labor,143,-4.39
+NSW,138,Page,2075,Fairy Hill,21484,HOGAN,Kevin,3,N,N,NP,The Nationals,283,4.39
 NSW,138,Page,33111,Gillwinga,21495,SAFFIN,Janelle,2,N,Y,ALP,Labor,458,2.08
 NSW,138,Page,33111,Gillwinga,21484,HOGAN,Kevin,3,N,N,NP,The Nationals,356,-2.08
 NSW,138,Page,2433,Goonellabah,21495,SAFFIN,Janelle,2,N,Y,ALP,Labor,1322,2.96
@@ -6104,8 +6104,8 @@ NSW,153,Werriwa,2914,Glenfield East,21606,ESKAROS,Sam,2,N,N,LP,Liberal,640,8.07
 NSW,153,Werriwa,2914,Glenfield East,21591,FERGUSON,Laurie,3,N,Y,ALP,Labor,775,-8.07
 NSW,153,Werriwa,46482,Horningsea Park,21606,ESKAROS,Sam,2,N,N,LP,Liberal,378,6.03
 NSW,153,Werriwa,46482,Horningsea Park,21591,FERGUSON,Laurie,3,N,Y,ALP,Labor,523,-6.03
-NSW,153,Werriwa,2916,Hoxton Park,21606,ESKAROS,Sam,2,N,N,LP,Liberal,858,11.13
-NSW,153,Werriwa,2916,Hoxton Park,21591,FERGUSON,Laurie,3,N,Y,ALP,Labor,1286,-11.13
+NSW,153,Werriwa,2916,Hoxton Park,21606,ESKAROS,Sam,2,N,N,LP,Liberal,855,11.12
+NSW,153,Werriwa,2916,Hoxton Park,21591,FERGUSON,Laurie,3,N,Y,ALP,Labor,1282,-11.12
 NSW,153,Werriwa,2918,Ingleburn,21606,ESKAROS,Sam,2,N,N,LP,Liberal,1455,11.87
 NSW,153,Werriwa,2918,Ingleburn,21591,FERGUSON,Laurie,3,N,Y,ALP,Labor,1557,-11.87
 NSW,153,Werriwa,2919,Ingleburn East,21606,ESKAROS,Sam,2,N,N,LP,Liberal,652,9
@@ -7868,8 +7868,8 @@ QLD,165,Herbert,5664,Cranbrook,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Part
 QLD,165,Herbert,5664,Cranbrook,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,1146,3.19
 QLD,165,Herbert,5665,Currajong,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,1224,-2.03
 QLD,165,Herbert,5665,Currajong,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,990,2.03
-QLD,165,Herbert,5666,Currajong North,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,424,2.52
-QLD,165,Herbert,5666,Currajong North,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,400,-2.52
+QLD,165,Herbert,5666,Currajong North,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,424,2.45
+QLD,165,Herbert,5666,Currajong North,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,401,-2.45
 QLD,165,Herbert,5703,Cutheringa,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,531,0.24
 QLD,165,Herbert,5703,Cutheringa,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,422,-0.24
 QLD,165,Herbert,31566,Deeragun,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,1092,-3.67
@@ -7884,8 +7884,8 @@ QLD,165,Herbert,5670,Heatley,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,
 QLD,165,Herbert,5670,Heatley,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,1484,5.15
 QLD,165,Herbert,5671,Hermit Park,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,932,-3.15
 QLD,165,Herbert,5671,Hermit Park,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,803,3.15
-QLD,165,Herbert,5691,Hermit Park South,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,594,2.14
-QLD,165,Herbert,5691,Hermit Park South,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,427,-2.14
+QLD,165,Herbert,5691,Hermit Park South,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,595,2.18
+QLD,165,Herbert,5691,Hermit Park South,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,427,-2.18
 QLD,165,Herbert,5672,Kelso,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,1159,-5.08
 QLD,165,Herbert,5672,Kelso,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,1148,5.08
 QLD,165,Herbert,5673,Kirwan,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,1817,-4.55
@@ -7900,22 +7900,22 @@ QLD,165,Herbert,5679,Mundingburra South,21574,MOONEY,Tony,1,N,N,ALP,Australian L
 QLD,165,Herbert,5679,Mundingburra South,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,524,2.01
 QLD,165,Herbert,5681,Nelly Bay,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,296,-2.91
 QLD,165,Herbert,5681,Nelly Bay,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,300,2.91
-QLD,165,Herbert,5682,North Ward,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,1041,0.4
-QLD,165,Herbert,5682,North Ward,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,1340,-0.4
-QLD,165,Herbert,40275,Northern Beaches,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,1420,-2.2
-QLD,165,Herbert,40275,Northern Beaches,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,1517,2.2
+QLD,165,Herbert,5682,North Ward,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,1039,0.37
+QLD,165,Herbert,5682,North Ward,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,1339,-0.37
+QLD,165,Herbert,40275,Northern Beaches,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,1417,-2.34
+QLD,165,Herbert,40275,Northern Beaches,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,1522,2.34
 QLD,165,Herbert,5684,Pallarenda,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,179,-2.81
 QLD,165,Herbert,5684,Pallarenda,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,230,2.81
 QLD,165,Herbert,5685,Palm Island,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,319,-0.01
 QLD,165,Herbert,5685,Palm Island,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,166,0.01
-QLD,165,Herbert,5686,Picnic Bay,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,88,0.28
-QLD,165,Herbert,5686,Picnic Bay,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,70,-0.28
+QLD,165,Herbert,5686,Picnic Bay,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,87,-0.36
+QLD,165,Herbert,5686,Picnic Bay,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,71,0.36
 QLD,165,Herbert,5687,Pimlico,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,862,-2.69
 QLD,165,Herbert,5687,Pimlico,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,831,2.69
-QLD,165,Herbert,5688,Railway Estate,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,928,-0.77
-QLD,165,Herbert,5688,Railway Estate,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,672,0.77
-QLD,165,Herbert,5689,Rasmussen,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,1106,-5.06
-QLD,165,Herbert,5689,Rasmussen,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,1106,5.06
+QLD,165,Herbert,5688,Railway Estate,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,930,-0.72
+QLD,165,Herbert,5688,Railway Estate,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,672,0.72
+QLD,165,Herbert,5689,Rasmussen,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,1103,-5.13
+QLD,165,Herbert,5689,Rasmussen,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,1106,5.13
 QLD,165,Herbert,38206,Riverside,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,436,-3.53
 QLD,165,Herbert,38206,Riverside,20757,JONES,Ewen,2,N,N,LNQ,Liberal National Party of Queensland,713,3.53
 QLD,165,Herbert,32664,Special Hospital Team 1,21574,MOONEY,Tony,1,N,N,ALP,Australian Labor Party,43,3.78
@@ -12438,8 +12438,8 @@ VIC,200,Bendigo,3179,Maryborough East,21029,GIBBONS,Steve,1,N,Y,ALP,Australian L
 VIC,200,Bendigo,3179,Maryborough East,21026,HUNTER,Craig,3,N,N,LP,Liberal,729,-1.94
 VIC,200,Bendigo,31987,Melbourne (Bendigo),21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,36,-5.97
 VIC,200,Bendigo,31987,Melbourne (Bendigo),21026,HUNTER,Craig,3,N,N,LP,Liberal,28,5.97
-VIC,200,Bendigo,3184,Newbridge,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,78,-1.57
-VIC,200,Bendigo,3184,Newbridge,21026,HUNTER,Craig,3,N,N,LP,Liberal,109,1.57
+VIC,200,Bendigo,3184,Newbridge,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,78,-1.34
+VIC,200,Bendigo,3184,Newbridge,21026,HUNTER,Craig,3,N,N,LP,Liberal,108,1.34
 VIC,200,Bendigo,3319,Newstead,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,445,-0.69
 VIC,200,Bendigo,3319,Newstead,21026,HUNTER,Craig,3,N,N,LP,Liberal,256,0.69
 VIC,200,Bendigo,3187,Quarry Hill,21029,GIBBONS,Steve,1,N,Y,ALP,Australian Labor Party,636,2.03
@@ -14730,8 +14730,8 @@ VIC,224,Mallee,4505,Merbein,21078,FORREST,John,2,N,Y,NP,The Nationals,907,10.1
 VIC,224,Mallee,4505,Merbein,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,429,-10.1
 VIC,224,Mallee,4506,Merbein South,21078,FORREST,John,2,N,Y,NP,The Nationals,141,6.9
 VIC,224,Mallee,4506,Merbein South,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,37,-6.9
-VIC,224,Mallee,4507,Merbein West,21078,FORREST,John,2,N,Y,NP,The Nationals,162,10.6
-VIC,224,Mallee,4507,Merbein West,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,45,-10.6
+VIC,224,Mallee,4507,Merbein West,21078,FORREST,John,2,N,Y,NP,The Nationals,161,10.5
+VIC,224,Mallee,4507,Merbein West,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,45,-10.5
 VIC,224,Mallee,4509,Mildura,21078,FORREST,John,2,N,Y,NP,The Nationals,1543,7.04
 VIC,224,Mallee,4509,Mildura,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,735,-7.04
 VIC,224,Mallee,11892,Mildura City Central,21078,FORREST,John,2,N,Y,NP,The Nationals,1298,9.01
@@ -14744,8 +14744,8 @@ VIC,224,Mallee,4512,Mildura South,21078,FORREST,John,2,N,Y,NP,The Nationals,816,
 VIC,224,Mallee,4512,Mildura South,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,316,-7.16
 VIC,224,Mallee,58622,Mildura South West,21078,FORREST,John,2,N,Y,NP,The Nationals,1111,7.13
 VIC,224,Mallee,58622,Mildura South West,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,482,-7.13
-VIC,224,Mallee,4513,Mildura West,21078,FORREST,John,2,N,Y,NP,The Nationals,1268,-0.8
-VIC,224,Mallee,4513,Mildura West,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,549,0.8
+VIC,224,Mallee,4513,Mildura West,21078,FORREST,John,2,N,Y,NP,The Nationals,1274,-0.55
+VIC,224,Mallee,4513,Mildura West,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,545,0.55
 VIC,224,Mallee,4514,Minimay,21078,FORREST,John,2,N,Y,NP,The Nationals,73,-2.99
 VIC,224,Mallee,4514,Minimay,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,11,2.99
 VIC,224,Mallee,4515,Minyip,21078,FORREST,John,2,N,Y,NP,The Nationals,263,0.72
@@ -16616,8 +16616,8 @@ WA,312,Durack,7866,Mount Magnet,20866,HAASE,Barry,2,N,Y,LP,Liberal,101,-3.93
 WA,312,Durack,7866,Mount Magnet,20964,HILL,Shane,3,N,N,ALP,Australian Labor Party,76,3.93
 WA,312,Durack,8068,Mukinbudin,20866,HAASE,Barry,2,N,Y,LP,Liberal,262,-1
 WA,312,Durack,8068,Mukinbudin,20964,HILL,Shane,3,N,N,ALP,Australian Labor Party,39,1
-WA,312,Durack,7867,Mullewa,20866,HAASE,Barry,2,N,Y,LP,Liberal,251,7.7
-WA,312,Durack,7867,Mullewa,20964,HILL,Shane,3,N,N,ALP,Australian Labor Party,84,-7.7
+WA,312,Durack,7867,Mullewa,20866,HAASE,Barry,2,N,Y,LP,Liberal,248,6.8
+WA,312,Durack,7867,Mullewa,20964,HILL,Shane,3,N,N,ALP,Australian Labor Party,87,-6.8
 WA,312,Durack,7869,Nabawa,20866,HAASE,Barry,2,N,Y,LP,Liberal,160,1.17
 WA,312,Durack,7869,Nabawa,20964,HILL,Shane,3,N,N,ALP,Australian Labor Party,58,-1.17
 WA,312,Durack,8076,New Norcia,20866,HAASE,Barry,2,N,Y,LP,Liberal,55,-4.76
@@ -17414,8 +17414,8 @@ WA,244,Pearce,47772,Aveley,20894,LEADBETTER,Bill,1,N,N,ALP,Australian Labor Part
 WA,244,Pearce,47772,Aveley,20861,MOYLAN,Judi,2,N,Y,LP,Liberal,680,7.55
 WA,244,Pearce,7977,Bakers Hill,20894,LEADBETTER,Bill,1,N,N,ALP,Australian Labor Party,243,-3.8
 WA,244,Pearce,7977,Bakers Hill,20861,MOYLAN,Judi,2,N,Y,LP,Liberal,430,3.8
-WA,244,Pearce,47774,Beechboro West (Pearce),20894,LEADBETTER,Bill,1,N,N,ALP,Australian Labor Party,708,11.42
-WA,244,Pearce,47774,Beechboro West (Pearce),20861,MOYLAN,Judi,2,N,Y,LP,Liberal,529,-11.42
+WA,244,Pearce,47774,Beechboro West (Pearce),20894,LEADBETTER,Bill,1,N,N,ALP,Australian Labor Party,706,11.44
+WA,244,Pearce,47774,Beechboro West (Pearce),20861,MOYLAN,Judi,2,N,Y,LP,Liberal,527,-11.44
 WA,244,Pearce,7982,Beverley,20894,LEADBETTER,Bill,1,N,N,ALP,Australian Labor Party,252,-2.17
 WA,244,Pearce,7982,Beverley,20861,MOYLAN,Judi,2,N,Y,LP,Liberal,587,2.17
 WA,244,Pearce,7921,Bindoon,20894,LEADBETTER,Bill,1,N,N,ALP,Australian Labor Party,246,2.06
@@ -17650,8 +17650,8 @@ WA,246,Stirling,38196,Dianella St Andrew's,20952,DURACK,Louise,2,N,N,ALP,Austral
 WA,246,Stirling,38196,Dianella St Andrew's,20868,KEENAN,Michael,6,N,Y,LP,Liberal,975,2.51
 WA,246,Stirling,8181,Dianella West,20952,DURACK,Louise,2,N,N,ALP,Australian Labor Party,437,-5.77
 WA,246,Stirling,8181,Dianella West,20868,KEENAN,Michael,6,N,Y,LP,Liberal,836,5.77
-WA,246,Stirling,30237,Divisional Office (PREPOLL),20952,DURACK,Louise,2,N,N,ALP,Australian Labor Party,1260,-5.6
-WA,246,Stirling,30237,Divisional Office (PREPOLL),20868,KEENAN,Michael,6,N,Y,LP,Liberal,2090,5.6
+WA,246,Stirling,30237,Divisional Office (PREPOLL),20952,DURACK,Louise,2,N,N,ALP,Australian Labor Party,1259,-5.66
+WA,246,Stirling,30237,Divisional Office (PREPOLL),20868,KEENAN,Michael,6,N,Y,LP,Liberal,2094,5.66
 WA,246,Stirling,8182,Doubleview (Stirling),20952,DURACK,Louise,2,N,N,ALP,Australian Labor Party,385,-1.33
 WA,246,Stirling,8182,Doubleview (Stirling),20868,KEENAN,Michael,6,N,Y,LP,Liberal,509,1.33
 WA,246,Stirling,8184,Doubleview North,20952,DURACK,Louise,2,N,N,ALP,Australian Labor Party,870,-4.45
