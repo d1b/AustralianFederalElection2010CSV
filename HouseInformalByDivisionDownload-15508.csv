@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T14:26:03 Cycle:e61851c7-9c22-40f0-a708-336bf812984c Created:2010-08-30T14:11:38 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T14:41:37 Cycle:bc80bd46-be7c-4239-a4f4-faff0add92c3 Created:2010-08-30T14:26:38 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent,InformalSwing
 107,Blaxland,NSW,62108,10317,72425,14.25,5.36
 251,Watson,NSW,63977,10034,74011,13.56,4.47
@@ -40,7 +40,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 117,Eden-Monaro,NSW,80125,5262,85387,6.16,2.43
 168,Leichhardt,QLD,75512,4881,80393,6.07,1.05
 222,Lalor,VIC,94283,6066,100349,6.04,2.55
-171,McPherson,QLD,71054,4551,75605,6.02,2.85
+171,McPherson,QLD,71050,4557,75607,6.03,2.86
 232,Scullin,VIC,70429,4515,74944,6.02,1.96
 187,Makin,SA,83191,5305,88496,5.99,1.92
 115,Dobell,NSW,75316,4777,80093,5.96,1.64
@@ -63,12 +63,12 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 243,O'Connor,WA,75334,4373,79707,5.49,1.23
 180,Barker,SA,83834,4859,88693,5.48,1.63
 149,Sydney,NSW,61852,3572,65424,5.46,1.28
-311,Flynn,QLD,70127,4025,74152,5.43,1.48
 201,Bruce,VIC,63377,3629,67006,5.42,1.71
+311,Flynn,QLD,70227,4025,74252,5.42,1.47
 245,Perth,WA,66983,3840,70823,5.42,0.83
 175,Petrie,QLD,66377,3763,70140,5.36,2.14
 199,Batman,VIC,68419,3860,72279,5.34,1.52
-166,Hinkler,QLD,76696,4327,81023,5.34,1.44
+166,Hinkler,QLD,76697,4327,81024,5.34,1.44
 167,Kennedy,QLD,72632,4098,76730,5.34,1.4
 244,Pearce,WA,68385,3854,72239,5.34,1.35
 145,Richmond,NSW,70897,4003,74900,5.34,1.06
@@ -78,7 +78,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 161,Fisher,QLD,68229,3798,72027,5.27,2.46
 231,Murray,VIC,74388,4126,78514,5.26,0.02
 178,Wide Bay,QLD,72881,4029,76910,5.24,1.24
-235,Brand,WA,72010,3965,75975,5.22,1.35
+235,Brand,WA,72209,3984,76193,5.23,1.36
 132,Mackellar,NSW,77814,4266,82080,5.2,0.53
 139,Parkes,NSW,80059,4322,84381,5.12,1.04
 237,Cowan,WA,75946,4092,80038,5.11,0.95
@@ -96,7 +96,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 101,Canberra,ACT,99976,5152,105128,4.9,2.64
 196,Lyons,TAS,63295,3251,66546,4.89,1.83
 173,Moreton,QLD,75921,3884,79805,4.87,1.71
-109,Calare,NSW,80757,4077,84834,4.81,1.19
+109,Calare,NSW,80707,4123,84830,4.86,1.24
 163,Griffith,QLD,72815,3682,76497,4.81,1.93
 179,Adelaide,SA,73807,3677,77484,4.75,1.64
 217,Hotham,VIC,64266,3177,67443,4.71,1.41
@@ -118,7 +118,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 193,Braddon,TAS,62656,2890,65546,4.41,1.23
 252,Dickson,QLD,75323,3454,78777,4.38,1.59
 197,Aston,VIC,78460,3582,82042,4.37,1.43
-224,Mallee,VIC,73163,3313,76476,4.33,0.74
+224,Mallee,VIC,73162,3314,76476,4.33,0.74
 211,Flinders,VIC,77295,3413,80708,4.23,1.45
 204,Casey,VIC,74888,3301,78189,4.22,1.44
 113,Cowper,NSW,77560,3400,80960,4.2,0.23
@@ -129,7 +129,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 218,Indi,VIC,74143,3096,77239,4.01,1.33
 220,Jagajaga,VIC,76791,3212,80003,4.01,1.56
 192,Bass,TAS,65085,2689,67774,3.97,0.74
-213,Gippsland,VIC,78858,3214,82072,3.92,0.94
+213,Gippsland,VIC,78857,3216,82073,3.92,0.94
 210,Dunkley,VIC,80345,3268,83613,3.91,1.29
 227,McMillan,VIC,77704,3145,80849,3.89,0.46
 200,Bendigo,VIC,84391,3333,87724,3.8,0.26
@@ -137,7 +137,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 156,Brisbane,QLD,77236,3027,80263,3.77,0.89
 194,Denison,TAS,64288,2436,66724,3.65,1.15
 205,Chisholm,VIC,67060,2517,69577,3.62,1.01
-135,New England,NSW,80958,3022,83980,3.6,0.63
+135,New England,NSW,80956,3025,83981,3.6,0.63
 130,Lyne,NSW,78138,2908,81046,3.59,-1.44
 209,Deakin,VIC,71616,2647,74263,3.56,1.47
 195,Franklin,TAS,60976,2225,63201,3.52,0.87
