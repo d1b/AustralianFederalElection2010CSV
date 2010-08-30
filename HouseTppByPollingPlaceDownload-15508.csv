@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T18:46:40 Cycle:30b27c25-11e9-4d0c-8268-c80a3972efed Created:2010-08-30T18:27:01 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T19:01:55 Cycle:aa5f1aed-5d22-4b63-bfc9-486efbd1fcc1 Created:2010-08-30T18:41:56 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -875,13 +875,13 @@ NSW,117,Eden-Monaro,687,Candelo,317,57.12,238,42.88,555,-4.18
 NSW,117,Eden-Monaro,688,Captains Flat,216,71.05,88,28.95,304,-0.33
 NSW,117,Eden-Monaro,690,Central Tilba,202,64.13,113,35.87,315,-1.68
 NSW,117,Eden-Monaro,691,Cobargo,354,55.05,289,44.95,643,1.55
-NSW,117,Eden-Monaro,692,Cooma,686,51.27,652,48.73,1338,1.05
-NSW,117,Eden-Monaro,693,Cooma Hospital,114,51.35,108,48.65,222,-0.98
-NSW,117,Eden-Monaro,694,Cooma North,530,54.64,440,45.36,970,0.87
+NSW,117,Eden-Monaro,692,Cooma,690,51.76,643,48.24,1333,1.54
+NSW,117,Eden-Monaro,693,Cooma Hospital,113,51.13,108,48.87,221,-1.2
+NSW,117,Eden-Monaro,694,Cooma North,530,54.75,438,45.25,968,0.98
 NSW,117,Eden-Monaro,33921,Cooma PPVC,777,46.39,898,53.61,1675,-2.39
-NSW,117,Eden-Monaro,695,Cooma South,293,47.26,327,52.74,620,1.76
-NSW,117,Eden-Monaro,696,Dalgety,44,31.43,96,68.57,140,-2.75
-NSW,117,Eden-Monaro,697,Dalmeny,517,50.39,509,49.61,1026,-4.21
+NSW,117,Eden-Monaro,695,Cooma South,289,46.54,332,53.46,621,1.04
+NSW,117,Eden-Monaro,696,Dalgety,44,31.65,95,68.35,139,-2.53
+NSW,117,Eden-Monaro,697,Dalmeny,513,50.1,511,49.9,1024,-4.5
 NSW,117,Eden-Monaro,698,Delegate,88,38.43,141,61.57,229,-5.37
 NSW,117,Eden-Monaro,30108,Divisional Office (PREPOLL),211,59.94,141,40.06,352,10.96
 NSW,117,Eden-Monaro,699,Eden,817,43.6,1057,56.4,1874,-3.8
@@ -1302,17 +1302,17 @@ NSW,125,Hume,1255,Bowning,76,36.54,132,63.46,208,-1.49
 NSW,125,Hume,905,Bradfordville,706,50.86,682,49.14,1388,-3
 NSW,125,Hume,1256,Bribbaree,23,16.08,120,83.92,143,0.52
 NSW,125,Hume,906,Bundanoon,587,43.74,755,56.26,1342,-4.37
-NSW,125,Hume,44701,Bungendore (Hume),311,52.36,283,47.64,594,-4.48
-NSW,125,Hume,907,Bungonia,82,47.13,92,52.87,174,-0.41
+NSW,125,Hume,44701,Bungendore (Hume),316,53.02,280,46.98,596,-3.82
+NSW,125,Hume,907,Bungonia,84,47.73,92,52.27,176,0.19
 NSW,125,Hume,1669,Buxton,498,53.72,429,46.28,927,-6.3
 NSW,125,Hume,32479,Canyonleigh,56,36.36,98,63.64,154,-0.95
 NSW,125,Hume,1260,Caragabal,18,14.17,109,85.83,127,-6.32
-NSW,125,Hume,58566,Cawdor (Hume),66,23,221,77,287,-4.08
-NSW,125,Hume,910,Collector,71,35.32,130,64.68,201,-5.06
-NSW,125,Hume,11962,Colo Vale,317,41.99,438,58.01,755,-5.36
+NSW,125,Hume,58566,Cawdor (Hume),68,23.69,219,76.31,287,-3.39
+NSW,125,Hume,910,Collector,69,34.33,132,65.67,201,-6.05
+NSW,125,Hume,11962,Colo Vale,316,41.97,437,58.03,753,-5.38
 NSW,125,Hume,1263,Cootamundra,623,40.09,931,59.91,1554,-3.19
 NSW,125,Hume,58572,Cootamundra PPVC,330,38.28,532,61.72,862,-5.73
-NSW,125,Hume,1266,Cootamundra South,284,41.16,406,58.84,690,-6.34
+NSW,125,Hume,1266,Cootamundra South,284,41.46,401,58.54,685,-6.04
 NSW,125,Hume,1265,Cootamundra West,373,39.55,570,60.45,943,-0.59
 NSW,125,Hume,912,Cowra,860,46.76,979,53.24,1839,2.1
 NSW,125,Hume,948,Cowra North,609,44.71,753,55.29,1362,-2.26
@@ -3489,13 +3489,13 @@ QLD,158,Dawson,5335,Kalamia,152,41.08,218,58.92,370,-3.42
 QLD,158,Dawson,32668,Lindeman Island PPVC,0,0,0,0,0,0
 QLD,158,Dawson,32652,Long Island PPVC,0,0,0,0,0,0
 QLD,158,Dawson,5340,Mackay,641,52.03,591,47.97,1232,-5.78
-QLD,158,Dawson,5353,Mackay City Gates,296,46.61,339,53.39,635,-5.81
+QLD,158,Dawson,5353,Mackay City Gates,298,46.86,338,53.14,636,-5.56
 QLD,158,Dawson,5324,Mackay Goose Ponds,619,53.45,539,46.55,1158,-4.71
 QLD,158,Dawson,5342,Mackay North,396,50.45,389,49.55,785,-11.57
 QLD,158,Dawson,32661,Mackay PPVC,2664,51.35,2524,48.65,5188,3.69
 QLD,158,Dawson,5344,Mackay West,1062,53.02,941,46.98,2003,-5.16
 QLD,158,Dawson,5347,Merinda,240,53.81,206,46.19,446,2.13
-QLD,158,Dawson,5351,Mount Ossa,56,29.79,132,70.21,188,-0.82
+QLD,158,Dawson,5351,Mount Ossa,56,29.95,131,70.05,187,-0.66
 QLD,158,Dawson,5319,Mount Pleasant East,960,48.71,1011,51.29,1971,-6.04
 QLD,158,Dawson,5313,Mount Pleasant West,641,46.62,734,53.38,1375,-5.1
 QLD,158,Dawson,5656,Nome,428,48.36,457,51.64,885,-0.95
@@ -3842,7 +3842,7 @@ QLD,163,Griffith,5574,Dutton Park,816,68.11,382,31.89,1198,-4.12
 QLD,163,Griffith,5575,East Brisbane,1495,55.56,1196,44.44,2691,-3.25
 QLD,163,Griffith,12016,Greenmeadows (Griffith),316,46.27,367,53.73,683,-10.46
 QLD,163,Griffith,12056,Greenslopes,1278,64.61,700,35.39,1978,-1.22
-QLD,163,Griffith,6313,Greenslopes Hospital,342,52.94,304,47.06,646,-7.26
+QLD,163,Griffith,6313,Greenslopes Hospital,340,52.88,303,47.12,643,-7.32
 QLD,163,Griffith,32494,Hill End,1256,66.6,630,33.4,1886,-3.97
 QLD,163,Griffith,12057,Holland Park,636,60,424,40,1060,-0.82
 QLD,163,Griffith,6316,Holland Park Central,809,49.48,826,50.52,1635,-5.62
@@ -4691,7 +4691,7 @@ QLD,176,Rankin,14232,Brisbane City (Rankin),83,55.7,66,44.3,149,-9.09
 QLD,176,Rankin,6433,Browns Plains (Rankin),1582,61.48,991,38.52,2573,-2.92
 QLD,176,Rankin,47736,Browns Plains PPVC,723,49.86,727,50.14,1450,-11.25
 QLD,176,Rankin,31791,Burrowes,1695,66.71,846,33.29,2541,-6.55
-QLD,176,Rankin,32548,Calamvale,1875,48.45,1995,51.55,3870,-4.79
+QLD,176,Rankin,32548,Calamvale,1873,48.45,1993,51.55,3866,-4.79
 QLD,176,Rankin,38235,Calamvale East,777,45.04,948,54.96,1725,-10.27
 QLD,176,Rankin,5386,Chatswood Hills,869,48.82,911,51.18,1780,-3.21
 QLD,176,Rankin,6439,Crestmead,1523,67.96,718,32.04,2241,-6.18
@@ -4723,7 +4723,7 @@ QLD,176,Rankin,5554,Woodridge,1270,68.76,577,31.24,1847,-6.39
 QLD,176,Rankin,5536,Woodridge East,859,69.33,380,30.67,1239,-4.59
 QLD,176,Rankin,5555,Woodridge North,1330,69.34,588,30.66,1918,-7.92
 QLD,176,Rankin,34276,Woodridge PPVC,1622,61.18,1029,38.82,2651,0.07
-QLD,176,Rankin,6489,Yugumbir,1978,60.45,1294,39.55,3272,-2.29
+QLD,176,Rankin,6489,Yugumbir,1977,60.4,1296,39.6,3273,-2.34
 QLD,177,Ryan,5169,Ashgrove West (Ryan),612,46.47,705,53.53,1317,-6.32
 QLD,177,Ryan,6496,Auchenflower,820,45.76,972,54.24,1792,-5.47
 QLD,177,Ryan,6498,Bardon,608,49.96,609,50.04,1217,-5.61
