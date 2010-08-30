@@ -1,6 +1,6 @@
-2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T13:55:37 Cycle:fcc410da-c6d4-4841-af8a-2e5196a872b9 Created:2010-08-30T13:33:52 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T14:11:16 Cycle:e037827a-2bf4-4e0d-9783-41d299403681 Created:2010-08-30T14:00:28 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent
-119,Fowler,NSW,63715,8217,71932,11.42
+119,Fowler,NSW,63932,8217,72149,11.39
 251,Watson,NSW,67168,8413,75581,11.13
 107,Blaxland,NSW,66280,7571,73851,10.25
 315,McMahon,NSW,66087,6766,72853,9.29
@@ -19,7 +19,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 162,Forde,QLD,57495,3877,61372,6.32
 122,Greenway,NSW,64757,4289,69046,6.21
 199,Batman,VIC,63195,4105,67300,6.1
-217,Hotham,VIC,61238,3961,65199,6.08
+217,Hotham,VIC,61350,3950,65300,6.05
 174,Oxley,QLD,60204,3879,64083,6.05
 219,Isaacs,VIC,74483,4696,79179,5.93
 150,Throsby,NSW,66991,4215,71206,5.92
@@ -27,7 +27,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 222,Lalor,VIC,94564,5917,100481,5.89
 127,Kingsford Smith,NSW,64405,3917,68322,5.73
 231,Murray,VIC,67627,3949,71576,5.52
-121,Grayndler,NSW,66171,3857,70028,5.51
+121,Grayndler,NSW,66174,3857,70031,5.51
 144,Reid,NSW,74334,4321,78655,5.49
 216,Holt,VIC,85817,4980,90797,5.48
 131,Macarthur,NSW,65929,3806,69735,5.46
@@ -63,7 +63,6 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 306,Lingiari,NT,37933,1826,39759,4.59
 175,Petrie,QLD,58684,2821,61505,4.59
 171,McPherson,QLD,71769,3382,75151,4.5
-115,Dobell,NSW,72825,3423,76248,4.49
 240,Fremantle,WA,67312,3158,70470,4.48
 146,Robertson,NSW,63404,2976,66380,4.48
 197,Aston,VIC,71579,3347,74926,4.47
@@ -80,12 +79,13 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 237,Cowan,WA,67941,3068,71009,4.32
 113,Cowper,NSW,69699,3144,72843,4.32
 125,Hume,NSW,76005,3429,79434,4.32
+115,Dobell,NSW,76399,3443,79842,4.31
 312,Durack,WA,51821,2332,54153,4.31
 311,Flynn,QLD,67049,2997,70046,4.28
 247,Swan,WA,67443,2972,70415,4.22
 136,Newcastle,NSW,71006,3094,74100,4.18
 155,Bowman,QLD,73596,3199,76795,4.17
-161,Fisher,QLD,63038,2735,65773,4.16
+161,Fisher,QLD,63046,2735,65781,4.16
 192,Bass,TAS,61592,2662,64254,4.14
 200,Bendigo,VIC,81525,3524,85049,4.14
 117,Eden-Monaro,NSW,72169,3108,75277,4.13
@@ -105,9 +105,9 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 244,Pearce,WA,63136,2595,65731,3.95
 105,Bennelong,NSW,74945,3063,78008,3.93
 249,Paterson,NSW,75354,3082,78436,3.93
-157,Capricornia,QLD,68548,2766,71314,3.88
+157,Capricornia,QLD,69100,2782,71882,3.87
 163,Griffith,QLD,64707,2552,67259,3.79
-213,Gippsland,VIC,78474,3054,81528,3.75
+213,Gippsland,VIC,78483,3054,81537,3.75
 223,La Trobe,VIC,74012,2886,76898,3.75
 230,Melbourne Ports,VIC,58208,2270,60478,3.75
 239,Forrest,WA,65388,2544,67932,3.74
@@ -116,7 +116,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 135,New England,NSW,67322,2565,69887,3.67
 133,Macquarie,NSW,76847,2912,79759,3.65
 205,Chisholm,VIC,61619,2326,63945,3.64
-252,Dickson,QLD,63478,2389,65867,3.63
+252,Dickson,QLD,63502,2389,65891,3.63
 149,Sydney,NSW,49533,1868,51401,3.63
 209,Deakin,VIC,65495,2463,67958,3.62
 236,Canning,WA,71902,2675,74577,3.59
@@ -130,7 +130,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 145,Richmond,NSW,70714,2428,73142,3.32
 194,Denison,TAS,53439,1822,55261,3.3
 106,Berowra,NSW,72249,2426,74675,3.25
-152,Wentworth,NSW,63127,2122,65249,3.25
+152,Wentworth,NSW,63138,2122,65260,3.25
 190,Sturt,SA,71362,2330,73692,3.16
 137,North Sydney,NSW,72543,2363,74906,3.15
 207,Corangamite,VIC,83038,2693,85731,3.14
