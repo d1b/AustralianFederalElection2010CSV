@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T11:52:52 Cycle:cb6e5ec8-c279-4edb-8b75-bc128133c2a8 Created:2010-08-30T11:33:46 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T12:07:56 Cycle:b4e87355-7028-46e0-ab75-816aaf5cbee7 Created:2010-08-30T11:48:51 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -574,7 +574,7 @@ NSW,111,Chifley,1028,Doonside North,2255,61.33,1422,38.67,3677,-9.51
 NSW,111,Chifley,395,Eastern Creek,347,57.26,259,42.74,606,-13.6
 NSW,111,Chifley,396,Emerton,413,70.96,169,29.04,582,-5.31
 NSW,111,Chifley,31463,Glendenning,1463,64,823,36,2286,-8.45
-NSW,111,Chifley,31030,Hassall Grove,1854,62.61,1107,37.39,2961,-11.42
+NSW,111,Chifley,31030,Hassall Grove,1845,62.48,1108,37.52,2953,-11.55
 NSW,111,Chifley,397,Hebersham,1271,67.57,610,32.43,1881,-9.27
 NSW,111,Chifley,399,Lethbridge Park,1213,70.16,516,29.84,1729,-7.56
 NSW,111,Chifley,1036,Marayong,1201,61.65,747,38.35,1948,-5.44
@@ -2735,10 +2735,10 @@ NSW,146,Robertson,31496,Special Hospital Team 3,82,52.23,75,47.77,157,7.86
 NSW,146,Robertson,2624,Spencer,116,62.37,70,37.63,186,2.78
 NSW,146,Robertson,2625,Springfield,912,54.71,755,45.29,1667,2.13
 NSW,146,Robertson,14154,Sydney (Robertson),38,56.72,29,43.28,67,3.94
-NSW,146,Robertson,2626,Terrigal (Robertson),1203,50.61,1174,49.39,2377,4.11
+NSW,146,Robertson,2626,Terrigal (Robertson),1089,46.03,1277,53.97,2366,-0.47
 NSW,146,Robertson,2627,Terrigal Central,169,37.47,282,62.53,451,-6.94
 NSW,146,Robertson,620,Terrigal Lagoon,532,44.19,672,55.81,1204,2.13
-NSW,146,Robertson,33077,Terrigal West,714,40.48,1050,59.52,1764,0.97
+NSW,146,Robertson,33077,Terrigal West,701,39.92,1055,60.08,1756,0.41
 NSW,146,Robertson,31701,Umina Beach,692,59.5,471,40.5,1163,2.48
 NSW,146,Robertson,2628,Umina Central,1103,60.08,733,39.92,1836,-0.48
 NSW,146,Robertson,2629,Umina Mall,1165,59.71,786,40.29,1951,3.46
@@ -4562,7 +4562,7 @@ QLD,173,Moreton,5525,Acacia Ridge,750,67.93,354,32.07,1104,-6.81
 QLD,173,Moreton,5526,Acacia Ridge South,1193,63.42,688,36.58,1881,-10.48
 QLD,173,Moreton,37838,Annerley (Moreton),371,65.55,195,34.45,566,-1.66
 QLD,173,Moreton,6304,Annerley Junction,659,62.29,399,37.71,1058,-2.71
-QLD,173,Moreton,14229,Brisbane City (Moreton),173,64.31,96,35.69,269,1.48
+QLD,173,Moreton,14229,Brisbane City (Moreton),173,64.07,97,35.93,270,1.24
 QLD,173,Moreton,58693,Brisbane City MORETON PPVC,342,53.19,301,46.81,643,-1.08
 QLD,173,Moreton,5530,Chelmer,292,43.39,381,56.61,673,9.75
 QLD,173,Moreton,5387,Coopers Plains,1171,58.52,830,41.48,2001,-6.07
@@ -5106,7 +5106,7 @@ SA,182,Boothby,6865,Coromandel Valley (Boothby),320,54.05,272,45.95,592,6.27
 SA,182,Boothby,7094,Darlington,1006,53.83,863,46.17,1869,-0.2
 SA,182,Boothby,7012,Daw Park,952,51.88,883,48.12,1835,2.18
 SA,182,Boothby,30173,Divisional Office (PREPOLL),171,45,209,55,380,-5.78
-SA,182,Boothby,6866,Eden Hills,723,55.92,570,44.08,1293,0.81
+SA,182,Boothby,6866,Eden Hills,716,55.76,568,44.24,1284,0.65
 SA,182,Boothby,6867,Flagstaff Hill (Boothby),1712,46.57,1964,53.43,3676,4.51
 SA,182,Boothby,8846,Flagstaff Hill East,336,43.75,432,56.25,768,-2.1
 SA,182,Boothby,6874,Hawthorn,176,44.22,222,55.78,398,1.46
@@ -5696,7 +5696,7 @@ TAS,192,Bass,8308,Karoola,158,60.31,104,39.69,262,5.46
 TAS,192,Bass,8309,Kings Meadows,1323,59.17,913,40.83,2236,8.28
 TAS,192,Bass,8310,Lady Barron,63,49.22,65,50.78,128,8.25
 TAS,192,Bass,8311,Launceston,704,61.01,450,38.99,1154,3.64
-TAS,192,Bass,33906,Launceston BASS PPVC,1532,54.06,1302,45.94,2834,3.56
+TAS,192,Bass,33906,Launceston BASS PPVC,1530,54.01,1303,45.99,2833,3.51
 TAS,192,Bass,8312,Launceston Central,378,58.7,266,41.3,644,7.31
 TAS,192,Bass,8316,Lebrina,125,56.31,97,43.69,222,3.59
 TAS,192,Bass,8616,Legana (Bass),854,53.08,755,46.92,1609,8.93
@@ -5719,9 +5719,9 @@ TAS,192,Bass,8340,Scottsdale,847,47.56,934,52.44,1781,7.53
 TAS,192,Bass,8330,South Launceston,307,59.5,209,40.5,516,0.08
 TAS,192,Bass,33647,Special Hospital Team 1,96,39.67,146,60.33,242,2.21
 TAS,192,Bass,33894,Special Hospital Team 2,73,45.06,89,54.94,162,7.37
-TAS,192,Bass,33895,Special Hospital Team 3,30,35.71,54,64.29,84,-1.64
+TAS,192,Bass,33895,Special Hospital Team 3,118,38.56,188,61.44,306,1.21
 TAS,192,Bass,33896,Special Hospital Team 4,117,38.36,188,61.64,305,0.81
-TAS,192,Bass,58646,Special Hospital Team 5,74,52.48,67,47.52,141,14.83
+TAS,192,Bass,58646,Special Hospital Team 5,74,52.11,68,47.89,142,14.46
 TAS,192,Bass,8339,St Leonards,613,54.68,508,45.32,1121,4.95
 TAS,192,Bass,33084,Summerhill,1875,58.43,1334,41.57,3209,7.71
 TAS,192,Bass,8322,Targa,38,55.88,30,44.12,68,-6.77
@@ -6011,7 +6011,7 @@ TAS,196,Lyons,8670,Sheffield,651,53.89,557,46.11,1208,3.32
 TAS,196,Lyons,8671,Sidmouth,213,50.12,212,49.88,425,5.31
 TAS,196,Lyons,8672,Sorell,1242,60.12,824,39.88,2066,2.89
 TAS,196,Lyons,33649,Special Hospital Team 1,54,60,36,40,90,-2.22
-TAS,196,Lyons,33971,Special Hospital Team 2,45,58.44,32,41.56,77,-3.26
+TAS,196,Lyons,33971,Special Hospital Team 2,46,59.74,31,40.26,77,-1.96
 TAS,196,Lyons,33972,Special Hospital Team 3,23,79.31,6,20.69,29,17.41
 TAS,196,Lyons,47820,Special Hospital Team 4,79,56.43,61,43.57,140,-5.75
 TAS,196,Lyons,8663,St Helens,1080,63.87,611,36.13,1691,6.05
@@ -6798,7 +6798,7 @@ VIC,213,Gippsland,4389,Traralgon North,1311,43.77,1684,56.23,2995,-6.72
 VIC,213,Gippsland,46515,Traralgon North East,574,41.5,809,58.5,1383,-4.65
 VIC,213,Gippsland,32107,Traralgon PPVC,2677,42.65,3599,57.35,6276,-4.76
 VIC,213,Gippsland,4430,Traralgon South,178,40.27,264,59.73,442,-8.34
-VIC,213,Gippsland,4431,Traralgon West,448,41.06,643,58.94,1091,-8.02
+VIC,213,Gippsland,4431,Traralgon West,448,40.99,645,59.01,1093,-8.09
 VIC,213,Gippsland,4432,Tyers,221,44.83,272,55.17,493,-3.24
 VIC,213,Gippsland,3839,Won Wron,48,35.29,88,64.71,136,-4.4
 VIC,213,Gippsland,3840,Woodside,85,27.51,224,72.49,309,-11.93
@@ -7155,7 +7155,7 @@ VIC,220,Jagajaga,30211,Divisional Office (PREPOLL),0,0,0,0,0,-56.69
 VIC,220,Jagajaga,4167,Eaglemont,794,50.44,780,49.56,1574,1.43
 VIC,220,Jagajaga,4704,Eltham,2065,60.99,1321,39.01,3386,3.3
 VIC,220,Jagajaga,4705,Eltham East,1770,62.24,1074,37.76,2844,5.99
-VIC,220,Jagajaga,4706,Eltham North,953,61.52,596,38.48,1549,4.75
+VIC,220,Jagajaga,4706,Eltham North,953,61.44,598,38.56,1551,4.67
 VIC,220,Jagajaga,11889,Eltham Woods,503,60.46,329,39.54,832,3.77
 VIC,220,Jagajaga,4168,Fairy Hills,807,53.16,711,46.84,1518,1.18
 VIC,220,Jagajaga,58457,Glendale,785,59.65,531,40.35,1316,5.96
