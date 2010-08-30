@@ -1,11 +1,11 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T08:53:06 Cycle:030903b4-d14b-48ae-b79c-25e21a6b393e Created:2010-08-31T08:32:58 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T09:08:30 Cycle:91f8e56f-7066-48d7-8902-a81ed3b5b7cf Created:2010-08-31T08:48:03 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 179,Adelaide,SA,98526,74295,75.41
 197,Aston,VIC,93448,78061,83.53
 198,Ballarat,VIC,97802,78621,80.39
 103,Banks,NSW,98762,83814,84.86
-180,Barker,SA,104888,84609,80.65
-104,Barton,NSW,95243,71087,74.63
+180,Barker,SA,104888,84609,80.67
+104,Barton,NSW,95243,71159,74.64
 192,Bass,TAS,71689,65836,91.84
 199,Batman,VIC,89160,67318,75.5
 200,Bendigo,VIC,100701,85049,84.46
@@ -97,7 +97,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 132,Mackellar,NSW,98556,78866,80.02
 133,Macquarie,NSW,97560,79759,81.75
 187,Makin,SA,96263,88362,91.79
-224,Mallee,VIC,89840,76588,85.23
+224,Mallee,VIC,89840,76588,85.25
 170,Maranoa,QLD,97957,73422,74.95
 225,Maribyrnong,VIC,88412,67189,76
 188,Mayo,SA,101565,76003,74.83
@@ -120,7 +120,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 174,Oxley,QLD,82782,68373,82.59
 138,Page,NSW,94360,77528,82.16
 139,Parkes,NSW,100169,84402,84.26
-140,Parramatta,NSW,94014,77648,81.56
+140,Parramatta,NSW,94014,77648,82.59
 249,Paterson,NSW,92149,78390,85.07
 244,Pearce,WA,89526,68274,76.26
 245,Perth,WA,91904,68089,74.09
@@ -130,7 +130,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 144,Reid,NSW,95873,78689,82.08
 145,Richmond,NSW,92384,73189,79.22
 250,Riverina,NSW,98594,79101,80.23
-146,Robertson,NSW,96593,66415,68.72
+146,Robertson,NSW,96593,68851,68.76
 177,Ryan,QLD,98224,70652,71.93
 232,Scullin,VIC,90822,75298,82.91
 148,Shortland,NSW,94245,81570,86.55
@@ -138,7 +138,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 246,Stirling,WA,91728,69085,75.32
 190,Sturt,SA,99061,73692,74.39
 247,Swan,WA,90766,73947,81.47
-149,Sydney,NSW,95277,53672,56.33
+149,Sydney,NSW,95277,53680,56.33
 248,Tangney,WA,92176,79396,86.14
 150,Throsby,NSW,95874,71206,74.27
 191,Wakefield,SA,100209,79409,79.24
