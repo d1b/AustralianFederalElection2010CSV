@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T15:28:14 Cycle:c8348004-66b3-400d-a4bb-08131bad54cf Created:2010-08-30T15:11:43 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T15:43:41 Cycle:1d4ecf46-021d-4498-b914-65d2bd7f4102 Created:2010-08-30T15:26:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -556,7 +556,7 @@ NSW,110,Charlton,375,Wangi Wangi,939,61.7,583,38.3,1522,-1.31
 NSW,110,Charlton,43974,Warners Bay (Charlton),521,58.8,365,41.2,886,-3.68
 NSW,110,Charlton,32802,Warners Bay North,721,51.1,690,48.9,1411,-2.75
 NSW,110,Charlton,379,West Wallsend,1374,75.58,444,24.42,1818,-2.44
-NSW,110,Charlton,31717,Woodrising,382,77.02,114,22.98,496,3.26
+NSW,110,Charlton,31717,Woodrising,385,77.78,110,22.22,495,4.02
 NSW,110,Charlton,623,Wyee,725,53.86,621,46.14,1346,1.23
 NSW,110,Charlton,31719,Wyee Point,141,61.3,89,38.7,230,-7.86
 NSW,111,Chifley,413,Arndell Park North,2062,59.02,1432,40.98,3494,-8.83
@@ -2110,7 +2110,7 @@ NSW,137,North Sydney,2035,Willoughby,1196,34.27,2294,65.73,3490,-11
 NSW,137,North Sydney,2036,Willoughby North,847,35.68,1527,64.32,2374,-9.01
 NSW,137,North Sydney,2037,Wollstonecraft,884,39.52,1353,60.48,2237,-9.43
 NSW,137,North Sydney,109,Woolwich,228,27.98,587,72.02,815,-5.88
-NSW,138,Page,2043,Alstonville,1403,52.04,1293,47.96,2696,6.36
+NSW,138,Page,2043,Alstonville,1390,51.56,1306,48.44,2696,5.88
 NSW,138,Page,2044,Ballina,1696,60.94,1087,39.06,2783,4.26
 NSW,138,Page,2045,Ballina East,1254,57.52,926,42.48,2180,7.85
 NSW,138,Page,2046,Ballina Hospital,1015,58.64,716,41.36,1731,2.97
@@ -2542,7 +2542,7 @@ NSW,145,Richmond,2432,Goolmangar,265,47.15,297,52.85,562,-7.02
 NSW,145,Richmond,2435,Goonengerry,110,80.88,26,19.12,136,-6.26
 NSW,145,Richmond,2438,Hastings Point,299,54.86,246,45.14,545,-1.76
 NSW,145,Richmond,2439,Jiggi,171,72.77,64,27.23,235,-1.76
-NSW,145,Richmond,2440,Kingscliff,1001,51.62,938,48.38,1939,-2.86
+NSW,145,Richmond,2440,Kingscliff,997,51.74,930,48.26,1927,-2.74
 NSW,145,Richmond,58461,Kingscliff South,477,53.54,414,46.46,891,-1.34
 NSW,145,Richmond,2441,Kunghur,120,64.17,67,35.83,187,0.25
 NSW,145,Richmond,2442,Lennox Head,1593,56.13,1245,43.87,2838,2.94
@@ -2675,11 +2675,11 @@ NSW,250,Riverina,11950,Tumut East,779,44.14,986,55.86,1765,-19.11
 NSW,250,Riverina,1326,Turvey Park,609,38.01,993,61.99,1602,-0.79
 NSW,250,Riverina,1329,Turvey Park North,365,44.24,460,55.76,825,1.78
 NSW,250,Riverina,2553,Ungarie,71,25.63,206,74.37,277,-3.72
-NSW,250,Riverina,1327,Uranquinty,150,30.61,340,69.39,490,-5.16
-NSW,250,Riverina,1328,Wagga Wagga,610,38.27,984,61.73,1594,3.65
+NSW,250,Riverina,1327,Uranquinty,140,28.57,350,71.43,490,-7.2
+NSW,250,Riverina,1328,Wagga Wagga,607,38.1,986,61.9,1593,3.48
 NSW,250,Riverina,1278,Wagga Wagga East,104,35.99,185,64.01,289,-2.27
-NSW,250,Riverina,1330,Wagga Wagga Hospital,84,42.21,115,57.79,199,4.32
-NSW,250,Riverina,1331,Wagga Wagga North,528,34.15,1018,65.85,1546,1.41
+NSW,250,Riverina,1330,Wagga Wagga Hospital,83,41.71,116,58.29,199,3.82
+NSW,250,Riverina,1331,Wagga Wagga North,489,31.47,1065,68.53,1554,-1.27
 NSW,250,Riverina,33860,Wagga Wagga PPVC,1588,31.32,3483,68.68,5071,-2.56
 NSW,250,Riverina,1340,Wagga Wagga South,360,35.02,668,64.98,1028,-1.53
 NSW,250,Riverina,1332,Wagga Wagga West,627,35.3,1149,64.7,1776,-2.09
@@ -2876,7 +2876,7 @@ NSW,150,Throsby,2798,Mittagong (Throsby),1082,48.85,1133,51.15,2215,1.34
 NSW,150,Throsby,2799,Mittagong South,443,46.53,509,53.47,952,4.57
 NSW,150,Throsby,2800,Moss Vale,781,51.45,737,48.55,1518,-1.61
 NSW,150,Throsby,2801,Moss Vale Central,947,46.42,1093,53.58,2040,3.64
-NSW,150,Throsby,2802,Mount Brown,1278,64,719,36,1997,-6.15
+NSW,150,Throsby,2802,Mount Brown,1237,62.13,754,37.87,1991,-8.02
 NSW,150,Throsby,32671,Mount Terry,1861,65.74,970,34.26,2831,-3.96
 NSW,150,Throsby,2803,Mount Warrigal,1113,72.79,416,27.21,1529,-3.89
 NSW,150,Throsby,32480,New Berrima,127,59.91,85,40.09,212,0.44
@@ -3053,7 +3053,7 @@ NSW,153,Werriwa,2913,Glenfield,1191,57.01,898,42.99,2089,-9.44
 NSW,153,Werriwa,2914,Glenfield East,775,54.77,640,45.23,1415,-8.07
 NSW,153,Werriwa,46482,Horningsea Park,523,58.05,378,41.95,901,-6.03
 NSW,153,Werriwa,2916,Hoxton Park,1286,59.98,858,40.02,2144,-11.13
-NSW,153,Werriwa,2918,Ingleburn,1709,56.66,1307,43.34,3016,-6.9
+NSW,153,Werriwa,2918,Ingleburn,1557,51.69,1455,48.31,3012,-11.87
 NSW,153,Werriwa,2919,Ingleburn East,720,52.48,652,47.52,1372,-9
 NSW,153,Werriwa,2920,Ingleburn North,329,32.19,693,67.81,1022,-7.93
 NSW,153,Werriwa,33816,Ingleburn PPVC,1014,53.01,899,46.99,1913,-13.36
@@ -6215,8 +6215,8 @@ VIC,200,Bendigo,3175,Maiden Gully,1014,54.37,851,45.63,1865,5.51
 VIC,200,Bendigo,3304,Maldon,767,61.8,474,38.2,1241,-0.2
 VIC,200,Bendigo,3305,Malmsbury,349,62.21,212,37.79,561,-2.62
 VIC,200,Bendigo,3306,Mandurang,198,47.94,215,52.06,413,-0.76
-VIC,200,Bendigo,3177,Marong,248,49.11,257,50.89,505,0.02
-VIC,200,Bendigo,3178,Maryborough,1547,60.29,1019,39.71,2566,4.1
+VIC,200,Bendigo,3177,Marong,248,49.01,258,50.99,506,-0.08
+VIC,200,Bendigo,3178,Maryborough,1547,60.22,1022,39.78,2569,4.03
 VIC,200,Bendigo,3179,Maryborough East,1235,62.88,729,37.12,1964,1.94
 VIC,200,Bendigo,31987,Melbourne (Bendigo),36,56.25,28,43.75,64,-5.97
 VIC,200,Bendigo,3184,Newbridge,78,41.71,109,58.29,187,-1.57
