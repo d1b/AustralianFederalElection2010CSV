@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T18:16:40 Cycle:1e8b6db4-36a1-4adc-9fe5-bcc616619eeb Created:2010-08-30T17:56:50 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T18:31:51 Cycle:e35ec098-4bcf-4d7b-940d-ab30446fed05 Created:2010-08-30T18:11:50 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -428,14 +428,14 @@ NSW,109,Calare,2187,Forbes Hospital,45,26.32,126,73.68,171,-4.75
 NSW,109,Calare,2188,Forbes North,389,33.22,782,66.78,1171,-5.24
 NSW,109,Calare,2189,Forbes South,192,21.24,712,78.76,904,-10.78
 NSW,109,Calare,249,Glen Alice,30,31.91,64,68.09,94,-16.24
-NSW,109,Calare,250,Glenroi,731,51.55,687,48.45,1418,-8.5
+NSW,109,Calare,250,Glenroi,719,51.03,690,48.97,1409,-9.02
 NSW,109,Calare,253,Hampton,58,40.28,86,59.72,144,-6.7
 NSW,109,Calare,1767,Hartley,170,38.46,272,61.54,442,-7.85
-NSW,109,Calare,255,Hermitage,341,59.82,229,40.18,570,-8.9
-NSW,109,Calare,256,Hill End,38,52.05,35,47.95,73,-12.89
+NSW,109,Calare,255,Hermitage,341,59.93,228,40.07,569,-8.79
+NSW,109,Calare,256,Hill End,38,51.35,36,48.65,74,-13.59
 NSW,109,Calare,260,Kelso,1124,42.92,1495,57.08,2619,-9.96
-NSW,109,Calare,262,Lithgow,818,59.45,558,40.55,1376,-9.93
-NSW,109,Calare,263,Lithgow Hospital,73,59.35,50,40.65,123,-8.24
+NSW,109,Calare,262,Lithgow,815,59.32,559,40.68,1374,-10.06
+NSW,109,Calare,263,Lithgow Hospital,75,60,50,40,125,-7.59
 NSW,109,Calare,33864,Lithgow PPVC,951,57.71,697,42.29,1648,11.46
 NSW,109,Calare,264,Littleton,249,55.46,200,44.54,449,-12.61
 NSW,109,Calare,265,Lucknow,68,28.22,173,71.78,241,-10.6
@@ -851,16 +851,16 @@ NSW,115,Dobell,31464,Wyong East,390,54.39,327,45.61,717,2.18
 NSW,115,Dobell,33814,Wyong PPVC,1033,53.5,898,46.5,1931,0.13
 NSW,115,Dobell,627,Wyongah,543,63.96,306,36.04,849,2.89
 NSW,115,Dobell,628,Yarramalong,97,46.63,111,53.37,208,1.39
-NSW,117,Eden-Monaro,666,Adaminaby,106,37.59,176,62.41,282,-0.25
-NSW,117,Eden-Monaro,668,Araluen,49,52.69,44,47.31,93,8.25
-NSW,117,Eden-Monaro,669,Batehaven,682,47.3,760,52.7,1442,2.3
-NSW,117,Eden-Monaro,670,Batemans Bay,852,49.51,869,50.49,1721,2.83
+NSW,117,Eden-Monaro,666,Adaminaby,107,37.81,176,62.19,283,-0.03
+NSW,117,Eden-Monaro,668,Araluen,48,52.17,44,47.83,92,7.73
+NSW,117,Eden-Monaro,669,Batehaven,676,47.24,755,52.76,1431,2.24
+NSW,117,Eden-Monaro,670,Batemans Bay,845,49.33,868,50.67,1713,2.65
 NSW,117,Eden-Monaro,33919,Batemans Bay PPVC,1302,50.72,1265,49.28,2567,2
-NSW,117,Eden-Monaro,672,Bega,967,60.06,643,39.94,1610,3.31
-NSW,117,Eden-Monaro,673,Bega Central,592,54.11,502,45.89,1094,2.82
+NSW,117,Eden-Monaro,672,Bega,969,59.89,649,40.11,1618,3.14
+NSW,117,Eden-Monaro,673,Bega Central,592,53.97,505,46.03,1097,2.68
 NSW,117,Eden-Monaro,33920,Bega PPVC,683,52.99,606,47.01,1289,4.26
-NSW,117,Eden-Monaro,675,Bemboka,196,53.12,173,46.88,369,10.71
-NSW,117,Eden-Monaro,676,Bermagui,677,51.8,630,48.2,1307,-5.19
+NSW,117,Eden-Monaro,675,Bemboka,195,52.99,173,47.01,368,10.58
+NSW,117,Eden-Monaro,676,Bermagui,674,51.77,628,48.23,1302,-5.22
 NSW,117,Eden-Monaro,677,Berridale,212,37.99,346,62.01,558,-2.3
 NSW,117,Eden-Monaro,678,Bibbenluke,39,41.94,54,58.06,93,-3.36
 NSW,117,Eden-Monaro,679,Bimbimbie,169,40.92,244,59.08,413,-5.36
@@ -1289,7 +1289,7 @@ NSW,124,Hughes,34235,Wattle Grove South,593,46.08,694,53.92,1287,-4.45
 NSW,124,Hughes,31035,Woronora Heights,424,39.41,652,60.59,1076,-3.83
 NSW,124,Hughes,1236,Woronora River,224,40.88,324,59.12,548,-0.7
 NSW,124,Hughes,1237,Yarrawarrah,612,43.68,789,56.32,1401,-1.04
-NSW,125,Hume,1663,Bargo,891,42.96,1183,57.04,2074,-9.08
+NSW,125,Hume,1663,Bargo,983,47.74,1076,52.26,2059,-4.3
 NSW,125,Hume,901,Bendick Murrell,36,26.87,98,73.13,134,-8.89
 NSW,125,Hume,58564,Berrima (Hume),68,28.57,170,71.43,238,-10.32
 NSW,125,Hume,902,Bigga,0,0,0,0,0,-29.61
@@ -2196,7 +2196,7 @@ NSW,138,Page,2135,Woodburn,473,56.51,364,43.49,837,0.69
 NSW,138,Page,2137,Woodenbong,104,38.1,169,61.9,273,3.12
 NSW,138,Page,2134,Woombah,261,54.6,217,45.4,478,0.67
 NSW,138,Page,2477,Wyrallah,199,55.28,161,44.72,360,0.33
-NSW,138,Page,2140,Yamba,860,54.92,706,45.08,1566,2.17
+NSW,138,Page,2140,Yamba,854,54.67,708,45.33,1562,1.92
 NSW,138,Page,33110,Yamba West,812,46.45,936,53.55,1748,-0.37
 NSW,139,Parkes,46537,Albert,8,8.25,89,91.75,97,0.84
 NSW,139,Parkes,1062,Ashley,28,18.79,121,81.21,149,-7.56
@@ -4791,18 +4791,18 @@ QLD,178,Wide Bay,6568,Granville,584,36.55,1014,63.45,1598,-12.18
 QLD,178,Wide Bay,6569,Gunalda,127,36.08,225,63.92,352,-4.82
 QLD,178,Wide Bay,6570,Gundiah,15,11.9,111,88.1,126,-13.31
 QLD,178,Wide Bay,6572,Gympie Central,621,34.4,1184,65.6,1805,-7.51
-QLD,178,Wide Bay,6573,Gympie East,484,33.7,952,66.3,1436,-7.98
+QLD,178,Wide Bay,6573,Gympie East,485,33.75,952,66.25,1437,-7.93
 QLD,178,Wide Bay,6575,Gympie North,511,33.44,1017,66.56,1528,-3.86
 QLD,178,Wide Bay,32767,Gympie PPVC,610,29.76,1440,70.24,2050,-13.01
-QLD,178,Wide Bay,6577,Gympie South,811,30.12,1882,69.88,2693,-9.62
+QLD,178,Wide Bay,6577,Gympie South,816,30.33,1874,69.67,2690,-9.41
 QLD,178,Wide Bay,6578,Gympie West,446,33.16,899,66.84,1345,-4.43
 QLD,178,Wide Bay,6581,Imbil,327,36.7,564,63.3,891,-0.55
 QLD,178,Wide Bay,6583,Jones Hill,308,24.01,975,75.99,1283,-5.09
 QLD,178,Wide Bay,6584,Kandanga,70,20.17,277,79.83,347,2.3
 QLD,178,Wide Bay,6587,Kilkivan,123,27.58,323,72.42,446,-8.06
-QLD,178,Wide Bay,6592,Kin Kin,126,41.86,175,58.14,301,-7.83
+QLD,178,Wide Bay,6592,Kin Kin,127,42.19,174,57.81,301,-7.5
 QLD,178,Wide Bay,32694,Kingfisher Bay PPVC,0,0,0,0,0,-41.67
-QLD,178,Wide Bay,6594,Kybong,52,20,208,80,260,-10.35
+QLD,178,Wide Bay,6594,Kybong,57,22.27,199,77.73,256,-8.08
 QLD,178,Wide Bay,6598,Maryborough,1065,39.69,1618,60.31,2683,-9.71
 QLD,178,Wide Bay,34045,Maryborough PPVC,843,31.99,1792,68.01,2635,-10.78
 QLD,178,Wide Bay,6610,Maryborough West,746,38.12,1211,61.88,1957,-12.88
@@ -7851,7 +7851,7 @@ VIC,231,Murray,4813,Tennyson,4,4.65,82,95.35,86,-2.42
 VIC,231,Murray,4815,Tongala,194,23.57,629,76.43,823,-2.38
 VIC,231,Murray,4816,Toolamba,123,30.75,277,69.25,400,-8.3
 VIC,231,Murray,4817,Toolleen,38,25.85,109,74.15,147,-3.16
-VIC,231,Murray,4818,Torrumbarry,62,29.25,150,70.75,212,1
+VIC,231,Murray,4818,Torrumbarry,62,29.52,148,70.48,210,1.27
 VIC,231,Murray,4820,Undera,65,20.19,257,79.81,322,-1.88
 VIC,231,Murray,4821,Waaia,37,14.98,210,85.02,247,-3.87
 VIC,231,Murray,4822,Wanganui,500,40.65,730,59.35,1230,-0.84

@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T18:16:14 Cycle:1e8b6db4-36a1-4adc-9fe5-bcc616619eeb Created:2010-08-30T17:56:50 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-30T18:31:25 Cycle:e35ec098-4bcf-4d7b-940d-ab30446fed05 Created:2010-08-30T18:11:50 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent,InformalSwing
 107,Blaxland,NSW,64786,10783,75569,14.27,5.38
 251,Watson,NSW,67186,10221,77407,13.2,4.11
@@ -25,7 +25,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 309,Gorton,VIC,86077,6354,92431,6.87,2.43
 174,Oxley,QLD,65459,4811,70270,6.85,2.79
 124,Hughes,NSW,77250,5605,82855,6.76,2.32
-118,Farrer,NSW,73679,5295,78974,6.7,2.87
+118,Farrer,NSW,75074,5372,80446,6.68,2.85
 203,Calwell,VIC,78839,5534,84373,6.56,1.71
 126,Hunter,NSW,72813,5007,77820,6.43,2.16
 146,Robertson,NSW,79080,5431,84511,6.43,2.99
@@ -37,8 +37,8 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 191,Wakefield,SA,81588,5424,87012,6.23,1.57
 222,Lalor,VIC,94139,6225,100364,6.2,2.71
 157,Capricornia,QLD,71786,4737,76523,6.19,2.87
+117,Eden-Monaro,NSW,80690,5302,85992,6.17,2.44
 159,Fadden,QLD,68997,4531,73528,6.16,1.85
-117,Eden-Monaro,NSW,80704,5281,85985,6.14,2.41
 168,Leichhardt,QLD,75519,4879,80398,6.07,1.05
 187,Makin,SA,83156,5340,88496,6.03,1.96
 232,Scullin,VIC,70429,4515,74944,6.02,1.96
@@ -55,7 +55,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 305,Hasluck,WA,81680,4876,86556,5.63,1.3
 216,Holt,VIC,87082,5198,92280,5.63,2.07
 134,Mitchell,NSW,77079,4581,81660,5.61,1.54
-114,Cunningham,NSW,82543,4872,87415,5.57,1.66
+114,Cunningham,NSW,82974,4881,87855,5.56,1.65
 180,Barker,SA,84751,4957,89708,5.53,1.68
 155,Bowman,QLD,75283,4386,79669,5.51,2.13
 133,Macquarie,NSW,85350,4936,90286,5.47,1.82
@@ -72,11 +72,11 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 244,Pearce,WA,69332,3913,73245,5.34,1.35
 166,Hinkler,QLD,77608,4368,81976,5.33,1.43
 185,Hindmarsh,SA,75544,4225,79769,5.3,1.46
-231,Murray,VIC,74368,4146,78514,5.28,0.04
+231,Murray,VIC,74366,4148,78514,5.28,0.04
 233,Wannon,VIC,75923,4227,80150,5.27,2.68
 235,Brand,WA,74218,4112,78330,5.25,1.38
 175,Petrie,QLD,69175,3835,73010,5.25,2.03
-178,Wide Bay,QLD,72881,4029,76910,5.24,1.24
+178,Wide Bay,QLD,72875,4038,76913,5.25,1.25
 190,Sturt,SA,76063,4195,80258,5.23,1.77
 161,Fisher,QLD,70151,3866,74017,5.22,2.41
 132,Mackellar,NSW,77814,4266,82080,5.2,0.53
@@ -87,7 +87,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 120,Gilmore,NSW,77899,4199,82098,5.11,0.87
 307,Solomon,NT,49074,2640,51714,5.11,2.18
 186,Kingston,SA,88861,4770,93631,5.09,1.36
-125,Hume,NSW,77527,4130,81657,5.06,1.49
+125,Hume,NSW,77512,4144,81656,5.07,1.5
 160,Fairfax,QLD,77399,4106,81505,5.04,1.65
 246,Stirling,WA,77683,4120,81803,5.04,0.13
 247,Swan,WA,71803,3754,75557,4.97,0.43
@@ -95,9 +95,9 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 312,Durack,WA,64208,3324,67532,4.92,0.5
 101,Canberra,ACT,99976,5152,105128,4.9,2.64
 173,Moreton,QLD,75921,3884,79805,4.87,1.71
+109,Calare,NSW,82964,4202,87166,4.82,1.2
 163,Griffith,QLD,72815,3682,76497,4.81,1.93
 196,Lyons,TAS,65222,3298,68520,4.81,1.75
-109,Calare,NSW,82973,4186,87159,4.8,1.18
 179,Adelaide,SA,73807,3677,77484,4.75,1.64
 217,Hotham,VIC,64266,3177,67443,4.71,1.41
 151,Warringah,NSW,75894,3747,79641,4.7,1.26
@@ -106,7 +106,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 169,Lilley,QLD,79472,3842,83314,4.61,1.66
 188,Mayo,SA,82289,3956,86245,4.59,1.83
 182,Boothby,SA,86491,4154,90645,4.58,1.71
-138,Page,NSW,74455,3561,78016,4.56,0.26
+138,Page,NSW,74451,3565,78016,4.57,0.27
 208,Corio,VIC,77692,3691,81383,4.54,0.81
 102,Fraser,ACT,103661,4894,108555,4.51,2.15
 236,Canning,WA,74272,3503,77775,4.5,1.05
