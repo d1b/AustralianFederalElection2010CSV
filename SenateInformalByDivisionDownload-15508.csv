@@ -1,4 +1,4 @@
-2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T14:31:34 Cycle:a96c127f-9dd0-4a94-b8fa-e4715f056693 Created:2010-08-31T14:19:23 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T14:46:52 Cycle:c7c4663b-5079-4e05-8ebe-41f110bd4a45 Created:2010-08-31T14:34:28 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent
 119,Fowler,NSW,63571,8217,71788,11.45
 251,Watson,NSW,67168,8395,75563,11.11
@@ -40,9 +40,9 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 165,Herbert,QLD,62909,3396,66305,5.12
 217,Hotham,VIC,64461,3481,67942,5.12
 307,Solomon,NT,45713,2439,48152,5.07
-229,Menzies,VIC,67015,3575,70590,5.06
 110,Charlton,NSW,74969,3949,78918,5
-250,Riverina,NSW,75414,3932,79346,4.96
+250,Riverina,NSW,75437,3932,79369,4.95
+229,Menzies,VIC,69814,3624,73438,4.93
 305,Hasluck,WA,63622,3288,66910,4.91
 226,McEwen,VIC,82639,4267,86906,4.91
 196,Lyons,TAS,63168,3203,66371,4.83
@@ -60,8 +60,8 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 126,Hunter,NSW,72381,3445,75826,4.54
 233,Wannon,VIC,72434,3419,75853,4.51
 166,Hinkler,QLD,61494,2883,64377,4.48
-246,Stirling,WA,68637,3218,71855,4.48
 171,McPherson,QLD,73858,3445,77303,4.46
+246,Stirling,WA,69108,3218,72326,4.45
 173,Moreton,QLD,65035,3021,68056,4.44
 310,Bonner,QLD,66098,3053,69151,4.41
 168,Leichhardt,QLD,72425,3343,75768,4.41
@@ -86,13 +86,13 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 247,Swan,WA,70908,3039,73947,4.11
 183,Grey,SA,73480,3116,76596,4.07
 136,Newcastle,NSW,74812,3165,77977,4.06
-198,Ballarat,VIC,75437,3184,78621,4.05
 114,Cunningham,NSW,83875,3544,87419,4.05
-138,Page,NSW,74394,3134,77528,4.04
+138,Page,NSW,74410,3134,77544,4.04
 312,Durack,WA,55699,2332,58031,4.02
 164,Groom,QLD,70990,2966,73956,4.01
 180,Barker,SA,81377,3394,84771,4
 211,Flinders,VIC,76328,3177,79505,4
+198,Ballarat,VIC,77602,3226,80828,3.99
 120,Gilmore,NSW,68599,2851,71450,3.99
 160,Fairfax,QLD,67877,2808,70685,3.97
 228,Melbourne,VIC,67395,2786,70181,3.97
@@ -118,11 +118,11 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 135,New England,NSW,68800,2565,71365,3.59
 205,Chisholm,VIC,65308,2423,67731,3.58
 185,Hindmarsh,SA,73201,2704,75905,3.56
-209,Deakin,VIC,69121,2544,71665,3.55
 134,Mitchell,NSW,76374,2812,79186,3.55
 149,Sydney,NSW,51784,1896,53680,3.53
 236,Canning,WA,74590,2724,77314,3.52
 204,Casey,VIC,73121,2658,75779,3.51
+209,Deakin,VIC,71392,2577,73969,3.48
 132,Mackellar,NSW,76132,2734,78866,3.47
 187,Makin,SA,86358,3036,89394,3.4
 145,Richmond,NSW,70952,2447,73399,3.33
