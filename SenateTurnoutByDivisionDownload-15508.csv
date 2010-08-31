@@ -1,10 +1,10 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T08:52:20 Cycle:06143843-e12f-4c99-9a70-935097564bee Created:2010-09-01T08:33:29 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T09:07:53 Cycle:e849c932-ea3b-4988-a962-3910bf0f5697 Created:2010-09-01T08:48:35 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 179,Adelaide,SA,98526,74297,75.41
 197,Aston,VIC,93448,79228,84.78
 198,Ballarat,VIC,97802,81434,83.26
 103,Banks,NSW,98762,85469,86.54
-180,Barker,SA,104888,85630,81.34
+180,Barker,SA,104888,85748,81.64
 104,Barton,NSW,95243,72062,75.66
 192,Bass,TAS,71689,67029,93.5
 199,Batman,VIC,89160,67318,75.5
@@ -54,7 +54,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 162,Forde,QLD,82558,61186,74.11
 239,Forrest,WA,89636,67974,75.83
 119,Fowler,NSW,95561,72331,75.69
-195,Franklin,TAS,71090,66033,92.41
+195,Franklin,TAS,71090,66033,92.89
 102,Fraser,ACT,123444,103499,83.84
 240,Fremantle,WA,93341,80861,86.63
 212,Gellibrand,VIC,95611,74478,77.9
@@ -89,7 +89,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 168,Leichhardt,QLD,93140,77172,82.86
 169,Lilley,QLD,97415,75581,77.59
 128,Lindsay,NSW,95975,86458,90.08
-306,Lingiari,NT,61126,40841,66.81
+306,Lingiari,NT,61126,40889,66.81
 302,Longman,QLD,87062,65566,75.31
 130,Lyne,NSW,92565,81186,87.71
 196,Lyons,TAS,72865,66821,91.71
@@ -120,7 +120,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 174,Oxley,QLD,82782,68373,82.59
 138,Page,NSW,94360,79786,84.55
 139,Parkes,NSW,100169,84402,84.26
-140,Parramatta,NSW,94014,83703,88.31
+140,Parramatta,NSW,94014,83739,89.03
 249,Paterson,NSW,92149,82968,90.04
 244,Pearce,WA,89526,69525,77.66
 245,Perth,WA,91904,68131,74.13
@@ -129,7 +129,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 176,Rankin,QLD,94602,72920,77.08
 144,Reid,NSW,95873,82288,85.83
 145,Richmond,NSW,92384,75299,81.51
-250,Riverina,NSW,98594,83979,83.32
+250,Riverina,NSW,98594,84060,85.18
 146,Robertson,NSW,96593,69529,71.98
 177,Ryan,QLD,98224,70652,71.93
 232,Scullin,VIC,90822,76470,84.2
