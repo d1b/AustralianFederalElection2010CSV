@@ -1,9 +1,9 @@
-2010 Federal Election House of Representatives Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T10:57:21 Cycle:ca6422da-1409-4a56-aae5-6b6e300738a6 Created:2010-08-31T10:48:29 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T11:12:39 Cycle:b1f937ac-a71e-49a0-945d-5c246ad6345d Created:2010-08-31T11:03:34 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent,InformalSwing
 107,Blaxland,NSW,64746,10885,75631,14.39,5.5
 251,Watson,NSW,67186,10221,77407,13.2,4.11
 119,Fowler,NSW,67608,10186,77794,13.09,4.61
-111,Chifley,NSW,72275,9185,81460,11.28,3.37
+111,Chifley,NSW,72278,9185,81463,11.28,3.37
 315,McMahon,NSW,72026,8854,80880,10.95,3.35
 153,Werriwa,NSW,67013,7795,74808,10.42,3.84
 122,Greenway,NSW,76467,8787,85254,10.31,4.13
@@ -11,9 +11,9 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 144,Reid,NSW,73588,7302,80890,9.03,3.45
 140,Parramatta,NSW,72568,7036,79604,8.84,2.22
 103,Banks,NSW,76520,7132,83652,8.53,2.77
-127,Kingsford Smith,NSW,70401,6388,76789,8.32,3.01
+127,Kingsford Smith,NSW,70382,6413,76795,8.35,3.04
 128,Lindsay,NSW,81954,7290,89244,8.17,2.65
-131,Macarthur,NSW,74003,6206,80209,7.74,2.17
+131,Macarthur,NSW,73983,6229,80212,7.77,2.2
 306,Lingiari,NT,40737,3380,44117,7.66,2.81
 176,Rankin,QLD,75253,6224,81477,7.64,3.21
 121,Grayndler,NSW,72592,5661,78253,7.23,1.25
@@ -34,13 +34,13 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 126,Hunter,NSW,75503,5079,80582,6.3,2.03
 165,Herbert,QLD,74620,5004,79624,6.28,2.06
 172,Moncrieff,QLD,70258,4709,74967,6.28,2.47
-191,Wakefield,SA,82843,5520,88363,6.25,1.59
+191,Wakefield,SA,83572,5574,89146,6.25,1.59
 117,Eden-Monaro,NSW,80646,5358,86004,6.23,2.5
 222,Lalor,VIC,94139,6225,100364,6.2,2.71
 157,Capricornia,QLD,71786,4737,76523,6.19,2.87
 159,Fadden,QLD,68997,4531,73528,6.16,1.85
 168,Leichhardt,QLD,75507,4878,80385,6.07,1.05
-115,Dobell,NSW,75196,4828,80024,6.03,1.71
+115,Dobell,NSW,75200,4828,80028,6.03,1.71
 187,Makin,SA,83156,5340,88496,6.03,1.96
 232,Scullin,VIC,70429,4515,74944,6.02,1.96
 171,McPherson,QLD,73013,4665,77678,6.01,2.84
@@ -90,7 +90,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 186,Kingston,SA,88861,4770,93631,5.09,1.36
 160,Fairfax,QLD,77746,4124,81870,5.04,1.65
 246,Stirling,WA,78476,4144,82620,5.02,0.11
-170,Maranoa,QLD,84686,4417,89103,4.96,1.28
+170,Maranoa,QLD,85268,4432,89700,4.94,1.26
 247,Swan,WA,74486,3860,78346,4.93,0.39
 312,Durack,WA,64208,3324,67532,4.92,0.5
 101,Canberra,ACT,99976,5152,105128,4.9,2.64
@@ -103,8 +103,8 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 151,Warringah,NSW,75894,3747,79641,4.7,1.26
 219,Isaacs,VIC,77747,3807,81554,4.67,1.36
 169,Lilley,QLD,79472,3842,83314,4.61,1.66
-188,Mayo,SA,82290,3955,86245,4.59,1.83
-182,Boothby,SA,86491,4154,90645,4.58,1.71
+182,Boothby,SA,86781,4165,90946,4.58,1.71
+188,Mayo,SA,82294,3952,86246,4.58,1.82
 137,North Sydney,NSW,74559,3568,78127,4.57,0.85
 138,Page,NSW,74451,3565,78016,4.57,0.27
 208,Corio,VIC,77692,3691,81383,4.54,0.81
