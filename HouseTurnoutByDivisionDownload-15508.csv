@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T14:46:22 Cycle:c7c4663b-5079-4e05-8ebe-41f110bd4a45 Created:2010-08-31T14:34:28 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T15:01:38 Cycle:591790c5-ab12-481b-b4b5-962834ed2170 Created:2010-08-31T14:49:28 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 179,Adelaide,SA,98526,79181,80.37,-14.22
 197,Aston,VIC,93448,84382,90.3,-6.09
@@ -17,7 +17,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 182,Boothby,SA,97898,88181,90.07,-5.61
 155,Bowman,QLD,91892,82661,89.95,-5.29
 193,Braddon,TAS,71574,66707,93.2,-3.08
-108,Bradfield,NSW,97251,80171,82.44,-11.61
+108,Bradfield,NSW,97251,80174,82.44,-11.61
 235,Brand,WA,88203,79094,89.67,-3.6
 156,Brisbane,QLD,92222,80263,87.03,-8.18
 201,Bruce,VIC,88171,76432,86.69,-7.89
@@ -28,7 +28,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 157,Capricornia,QLD,91962,76523,83.21,-12.19
 204,Casey,VIC,92357,83774,90.71,-5.51
 110,Charlton,NSW,94480,79416,84.06,-11.94
-111,Chifley,NSW,97605,81467,83.47,-10.2
+111,Chifley,NSW,97605,81483,83.48,-10.19
 205,Chisholm,VIC,86275,70325,81.51,-13.76
 112,Cook,NSW,100748,85377,84.74,-11.69
 207,Corangamite,VIC,101569,95888,94.41,-2.06
@@ -55,7 +55,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 239,Forrest,WA,89636,80587,89.9,-4.6
 119,Fowler,NSW,95561,77775,81.39,-11.95
 195,Franklin,TAS,71090,67131,94.43,-1.43
-102,Fraser,ACT,123444,110855,89.8,-5.87
+102,Fraser,ACT,123444,110856,89.8,-5.87
 240,Fremantle,WA,93341,85236,91.32,-2.46
 212,Gellibrand,VIC,95611,76306,79.81,-14.35
 120,Gilmore,NSW,96317,82098,85.24,-10.57
@@ -64,11 +64,11 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 309,Gorton,VIC,113656,92431,81.33,-13.59
 121,Grayndler,NSW,98112,78253,79.76,-14.55
 122,Greenway,NSW,93828,86283,91.96,-2.14
-183,Grey,SA,99817,86427,86.59,-8.36
+183,Grey,SA,99817,86428,86.59,-8.36
 163,Griffith,QLD,92588,77746,83.97,-9.65
 164,Groom,QLD,93374,85461,91.53,-3.93
 305,Hasluck,WA,93892,86556,92.19,-1.48
-165,Herbert,QLD,91044,86018,94.48,0.82
+165,Herbert,QLD,91044,86019,94.48,0.82
 215,Higgins,VIC,90398,70764,78.28,-15.49
 185,Hindmarsh,SA,100245,82459,82.26,-13.11
 166,Hinkler,QLD,91397,82559,90.33,-4.14
@@ -81,7 +81,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 219,Isaacs,VIC,102790,81554,79.34,-15.84
 220,Jagajaga,VIC,95202,82370,86.52,-9.2
 167,Kennedy,QLD,94465,78789,83.41,-10.49
-127,Kingsford Smith,NSW,97747,76795,78.57,-15.7
+127,Kingsford Smith,NSW,97747,76799,78.57,-15.7
 186,Kingston,SA,102296,93631,91.53,-4.44
 221,Kooyong,VIC,89659,74645,83.25,-11.55
 223,La Trobe,VIC,97960,89436,91.3,-4.54
@@ -90,15 +90,15 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 169,Lilley,QLD,97415,85813,88.09,-7.76
 128,Lindsay,NSW,95975,89244,92.99,-2.89
 306,Lingiari,NT,61126,44117,72.17,-9.09
-302,Longman,QLD,87062,78309,89.95,-3.33
+302,Longman,QLD,87062,79380,91.18,-2.1
 130,Lyne,NSW,92565,81053,87.56,-8.03
 196,Lyons,TAS,72865,68615,94.17,-0.67
 131,Macarthur,NSW,90059,80215,89.07,-5.89
 132,Mackellar,NSW,98556,82080,83.28,-12
 133,Macquarie,NSW,97560,90286,92.54,-3.37
-187,Makin,SA,96263,89572,93.05,-2.62
-224,Mallee,VIC,89840,77775,86.57,-9.32
-170,Maranoa,QLD,97957,89700,91.57,-3.35
+187,Makin,SA,96263,89576,93.05,-2.62
+224,Mallee,VIC,89840,78772,87.68,-8.21
+170,Maranoa,QLD,97957,90809,92.7,-2.22
 225,Maribyrnong,VIC,88412,72746,82.28,-11.87
 188,Mayo,SA,101565,86253,84.92,-10.96
 226,McEwen,VIC,115783,96382,83.24,-13
@@ -125,7 +125,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 244,Pearce,WA,89526,74488,83.2,-9.98
 245,Perth,WA,91904,72246,78.61,-14.58
 175,Petrie,QLD,86683,75176,86.73,-7.37
-189,Port Adelaide,SA,104308,93245,89.39,-5.48
+189,Port Adelaide,SA,104308,95288,91.35,-3.52
 176,Rankin,QLD,94602,83964,88.75,-4.96
 144,Reid,NSW,95873,82701,86.26,-6.88
 145,Richmond,NSW,92384,76410,82.71,-11.78
@@ -142,11 +142,11 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 248,Tangney,WA,92176,80637,87.48,-7.6
 150,Throsby,NSW,95874,82788,86.35,-9.51
 191,Wakefield,SA,100209,89990,89.8,-5.33
-233,Wannon,VIC,92264,80153,86.87,-9.53
+233,Wannon,VIC,92264,80155,86.88,-9.52
 151,Warringah,NSW,96706,79641,82.35,-12.48
 251,Watson,NSW,97765,77407,79.18,-13.06
-152,Wentworth,NSW,101464,72442,71.4,-21.13
+152,Wentworth,NSW,101464,72481,71.44,-21.09
 153,Werriwa,NSW,90994,76194,83.74,-10.16
 178,Wide Bay,QLD,92636,76913,83.03,-11.5
 234,Wills,VIC,98599,76645,77.73,-15.94
-316,Wright,QLD,85304,74509,87.35,-6.23
+316,Wright,QLD,85304,74515,87.35,-6.23
