@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T11:28:37 Cycle:d497b586-65d9-488a-bf27-8bcf8a6f5d42 Created:2010-08-31T11:18:40 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T11:43:45 Cycle:a863f3ea-9459-4f28-b7de-4f3a2a43960f Created:2010-08-31T11:33:50 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -157,7 +157,7 @@ NSW,104,Barton,2653,Carlton,1638,61.72,1016,38.28,2654,-12.26
 NSW,104,Barton,47,Carlton South (Barton),1382,59.16,954,40.84,2336,-8.53
 NSW,104,Barton,56544,Carlton West (Barton),132,58.93,92,41.07,224,-4.46
 NSW,104,Barton,40,Carss Park,255,37.95,417,62.05,672,-5.17
-NSW,104,Barton,2656,Clemton Park (Barton),1051,58,761,42,1812,-13.03
+NSW,104,Barton,2656,Clemton Park (Barton),1054,58.01,763,41.99,1817,-13.02
 NSW,104,Barton,30095,Divisional Office (PREPOLL),237,58.37,169,41.63,406,-6.39
 NSW,104,Barton,2659,Earlwood,501,55.48,402,44.52,903,-11.53
 NSW,104,Barton,2660,Earlwood Central,806,56.01,633,43.99,1439,-6.71
@@ -349,14 +349,14 @@ NSW,108,Bradfield,194,Gordon,836,32.78,1714,67.22,2550,-4.68
 NSW,108,Bradfield,195,Gordon East,688,33.43,1370,66.57,2058,-3.43
 NSW,108,Bradfield,196,Gordon West,570,31.88,1218,68.12,1788,-4.46
 NSW,108,Bradfield,43833,Hornsby (Bradfield),171,43.96,218,56.04,389,-15.06
-NSW,108,Bradfield,127,Hornsby Central (Bradfield),1180,46.15,1377,53.85,2557,-9.47
+NSW,108,Bradfield,127,Hornsby Central (Bradfield),1179,46.16,1375,53.84,2554,-9.46
 NSW,108,Bradfield,33771,Hornsby East,548,47.82,598,52.18,1146,-8.36
 NSW,108,Bradfield,125,Hornsby Hospital,138,43.4,180,56.6,318,-8.03
 NSW,108,Bradfield,198,Killara,389,25.03,1165,74.97,1554,-1.86
 NSW,108,Bradfield,199,Killara East,562,32.11,1188,67.89,1750,-5.42
-NSW,108,Bradfield,129,Kissing Point,346,35.31,634,64.69,980,-1.8
-NSW,108,Bradfield,130,Lady Davidson Hospital,72,21.62,261,78.38,333,-2.84
-NSW,108,Bradfield,201,Lindfield,580,32.79,1189,67.21,1769,-3.56
+NSW,108,Bradfield,129,Kissing Point,347,35.37,634,64.63,981,-1.74
+NSW,108,Bradfield,130,Lady Davidson Hospital,73,21.99,259,78.01,332,-2.47
+NSW,108,Bradfield,201,Lindfield,538,30.43,1230,69.57,1768,-5.92
 NSW,108,Bradfield,202,Lindfield East,591,31.54,1283,68.46,1874,-7.17
 NSW,108,Bradfield,203,Lindfield North,971,35.26,1783,64.74,2754,-5.26
 NSW,108,Bradfield,204,Lindfield West,806,30.11,1871,69.89,2677,-4.96
@@ -1528,7 +1528,7 @@ NSW,127,Kingsford Smith,2324,Prince Of Wales,254,66.84,126,33.16,380,-3.48
 NSW,127,Kingsford Smith,2311,Randwick (Kingsford Smith),903,59.29,620,40.71,1523,-6.35
 NSW,127,Kingsford Smith,2321,Randwick East,697,54.71,577,45.29,1274,-7.32
 NSW,127,Kingsford Smith,44932,Randwick North (Kingsford Smith),230,55.02,188,44.98,418,-2.54
-NSW,127,Kingsford Smith,2325,Randwick South,865,52.97,768,47.03,1633,-6.86
+NSW,127,Kingsford Smith,2325,Randwick South,863,52.91,768,47.09,1631,-6.92
 NSW,127,Kingsford Smith,57477,Rosebery West (Kingsford Smith),301,57.12,226,42.88,527,-10.15
 NSW,127,Kingsford Smith,33629,Special Hospital Team 1,37,50,37,50,74,-9.38
 NSW,127,Kingsford Smith,33826,Special Hospital Team 2,19,46.34,22,53.66,41,-13.66
@@ -2147,7 +2147,7 @@ NSW,138,Page,2077,Grafton,1093,61.06,697,38.94,1790,4.79
 NSW,138,Page,2078,Grafton East,820,58.53,581,41.47,1401,2.85
 NSW,138,Page,2079,Grafton Hospital,201,62.81,119,37.19,320,3.69
 NSW,138,Page,2080,Grafton North,905,55.52,725,44.48,1630,3.54
-NSW,138,Page,33741,Grafton PPVC,1025,50.47,1006,49.53,2031,0.81
+NSW,138,Page,33741,Grafton PPVC,1027,50.52,1006,49.48,2033,0.86
 NSW,138,Page,2082,Grevillia,67,47.86,73,52.14,140,-7.09
 NSW,138,Page,2437,Gundurimba South,53,41.09,76,58.91,129,4.73
 NSW,138,Page,2084,Harwood Island,177,54.8,146,45.2,323,0.63
@@ -2544,7 +2544,7 @@ NSW,145,Richmond,2438,Hastings Point,299,54.86,246,45.14,545,-1.76
 NSW,145,Richmond,2439,Jiggi,171,72.77,64,27.23,235,-1.76
 NSW,145,Richmond,2440,Kingscliff,997,51.74,930,48.26,1927,-2.74
 NSW,145,Richmond,58461,Kingscliff South,477,53.54,414,46.46,891,-1.34
-NSW,145,Richmond,2441,Kunghur,120,64.17,67,35.83,187,0.25
+NSW,145,Richmond,2441,Kunghur,119,63.98,67,36.02,186,0.06
 NSW,145,Richmond,2442,Lennox Head,1593,56.13,1245,43.87,2838,2.94
 NSW,145,Richmond,2452,Main Arm Upper,99,79.84,25,20.16,124,-2.87
 NSW,145,Richmond,2470,Modanville,179,47.35,199,52.65,378,3.98
@@ -2554,7 +2554,7 @@ NSW,145,Richmond,33762,Murwillumbah PPVC,932,50.19,925,49.81,1857,-6.18
 NSW,145,Richmond,2457,Murwillumbah South,549,53.46,478,46.54,1027,-4.09
 NSW,145,Richmond,2405,Murwillumbah West,550,49.91,552,50.09,1102,-3.26
 NSW,145,Richmond,2459,Newrybar,243,52.48,220,47.52,463,-1.06
-NSW,145,Richmond,2460,Nimbin,754,82.86,156,17.14,910,2.63
+NSW,145,Richmond,2460,Nimbin,747,83,153,17,900,2.77
 NSW,145,Richmond,11918,Ocean Shores,1308,66.77,651,33.23,1959,-2.97
 NSW,145,Richmond,2461,Piggabeen,217,47.8,237,52.2,454,-4.18
 NSW,145,Richmond,2462,Pottsville Beach,1337,56.87,1014,43.13,2351,0.78
@@ -2569,13 +2569,13 @@ NSW,145,Richmond,14150,Sydney (Richmond),23,85.19,4,14.81,27,12.22
 NSW,145,Richmond,2466,Terranora,570,43.78,732,56.22,1302,-3.06
 NSW,145,Richmond,2467,The Channon,289,75.85,92,24.15,381,-5.05
 NSW,145,Richmond,2468,Tintenbar,174,43.83,223,56.17,397,0.46
-NSW,145,Richmond,2471,Tumbulgum,236,54.63,196,45.37,432,-5.86
+NSW,145,Richmond,2471,Tumbulgum,235,54.78,194,45.22,429,-5.71
 NSW,145,Richmond,2472,Tweed Heads,1277,54.6,1062,45.4,2339,-1.19
 NSW,145,Richmond,2436,Tweed Heads Central,714,45.02,872,54.98,1586,-5.07
 NSW,145,Richmond,33761,Tweed Heads PPVC,2926,51.63,2741,48.37,5667,-4.72
 NSW,145,Richmond,2473,Tweed Heads South,1451,57.33,1080,42.67,2531,-3.01
 NSW,145,Richmond,34348,Tweed Heads West,805,58.33,575,41.67,1380,-1.16
-NSW,145,Richmond,2474,Tyalgum,264,57.14,198,42.86,462,-6.07
+NSW,145,Richmond,2474,Tyalgum,261,56.99,197,43.01,458,-6.22
 NSW,145,Richmond,2475,Uki,535,68.07,251,31.93,786,-6.25
 NSW,145,Richmond,2476,Wilsons Creek,148,78.31,41,21.69,189,-10.21
 NSW,250,Riverina,1242,Adelong,270,35.53,490,64.47,760,-14.99
@@ -2852,7 +2852,7 @@ NSW,150,Throsby,536,Berkeley South,294,78.19,82,21.81,376,-7.28
 NSW,150,Throsby,537,Berkeley West,1398,76.94,419,23.06,1817,-6.1
 NSW,150,Throsby,2775,Berrima (Throsby),167,41.03,240,58.97,407,1.99
 NSW,150,Throsby,32673,Blackbutt (Throsby),894,63.09,523,36.91,1417,-9.4
-NSW,150,Throsby,2779,Bowral,1009,38.29,1626,61.71,2635,-0.64
+NSW,150,Throsby,2779,Bowral,1017,38.58,1619,61.42,2636,-0.35
 NSW,150,Throsby,38312,Bowral East,500,36.1,885,63.9,1385,0.22
 NSW,150,Throsby,33862,Bowral PPVC,1181,36.03,2097,63.97,3278,-26.96
 NSW,150,Throsby,2780,Bowral South,597,42.61,804,57.39,1401,1.33
@@ -2878,7 +2878,7 @@ NSW,150,Throsby,2800,Moss Vale,781,51.45,737,48.55,1518,-1.61
 NSW,150,Throsby,2801,Moss Vale Central,947,46.42,1093,53.58,2040,3.64
 NSW,150,Throsby,2802,Mount Brown,1237,62.13,754,37.87,1991,-8.02
 NSW,150,Throsby,32671,Mount Terry,1861,65.74,970,34.26,2831,-3.96
-NSW,150,Throsby,2803,Mount Warrigal,1113,72.79,416,27.21,1529,-3.89
+NSW,150,Throsby,2803,Mount Warrigal,1113,72.94,413,27.06,1526,-3.74
 NSW,150,Throsby,32480,New Berrima,127,59.91,85,40.09,212,0.44
 NSW,150,Throsby,2804,Oak Flats,1570,58.52,1113,41.48,2683,-14.35
 NSW,150,Throsby,31451,Oak Flats East,992,69.08,444,30.92,1436,-3.53
@@ -5442,7 +5442,7 @@ SA,188,Mayo,46417,Goolwa Central,559,42.03,771,57.97,1330,0
 SA,188,Mayo,7180,Gosse,16,35.56,29,64.44,45,4.68
 SA,188,Mayo,7181,Gumeracha,201,37.71,332,62.29,533,-1.51
 SA,188,Mayo,7182,Hahndorf,574,36.12,1015,63.88,1589,2.02
-SA,188,Mayo,33175,Happy Valley (Mayo),702,45.67,835,54.33,1537,0.43
+SA,188,Mayo,33175,Happy Valley (Mayo),701,45.7,833,54.3,1534,0.46
 SA,188,Mayo,7183,Harrogate,63,44.37,79,55.63,142,3.93
 SA,188,Mayo,7185,Hindmarsh Valley,76,34.23,146,65.77,222,1.74
 SA,188,Mayo,7186,Hope Forest,74,32.6,153,67.4,227,-0.02
