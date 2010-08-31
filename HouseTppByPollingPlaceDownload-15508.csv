@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T15:02:05 Cycle:591790c5-ab12-481b-b4b5-962834ed2170 Created:2010-08-31T14:49:28 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T15:17:31 Cycle:082d35b7-211f-4016-8611-164478e06419 Created:2010-08-31T15:04:33 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -597,10 +597,10 @@ NSW,111,Chifley,411,Shalvey,964,71.46,385,28.54,1349,-6.62
 NSW,111,Chifley,44088,Special Hospital Team 1,26,29.55,62,70.45,88,-5.04
 NSW,111,Chifley,14039,Sydney (Chifley),45,63.38,26,36.62,71,-2.18
 NSW,111,Chifley,412,Tregear,1089,67.77,518,32.23,1607,-8.17
-NSW,111,Chifley,414,Whalan,1017,71.42,407,28.58,1424,-7.23
+NSW,111,Chifley,414,Whalan,1009,71.31,406,28.69,1415,-7.34
 NSW,111,Chifley,400,Whalan South,310,73.63,111,26.37,421,-6.91
-NSW,111,Chifley,415,Willmot,691,67.81,328,32.19,1019,-9.88
-NSW,111,Chifley,32335,Woodcroft,756,57.19,566,42.81,1322,-8.83
+NSW,111,Chifley,415,Willmot,693,67.94,327,32.06,1020,-9.75
+NSW,111,Chifley,32335,Woodcroft,756,57.14,567,42.86,1323,-8.88
 NSW,112,Cook,1194,Bonnet Bay,435,34.14,839,65.86,1274,-6.27
 NSW,112,Cook,417,Burraneer Bay,934,26.17,2635,73.83,3569,-5.98
 NSW,112,Cook,1196,Caravan Head,300,44.18,379,55.82,679,-2.17
@@ -3024,7 +3024,7 @@ NSW,152,Wentworth,2867,Paddington Central,881,38.07,1433,61.93,2314,-12.19
 NSW,152,Wentworth,2874,Paddington South,895,42.08,1232,57.92,2127,-11.7
 NSW,152,Wentworth,2875,Parsley Bay,31,10.8,256,89.2,287,-8.42
 NSW,152,Wentworth,46280,Randwick (Wentworth),274,45.14,333,54.86,607,-7.78
-NSW,152,Wentworth,2323,Randwick North (Wentworth),755,39.67,1148,60.33,1903,-15.58
+NSW,152,Wentworth,2323,Randwick North (Wentworth),758,40.02,1136,59.98,1894,-15.23
 NSW,152,Wentworth,2880,Rose Bay,520,26.6,1435,73.4,1955,-7.53
 NSW,152,Wentworth,2881,Rose Bay Central,288,19.19,1213,80.81,1501,-8.3
 NSW,152,Wentworth,33641,Special Hospital Team 1,0,0,0,0,0,-28.47
@@ -3932,11 +3932,11 @@ QLD,165,Herbert,5660,Belgian Gardens,584,46.28,678,53.72,1262,-0.38
 QLD,165,Herbert,5661,Bluewater,573,44.42,717,55.58,1290,-3.07
 QLD,165,Herbert,14221,Brisbane City (Herbert),17,45.95,20,54.05,37,-9.82
 QLD,165,Herbert,31569,Condon,1276,49.42,1306,50.58,2582,-3.81
-QLD,165,Herbert,5664,Cranbrook,946,45.22,1146,54.78,2092,-3.19
-QLD,165,Herbert,5665,Currajong,1224,55.28,990,44.72,2214,-2.03
+QLD,165,Herbert,5664,Cranbrook,946,45.2,1147,54.8,2093,-3.21
+QLD,165,Herbert,5665,Currajong,1223,55.24,991,44.76,2214,-2.07
 QLD,165,Herbert,5666,Currajong North,424,51.39,401,48.61,825,2.45
 QLD,165,Herbert,5703,Cutheringa,531,55.72,422,44.28,953,0.24
-QLD,165,Herbert,31566,Deeragun,1092,41.81,1520,58.19,2612,-3.67
+QLD,165,Herbert,31566,Deeragun,1097,42,1515,58,2612,-3.48
 QLD,165,Herbert,30156,Divisional Office (PREPOLL),0,0,0,0,0,-47.62
 QLD,165,Herbert,5680,Douglas,248,49.9,249,50.1,497,1.37
 QLD,165,Herbert,5667,Garbutt,852,60.25,562,39.75,1414,-1.65
@@ -3944,11 +3944,11 @@ QLD,165,Herbert,5670,Heatley,1530,50.76,1484,49.24,3014,-5.15
 QLD,165,Herbert,5671,Hermit Park,932,53.72,803,46.28,1735,-3.15
 QLD,165,Herbert,5691,Hermit Park South,595,58.22,427,41.78,1022,2.18
 QLD,165,Herbert,5672,Kelso,1159,50.22,1149,49.78,2308,-5.1
-QLD,165,Herbert,5673,Kirwan,1817,43.09,2400,56.91,4217,-4.55
+QLD,165,Herbert,5673,Kirwan,1810,42.92,2407,57.08,4217,-4.72
 QLD,165,Herbert,5674,Kirwan South,1525,48.6,1613,51.4,3138,-3.58
-QLD,165,Herbert,8867,Mount Louisa,1123,43.99,1430,56.01,2553,-1.24
+QLD,165,Herbert,8867,Mount Louisa,1122,43.95,1431,56.05,2553,-1.28
 QLD,165,Herbert,5678,Mundingburra,1244,50.82,1204,49.18,2448,0.66
-QLD,165,Herbert,5679,Mundingburra South,531,50.33,524,49.67,1055,-2.01
+QLD,165,Herbert,5679,Mundingburra South,528,50.14,525,49.86,1053,-2.2
 QLD,165,Herbert,5681,Nelly Bay,296,49.66,300,50.34,596,-2.91
 QLD,165,Herbert,5682,North Ward,1039,43.69,1339,56.31,2378,0.37
 QLD,165,Herbert,40275,Northern Beaches,1417,48.21,1522,51.79,2939,-2.34
@@ -3967,7 +3967,7 @@ QLD,165,Herbert,32703,Townsville HERBERT PPVC,1989,43.88,2544,56.12,4533,-3.72
 QLD,165,Herbert,5697,Townsville Hospital,344,48.59,364,51.41,708,-5.34
 QLD,165,Herbert,5692,Townsville South,425,52.28,388,47.72,813,-3.66
 QLD,165,Herbert,5698,Townsville West,338,52.57,305,47.43,643,-1.65
-QLD,165,Herbert,5702,Vincent,811,53.57,703,46.43,1514,0.68
+QLD,165,Herbert,5702,Vincent,810,53.5,704,46.5,1514,0.61
 QLD,165,Herbert,31700,Willows,1207,39.53,1846,60.47,3053,-3.22
 QLD,166,Hinkler,5711,Alloway,134,25.77,386,74.23,520,-6.84
 QLD,166,Hinkler,5712,Apple Tree Creek,250,41.12,358,58.88,608,-10.51
@@ -4879,7 +4879,7 @@ QLD,316,Wright,37395,Nerang West (Wright),366,34.72,688,65.28,1054,-2.98
 QLD,316,Wright,56265,Oxenford (Wright),181,34.81,339,65.19,520,-1.86
 QLD,316,Wright,56279,Pacific Pines (Wright),107,41.63,150,58.37,257,-0.69
 QLD,316,Wright,58547,Pacific Pines West (Wright),139,36.2,245,63.8,384,36.2
-QLD,316,Wright,56301,Park Ridge (Wright),249,49.6,253,50.4,502,-4.21
+QLD,316,Wright,56301,Park Ridge (Wright),249,49.7,252,50.3,501,-4.11
 QLD,316,Wright,6469,Peak Crossing (Wright),226,37.17,382,62.83,608,-4.34
 QLD,316,Wright,6286,Rathdowney,92,23.9,293,76.1,385,-16.27
 QLD,316,Wright,6474,Roadvale,122,30.42,279,69.58,401,-10.33
@@ -7987,7 +7987,7 @@ VIC,233,Wannon,5057,Terang,438,33.85,856,66.15,1294,0.56
 VIC,233,Wannon,5060,Timboon,264,29.9,619,70.1,883,0.24
 VIC,233,Wannon,5063,Tower Square,459,42.27,627,57.73,1086,2.96
 VIC,233,Wannon,5064,Tyrendarra,38,28.57,95,71.43,133,4.41
-VIC,233,Wannon,5069,Wangoom,70,27.56,184,72.44,254,-0.34
+VIC,233,Wannon,5069,Wangoom,70,27.67,183,72.33,253,-0.23
 VIC,233,Wannon,5072,Warrnambool,1464,43.1,1933,56.9,3397,-0.22
 VIC,233,Wannon,5074,Warrnambool East,757,49.77,764,50.23,1521,0.66
 VIC,233,Wannon,5073,Warrnambool Hospital,151,51.54,142,48.46,293,1.73
@@ -8003,7 +8003,7 @@ VIC,233,Wannon,3078,Willaura,107,35.67,193,64.33,300,2.44
 VIC,233,Wannon,11518,Wiridjil,20,13.51,128,86.49,148,-2.6
 VIC,233,Wannon,5082,Woodford,143,33.81,280,66.19,423,-4.87
 VIC,233,Wannon,5083,Woolsthorpe,103,34.92,192,65.08,295,-3.42
-VIC,233,Wannon,5084,Yambuk,46,27.06,124,72.94,170,0.12
+VIC,233,Wannon,5084,Yambuk,48,28.4,121,71.6,169,1.46
 VIC,234,Wills,5086,Anstey (Wills),1751,83.3,351,16.7,2102,1.28
 VIC,234,Wills,4616,Brunswick East,575,82.73,120,17.27,695,1.77
 VIC,234,Wills,5088,Brunswick North,2527,79.64,646,20.36,3173,0.45
@@ -8178,10 +8178,10 @@ WA,238,Curtin,7591,City Beach,404,22.81,1367,77.19,1771,-1.57
 WA,238,Curtin,7592,City Beach North,316,23.42,1033,76.58,1349,0.1
 WA,238,Curtin,7593,Claremont,664,25.63,1927,74.37,2591,-3.04
 WA,238,Curtin,7623,Claremont East,249,31.16,550,68.84,799,-4.09
-WA,238,Curtin,7594,Cottesloe,598,27.75,1557,72.25,2155,-2.32
+WA,238,Curtin,7594,Cottesloe,593,27.52,1562,72.48,2155,-2.55
 WA,238,Curtin,7595,Cottesloe East,576,29.83,1355,70.17,1931,-1.15
-WA,238,Curtin,7597,Cottesloe South,281,23.28,926,76.72,1207,-0.74
-WA,238,Curtin,7598,Dalkeith,337,14.94,1918,85.06,2255,-4.9
+WA,238,Curtin,7597,Cottesloe South,286,23.71,920,76.29,1206,-0.31
+WA,238,Curtin,7598,Dalkeith,340,15.1,1912,84.9,2252,-4.74
 WA,238,Curtin,30229,Divisional Office (PREPOLL),715,26.89,1944,73.11,2659,-8.27
 WA,238,Curtin,32458,Doubleview (Curtin),1150,38.42,1843,61.58,2993,-4.4
 WA,238,Curtin,7600,Floreat,533,26.49,1479,73.51,2012,-1.77
