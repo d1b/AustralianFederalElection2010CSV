@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T15:48:02 Cycle:c8460458-edec-41b0-a3fe-db1fea1d707f Created:2010-08-31T15:34:33 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T16:03:12 Cycle:49f5305e-d96c-45f0-9bd8-cba5efb61353 Created:2010-08-31T15:49:39 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -180,10 +180,10 @@ NSW,104,Barton,69,Ramsgate,980,54.54,817,45.46,1797,-2.16
 NSW,104,Barton,61,Ramsgate Beach,1023,48.99,1065,51.01,2088,-5.19
 NSW,104,Barton,62,Rockdale,902,69.17,402,30.83,1304,-9.41
 NSW,104,Barton,63,Rockdale Central,1426,63.8,809,36.2,2235,-10.65
-NSW,104,Barton,64,Rockdale Park,637,59.2,439,40.8,1076,-10.01
+NSW,104,Barton,64,Rockdale Park,636,59.11,440,40.89,1076,-10.1
 NSW,104,Barton,33869,Rockdale PPVC,1364,57.87,993,42.13,2357,-6.85
 NSW,104,Barton,2671,Rockdale West,916,66.33,465,33.67,1381,-7.56
-NSW,104,Barton,41,Sandringham,929,43.45,1209,56.55,2138,-4.92
+NSW,104,Barton,41,Sandringham,923,43.13,1217,56.87,2140,-5.24
 NSW,104,Barton,68,Sans Souci,949,44.83,1168,55.17,2117,-7.51
 NSW,104,Barton,37,Sans Souci North,152,47.5,168,52.5,320,-3.77
 NSW,104,Barton,33595,Special Hospital Team 1,52,61.18,33,38.82,85,8.8
@@ -191,7 +191,7 @@ NSW,104,Barton,33765,Special Hospital Team 2,54,58.06,39,41.94,93,5.35
 NSW,104,Barton,38392,Special Hospital Team 3,21,63.64,12,36.36,33,10.91
 NSW,104,Barton,56572,Special Hospital Team 4,16,76.19,5,23.81,21,21.64
 NSW,104,Barton,14014,Sydney (Barton),107,80.45,26,19.55,133,9.32
-NSW,104,Barton,2641,Turrella,596,60.63,387,39.37,983,-16.1
+NSW,104,Barton,2641,Turrella,595,60.59,387,39.41,982,-16.14
 NSW,104,Barton,2673,Undercliffe,1002,57.82,731,42.18,1733,-7.84
 NSW,105,Bennelong,75,Balaclava,1241,48.78,1303,51.22,2544,-4.94
 NSW,105,Bennelong,33945,Bennelong PPVC,1633,44.31,2052,55.69,3685,-9.28
@@ -246,7 +246,7 @@ NSW,105,Bennelong,661,West Ryde,1474,50.46,1447,49.54,2921,-7.57
 NSW,105,Bennelong,108,Wicks,147,44.95,180,55.05,327,-0.14
 NSW,106,Berowra,1822,Annangrove (Berowra),242,21.1,905,78.9,1147,-1.15
 NSW,106,Berowra,1823,Arcadia,255,30,595,70,850,-0.82
-NSW,106,Berowra,43686,Asquith (Berowra),300,40.32,444,59.68,744,-7.69
+NSW,106,Berowra,43686,Asquith (Berowra),299,40.19,445,59.81,744,-7.82
 NSW,106,Berowra,632,Beecroft,1190,36.34,2085,63.66,3275,-6.46
 NSW,106,Berowra,117,Berowra,1299,40.72,1891,59.28,3190,-5.82
 NSW,106,Berowra,118,Berowra Heights,802,43.35,1048,56.65,1850,-0.38
@@ -1707,8 +1707,8 @@ NSW,131,Macarthur,2936,Wedderburn,100,31.95,213,68.05,313,-9.85
 NSW,131,Macarthur,2938,Woodbine,1000,50.94,963,49.06,1963,-11.41
 NSW,132,Mackellar,1715,Avalon,1630,43.2,2143,56.8,3773,-1.61
 NSW,132,Mackellar,1716,Barrenjoey,617,41.92,855,58.08,1472,-1.67
-NSW,132,Mackellar,1717,Bayview,340,29.23,823,70.77,1163,-1.54
-NSW,132,Mackellar,1718,Beacon Hill (Mackellar),727,33.56,1439,66.44,2166,-6.35
+NSW,132,Mackellar,1717,Bayview,334,28.69,830,71.31,1164,-2.08
+NSW,132,Mackellar,1718,Beacon Hill (Mackellar),720,33.24,1446,66.76,2166,-6.67
 NSW,132,Mackellar,186,Belrose,860,31.63,1859,68.37,2719,-4.02
 NSW,132,Mackellar,31630,Belrose North,568,25.26,1681,74.74,2249,-4.21
 NSW,132,Mackellar,1719,Bilgola Plateau,571,35.58,1034,64.42,1605,-2.83
@@ -2919,10 +2919,10 @@ NSW,151,Warringah,191,Forestville East,165,28.55,413,71.45,578,-10.94
 NSW,151,Warringah,58332,Frenchs Forest (Warringah),235,31.8,504,68.2,739,-4.34
 NSW,151,Warringah,2830,Freshwater,396,40.37,585,59.63,981,-1.21
 NSW,151,Warringah,2831,Harbord,1013,41.93,1403,58.07,2416,-3.96
-NSW,151,Warringah,200,Killarney Heights,523,30.04,1218,69.96,1741,-3.51
-NSW,151,Warringah,2832,Manly,1275,43.81,1635,56.19,2910,-4.25
-NSW,151,Warringah,2833,Manly Central,338,37.93,553,62.07,891,-8.77
-NSW,151,Warringah,2834,Manly Hospital,189,44.26,238,55.74,427,0.26
+NSW,151,Warringah,200,Killarney Heights,524,30.11,1216,69.89,1740,-3.44
+NSW,151,Warringah,2832,Manly,1268,43.85,1624,56.15,2892,-4.21
+NSW,151,Warringah,2833,Manly Central,339,38,553,62,892,-8.7
+NSW,151,Warringah,2834,Manly Hospital,188,44.13,238,55.87,426,0.13
 NSW,151,Warringah,33961,Manly PPVC,1356,38.32,2183,61.68,3539,-19.63
 NSW,151,Warringah,2835,Manly Vale,933,43.17,1228,56.83,2161,-4.14
 NSW,151,Warringah,2836,Manly West,1094,42.29,1493,57.71,2587,-4.51
@@ -2949,20 +2949,20 @@ NSW,251,Watson,58389,Bankstown (Watson),229,63.43,132,36.57,361,-13.24
 NSW,251,Watson,58388,Bankstown Central (Watson),196,62.03,120,37.97,316,-15.33
 NSW,251,Watson,158,Bankstown South (Watson),723,62.76,429,37.24,1152,-9.15
 NSW,251,Watson,58679,Bankstown WATSON PPVC,569,62.6,340,37.4,909,-1.73
-NSW,251,Watson,989,Belmore Central,894,69.41,394,30.59,1288,-9.78
+NSW,251,Watson,989,Belmore Central,880,69.18,392,30.82,1272,-10.01
 NSW,251,Watson,990,Belmore North,1274,65.87,660,34.13,1934,-10.49
 NSW,251,Watson,2644,Belmore South,1199,65.55,630,34.45,1829,-7.64
 NSW,251,Watson,1,Beverly Hills North (Watson),1133,56.03,889,43.97,2022,-7.76
 NSW,251,Watson,1516,Burwood (Watson),916,52.76,820,47.24,1736,-13.85
-NSW,251,Watson,33052,Burwood City,313,50.81,303,49.19,616,-11.94
+NSW,251,Watson,33052,Burwood City,291,47.47,322,52.53,613,-15.28
 NSW,251,Watson,991,Campsie,1605,68.53,737,31.47,2342,-13.19
-NSW,251,Watson,992,Campsie South,683,62.6,408,37.4,1091,-13.88
+NSW,251,Watson,992,Campsie South,682,62.51,409,37.49,1091,-13.97
 NSW,251,Watson,993,Canterbury,348,63.62,199,36.38,547,-13.72
 NSW,251,Watson,994,Canterbury Hospital,510,64.07,286,35.93,796,-6.62
-NSW,251,Watson,2652,Canterbury South,839,64.59,460,35.41,1299,-11.01
+NSW,251,Watson,2652,Canterbury South,837,64.29,465,35.71,1302,-11.31
 NSW,251,Watson,165,Chullora,930,58.05,672,41.95,1602,-6.19
 NSW,251,Watson,58426,Clemton Park (Watson),592,63.79,336,36.21,928,-7.18
-NSW,251,Watson,1529,Croydon Park,1479,54.76,1222,45.24,2701,-6.58
+NSW,251,Watson,1529,Croydon Park,1478,54.68,1225,45.32,2703,-6.66
 NSW,251,Watson,30402,Divisional Office (PREPOLL),149,65.07,80,34.93,229,0.58
 NSW,251,Watson,1532,Enfield,1126,55.6,899,44.4,2025,-8.82
 NSW,251,Watson,58680,Enfield PPVC,888,52.67,798,47.33,1686,-11.62
@@ -2974,16 +2974,16 @@ NSW,251,Watson,47687,Greenacre North,592,63.18,345,36.82,937,-1.95
 NSW,251,Watson,33131,Greenacre West,547,58.94,381,41.06,928,-11.88
 NSW,251,Watson,1001,Harcourt,1870,62.5,1122,37.5,2992,-10.02
 NSW,251,Watson,1002,Harcourt Central,360,61.86,222,38.14,582,-20.31
-NSW,251,Watson,1003,Harcourt North,729,50.48,715,49.52,1444,-12.41
+NSW,251,Watson,1003,Harcourt North,726,51.09,695,48.91,1421,-11.8
 NSW,251,Watson,58427,Kingsgrove North (Watson),132,65.67,69,34.33,201,-3.1
 NSW,251,Watson,1005,Lakemba,1309,74.21,455,25.79,1764,-4.63
 NSW,251,Watson,1006,Lakemba Central,927,66.17,474,33.83,1401,-11.9
 NSW,251,Watson,1007,Lakemba North,1195,75.78,382,24.22,1577,-11.78
-NSW,251,Watson,1540,Malvern Hill,642,52.24,587,47.76,1229,-4.79
+NSW,251,Watson,1540,Malvern Hill,641,52.11,589,47.89,1230,-4.92
 NSW,251,Watson,2669,Mccallums Hill (Watson),1522,61.12,968,38.88,2490,-6.17
 NSW,251,Watson,31837,Mount Lewis,813,54.06,691,45.94,1504,-12.19
 NSW,251,Watson,176,Punchbowl (Watson),1617,64.17,903,35.83,2520,-9.02
-NSW,251,Watson,175,Punchbowl Central,897,54.43,751,45.57,1648,-11.25
+NSW,251,Watson,175,Punchbowl Central,901,55.55,721,44.45,1622,-10.13
 NSW,251,Watson,33601,Special Hospital Team 1,29,58,21,42,50,4.67
 NSW,251,Watson,58413,Strathfield (Watson),116,42.34,158,57.66,274,-18.31
 NSW,251,Watson,1546,Strathfield Central (Watson),505,29.71,1195,70.29,1700,-11.9
@@ -3437,7 +3437,7 @@ QLD,157,Capricornia,5281,Yeppoon,653,55.86,516,44.14,1169,-3.52
 QLD,157,Capricornia,46729,Yeppoon Interstate PPVC,0,0,0,0,0,0
 QLD,157,Capricornia,46728,Yeppoon PPVC,905,45.23,1096,54.77,2001,8.96
 QLD,158,Dawson,5287,Airlie Beach,382,32.87,780,67.13,1162,-12.61
-QLD,158,Dawson,32646,Airlie Beach PPVC,0,0,0,0,0,-47.32
+QLD,158,Dawson,32646,Airlie Beach PPVC,154,34.15,297,65.85,451,-13.17
 QLD,158,Dawson,5288,Airville,72,20.11,286,79.89,358,-2.67
 QLD,158,Dawson,5290,Andergrove,1132,57.29,844,42.71,1976,-5.95
 QLD,158,Dawson,33107,Andergrove South,1185,56.67,906,43.33,2091,-3.13
@@ -3951,7 +3951,7 @@ QLD,165,Herbert,5678,Mundingburra,1244,50.82,1204,49.18,2448,0.66
 QLD,165,Herbert,5679,Mundingburra South,528,50.14,525,49.86,1053,-2.2
 QLD,165,Herbert,5681,Nelly Bay,296,49.66,300,50.34,596,-2.91
 QLD,165,Herbert,5682,North Ward,1039,43.69,1339,56.31,2378,0.37
-QLD,165,Herbert,40275,Northern Beaches,1417,48.21,1522,51.79,2939,-2.34
+QLD,165,Herbert,40275,Northern Beaches,1459,49.64,1480,50.36,2939,-0.91
 QLD,165,Herbert,5684,Pallarenda,179,43.77,230,56.23,409,-2.81
 QLD,165,Herbert,5685,Palm Island,319,65.77,166,34.23,485,-0.01
 QLD,165,Herbert,5686,Picnic Bay,87,55.06,71,44.94,158,-0.36
@@ -3968,7 +3968,7 @@ QLD,165,Herbert,5697,Townsville Hospital,344,48.59,364,51.41,708,-5.34
 QLD,165,Herbert,5692,Townsville South,425,52.28,388,47.72,813,-3.66
 QLD,165,Herbert,5698,Townsville West,338,52.57,305,47.43,643,-1.65
 QLD,165,Herbert,5702,Vincent,810,53.5,704,46.5,1514,0.61
-QLD,165,Herbert,31700,Willows,1207,39.53,1846,60.47,3053,-3.22
+QLD,165,Herbert,31700,Willows,1207,39.57,1843,60.43,3050,-3.18
 QLD,166,Hinkler,5711,Alloway,134,25.77,386,74.23,520,-6.84
 QLD,166,Hinkler,5712,Apple Tree Creek,250,41.12,358,58.88,608,-10.51
 QLD,166,Hinkler,5713,Avoca,1012,41.8,1409,58.2,2421,-5.38
@@ -4548,14 +4548,14 @@ QLD,172,Moncrieff,31728,Nerang East,286,35.71,515,64.29,801,-2.09
 QLD,172,Moncrieff,6092,Nerang South,1116,39.06,1741,60.94,2857,-3.32
 QLD,172,Moncrieff,32516,Nerang West (Moncrieff),1253,43.13,1652,56.87,2905,-0.47
 QLD,172,Moncrieff,37827,Robina West (Moncrieff),41,34.75,77,65.25,118,3.28
-QLD,172,Moncrieff,6289,Southport (Moncrieff),764,39.94,1149,60.06,1913,-3.65
+QLD,172,Moncrieff,6289,Southport (Moncrieff),766,40.04,1147,59.96,1913,-3.55
 QLD,172,Moncrieff,32562,Southport MONCRIEFF PPVC,1595,28.88,3928,71.12,5523,-6.71
 QLD,172,Moncrieff,12029,Southport North,211,39.66,321,60.34,532,-8.95
 QLD,172,Moncrieff,6292,Southport West,531,41.26,756,58.74,1287,-4
 QLD,172,Moncrieff,32564,Special Hospital Team 1,35,24.48,108,75.52,143,-1.49
 QLD,172,Moncrieff,32565,Special Hospital Team 2,22,21.57,80,78.43,102,-4.21
 QLD,172,Moncrieff,32566,Special Hospital Team 3,47,31.97,100,68.03,147,5.84
-QLD,172,Moncrieff,6099,Surfers Paradise,549,34.79,1029,65.21,1578,-2.95
+QLD,172,Moncrieff,6099,Surfers Paradise,551,35.19,1015,64.81,1566,-2.55
 QLD,172,Moncrieff,32563,Surfers Paradise MONCRIEFF PPVC,211,25.67,611,74.33,822,-9.75
 QLD,172,Moncrieff,12028,Worongary,311,42.84,415,57.16,726,-4.05
 QLD,173,Moreton,5525,Acacia Ridge,750,67.93,354,32.07,1104,-6.81
@@ -5307,7 +5307,7 @@ SA,185,Hindmarsh,7031,Park Holme South,703,61.72,436,38.28,1139,0.67
 SA,185,Hindmarsh,7075,Plympton,986,60.75,637,39.25,1623,2.59
 SA,185,Hindmarsh,7016,Plympton Park,502,61.9,309,38.1,811,3.68
 SA,185,Hindmarsh,7076,Plympton West,734,60.61,477,39.39,1211,1.88
-SA,185,Hindmarsh,7078,Richmond,1322,64.42,730,35.58,2052,0.06
+SA,185,Hindmarsh,7078,Richmond,1322,64.33,733,35.67,2055,-0.03
 SA,185,Hindmarsh,36687,Royal Park South (Hindmarsh),303,53.91,259,46.09,562,6.34
 SA,185,Hindmarsh,36688,Seaton (Hindmarsh),307,53.86,263,46.14,570,-1.89
 SA,185,Hindmarsh,36701,Seaton West (Hindmarsh),676,50.9,652,49.1,1328,1.95
@@ -8708,10 +8708,10 @@ WA,243,O'Connor,7745,Yornup,0,0,0,0,0,0
 WA,244,Pearce,47772,Aveley,380,35.85,680,64.15,1060,-7.55
 WA,244,Pearce,7977,Bakers Hill,245,36.4,428,63.6,673,-3.51
 WA,244,Pearce,47774,Beechboro West (Pearce),706,57.26,527,42.74,1233,11.44
-WA,244,Pearce,7982,Beverley,252,30.04,587,69.96,839,-2.17
+WA,244,Pearce,7982,Beverley,252,30.22,582,69.78,834,-1.99
 WA,244,Pearce,7921,Bindoon,246,30.22,568,69.78,814,2.06
 WA,244,Pearce,7923,Bullsbrook,654,33.18,1317,66.82,1971,-7.41
-WA,244,Pearce,38192,Butler,1176,45.85,1389,54.15,2565,1.02
+WA,244,Pearce,38192,Butler,1171,45.72,1390,54.28,2561,0.89
 WA,244,Pearce,7530,Carmel,101,26.44,281,73.56,382,-3.38
 WA,244,Pearce,7927,Chidlow,383,41.68,536,58.32,919,-3.78
 WA,244,Pearce,7930,Darlington,750,42.02,1035,57.98,1785,-1.61
