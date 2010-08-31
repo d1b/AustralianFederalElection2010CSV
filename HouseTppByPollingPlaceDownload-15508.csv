@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T09:40:00 Cycle:f7bb1bf5-44d6-4f47-a960-5a5359a59d25 Created:2010-08-31T09:18:13 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T09:55:40 Cycle:716c0fcb-d47b-4a6b-9a7c-84dd7d015d07 Created:2010-08-31T09:33:13 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -139,7 +139,7 @@ NSW,103,Banks,35,South Hurstville,509,50.85,492,49.15,1001,-13.64
 NSW,103,Banks,43,South Hurstville South,390,44.22,492,55.78,882,-10.8
 NSW,103,Banks,33594,Special Hospital Team 1,87,48.33,93,51.67,180,-3.99
 NSW,103,Banks,14011,Sydney (Banks),94,61.04,60,38.96,154,-6.65
-NSW,104,Barton,32,Arncliffe,643,63.79,365,36.21,1008,-12.72
+NSW,104,Barton,32,Arncliffe,642,63.75,365,36.25,1007,-12.76
 NSW,104,Barton,34,Arncliffe Central,792,67.35,384,32.65,1176,-7.34
 NSW,104,Barton,2642,Arncliffe West,1541,61.62,960,38.38,2501,-12.53
 NSW,104,Barton,2643,Bardwell Park,577,54.23,487,45.77,1064,-2.31
@@ -2256,7 +2256,7 @@ NSW,139,Parkes,2192,Gilgandra,557,31.99,1184,68.01,1741,-4.29
 NSW,139,Parkes,2194,Girilambone,7,13.73,44,86.27,51,-8.49
 NSW,139,Parkes,2195,Gollan,8,12.31,57,87.69,65,1.54
 NSW,139,Parkes,1103,Goodooga,72,58.54,51,41.46,123,5.21
-NSW,139,Parkes,251,Goolma,25,19.08,106,80.92,131,-8.66
+NSW,139,Parkes,251,Goolma,24,18.46,106,81.54,130,-9.28
 NSW,139,Parkes,1106,Gravesend,22,16.18,114,83.82,136,-6.44
 NSW,139,Parkes,2197,Gulargambone,96,24.43,297,75.57,393,-5.48
 NSW,139,Parkes,252,Gulgong,652,38.33,1049,61.67,1701,-16.94
@@ -4168,7 +4168,7 @@ QLD,168,Leichhardt,5936,Cairns North,366,48.35,391,51.65,757,-3.71
 QLD,168,Leichhardt,46569,Cairns South PPVC,0,0,0,0,0,0
 QLD,168,Leichhardt,5938,Cairns West,1157,53.52,1005,46.48,2162,-10.07
 QLD,168,Leichhardt,5939,Caravonica,915,40.59,1339,59.41,2254,-8.55
-QLD,168,Leichhardt,5940,Clifton Beach,735,38.46,1176,61.54,1911,-5.35
+QLD,168,Leichhardt,5940,Clifton Beach,738,38.76,1166,61.24,1904,-5.05
 QLD,168,Leichhardt,5942,Coen,53,37.32,89,62.68,142,-23.22
 QLD,168,Leichhardt,5943,Cooktown,325,39.11,506,60.89,831,-12.6
 QLD,168,Leichhardt,58580,Cooktown Interstate PPVC,0,0,0,0,0,0
@@ -4194,7 +4194,7 @@ QLD,168,Leichhardt,5981,Miallo,118,35.54,214,64.46,332,-8.5
 QLD,168,Leichhardt,5926,Mooroobool,947,48.17,1019,51.83,1966,-8.3
 QLD,168,Leichhardt,5985,Mossman,710,44.4,889,55.6,1599,-7.46
 QLD,168,Leichhardt,6008,Napranum,187,62.33,113,37.67,300,-16.15
-QLD,168,Leichhardt,5991,Parramatta Park,1496,54.4,1254,45.6,2750,-2.77
+QLD,168,Leichhardt,5991,Parramatta Park,1489,54.24,1256,45.76,2745,-2.93
 QLD,168,Leichhardt,5953,Pormpuraaw,148,42.05,204,57.95,352,-38.09
 QLD,168,Leichhardt,5992,Port Douglas,700,44.67,867,55.33,1567,-3.12
 QLD,168,Leichhardt,32676,Port Douglas PPVC,135,38.35,217,61.65,352,-11.1
@@ -4905,9 +4905,9 @@ SA,179,Adelaide,32952,Adelaide ADELAIDE PPVC,1033,56.29,802,43.71,1835,8.14
 SA,179,Adelaide,6649,Adelaide East,646,58.51,458,41.49,1104,2.35
 SA,179,Adelaide,58808,Adelaide East PPVC,0,0,0,0,0,0
 SA,179,Adelaide,6650,Adelaide Hospital,292,56.81,222,43.19,514,-7.8
-SA,179,Adelaide,6651,Adelaide South,1241,62.49,745,37.51,1986,0.97
+SA,179,Adelaide,6651,Adelaide South,1221,61.64,760,38.36,1981,0.12
 SA,179,Adelaide,6652,Adelaide West,308,73.33,112,26.67,420,-1.92
-SA,179,Adelaide,7011,Black Forest East,1125,60.1,747,39.9,1872,1.85
+SA,179,Adelaide,7011,Black Forest East,1115,59.91,746,40.09,1861,1.66
 SA,179,Adelaide,7008,Black Forest West,481,62.06,294,37.94,775,1.39
 SA,179,Adelaide,6653,Blair Athol,439,58.85,307,41.15,746,-2.94
 SA,179,Adelaide,6654,Blair Athol North,671,72.78,251,27.22,922,-3.94
@@ -4963,7 +4963,7 @@ SA,179,Adelaide,6667,St Peters East,509,46.19,593,53.81,1102,-6.58
 SA,179,Adelaide,6889,Unley,1540,56.39,1191,43.61,2731,-1.2
 SA,179,Adelaide,6686,Walkerville,674,37.84,1107,62.16,1781,-3.03
 SA,179,Adelaide,6656,Walkerville North,353,45.61,421,54.39,774,1.28
-SA,179,Adelaide,6890,Wayville,377,55.04,308,44.96,685,-2.31
+SA,179,Adelaide,6890,Wayville,375,54.9,308,45.1,683,-2.45
 SA,180,Barker,6702,Allendale East,97,35.79,174,64.21,271,-5.17
 SA,180,Barker,7325,Angaston,659,42.49,892,57.51,1551,-0.57
 SA,180,Barker,6704,Barmera,590,35.8,1058,64.2,1648,-7.03
