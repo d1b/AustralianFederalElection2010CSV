@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T17:25:23 Cycle:7e434db7-4aa2-4efc-b30f-0fdc2e0f9b99 Created:2010-08-31T17:04:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T17:40:28 Cycle:0dee7246-4a93-4cf3-8aef-10c9c225fcc4 Created:2010-08-31T17:19:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -374,7 +374,7 @@ NSW,108,Bradfield,33805,Special Hospital Team 3,53,13.09,352,86.91,405,-6.2
 NSW,108,Bradfield,211,St Ives,421,23.49,1371,76.51,1792,-0.38
 NSW,108,Bradfield,212,St Ives Chase,280,29.29,676,70.71,956,6.11
 NSW,108,Bradfield,213,St Ives North,576,23.53,1872,76.47,2448,-2.64
-NSW,108,Bradfield,188,St Ives Park,443,22.31,1543,77.69,1986,-1.44
+NSW,108,Bradfield,188,St Ives Park,443,22.32,1542,77.68,1985,-1.43
 NSW,108,Bradfield,214,St Ives South,675,25.94,1927,74.06,2602,-1.54
 NSW,108,Bradfield,31029,Sydney (Bradfield),39,36.11,69,63.89,108,-16.16
 NSW,108,Bradfield,138,Thornleigh (Bradfield),381,39.69,579,60.31,960,-3.4
@@ -386,7 +386,7 @@ NSW,108,Bradfield,143,Wahroonga,654,26.12,1850,73.88,2504,1.29
 NSW,108,Bradfield,144,Wahroonga East,624,24.64,1908,75.36,2532,-4.34
 NSW,108,Bradfield,33948,Wahroonga PPVC,390,21.61,1415,78.39,1805,-19.49
 NSW,108,Bradfield,145,Waitara,808,38.53,1289,61.47,2097,-8.38
-NSW,108,Bradfield,146,Waitara South,116,34.42,221,65.58,337,-2.68
+NSW,108,Bradfield,146,Waitara South,118,33.81,231,66.19,349,-3.29
 NSW,108,Bradfield,147,Warrawee,828,33.54,1641,66.46,2469,-1.99
 NSW,109,Calare,2148,Alectown,31,20.39,121,79.61,152,-7.9
 NSW,109,Calare,219,Barry,27,21.09,101,78.91,128,-15.42
@@ -3514,9 +3514,9 @@ QLD,158,Dawson,32655,Special Hospital Team 2,20,74.07,7,25.93,27,28.62
 QLD,158,Dawson,32656,Special Hospital Team 3,72,40.22,107,59.78,179,-3.98
 QLD,158,Dawson,55459,Special Hospital Team 4,15,45.45,18,54.55,33,1.55
 QLD,158,Dawson,5693,Stuart (Dawson),142,49.31,146,50.69,288,-3.57
-QLD,158,Dawson,58761,Townsville DAWSON PPVC,319,41.32,453,58.68,772,-6.44
+QLD,158,Dawson,58761,Townsville DAWSON PPVC,322,41.66,451,58.34,773,-6.1
 QLD,158,Dawson,5375,Victoria Park,1139,56.81,866,43.19,2005,-5.01
-QLD,158,Dawson,5705,Wulguru,1259,53.92,1076,46.08,2335,-3.74
+QLD,158,Dawson,5705,Wulguru,1258,53.92,1075,46.08,2333,-3.74
 QLD,252,Dickson,5455,Albany Creek,1464,42.29,1998,57.71,3462,-3.56
 QLD,252,Dickson,6396,Albany Creek South,1418,36.85,2430,63.15,3848,-5.39
 QLD,252,Dickson,46365,Albany Hills,738,37.01,1256,62.99,1994,-5.5
@@ -3636,7 +3636,7 @@ QLD,161,Fisher,32546,Alexandra Headland,172,41.05,247,58.95,419,2.16
 QLD,161,Fisher,32054,Aroona,763,50.23,756,49.77,1519,2.95
 QLD,161,Fisher,5457,Beerburrum,155,46.55,178,53.45,333,-8.97
 QLD,161,Fisher,5458,Beerwah,1144,47.04,1288,52.96,2432,-2.13
-QLD,161,Fisher,14211,Brisbane City (Fisher),15,32.61,31,67.39,46,-11.05
+QLD,161,Fisher,14211,Brisbane City (Fisher),16,34.78,30,65.22,46,-8.88
 QLD,161,Fisher,5416,Buddina,1397,47.65,1535,52.35,2932,1.9
 QLD,161,Fisher,5420,Caloundra,1117,50.47,1096,49.53,2213,2.5
 QLD,161,Fisher,12006,Caloundra North,485,55.11,395,44.89,880,0.54
@@ -3665,7 +3665,7 @@ QLD,161,Fisher,58524,Palmwoods (Fisher),251,41.28,357,58.72,608,-5.4
 QLD,161,Fisher,12066,Peachester,333,46.7,380,53.3,713,-1.42
 QLD,161,Fisher,38263,Pelican Waters,763,32.89,1557,67.11,2320,-2.89
 QLD,161,Fisher,5436,Shelly Beach,747,47.46,827,52.54,1574,2.69
-QLD,161,Fisher,32552,Sippy Downs (Fisher),1580,48.71,1664,51.29,3244,3.88
+QLD,161,Fisher,32552,Sippy Downs (Fisher),1583,48.78,1662,51.22,3245,3.95
 QLD,161,Fisher,32837,Special Hospital Team 1,93,48.19,100,51.81,193,10.49
 QLD,161,Fisher,32929,Special Hospital Team 2,50,36.5,87,63.5,137,-1.56
 QLD,161,Fisher,33099,Warana,934,43.34,1221,56.66,2155,1.45
@@ -4845,7 +4845,7 @@ QLD,316,Wright,56431,Brisbane City (Wright),21,52.5,19,47.5,40,-8.48
 QLD,316,Wright,56383,Browns Plains (Wright),249,37.96,407,62.04,656,-26.41
 QLD,316,Wright,6262,Canungra,539,38.58,858,61.42,1397,-1.72
 QLD,316,Wright,56441,Divisional Office (PREPOLL),0,0,0,0,0,-50
-QLD,316,Wright,32547,Flagstone,830,52.83,741,47.17,1571,-5.55
+QLD,316,Wright,32547,Flagstone,826,52.78,739,47.22,1565,-5.6
 QLD,316,Wright,5607,Flagstone Creek,36,22.64,123,77.36,159,-4.57
 QLD,316,Wright,5608,Forest Hill,293,37.32,492,62.68,785,-6.19
 QLD,316,Wright,5609,Gatton,270,26.09,765,73.91,1035,-11.04
@@ -5212,7 +5212,7 @@ SA,183,Grey,6950,Port Kenny,23,17.29,110,82.71,133,-3.69
 SA,183,Grey,6951,Port Lincoln,736,35.01,1366,64.99,2102,0.31
 SA,183,Grey,6952,Port Lincoln Central,548,25.81,1575,74.19,2123,-15.26
 SA,183,Grey,13113,Port Lincoln PPVC,322,29.7,762,70.3,1084,-21.89
-SA,183,Grey,6953,Port Lincoln South,526,49.72,532,50.28,1058,-8.72
+SA,183,Grey,6953,Port Lincoln South,527,49.76,532,50.24,1059,-8.68
 SA,183,Grey,6954,Port Neill,33,20.37,129,79.63,162,-1.53
 SA,183,Grey,13111,Port Pirie PPVC,720,50.35,710,49.65,1430,-1.21
 SA,183,Grey,6945,Port Pirie South,128,33.51,254,66.49,382,-20.91
@@ -7877,7 +7877,7 @@ VIC,232,Scullin,58644,Greensborough SCULLIN PPVC,633,61.28,400,38.72,1033,-5.08
 VIC,232,Scullin,4170,Grimshaw,1199,66.32,609,33.68,1808,3.28
 VIC,232,Scullin,4180,Keelbundoora,275,67.4,133,32.6,408,1.83
 VIC,232,Scullin,4855,Lalor,1730,78.64,470,21.36,2200,-0.33
-VIC,232,Scullin,4856,Lalor East,2362,77.7,678,22.3,3040,0.39
+VIC,232,Scullin,4856,Lalor East,2352,77.68,676,22.32,3028,0.37
 VIC,232,Scullin,4857,Lalor North,1262,81.89,279,18.11,1541,-0.28
 VIC,232,Scullin,4858,Lalor Park,1598,80.63,384,19.37,1982,0.25
 VIC,232,Scullin,31768,Lalor South,1802,83.23,363,16.77,2165,0.4
@@ -7888,7 +7888,7 @@ VIC,232,Scullin,4345,Mill Park,1708,71.08,695,28.92,2403,1.34
 VIC,232,Scullin,11890,Mill Park Heights,2231,76.12,700,23.88,2931,1.84
 VIC,232,Scullin,46761,Mill Park SCULLIN PPVC,1839,71.86,720,28.14,2559,5.41
 VIC,232,Scullin,4861,Norris Bank,2047,71.1,832,28.9,2879,0.15
-VIC,232,Scullin,4353,Plenty,463,44.22,584,55.78,1047,7.48
+VIC,232,Scullin,4353,Plenty,465,44.37,583,55.63,1048,7.63
 VIC,232,Scullin,4349,South Morang (Scullin),1953,66.84,969,33.16,2922,6.32
 VIC,232,Scullin,31591,Special Hospital Team 1,14,82.35,3,17.65,17,14.35
 VIC,232,Scullin,32870,Special Hospital Team 2,37,74,13,26,50,4.43
@@ -7897,7 +7897,7 @@ VIC,232,Scullin,4365,The Stables,2520,70.89,1035,29.11,3555,2.17
 VIC,232,Scullin,4862,Thomastown,543,76.48,167,23.52,710,-5.03
 VIC,232,Scullin,4863,Thomastown East,1438,81.01,337,18.99,1775,-0.1
 VIC,232,Scullin,4864,Thomastown Meadows,1632,83.56,321,16.44,1953,-1.17
-VIC,232,Scullin,4865,Thomastown West,3295,82.33,707,17.67,4002,0.09
+VIC,232,Scullin,4865,Thomastown West,3290,82.15,715,17.85,4005,-0.09
 VIC,232,Scullin,4193,Watsonia North,2029,64.6,1112,35.4,3141,5.35
 VIC,233,Wannon,4933,Allansford,251,37.46,419,62.54,670,1.35
 VIC,233,Wannon,3124,Amphitheatre,55,38.73,87,61.27,142,-7.72
