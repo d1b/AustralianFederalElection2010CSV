@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T17:09:22 Cycle:89e7c4be-5595-4a18-bd0a-3859166f76d2 Created:2010-08-31T16:49:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T17:25:23 Cycle:7e434db7-4aa2-4efc-b30f-0fdc2e0f9b99 Created:2010-08-31T17:04:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -158,7 +158,7 @@ NSW,104,Barton,47,Carlton South (Barton),1382,59.16,954,40.84,2336,-8.53
 NSW,104,Barton,56544,Carlton West (Barton),132,58.93,92,41.07,224,-4.46
 NSW,104,Barton,40,Carss Park,255,37.95,417,62.05,672,-5.17
 NSW,104,Barton,2656,Clemton Park (Barton),1054,58.01,763,41.99,1817,-13.02
-NSW,104,Barton,30095,Divisional Office (PREPOLL),237,58.37,169,41.63,406,-6.39
+NSW,104,Barton,30095,Divisional Office (PREPOLL),262,60.51,171,39.49,433,-4.25
 NSW,104,Barton,2659,Earlwood,501,55.48,402,44.52,903,-11.53
 NSW,104,Barton,2660,Earlwood Central,806,56.01,633,43.99,1439,-6.71
 NSW,104,Barton,2661,Earlwood South,1398,58.81,979,41.19,2377,-8.91
@@ -190,7 +190,7 @@ NSW,104,Barton,33595,Special Hospital Team 1,52,61.18,33,38.82,85,8.8
 NSW,104,Barton,33765,Special Hospital Team 2,54,58.06,39,41.94,93,5.35
 NSW,104,Barton,38392,Special Hospital Team 3,21,63.64,12,36.36,33,10.91
 NSW,104,Barton,56572,Special Hospital Team 4,16,76.19,5,23.81,21,21.64
-NSW,104,Barton,14014,Sydney (Barton),107,80.45,26,19.55,133,9.32
+NSW,104,Barton,14014,Sydney (Barton),81,60.9,52,39.1,133,-10.23
 NSW,104,Barton,2641,Turrella,595,60.59,387,39.41,982,-16.14
 NSW,104,Barton,2673,Undercliffe,1002,57.82,731,42.18,1733,-7.84
 NSW,105,Bennelong,75,Balaclava,1241,48.78,1303,51.22,2544,-4.94
@@ -373,9 +373,9 @@ NSW,108,Bradfield,33804,Special Hospital Team 2,39,14.61,228,85.39,267,-4.49
 NSW,108,Bradfield,33805,Special Hospital Team 3,53,13.09,352,86.91,405,-6.2
 NSW,108,Bradfield,211,St Ives,421,23.49,1371,76.51,1792,-0.38
 NSW,108,Bradfield,212,St Ives Chase,280,29.29,676,70.71,956,6.11
-NSW,108,Bradfield,213,St Ives North,576,23.55,1870,76.45,2446,-2.62
+NSW,108,Bradfield,213,St Ives North,576,23.53,1872,76.47,2448,-2.64
 NSW,108,Bradfield,188,St Ives Park,443,22.31,1543,77.69,1986,-1.44
-NSW,108,Bradfield,214,St Ives South,674,25.9,1928,74.1,2602,-1.58
+NSW,108,Bradfield,214,St Ives South,675,25.94,1927,74.06,2602,-1.54
 NSW,108,Bradfield,31029,Sydney (Bradfield),39,36.11,69,63.89,108,-16.16
 NSW,108,Bradfield,138,Thornleigh (Bradfield),381,39.69,579,60.31,960,-3.4
 NSW,108,Bradfield,139,Turramurra,139,23.13,462,76.87,601,-1.19
@@ -633,7 +633,7 @@ NSW,112,Cook,437,Miranda North,739,37.98,1207,62.02,1946,-5.54
 NSW,112,Cook,33960,Miranda PPVC,1162,26.42,3237,73.58,4399,-18.68
 NSW,112,Cook,58475,Miranda South,584,44.89,717,55.11,1301,-5.69
 NSW,112,Cook,1225,Oyster Bay,928,42.14,1274,57.86,2202,-4.31
-NSW,112,Cook,33609,Special Hospital Team 1,0,0,0,0,0,-39.39
+NSW,112,Cook,33609,Special Hospital Team 1,8,38.1,13,61.9,21,-1.29
 NSW,112,Cook,46534,Special Hospital Team 2,0,0,0,0,0,-39.31
 NSW,112,Cook,1230,Sutherland (Cook),637,51.83,592,48.17,1229,-0.58
 NSW,112,Cook,33875,Sutherland COOK PPVC,629,39.39,968,60.61,1597,-5.67
@@ -2897,7 +2897,7 @@ NSW,150,Throsby,58798,Warilla THROSBY PPVC,1673,68.43,772,31.57,2445,5.4
 NSW,150,Throsby,562,Warrawong,988,76.53,303,23.47,1291,-10.9
 NSW,150,Throsby,563,Warrawong Central,882,76.56,270,23.44,1152,-8.31
 NSW,150,Throsby,31242,Welby,357,54.17,302,45.83,659,7
-NSW,150,Throsby,564,Windang,919,67.08,451,32.92,1370,-4.54
+NSW,150,Throsby,564,Windang,895,65.57,470,34.43,1365,-6.05
 NSW,150,Throsby,58667,Wollongong THROSBY PPVC,683,67.89,323,32.11,1006,4.93
 NSW,151,Warringah,2819,Allambie,344,39.4,529,60.6,873,-1.36
 NSW,151,Warringah,2820,Allambie Heights,1019,35.86,1823,64.14,2842,-5.47
@@ -3663,7 +3663,7 @@ QLD,161,Fisher,33095,Mooloolaba West,529,46.77,602,53.23,1131,1.6
 QLD,161,Fisher,5438,Mooloolah,759,49.87,763,50.13,1522,0.8
 QLD,161,Fisher,58524,Palmwoods (Fisher),251,41.28,357,58.72,608,-5.4
 QLD,161,Fisher,12066,Peachester,333,46.7,380,53.3,713,-1.42
-QLD,161,Fisher,38263,Pelican Waters,769,33.19,1548,66.81,2317,-2.59
+QLD,161,Fisher,38263,Pelican Waters,763,32.89,1557,67.11,2320,-2.89
 QLD,161,Fisher,5436,Shelly Beach,747,47.46,827,52.54,1574,2.69
 QLD,161,Fisher,32552,Sippy Downs (Fisher),1580,48.71,1664,51.29,3244,3.88
 QLD,161,Fisher,32837,Special Hospital Team 1,93,48.19,100,51.81,193,10.49
