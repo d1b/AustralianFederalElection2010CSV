@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T12:59:20 Cycle:e1455d66-f175-4247-970b-5c065f97161e Created:2010-08-31T12:49:07 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T13:14:30 Cycle:1c7c0ebb-ab13-4de8-b99d-432dc0084c8a Created:2010-08-31T13:04:12 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -526,7 +526,7 @@ NSW,110,Charlton,347,Fennell Bay,764,69.2,340,30.8,1104,0.3
 NSW,110,Charlton,348,Garden Suburb,710,59.22,489,40.78,1199,3.06
 NSW,110,Charlton,349,Glendale,210,73.43,76,26.57,286,3
 NSW,110,Charlton,350,Glendale East,975,69.54,427,30.46,1402,-0.28
-NSW,110,Charlton,34361,Glendore,988,66.53,497,33.47,1485,0.01
+NSW,110,Charlton,34361,Glendore,988,69.04,443,30.96,1431,2.52
 NSW,110,Charlton,43978,Hillsborough (Charlton),247,69.58,108,30.42,355,1.56
 NSW,110,Charlton,354,Kilaben Bay,297,51.21,283,48.79,580,2.43
 NSW,110,Charlton,56830,Lambton (Charlton),488,63.46,281,36.54,769,-2.98
@@ -2567,7 +2567,7 @@ NSW,145,Richmond,2465,Stokers Siding,206,60.95,132,39.05,338,-3.86
 NSW,145,Richmond,38336,Suffolk Park,782,70.01,335,29.99,1117,-4.25
 NSW,145,Richmond,14150,Sydney (Richmond),23,85.19,4,14.81,27,12.22
 NSW,145,Richmond,2466,Terranora,570,43.78,732,56.22,1302,-3.06
-NSW,145,Richmond,2467,The Channon,289,75.85,92,24.15,381,-5.05
+NSW,145,Richmond,2467,The Channon,291,76.38,90,23.62,381,-4.52
 NSW,145,Richmond,2468,Tintenbar,174,43.83,223,56.17,397,0.46
 NSW,145,Richmond,2471,Tumbulgum,235,54.78,194,45.22,429,-5.71
 NSW,145,Richmond,2472,Tweed Heads,1277,54.6,1062,45.4,2339,-1.19
@@ -4855,17 +4855,17 @@ QLD,316,Wright,5611,Glenore Grove,719,50.63,701,49.37,1420,-4.66
 QLD,316,Wright,5613,Grantham,217,34.55,411,65.45,628,-6.86
 QLD,316,Wright,31793,Greenbank,1168,50.3,1154,49.7,2322,-2
 QLD,316,Wright,47744,Greenbank South,877,47.33,976,52.67,1853,-4.98
-QLD,316,Wright,6448,Harrisville,119,34,231,66,350,-14.26
+QLD,316,Wright,6448,Harrisville,122,34.56,231,65.44,353,-13.7
 QLD,316,Wright,5618,Hatton Vale,756,50.3,747,49.7,1503,-1.71
-QLD,316,Wright,5619,Helidon,233,34.01,452,65.99,685,-10.4
-QLD,316,Wright,6270,Hillview,35,24.65,107,75.35,142,-4.38
+QLD,316,Wright,5619,Helidon,232,33.87,453,66.13,685,-10.54
+QLD,316,Wright,6270,Hillview,35,24.82,106,75.18,141,-4.21
 QLD,316,Wright,58728,Ipswich WRIGHT PPVC,139,39.27,215,60.73,354,-11.79
-QLD,316,Wright,6459,Jimboomba,1839,50.86,1777,49.14,3616,-4.76
-QLD,316,Wright,38246,Jimboomba East,654,44.34,821,55.66,1475,-6.61
+QLD,316,Wright,6459,Jimboomba,1841,50.91,1775,49.09,3616,-4.71
+QLD,316,Wright,38246,Jimboomba East,655,44.38,821,55.62,1476,-6.57
 QLD,316,Wright,47730,Jimboomba PPVC,442,43.16,582,56.84,1024,-7.91
-QLD,316,Wright,6451,Kalbar,234,27.3,623,72.7,857,-6.73
+QLD,316,Wright,6451,Kalbar,233,27.25,622,72.75,855,-6.78
 QLD,316,Wright,5621,Kentville,107,44.21,135,55.79,242,-8.44
-QLD,316,Wright,6273,Kerry,54,25.35,159,74.65,213,-1.75
+QLD,316,Wright,6273,Kerry,53,24.88,160,75.12,213,-2.22
 QLD,316,Wright,5623,Laidley,1100,47.45,1218,52.55,2318,-5.07
 QLD,316,Wright,5624,Lake Clarendon,164,33.33,328,66.67,492,-9.39
 QLD,316,Wright,6458,Logan Village (Wright),1011,46.25,1175,53.75,2186,-5.61
@@ -5090,7 +5090,7 @@ SA,180,Barker,6809,Wolseley,40,33.61,79,66.39,119,1.89
 SA,180,Barker,7241,Woods Point,47,27.01,127,72.99,174,0.22
 SA,180,Barker,6813,Yahl,139,35.01,258,64.99,397,-7.42
 SA,182,Boothby,33173,Aberfoyle Park North (Boothby),392,53.26,344,46.74,736,8.11
-SA,182,Boothby,31785,Adelaide (Boothby),61,61,39,39,100,7.28
+SA,182,Boothby,31785,Adelaide (Boothby),60,60,40,40,100,6.28
 SA,182,Boothby,58733,Adelaide BOOTHBY PPVC,267,48.19,287,51.81,554,-2.64
 SA,182,Boothby,7007,Ascot Park South,482,64.52,265,35.48,747,3.82
 SA,182,Boothby,6858,Bedford Park,401,59.85,269,40.15,670,3.27
@@ -5562,8 +5562,8 @@ SA,189,Port Adelaide,7283,Woodville South,1221,66.94,603,33.06,1824,1.38
 SA,189,Port Adelaide,7284,Woodville West,937,67.9,443,32.1,1380,1.85
 SA,190,Sturt,14255,Adelaide (Sturt),49,44.55,61,55.45,110,-12.14
 SA,190,Sturt,58729,Adelaide STURT PPVC,264,46.15,308,53.85,572,-7.23
-SA,190,Sturt,7290,Athelstone,1624,47.13,1822,52.87,3446,-2.96
-SA,190,Sturt,7291,Athelstone West,1238,45.08,1508,54.92,2746,-4.58
+SA,190,Sturt,7290,Athelstone,1617,47.17,1811,52.83,3428,-2.92
+SA,190,Sturt,7291,Athelstone West,1219,44.7,1508,55.3,2727,-4.96
 SA,190,Sturt,7292,Beaumont,564,30.34,1295,69.66,1859,-0.73
 SA,190,Sturt,7294,Burnside,1049,33.64,2069,66.36,3118,-1.84
 SA,190,Sturt,7295,Campbelltown,1229,51.04,1179,48.96,2408,-5.26
@@ -7812,11 +7812,11 @@ VIC,231,Murray,4762,Kialla West,138,27.94,356,72.06,494,-0.74
 VIC,231,Murray,4763,Knight Street,553,34.91,1031,65.09,1584,1.09
 VIC,231,Murray,3167,Korong Vale,64,42.67,86,57.33,150,2.4
 VIC,231,Murray,4768,Koyuga,31,18.9,133,81.1,164,-3.88
-VIC,231,Murray,4771,Ky Valley,62,14.76,358,85.24,420,-1.98
+VIC,231,Murray,4771,Ky Valley,63,15.04,356,84.96,419,-1.7
 VIC,231,Murray,4769,Kyabram,570,26.3,1597,73.7,2167,-2.94
 VIC,231,Murray,4770,Kyabram West,344,27.94,887,72.06,1231,-0.41
 VIC,231,Murray,4774,Lancaster,49,13,328,87,377,-3.11
-VIC,231,Murray,4777,Lemnos,73,19.16,308,80.84,381,-1.94
+VIC,231,Murray,4777,Lemnos,74,19.42,307,80.58,381,-1.68
 VIC,231,Murray,4778,Lockington,90,19.19,379,80.81,469,2.43
 VIC,231,Murray,32010,Melbourne (Murray),14,30.43,32,69.57,46,-2.9
 VIC,231,Murray,4781,Merrigum,136,31.19,300,68.81,436,4.01
@@ -8928,7 +8928,7 @@ WA,248,Tangney,31066,Canning Vale,1346,39.21,2087,60.79,3433,-0.69
 WA,248,Tangney,46570,Canning Vale East,1522,42.04,2098,57.96,3620,-0.16
 WA,248,Tangney,47763,Canning Vale North,716,42.9,953,57.1,1669,2.54
 WA,248,Tangney,33054,Canning Vale South,910,36.59,1577,63.41,2487,-1.85
-WA,248,Tangney,30239,Divisional Office (PREPOLL),1154,32.48,2399,67.52,3553,-9.33
+WA,248,Tangney,30239,Divisional Office (PREPOLL),1155,32.51,2398,67.49,3553,-9.3
 WA,248,Tangney,7772,Kardinya (Tangney),721,44.02,917,55.98,1638,-4.25
 WA,248,Tangney,8270,Leeming,893,40.3,1323,59.7,2216,-1.72
 WA,248,Tangney,11600,Leeming East,593,34.42,1130,65.58,1723,0.11
