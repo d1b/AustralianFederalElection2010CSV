@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T10:26:50 Cycle:a438942a-67ef-4426-b7a4-ca06ee5a2be3 Created:2010-08-31T10:18:24 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T10:42:31 Cycle:95652af1-d591-4410-8597-462cf389c03b Created:2010-08-31T10:33:24 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -352,8 +352,8 @@ NSW,108,Bradfield,43833,Hornsby (Bradfield),171,43.96,218,56.04,389,-15.06
 NSW,108,Bradfield,127,Hornsby Central (Bradfield),1180,46.15,1377,53.85,2557,-9.47
 NSW,108,Bradfield,33771,Hornsby East,548,47.82,598,52.18,1146,-8.36
 NSW,108,Bradfield,125,Hornsby Hospital,138,43.4,180,56.6,318,-8.03
-NSW,108,Bradfield,198,Killara,397,25.53,1158,74.47,1555,-1.36
-NSW,108,Bradfield,199,Killara East,562,32.17,1185,67.83,1747,-5.36
+NSW,108,Bradfield,198,Killara,389,25.03,1165,74.97,1554,-1.86
+NSW,108,Bradfield,199,Killara East,562,32.11,1188,67.89,1750,-5.42
 NSW,108,Bradfield,129,Kissing Point,346,35.31,634,64.69,980,-1.8
 NSW,108,Bradfield,130,Lady Davidson Hospital,72,21.62,261,78.38,333,-2.84
 NSW,108,Bradfield,201,Lindfield,580,32.79,1189,67.21,1769,-3.56
@@ -593,7 +593,7 @@ NSW,111,Chifley,56862,Quakers Hill East (Chifley),338,63.06,198,36.94,536,6.76
 NSW,111,Chifley,405,Rooty Hill East,219,54.61,182,45.39,401,-10.3
 NSW,111,Chifley,407,Rooty Hill North,1818,63.06,1065,36.94,2883,-8.84
 NSW,111,Chifley,408,Rooty Hill South,1107,56.48,853,43.52,1960,-14.63
-NSW,111,Chifley,411,Shalvey,967,71.37,388,28.63,1355,-6.71
+NSW,111,Chifley,411,Shalvey,964,71.46,385,28.54,1349,-6.62
 NSW,111,Chifley,44088,Special Hospital Team 1,26,29.55,62,70.45,88,-5.04
 NSW,111,Chifley,14039,Sydney (Chifley),45,63.38,26,36.62,71,-2.18
 NSW,111,Chifley,412,Tregear,1084,67.62,519,32.38,1603,-8.32
@@ -810,13 +810,13 @@ NSW,115,Dobell,592,Jilliby,242,42.01,334,57.99,576,3.48
 NSW,115,Dobell,593,Kanwal,1510,62.45,908,37.55,2418,1.58
 NSW,115,Dobell,594,Killarney Vale,897,57.68,658,42.32,1555,4.03
 NSW,115,Dobell,595,Killarney Vale South,1807,60.7,1170,39.3,2977,-0.56
-NSW,115,Dobell,596,Kulnura,75,35.21,138,64.79,213,-1.24
-NSW,115,Dobell,598,Lisarow,1014,51.6,951,48.4,1965,-0.25
-NSW,115,Dobell,599,Long Jetty,647,56.41,500,43.59,1147,1.79
-NSW,115,Dobell,612,Long Jetty East,525,54.29,442,45.71,967,1.43
+NSW,115,Dobell,596,Kulnura,75,35.38,137,64.62,212,-1.07
+NSW,115,Dobell,598,Lisarow,1016,51.76,947,48.24,1963,-0.09
+NSW,115,Dobell,599,Long Jetty,646,56.27,502,43.73,1148,1.65
+NSW,115,Dobell,612,Long Jetty East,522,54.32,439,45.68,961,1.46
 NSW,115,Dobell,32758,Mardi,443,50.34,437,49.66,880,1.15
-NSW,115,Dobell,604,Narara,636,55.16,517,44.84,1153,2.49
-NSW,115,Dobell,2614,Niagara Park (Dobell),221,61.05,141,38.95,362,5.09
+NSW,115,Dobell,604,Narara,635,55.07,518,44.93,1153,2.4
+NSW,115,Dobell,2614,Niagara Park (Dobell),220,60.77,142,39.23,362,4.81
 NSW,115,Dobell,605,Norah Head,400,52.7,359,47.3,759,-4.41
 NSW,115,Dobell,607,Ourimbah,1032,50.51,1011,49.49,2043,0.54
 NSW,115,Dobell,573,Shelly Beach,1339,55.26,1084,44.74,2423,0.24
@@ -1501,7 +1501,7 @@ NSW,127,Kingsford Smith,2310,Coogee South,890,43.86,1139,56.14,2029,-8.33
 NSW,127,Kingsford Smith,2312,Daceyville,603,52.85,538,47.15,1141,-11
 NSW,127,Kingsford Smith,1462,Daceyville South,107,44.58,133,55.42,240,-11.27
 NSW,127,Kingsford Smith,30118,Divisional Office (PREPOLL),210,49.53,214,50.47,424,-12.23
-NSW,127,Kingsford Smith,34029,Eastgardens PPVC,3858,50.86,3728,49.14,7586,-10.9
+NSW,127,Kingsford Smith,34029,Eastgardens PPVC,3845,50.93,3705,49.07,7550,-10.83
 NSW,127,Kingsford Smith,1442,Eastlakes,611,61.72,379,38.28,990,-7.96
 NSW,127,Kingsford Smith,1443,Eastlakes East,1233,68.23,574,31.77,1807,-9.39
 NSW,127,Kingsford Smith,1447,Hillsdale,1295,64.81,703,35.19,1998,-11.19
@@ -2018,7 +2018,7 @@ NSW,136,Newcastle,1872,Hamilton,1118,66.51,563,33.49,1681,-2.99
 NSW,136,Newcastle,1873,Hamilton Central,670,66.4,339,33.6,1009,-2.06
 NSW,136,Newcastle,1864,Hamilton North,430,68.15,201,31.85,631,-1.79
 NSW,136,Newcastle,1875,Hamilton South,1094,51.03,1050,48.97,2144,-3.89
-NSW,136,Newcastle,1877,Islington,625,73.88,221,26.12,846,-6.76
+NSW,136,Newcastle,1877,Islington,619,73.17,227,26.83,846,-7.47
 NSW,136,Newcastle,1878,Jesmond,519,68.56,238,31.44,757,-2.5
 NSW,136,Newcastle,1879,Jesmond North,764,65.24,407,34.76,1171,-5.37
 NSW,136,Newcastle,2702,Kotara,298,57.86,217,42.14,515,-2.46
@@ -2026,8 +2026,8 @@ NSW,136,Newcastle,2703,Kotara East,517,59.56,351,40.44,868,-0.91
 NSW,136,Newcastle,2705,Kotara South (Newcastle),656,58.99,456,41.01,1112,-5.02
 NSW,136,Newcastle,1880,Lambton (Newcastle),836,63.05,490,36.95,1326,-3.34
 NSW,136,Newcastle,1881,Lambton East,666,63.85,377,36.15,1043,-3.92
-NSW,136,Newcastle,1884,Maryville Wickham,537,72.76,201,27.24,738,-3.48
-NSW,136,Newcastle,1885,Mayfield,917,71.36,368,28.64,1285,-3.16
+NSW,136,Newcastle,1884,Maryville Wickham,549,73.49,198,26.51,747,-2.75
+NSW,136,Newcastle,1885,Mayfield,908,70.83,374,29.17,1282,-3.69
 NSW,136,Newcastle,1886,Mayfield East,968,72.62,365,27.38,1333,-2.16
 NSW,136,Newcastle,1887,Mayfield South,1146,70.09,489,29.91,1635,-5.28
 NSW,136,Newcastle,1888,Mayfield West,1166,71.49,465,28.51,1631,-2.12
@@ -2548,15 +2548,15 @@ NSW,145,Richmond,2441,Kunghur,120,64.17,67,35.83,187,0.25
 NSW,145,Richmond,2442,Lennox Head,1593,56.13,1245,43.87,2838,2.94
 NSW,145,Richmond,2452,Main Arm Upper,99,79.84,25,20.16,124,-2.87
 NSW,145,Richmond,2470,Modanville,178,47.09,200,52.91,378,3.72
-NSW,145,Richmond,2454,Mullumbimby,1449,65.51,763,34.49,2212,-4.53
-NSW,145,Richmond,2455,Murwillumbah,1107,61.5,693,38.5,1800,0.06
+NSW,145,Richmond,2454,Mullumbimby,1440,65.69,752,34.31,2192,-4.35
+NSW,145,Richmond,2455,Murwillumbah,1085,60.65,704,39.35,1789,-0.79
 NSW,145,Richmond,33762,Murwillumbah PPVC,932,50.19,925,49.81,1857,-6.18
 NSW,145,Richmond,2457,Murwillumbah South,549,53.46,478,46.54,1027,-4.09
 NSW,145,Richmond,2405,Murwillumbah West,550,49.91,552,50.09,1102,-3.26
 NSW,145,Richmond,2459,Newrybar,243,52.48,220,47.52,463,-1.06
 NSW,145,Richmond,2460,Nimbin,754,82.86,156,17.14,910,2.63
 NSW,145,Richmond,11918,Ocean Shores,1308,66.77,651,33.23,1959,-2.97
-NSW,145,Richmond,2461,Piggabeen,219,47.92,238,52.08,457,-4.06
+NSW,145,Richmond,2461,Piggabeen,217,47.8,237,52.2,454,-4.18
 NSW,145,Richmond,2462,Pottsville Beach,1337,56.87,1014,43.13,2351,0.78
 NSW,145,Richmond,2464,Rosebank,189,77.78,54,22.22,243,-3.45
 NSW,145,Richmond,58460,Skennars Head,294,54.04,250,45.96,544,0.03
@@ -2869,7 +2869,7 @@ NSW,150,Throsby,46419,Horsley,1770,64.79,962,35.21,2732,-7.75
 NSW,150,Throsby,31450,Horsley South,350,63.99,197,36.01,547,-7.41
 NSW,150,Throsby,2789,Kangaloon,38,32.48,79,67.52,117,-2.77
 NSW,150,Throsby,549,Koonawarra,1511,77.37,442,22.63,1953,-4.49
-NSW,150,Throsby,550,Lake Heights,919,72.65,346,27.35,1265,-8.04
+NSW,150,Throsby,550,Lake Heights,914,72.6,345,27.4,1259,-8.09
 NSW,150,Throsby,2793,Lake Illawarra,1081,70.15,460,29.85,1541,-3.29
 NSW,150,Throsby,2794,Lakelands,1108,71.9,433,28.1,1541,-6.16
 NSW,150,Throsby,2798,Mittagong (Throsby),1082,48.85,1133,51.15,2215,1.34
@@ -4850,8 +4850,8 @@ QLD,316,Wright,5607,Flagstone Creek,36,22.64,123,77.36,159,-4.57
 QLD,316,Wright,5608,Forest Hill,293,37.32,492,62.68,785,-6.19
 QLD,316,Wright,5609,Gatton,270,26.09,765,73.91,1035,-11.04
 QLD,316,Wright,5610,Gatton South,881,35.1,1629,64.9,2510,-6.21
-QLD,316,Wright,6078,Gilston,481,34.02,933,65.98,1414,2.16
-QLD,316,Wright,5611,Glenore Grove,726,51.13,694,48.87,1420,-4.16
+QLD,316,Wright,6078,Gilston,481,34.07,931,65.93,1412,2.21
+QLD,316,Wright,5611,Glenore Grove,719,50.63,701,49.37,1420,-4.66
 QLD,316,Wright,5613,Grantham,217,34.55,411,65.45,628,-6.86
 QLD,316,Wright,31793,Greenbank,1168,50.3,1154,49.7,2322,-2
 QLD,316,Wright,47744,Greenbank South,875,47.25,977,52.75,1852,-5.06
@@ -7232,7 +7232,7 @@ VIC,223,La Trobe,4267,Beaconsfield,1303,41.37,1847,58.63,3150,2.94
 VIC,223,La Trobe,4268,Beaconsfield Upper,607,37.38,1017,62.62,1624,1.35
 VIC,223,La Trobe,4269,Belgrave,822,65.55,432,34.45,1254,1.58
 VIC,223,La Trobe,4270,Belgrave South,1103,51.16,1053,48.84,2156,1.37
-VIC,223,La Trobe,4271,Berwick,1161,36.67,2005,63.33,3166,2.61
+VIC,223,La Trobe,4271,Berwick,1152,36.39,2014,63.61,3166,2.33
 VIC,223,La Trobe,47817,Berwick Chase,874,48.1,943,51.9,1817,0.17
 VIC,223,La Trobe,31057,Berwick Lodge,1108,49.86,1114,50.14,2222,2.78
 VIC,223,La Trobe,11651,Berwick South,1565,50.13,1557,49.87,3122,2.12
