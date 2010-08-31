@@ -1,4 +1,4 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T20:22:14 Cycle:3aaf37a0-3438-4573-ac08-8f09921aaa90 Created:2010-08-31T20:05:21 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T20:37:57 Cycle:46abe843-d6c2-401f-99c3-cadc622245df Created:2010-08-31T20:20:26 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 179,Adelaide,SA,98526,74297,75.41
 197,Aston,VIC,93448,79228,84.78
@@ -59,7 +59,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 240,Fremantle,WA,93341,80861,86.63
 212,Gellibrand,VIC,95611,74478,77.9
 120,Gilmore,NSW,96317,81628,84.75
-213,Gippsland,VIC,97543,77490,79.44
+213,Gippsland,VIC,97543,81633,79.44
 214,Goldstein,VIC,93945,77761,82.77
 309,Gorton,VIC,113656,92872,81.71
 121,Grayndler,NSW,98112,70737,72.1
@@ -86,7 +86,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 221,Kooyong,VIC,89659,61736,68.86
 223,La Trobe,VIC,97960,77804,79.42
 222,Lalor,VIC,117023,100342,85.75
-168,Leichhardt,QLD,93140,77172,82.81
+168,Leichhardt,QLD,93140,77172,82.86
 169,Lilley,QLD,97415,75581,77.59
 128,Lindsay,NSW,95975,86458,90.08
 306,Lingiari,NT,61126,40841,66.81
@@ -116,7 +116,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 135,New England,NSW,99677,71379,71.61
 136,Newcastle,NSW,92896,79775,85.88
 137,North Sydney,NSW,97567,77790,79.73
-243,O'Connor,WA,92875,54685,56.36
+243,O'Connor,WA,92875,56887,58.88
 174,Oxley,QLD,82782,68373,82.59
 138,Page,NSW,94360,79786,84.55
 139,Parkes,NSW,100169,84402,84.26
@@ -147,6 +147,6 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 251,Watson,NSW,97765,74771,76.48
 152,Wentworth,NSW,101464,65371,64.43
 153,Werriwa,NSW,90994,65319,71.78
-178,Wide Bay,QLD,92636,76741,79.55
+178,Wide Bay,QLD,92636,76741,82.84
 234,Wills,VIC,98599,74972,76.04
 316,Wright,QLD,85304,73589,86.27
