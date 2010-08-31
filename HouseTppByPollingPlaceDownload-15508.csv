@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T11:13:06 Cycle:b1f937ac-a71e-49a0-945d-5c246ad6345d Created:2010-08-31T11:03:34 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T11:28:37 Cycle:d497b586-65d9-488a-bf27-8bcf8a6f5d42 Created:2010-08-31T11:18:40 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -825,10 +825,10 @@ NSW,115,Dobell,33812,Special Hospital Team 2,83,54.61,69,45.39,152,8.33
 NSW,115,Dobell,38425,Special Hospital Team 3,24,40,36,60,60,-6.36
 NSW,115,Dobell,46466,Special Hospital Team 4,55,59.14,38,40.86,93,12.59
 NSW,115,Dobell,14048,Sydney (Dobell),26,59.09,18,40.91,44,-2.31
-NSW,115,Dobell,610,Tacoma,319,60.19,211,39.81,530,0.33
-NSW,115,Dobell,32368,Terrigal (Dobell),140,49.12,145,50.88,285,3.47
-NSW,115,Dobell,611,The Entrance,1038,56.02,815,43.98,1853,-1.86
-NSW,115,Dobell,606,The Entrance North,328,50.46,322,49.54,650,-1.53
+NSW,115,Dobell,610,Tacoma,293,55.28,237,44.72,530,-4.58
+NSW,115,Dobell,32368,Terrigal (Dobell),139,49.12,144,50.88,283,3.47
+NSW,115,Dobell,611,The Entrance,1039,56.07,814,43.93,1853,-1.81
+NSW,115,Dobell,606,The Entrance North,326,50.23,323,49.77,649,-1.76
 NSW,115,Dobell,34247,The Entrance PPVC,1494,54.87,1229,45.13,2723,1.52
 NSW,115,Dobell,613,Toukley,510,57.05,384,42.95,894,-2.5
 NSW,115,Dobell,33778,Toukley DOBELL PPVC,1003,57.71,735,42.29,1738,4.35
@@ -1508,7 +1508,7 @@ NSW,127,Kingsford Smith,1447,Hillsdale,1295,64.81,703,35.19,1998,-11.19
 NSW,127,Kingsford Smith,2313,Kensington,1034,57.73,757,42.27,1791,-7.13
 NSW,127,Kingsford Smith,2314,Kensington Park,688,45.23,833,54.77,1521,-10.03
 NSW,127,Kingsford Smith,2316,Kensington West,967,46.83,1098,53.17,2065,-6.16
-NSW,127,Kingsford Smith,2315,Kingsford,141,54.65,117,45.35,258,-6.56
+NSW,127,Kingsford Smith,2315,Kingsford,140,54.26,118,45.74,258,-6.95
 NSW,127,Kingsford Smith,2318,Kingsford South,806,55.59,644,44.41,1450,-8.05
 NSW,127,Kingsford Smith,1449,La Perouse,685,55.56,548,44.44,1233,-5.51
 NSW,127,Kingsford Smith,1451,Malabar,1028,52.74,921,47.26,1949,-7.02
@@ -1665,7 +1665,7 @@ NSW,131,Macarthur,2902,Bradbury,1733,51.52,1631,48.48,3364,-3.4
 NSW,131,Macarthur,2903,Bradbury South,907,58.93,632,41.07,1539,-3.46
 NSW,131,Macarthur,866,Bringelly,362,30.45,827,69.55,1189,-9.84
 NSW,131,Macarthur,1670,Camden,555,34.41,1058,65.59,1613,2.56
-NSW,131,Macarthur,11960,Camden Downs,464,42.88,618,57.12,1082,-0.1
+NSW,131,Macarthur,11960,Camden Downs,469,43.75,603,56.25,1072,0.77
 NSW,131,Macarthur,1671,Camden East,665,41.69,930,58.31,1595,1.24
 NSW,131,Macarthur,1672,Camden Hospital,107,43.67,138,56.33,245,9.01
 NSW,131,Macarthur,33979,Camden PPVC,768,32.9,1566,67.1,2334,-20.35
@@ -5123,7 +5123,7 @@ SA,182,Boothby,6882,Myrtle Bank,798,39.06,1245,60.94,2043,1.15
 SA,182,Boothby,6883,Netherby,292,28.66,727,71.34,1019,0.26
 SA,182,Boothby,7027,North Brighton,615,51.42,581,48.58,1196,2.81
 SA,182,Boothby,7029,Oaklands Park,731,53.32,640,46.68,1371,2.38
-SA,182,Boothby,31787,Oaklands Park PPVC,1267,44.1,1606,55.9,2873,-6.6
+SA,182,Boothby,31787,Oaklands Park PPVC,0,0,0,0,0,-50.7
 SA,182,Boothby,6884,Panorama,688,47.51,760,52.49,1448,2.05
 SA,182,Boothby,7032,Pasadena,1241,49.8,1251,50.2,2492,1.48
 SA,182,Boothby,7117,Seacliff,1051,49.98,1052,50.02,2103,3.12
@@ -5384,7 +5384,7 @@ SA,187,Makin,7133,Hope Valley,426,60.08,283,39.92,709,7.44
 SA,187,Makin,7132,Hope Valley West,890,59.73,600,40.27,1490,4.1
 SA,187,Makin,6666,Ingle Farm,2005,72.46,762,27.54,2767,3.83
 SA,187,Makin,7136,Ingle Farm North,579,75.29,190,24.71,769,3.69
-SA,187,Makin,7137,Modbury Central,859,60.62,558,39.38,1417,4.9
+SA,187,Makin,7137,Modbury Central,852,60.43,558,39.57,1410,4.71
 SA,187,Makin,7138,Modbury Heights,2061,62.99,1211,37.01,3272,6.02
 SA,187,Makin,7139,Modbury North,1077,61.47,675,38.53,1752,2.61
 SA,187,Makin,38321,Modbury PPVC,1853,58.69,1304,41.31,3157,8.37
@@ -5428,14 +5428,14 @@ SA,188,Mayo,7166,Callington,219,47.82,239,52.18,458,1.53
 SA,188,Mayo,7167,Charleston,104,33.12,210,66.88,314,1.06
 SA,188,Mayo,7168,Cherry Gardens,217,35.57,393,64.43,610,-1.91
 SA,188,Mayo,7169,Clarendon,197,39.64,300,60.36,497,0.68
-SA,188,Mayo,7170,Coromandel Valley (Mayo),554,52.46,502,47.54,1056,5.05
+SA,188,Mayo,7170,Coromandel Valley (Mayo),553,52.37,503,47.63,1056,4.96
 SA,188,Mayo,7171,Crafers,614,46.48,707,53.52,1321,1.84
 SA,188,Mayo,7172,Cudlee Creek,94,38.68,149,61.32,243,0.04
 SA,188,Mayo,7173,Currency Creek,270,39.19,419,60.81,689,5.56
 SA,188,Mayo,7174,Delamere,101,42.98,134,57.02,235,5.12
 SA,188,Mayo,30179,Divisional Office (PREPOLL),3,75,1,25,4,41.67
 SA,188,Mayo,7175,Echunga,274,36.24,482,63.76,756,-0.44
-SA,188,Mayo,33643,Flagstaff Hill (Mayo),157,45.51,188,54.49,345,0.1
+SA,188,Mayo,33643,Flagstaff Hill (Mayo),158,45.8,187,54.2,345,0.39
 SA,188,Mayo,7178,Forreston,102,46.36,118,53.64,220,1.79
 SA,188,Mayo,7179,Goolwa,926,43.72,1192,56.28,2118,-1.58
 SA,188,Mayo,46417,Goolwa Central,559,42.03,771,57.97,1330,0
@@ -5493,16 +5493,16 @@ SA,188,Mayo,7229,Stirling West,946,46.37,1094,53.63,2040,0.25
 SA,188,Mayo,7231,Strathalbyn,1186,37.43,1983,62.57,3169,-1.38
 SA,188,Mayo,7232,Summertown,343,44.84,422,55.16,765,-4.98
 SA,188,Mayo,7233,Upper Sturt,228,47.8,249,52.2,477,0.09
-SA,188,Mayo,7234,Uraidla,211,42.28,288,57.72,499,-0.27
-SA,188,Mayo,7235,Victor Harbor,907,42.84,1210,57.16,2117,1.56
+SA,188,Mayo,7234,Uraidla,210,42.08,289,57.92,499,-0.47
+SA,188,Mayo,7235,Victor Harbor,909,42.88,1211,57.12,2120,1.6
 SA,188,Mayo,7236,Victor Harbor East,414,34.05,802,65.95,1216,-3.73
 SA,188,Mayo,46759,Victor Harbor IVC PPVC,0,0,0,0,0,0
 SA,188,Mayo,12997,Victor Harbor PPVC,998,34.9,1862,65.1,2860,-5.38
-SA,188,Mayo,7176,Victor Harbor South,761,37.47,1270,62.53,2031,-3.93
-SA,188,Mayo,7439,Williamstown,625,49.41,640,50.59,1265,1.74
-SA,188,Mayo,7240,Woodchester,107,25.66,310,74.34,417,-12.46
-SA,188,Mayo,7242,Woodside,481,37.03,818,62.97,1299,-0.1
-SA,188,Mayo,7243,Yankalilla,662,44.43,828,55.57,1490,-2.76
+SA,188,Mayo,7176,Victor Harbor South,765,37.67,1266,62.33,2031,-3.73
+SA,188,Mayo,7439,Williamstown,623,49.41,638,50.59,1261,1.74
+SA,188,Mayo,7240,Woodchester,147,35.25,270,64.75,417,-2.87
+SA,188,Mayo,7242,Woodside,482,37.08,818,62.92,1300,-0.05
+SA,188,Mayo,7243,Yankalilla,663,44.5,827,55.5,1490,-2.69
 SA,189,Port Adelaide,14253,Adelaide (Port Adelaide),50,65.79,26,34.21,76,-8.35
 SA,189,Port Adelaide,58759,Adelaide PORT ADELAIDE PPVC,213,66.56,107,33.44,320,0.17
 SA,189,Port Adelaide,7248,Albert Park,572,65.22,305,34.78,877,-1.67
@@ -6293,7 +6293,7 @@ VIC,203,Calwell,30194,Divisional Office (PREPOLL),0,0,0,0,0,-64.52
 VIC,203,Calwell,4588,Gladstone Park,2331,69.46,1025,30.54,3356,4.44
 VIC,203,Calwell,4589,Gladstone Views,1688,70.39,710,29.61,2398,3.27
 VIC,203,Calwell,58714,Glenroy CALWELL PPVC,2248,73.87,795,26.13,3043,9.19
-VIC,203,Calwell,3288,Greenvale,2062,60.05,1372,39.95,3434,3.04
+VIC,203,Calwell,3288,Greenvale,2061,60.12,1367,39.88,3428,3.11
 VIC,203,Calwell,46547,Greenvale South,1390,59.5,946,40.5,2336,1.07
 VIC,203,Calwell,4334,Kalkallo,43,57.33,32,42.67,75,-2.67
 VIC,203,Calwell,33101,Killara,966,63.14,564,36.86,1530,7.55
