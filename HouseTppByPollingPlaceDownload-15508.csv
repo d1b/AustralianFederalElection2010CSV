@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T10:11:40 Cycle:0acb0a88-2e42-4f12-a165-a55318466d22 Created:2010-08-31T09:48:19 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T10:26:50 Cycle:a438942a-67ef-4426-b7a4-ca06ee5a2be3 Created:2010-08-31T10:18:24 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -150,19 +150,19 @@ NSW,104,Barton,2648,Bexley Central,455,56.52,350,43.48,805,-8.59
 NSW,104,Barton,2640,Bexley East,928,64.4,513,35.6,1441,-6.64
 NSW,104,Barton,2649,Bexley North,613,58.05,443,41.95,1056,-6.79
 NSW,104,Barton,34034,Bexley South,414,57.5,306,42.5,720,-15.66
-NSW,104,Barton,2650,Bexley West,1072,54.97,878,45.03,1950,-7.45
-NSW,104,Barton,39,Brighton North,499,46.81,567,53.19,1066,-9.64
-NSW,104,Barton,38,Brighton-Le-Sands,1294,56.16,1010,43.84,2304,-5.97
-NSW,104,Barton,2653,Carlton,1738,65.46,917,34.54,2655,-8.52
-NSW,104,Barton,47,Carlton South (Barton),1381,59.04,958,40.96,2339,-8.65
+NSW,104,Barton,2650,Bexley West,1071,54.92,879,45.08,1950,-7.5
+NSW,104,Barton,39,Brighton North,524,49.29,539,50.71,1063,-7.16
+NSW,104,Barton,38,Brighton-Le-Sands,1290,56.06,1011,43.94,2301,-6.07
+NSW,104,Barton,2653,Carlton,1638,61.72,1016,38.28,2654,-12.26
+NSW,104,Barton,47,Carlton South (Barton),1382,59.16,954,40.84,2336,-8.53
 NSW,104,Barton,56544,Carlton West (Barton),132,58.93,92,41.07,224,-4.46
 NSW,104,Barton,40,Carss Park,255,37.95,417,62.05,672,-5.17
 NSW,104,Barton,2656,Clemton Park (Barton),1051,58,761,42,1812,-13.03
 NSW,104,Barton,30095,Divisional Office (PREPOLL),237,58.37,169,41.63,406,-6.39
-NSW,104,Barton,2659,Earlwood,503,55.64,401,44.36,904,-11.37
+NSW,104,Barton,2659,Earlwood,501,55.48,402,44.52,903,-11.53
 NSW,104,Barton,2660,Earlwood Central,806,56.01,633,43.99,1439,-6.71
 NSW,104,Barton,2661,Earlwood South,1395,58.81,977,41.19,2372,-8.91
-NSW,104,Barton,2666,Kingsgrove,871,54.23,735,45.77,1606,-9.07
+NSW,104,Barton,2666,Kingsgrove,878,54.88,722,45.13,1600,-8.42
 NSW,104,Barton,2657,Kingsgrove North (Barton),474,55.37,382,44.63,856,-13.77
 NSW,104,Barton,2667,Kingsgrove South,603,59.23,415,40.77,1018,-9.56
 NSW,104,Barton,48,Kogarah,588,62.69,350,37.31,938,-9.28
@@ -587,9 +587,9 @@ NSW,111,Chifley,402,Mount Druitt Hospital,657,58.24,471,41.76,1128,-14.79
 NSW,111,Chifley,403,Mount Druitt North,1317,66.08,676,33.92,1993,-10.8
 NSW,111,Chifley,33976,Mount Druitt PPVC,2484,62.71,1477,37.29,3961,-4.46
 NSW,111,Chifley,404,Mount Druitt South,1270,58.63,896,41.37,2166,-7.62
-NSW,111,Chifley,406,Plumpton,2474,66.01,1274,33.99,3748,-8.58
-NSW,111,Chifley,1046,Quakers Hill,1097,56.93,830,43.07,1927,-1.5
-NSW,111,Chifley,56862,Quakers Hill East (Chifley),334,62.43,201,37.57,535,6.13
+NSW,111,Chifley,406,Plumpton,2478,65.97,1278,34.03,3756,-8.62
+NSW,111,Chifley,1046,Quakers Hill,1096,56.88,831,43.12,1927,-1.55
+NSW,111,Chifley,56862,Quakers Hill East (Chifley),338,63.06,198,36.94,536,6.76
 NSW,111,Chifley,405,Rooty Hill East,219,54.61,182,45.39,401,-10.3
 NSW,111,Chifley,407,Rooty Hill North,1818,63.06,1065,36.94,2883,-8.84
 NSW,111,Chifley,408,Rooty Hill South,1107,56.48,853,43.52,1960,-14.63
@@ -2538,7 +2538,7 @@ NSW,145,Richmond,2428,Ewingsdale,176,58.67,124,41.33,300,-7.84
 NSW,145,Richmond,2429,Federal,307,68.68,140,31.32,447,-12.83
 NSW,145,Richmond,2430,Fernleigh,127,53.36,111,46.64,238,-0.06
 NSW,145,Richmond,2431,Fingal Head,148,60.41,97,39.59,245,-7.59
-NSW,145,Richmond,2432,Goolmangar,265,47.15,297,52.85,562,-7.02
+NSW,145,Richmond,2432,Goolmangar,290,51.88,269,48.12,559,-2.29
 NSW,145,Richmond,2435,Goonengerry,110,80.88,26,19.12,136,-6.26
 NSW,145,Richmond,2438,Hastings Point,299,54.86,246,45.14,545,-1.76
 NSW,145,Richmond,2439,Jiggi,171,72.77,64,27.23,235,-1.76
@@ -3848,7 +3848,7 @@ QLD,163,Griffith,12057,Holland Park,596,56.49,459,43.51,1055,-4.33
 QLD,163,Griffith,6316,Holland Park Central,808,49.42,827,50.58,1635,-5.68
 QLD,163,Griffith,12015,Holland Park East,946,58.14,681,41.86,1627,-2.32
 QLD,163,Griffith,6331,Holland Park South,742,67.89,351,32.11,1093,-4.42
-QLD,163,Griffith,37600,Holland Park West (Griffith),179,62.15,109,37.85,288,-1.21
+QLD,163,Griffith,37600,Holland Park West (Griffith),178,62.02,109,37.98,287,-1.34
 QLD,163,Griffith,6318,Junction Park,802,65.79,417,34.21,1219,-4.4
 QLD,163,Griffith,5578,Kangaroo Point,827,45.74,981,54.26,1808,-0.39
 QLD,163,Griffith,5579,Mater Hospital,469,65.32,249,34.68,718,3.87
@@ -3870,7 +3870,7 @@ QLD,163,Griffith,6306,Whites Hill,1822,56.9,1380,43.1,3202,-3.1
 QLD,164,Groom,31430,Baker Street,124,33.79,243,66.21,367,-5.51
 QLD,164,Groom,5601,Biddeston,75,19.48,310,80.52,385,-6.97
 QLD,164,Groom,6119,Bowenville,16,9.58,151,90.42,167,-2.84
-QLD,164,Groom,14219,Brisbane City (Groom),20,36.36,35,63.64,55,-16.8
+QLD,164,Groom,14219,Brisbane City (Groom),19,34.55,36,65.45,55,-18.61
 QLD,164,Groom,6123,Brookstead,12,8.22,134,91.78,146,-3.34
 QLD,164,Groom,5603,Cambooya,195,26.6,538,73.4,733,-9.5
 QLD,164,Groom,5604,Charlton,122,19.09,517,80.91,639,-9.59
@@ -6796,7 +6796,7 @@ VIC,213,Gippsland,4428,Traralgon,955,39.41,1468,60.59,2423,-8.59
 VIC,213,Gippsland,4429,Traralgon East,1246,47.54,1375,52.46,2621,-6.03
 VIC,213,Gippsland,4389,Traralgon North,1311,43.77,1684,56.23,2995,-6.72
 VIC,213,Gippsland,46515,Traralgon North East,574,41.5,809,58.5,1383,-4.65
-VIC,213,Gippsland,32107,Traralgon PPVC,2677,42.65,3599,57.35,6276,-4.76
+VIC,213,Gippsland,32107,Traralgon PPVC,2696,42.63,3628,57.37,6324,-4.78
 VIC,213,Gippsland,4430,Traralgon South,178,40.27,264,59.73,442,-8.34
 VIC,213,Gippsland,4431,Traralgon West,448,40.99,645,59.01,1093,-8.09
 VIC,213,Gippsland,4432,Tyers,221,45.1,269,54.9,490,-2.97
