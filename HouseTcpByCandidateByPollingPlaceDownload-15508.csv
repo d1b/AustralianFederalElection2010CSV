@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T16:03:07 Cycle:49f5305e-d96c-45f0-9bd8-cba5efb61353 Created:2010-08-31T15:49:39 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T16:38:26 Cycle:37025947-9441-4491-a8b9-c3d20d869abe Created:2010-08-31T16:19:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 ACT,101,Canberra,8829,Barton,20863,JONES,Giulia,1,N,N,LP,Liberal,793,-2.61
 ACT,101,Canberra,8829,Barton,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1397,2.61
@@ -494,8 +494,8 @@ NSW,106,Berowra,1823,Arcadia,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,595,0.82
 NSW,106,Berowra,1823,Arcadia,21923,STOVE,Michael,4,N,N,ALP,Labor,255,-0.82
 NSW,106,Berowra,43686,Asquith (Berowra),21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,445,7.82
 NSW,106,Berowra,43686,Asquith (Berowra),21923,STOVE,Michael,4,N,N,ALP,Labor,299,-7.82
-NSW,106,Berowra,632,Beecroft,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,2085,6.46
-NSW,106,Berowra,632,Beecroft,21923,STOVE,Michael,4,N,N,ALP,Labor,1190,-6.46
+NSW,106,Berowra,632,Beecroft,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,2081,6.42
+NSW,106,Berowra,632,Beecroft,21923,STOVE,Michael,4,N,N,ALP,Labor,1190,-6.42
 NSW,106,Berowra,117,Berowra,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,1891,5.82
 NSW,106,Berowra,117,Berowra,21923,STOVE,Michael,4,N,N,ALP,Labor,1299,-5.82
 NSW,106,Berowra,118,Berowra Heights,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,1048,0.38
@@ -510,12 +510,12 @@ NSW,106,Berowra,637,Cheltenham,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,853,7.69
 NSW,106,Berowra,637,Cheltenham,21923,STOVE,Michael,4,N,N,ALP,Labor,549,-7.69
 NSW,106,Berowra,11928,Cherrybrook,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,1926,8.11
 NSW,106,Berowra,11928,Cherrybrook,21923,STOVE,Michael,4,N,N,ALP,Labor,945,-8.11
-NSW,106,Berowra,34004,Cherrybrook Central,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,748,8.28
-NSW,106,Berowra,34004,Cherrybrook Central,21923,STOVE,Michael,4,N,N,ALP,Labor,281,-8.28
-NSW,106,Berowra,11929,Cherrybrook South,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,895,8.83
-NSW,106,Berowra,11929,Cherrybrook South,21923,STOVE,Michael,4,N,N,ALP,Labor,314,-8.83
-NSW,106,Berowra,121,Cowan,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,216,7.79
-NSW,106,Berowra,121,Cowan,21923,STOVE,Michael,4,N,N,ALP,Labor,202,-7.79
+NSW,106,Berowra,34004,Cherrybrook Central,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,747,8.26
+NSW,106,Berowra,34004,Cherrybrook Central,21923,STOVE,Michael,4,N,N,ALP,Labor,281,-8.26
+NSW,106,Berowra,11929,Cherrybrook South,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,892,8.52
+NSW,106,Berowra,11929,Cherrybrook South,21923,STOVE,Michael,4,N,N,ALP,Labor,318,-8.52
+NSW,106,Berowra,121,Cowan,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,214,7.32
+NSW,106,Berowra,121,Cowan,21923,STOVE,Michael,4,N,N,ALP,Labor,204,-7.32
 NSW,106,Berowra,122,Dangar Island,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,25,2.49
 NSW,106,Berowra,122,Dangar Island,21923,STOVE,Michael,4,N,N,ALP,Labor,93,-2.49
 NSW,106,Berowra,30097,Divisional Office (PREPOLL),21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,0,-44.19
@@ -742,8 +742,8 @@ NSW,108,Bradfield,33804,Special Hospital Team 2,21112,GALLARD,Sarah,2,N,N,ALP,La
 NSW,108,Bradfield,33804,Special Hospital Team 2,21644,FLETCHER,Paul,3,N,Y,LP,Liberal,228,4.49
 NSW,108,Bradfield,33805,Special Hospital Team 3,21112,GALLARD,Sarah,2,N,N,ALP,Labor,53,-6.2
 NSW,108,Bradfield,33805,Special Hospital Team 3,21644,FLETCHER,Paul,3,N,Y,LP,Liberal,352,6.2
-NSW,108,Bradfield,211,St Ives,21112,GALLARD,Sarah,2,N,N,ALP,Labor,415,-0.54
-NSW,108,Bradfield,211,St Ives,21644,FLETCHER,Paul,3,N,Y,LP,Liberal,1364,0.54
+NSW,108,Bradfield,211,St Ives,21112,GALLARD,Sarah,2,N,N,ALP,Labor,421,-0.38
+NSW,108,Bradfield,211,St Ives,21644,FLETCHER,Paul,3,N,Y,LP,Liberal,1371,0.38
 NSW,108,Bradfield,212,St Ives Chase,21112,GALLARD,Sarah,2,N,N,ALP,Labor,280,6.11
 NSW,108,Bradfield,212,St Ives Chase,21644,FLETCHER,Paul,3,N,Y,LP,Liberal,676,-6.11
 NSW,108,Bradfield,213,St Ives North,21112,GALLARD,Sarah,2,N,N,ALP,Labor,576,-2.62
@@ -2504,14 +2504,14 @@ NSW,124,Hughes,1193,Engadine South,21467,KELLY,Craig,2,N,N,LP,Liberal,917,1.88
 NSW,124,Hughes,1193,Engadine South,21256,THOMAS,Brent,7,N,N,ALP,Labor,786,-1.88
 NSW,124,Hughes,1205,Engadine West,21467,KELLY,Craig,2,N,N,LP,Liberal,1624,-0.26
 NSW,124,Hughes,1205,Engadine West,21256,THOMAS,Brent,7,N,N,ALP,Labor,1406,0.26
-NSW,124,Hughes,1208,Hammondville,21467,KELLY,Craig,2,N,N,LP,Liberal,980,6.79
-NSW,124,Hughes,1208,Hammondville,21256,THOMAS,Brent,7,N,N,ALP,Labor,830,-6.79
+NSW,124,Hughes,1208,Hammondville,21467,KELLY,Craig,2,N,N,LP,Liberal,984,6.81
+NSW,124,Hughes,1208,Hammondville,21256,THOMAS,Brent,7,N,N,ALP,Labor,833,-6.81
 NSW,124,Hughes,1214,Holsworthy,21467,KELLY,Craig,2,N,N,LP,Liberal,756,3.47
 NSW,124,Hughes,1214,Holsworthy,21256,THOMAS,Brent,7,N,N,ALP,Labor,731,-3.47
 NSW,124,Hughes,1215,Illawong,21467,KELLY,Craig,2,N,N,LP,Liberal,2042,2.76
 NSW,124,Hughes,1215,Illawong,21256,THOMAS,Brent,7,N,N,ALP,Labor,1046,-2.76
-NSW,124,Hughes,1217,Jannali West (Hughes),21467,KELLY,Craig,2,N,N,LP,Liberal,283,2.54
-NSW,124,Hughes,1217,Jannali West (Hughes),21256,THOMAS,Brent,7,N,N,ALP,Labor,326,-2.54
+NSW,124,Hughes,1217,Jannali West (Hughes),21467,KELLY,Craig,2,N,N,LP,Liberal,288,3.21
+NSW,124,Hughes,1217,Jannali West (Hughes),21256,THOMAS,Brent,7,N,N,ALP,Labor,323,-3.21
 NSW,124,Hughes,879,Liverpool (Hughes),21467,KELLY,Craig,2,N,N,LP,Liberal,434,9.11
 NSW,124,Hughes,879,Liverpool (Hughes),21256,THOMAS,Brent,7,N,N,ALP,Labor,715,-9.11
 NSW,124,Hughes,33907,Liverpool HUGHES PPVC,21467,KELLY,Craig,2,N,N,LP,Liberal,538,2.08
@@ -2564,20 +2564,20 @@ NSW,124,Hughes,1233,Sutherland West,21467,KELLY,Craig,2,N,N,LP,Liberal,316,-0.12
 NSW,124,Hughes,1233,Sutherland West,21256,THOMAS,Brent,7,N,N,ALP,Labor,336,0.12
 NSW,124,Hughes,14089,Sydney (Hughes),21467,KELLY,Craig,2,N,N,LP,Liberal,38,7.73
 NSW,124,Hughes,14089,Sydney (Hughes),21256,THOMAS,Brent,7,N,N,ALP,Labor,29,-7.73
-NSW,124,Hughes,34329,Voyager Point,21467,KELLY,Craig,2,N,N,LP,Liberal,342,8.57
-NSW,124,Hughes,34329,Voyager Point,21256,THOMAS,Brent,7,N,N,ALP,Labor,241,-8.57
+NSW,124,Hughes,34329,Voyager Point,21467,KELLY,Craig,2,N,N,LP,Liberal,336,7.54
+NSW,124,Hughes,34329,Voyager Point,21256,THOMAS,Brent,7,N,N,ALP,Labor,247,-7.54
 NSW,124,Hughes,896,Warwick Farm,21467,KELLY,Craig,2,N,N,LP,Liberal,392,9.62
 NSW,124,Hughes,896,Warwick Farm,21256,THOMAS,Brent,7,N,N,ALP,Labor,629,-9.62
 NSW,124,Hughes,31272,Wattle Grove,21467,KELLY,Craig,2,N,N,LP,Liberal,1680,1.96
 NSW,124,Hughes,31272,Wattle Grove,21256,THOMAS,Brent,7,N,N,ALP,Labor,1407,-1.96
 NSW,124,Hughes,34235,Wattle Grove South,21467,KELLY,Craig,2,N,N,LP,Liberal,694,4.45
 NSW,124,Hughes,34235,Wattle Grove South,21256,THOMAS,Brent,7,N,N,ALP,Labor,593,-4.45
-NSW,124,Hughes,31035,Woronora Heights,21467,KELLY,Craig,2,N,N,LP,Liberal,652,3.83
-NSW,124,Hughes,31035,Woronora Heights,21256,THOMAS,Brent,7,N,N,ALP,Labor,424,-3.83
-NSW,124,Hughes,1236,Woronora River,21467,KELLY,Craig,2,N,N,LP,Liberal,324,0.7
-NSW,124,Hughes,1236,Woronora River,21256,THOMAS,Brent,7,N,N,ALP,Labor,224,-0.7
-NSW,124,Hughes,1237,Yarrawarrah,21467,KELLY,Craig,2,N,N,LP,Liberal,789,1.04
-NSW,124,Hughes,1237,Yarrawarrah,21256,THOMAS,Brent,7,N,N,ALP,Labor,612,-1.04
+NSW,124,Hughes,31035,Woronora Heights,21467,KELLY,Craig,2,N,N,LP,Liberal,654,3.68
+NSW,124,Hughes,31035,Woronora Heights,21256,THOMAS,Brent,7,N,N,ALP,Labor,428,-3.68
+NSW,124,Hughes,1236,Woronora River,21467,KELLY,Craig,2,N,N,LP,Liberal,322,0.34
+NSW,124,Hughes,1236,Woronora River,21256,THOMAS,Brent,7,N,N,ALP,Labor,226,-0.34
+NSW,124,Hughes,1237,Yarrawarrah,21467,KELLY,Craig,2,N,N,LP,Liberal,791,1.3
+NSW,124,Hughes,1237,Yarrawarrah,21256,THOMAS,Brent,7,N,N,ALP,Labor,607,-1.3
 NSW,125,Hume,1663,Bargo,21245,SAVILLE,Robin,3,N,N,ALP,Labor,983,-4.3
 NSW,125,Hume,1663,Bargo,21647,SCHULTZ,Alby,7,N,Y,LP,Liberal,1076,4.3
 NSW,125,Hume,901,Bendick Murrell,21245,SAVILLE,Robin,3,N,N,ALP,Labor,36,-8.89
@@ -3418,12 +3418,12 @@ NSW,132,Mackellar,1717,Bayview,21419,BEATTIE,Linda,2,N,N,ALP,Labor,334,-2.08
 NSW,132,Mackellar,1717,Bayview,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,830,2.08
 NSW,132,Mackellar,1718,Beacon Hill (Mackellar),21419,BEATTIE,Linda,2,N,N,ALP,Labor,720,-6.67
 NSW,132,Mackellar,1718,Beacon Hill (Mackellar),21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1446,6.67
-NSW,132,Mackellar,186,Belrose,21419,BEATTIE,Linda,2,N,N,ALP,Labor,860,-4.02
-NSW,132,Mackellar,186,Belrose,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1859,4.02
+NSW,132,Mackellar,186,Belrose,21419,BEATTIE,Linda,2,N,N,ALP,Labor,860,-4.06
+NSW,132,Mackellar,186,Belrose,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1862,4.06
 NSW,132,Mackellar,31630,Belrose North,21419,BEATTIE,Linda,2,N,N,ALP,Labor,568,-4.21
 NSW,132,Mackellar,31630,Belrose North,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1681,4.21
-NSW,132,Mackellar,1719,Bilgola Plateau,21419,BEATTIE,Linda,2,N,N,ALP,Labor,571,-2.83
-NSW,132,Mackellar,1719,Bilgola Plateau,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1034,2.83
+NSW,132,Mackellar,1719,Bilgola Plateau,21419,BEATTIE,Linda,2,N,N,ALP,Labor,571,-3.05
+NSW,132,Mackellar,1719,Bilgola Plateau,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1044,3.05
 NSW,132,Mackellar,1720,Collaroy,21419,BEATTIE,Linda,2,N,N,ALP,Labor,619,-1.23
 NSW,132,Mackellar,1720,Collaroy,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1142,1.23
 NSW,132,Mackellar,1721,Collaroy Plateau,21419,BEATTIE,Linda,2,N,N,ALP,Labor,811,-3.75
@@ -4072,8 +4072,8 @@ NSW,136,Newcastle,2710,Merewether West,21605,LUKE,Brad,1,N,N,LP,Liberal,467,4.02
 NSW,136,Newcastle,2710,Merewether West,21396,GRIERSON,Sharon,6,N,Y,ALP,Labor,473,-4.02
 NSW,136,Newcastle,1882,New Lambton,21605,LUKE,Brad,1,N,N,LP,Liberal,1112,2.18
 NSW,136,Newcastle,1882,New Lambton,21396,GRIERSON,Sharon,6,N,Y,ALP,Labor,1775,-2.18
-NSW,136,Newcastle,2712,New Lambton Central,21605,LUKE,Brad,1,N,N,LP,Liberal,408,3.99
-NSW,136,Newcastle,2712,New Lambton Central,21396,GRIERSON,Sharon,6,N,Y,ALP,Labor,521,-3.99
+NSW,136,Newcastle,2712,New Lambton Central,21605,LUKE,Brad,1,N,N,LP,Liberal,408,3.94
+NSW,136,Newcastle,2712,New Lambton Central,21396,GRIERSON,Sharon,6,N,Y,ALP,Labor,522,-3.94
 NSW,136,Newcastle,2714,New Lambton South,21605,LUKE,Brad,1,N,N,LP,Liberal,563,2.44
 NSW,136,Newcastle,2714,New Lambton South,21396,GRIERSON,Sharon,6,N,Y,ALP,Labor,1007,-2.44
 NSW,136,Newcastle,1889,Newcastle,21605,LUKE,Brad,1,N,N,LP,Liberal,632,0.47
@@ -4090,18 +4090,18 @@ NSW,136,Newcastle,33773,Special Hospital Team 2,21605,LUKE,Brad,1,N,N,LP,Liberal
 NSW,136,Newcastle,33773,Special Hospital Team 2,21396,GRIERSON,Sharon,6,N,Y,ALP,Labor,66,-15.54
 NSW,136,Newcastle,1895,Stockton,21605,LUKE,Brad,1,N,N,LP,Liberal,290,1.87
 NSW,136,Newcastle,1895,Stockton,21396,GRIERSON,Sharon,6,N,Y,ALP,Labor,735,-1.87
-NSW,136,Newcastle,1897,Stockton South,21605,LUKE,Brad,1,N,N,LP,Liberal,332,0.54
-NSW,136,Newcastle,1897,Stockton South,21396,GRIERSON,Sharon,6,N,Y,ALP,Labor,755,-0.54
+NSW,136,Newcastle,1897,Stockton South,21605,LUKE,Brad,1,N,N,LP,Liberal,331,0.54
+NSW,136,Newcastle,1897,Stockton South,21396,GRIERSON,Sharon,6,N,Y,ALP,Labor,753,-0.54
 NSW,136,Newcastle,14128,Sydney (Newcastle),21605,LUKE,Brad,1,N,N,LP,Liberal,21,2.08
 NSW,136,Newcastle,14128,Sydney (Newcastle),21396,GRIERSON,Sharon,6,N,Y,ALP,Labor,27,-2.08
 NSW,136,Newcastle,1422,Tarro,21605,LUKE,Brad,1,N,N,LP,Liberal,239,1.14
 NSW,136,Newcastle,1422,Tarro,21396,GRIERSON,Sharon,6,N,Y,ALP,Labor,555,-1.14
 NSW,136,Newcastle,1868,The Junction,21605,LUKE,Brad,1,N,N,LP,Liberal,964,4.71
 NSW,136,Newcastle,1868,The Junction,21396,GRIERSON,Sharon,6,N,Y,ALP,Labor,1113,-4.71
-NSW,136,Newcastle,1425,Thornton,21605,LUKE,Brad,1,N,N,LP,Liberal,908,-0.34
-NSW,136,Newcastle,1425,Thornton,21396,GRIERSON,Sharon,6,N,Y,ALP,Labor,1791,0.34
-NSW,136,Newcastle,1898,Tighes Hill,21605,LUKE,Brad,1,N,N,LP,Liberal,300,1.84
-NSW,136,Newcastle,1898,Tighes Hill,21396,GRIERSON,Sharon,6,N,Y,ALP,Labor,904,-1.84
+NSW,136,Newcastle,1425,Thornton,21605,LUKE,Brad,1,N,N,LP,Liberal,904,-0.39
+NSW,136,Newcastle,1425,Thornton,21396,GRIERSON,Sharon,6,N,Y,ALP,Labor,1787,0.39
+NSW,136,Newcastle,1898,Tighes Hill,21605,LUKE,Brad,1,N,N,LP,Liberal,302,1.98
+NSW,136,Newcastle,1898,Tighes Hill,21396,GRIERSON,Sharon,6,N,Y,ALP,Labor,903,-1.98
 NSW,136,Newcastle,1649,Tomago,21605,LUKE,Brad,1,N,N,LP,Liberal,85,13
 NSW,136,Newcastle,1649,Tomago,21396,GRIERSON,Sharon,6,N,Y,ALP,Labor,90,-13
 NSW,136,Newcastle,1900,Wallsend East,21605,LUKE,Brad,1,N,N,LP,Liberal,130,2.78
@@ -5708,8 +5708,8 @@ NSW,150,Throsby,2779,Bowral,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,1619,0.35
 NSW,150,Throsby,2779,Bowral,21431,JONES,Stephen,2,N,N,ALP,Labor,1017,-0.35
 NSW,150,Throsby,38312,Bowral East,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,885,-0.22
 NSW,150,Throsby,38312,Bowral East,21431,JONES,Stephen,2,N,N,ALP,Labor,500,0.22
-NSW,150,Throsby,33862,Bowral PPVC,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,2097,26.96
-NSW,150,Throsby,33862,Bowral PPVC,21431,JONES,Stephen,2,N,N,ALP,Labor,1181,-26.96
+NSW,150,Throsby,33862,Bowral PPVC,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,2100,26.99
+NSW,150,Throsby,33862,Bowral PPVC,21431,JONES,Stephen,2,N,N,ALP,Labor,1181,-26.99
 NSW,150,Throsby,2780,Bowral South,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,804,-1.33
 NSW,150,Throsby,2780,Bowral South,21431,JONES,Stephen,2,N,N,ALP,Labor,597,1.33
 NSW,150,Throsby,538,Brownsville,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,495,4.82
@@ -5742,8 +5742,8 @@ NSW,150,Throsby,550,Lake Heights,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,345,8.0
 NSW,150,Throsby,550,Lake Heights,21431,JONES,Stephen,2,N,N,ALP,Labor,914,-8.09
 NSW,150,Throsby,2793,Lake Illawarra,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,460,3.29
 NSW,150,Throsby,2793,Lake Illawarra,21431,JONES,Stephen,2,N,N,ALP,Labor,1081,-3.29
-NSW,150,Throsby,2794,Lakelands,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,433,6.16
-NSW,150,Throsby,2794,Lakelands,21431,JONES,Stephen,2,N,N,ALP,Labor,1108,-6.16
+NSW,150,Throsby,2794,Lakelands,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,507,10.92
+NSW,150,Throsby,2794,Lakelands,21431,JONES,Stephen,2,N,N,ALP,Labor,1036,-10.92
 NSW,150,Throsby,2798,Mittagong (Throsby),21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,1133,-1.34
 NSW,150,Throsby,2798,Mittagong (Throsby),21431,JONES,Stephen,2,N,N,ALP,Labor,1082,1.34
 NSW,150,Throsby,2799,Mittagong South,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,509,-4.57
@@ -5782,16 +5782,16 @@ NSW,150,Throsby,14170,Sydney (Throsby),21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,1
 NSW,150,Throsby,14170,Sydney (Throsby),21431,JONES,Stephen,2,N,N,ALP,Labor,31,9.43
 NSW,150,Throsby,58280,Warilla (Throsby),21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,67,-0.31
 NSW,150,Throsby,58280,Warilla (Throsby),21431,JONES,Stephen,2,N,N,ALP,Labor,293,0.31
-NSW,150,Throsby,11500,Warilla East,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,421,3.72
-NSW,150,Throsby,11500,Warilla East,21431,JONES,Stephen,2,N,N,ALP,Labor,902,-3.72
+NSW,150,Throsby,11500,Warilla East,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,424,4
+NSW,150,Throsby,11500,Warilla East,21431,JONES,Stephen,2,N,N,ALP,Labor,897,-4
 NSW,150,Throsby,2810,Warilla North,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,279,14.03
 NSW,150,Throsby,2810,Warilla North,21431,JONES,Stephen,2,N,N,ALP,Labor,713,-14.02
 NSW,150,Throsby,58798,Warilla THROSBY PPVC,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,772,-5.4
 NSW,150,Throsby,58798,Warilla THROSBY PPVC,21431,JONES,Stephen,2,N,N,ALP,Labor,1673,5.4
-NSW,150,Throsby,562,Warrawong,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,304,10.87
-NSW,150,Throsby,562,Warrawong,21431,JONES,Stephen,2,N,N,ALP,Labor,993,-10.87
-NSW,150,Throsby,563,Warrawong Central,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,276,8.62
-NSW,150,Throsby,563,Warrawong Central,21431,JONES,Stephen,2,N,N,ALP,Labor,886,-8.62
+NSW,150,Throsby,562,Warrawong,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,303,10.9
+NSW,150,Throsby,562,Warrawong,21431,JONES,Stephen,2,N,N,ALP,Labor,988,-10.9
+NSW,150,Throsby,563,Warrawong Central,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,270,8.31
+NSW,150,Throsby,563,Warrawong Central,21431,JONES,Stephen,2,N,N,ALP,Labor,882,-8.31
 NSW,150,Throsby,31242,Welby,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,302,-7
 NSW,150,Throsby,31242,Welby,21431,JONES,Stephen,2,N,N,ALP,Labor,357,7
 NSW,150,Throsby,564,Windang,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,451,4.54
@@ -5848,22 +5848,22 @@ NSW,151,Warringah,2834,Manly Hospital,21425,ZOCHLING,Hugh,3,N,N,ALP,Labor,188,0.
 NSW,151,Warringah,2834,Manly Hospital,21590,ABBOTT,Tony,4,N,Y,LP,Liberal,238,-0.13
 NSW,151,Warringah,33961,Manly PPVC,21425,ZOCHLING,Hugh,3,N,N,ALP,Labor,1356,-19.63
 NSW,151,Warringah,33961,Manly PPVC,21590,ABBOTT,Tony,4,N,Y,LP,Liberal,2183,19.63
-NSW,151,Warringah,2835,Manly Vale,21425,ZOCHLING,Hugh,3,N,N,ALP,Labor,933,-4.14
-NSW,151,Warringah,2835,Manly Vale,21590,ABBOTT,Tony,4,N,Y,LP,Liberal,1228,4.14
+NSW,151,Warringah,2835,Manly Vale,21425,ZOCHLING,Hugh,3,N,N,ALP,Labor,934,-4.07
+NSW,151,Warringah,2835,Manly Vale,21590,ABBOTT,Tony,4,N,Y,LP,Liberal,1226,4.07
 NSW,151,Warringah,2836,Manly West,21425,ZOCHLING,Hugh,3,N,N,ALP,Labor,1094,-4.51
 NSW,151,Warringah,2836,Manly West,21590,ABBOTT,Tony,4,N,Y,LP,Liberal,1493,4.51
 NSW,151,Warringah,2837,Middle Harbour,21425,ZOCHLING,Hugh,3,N,N,ALP,Labor,656,-3.75
 NSW,151,Warringah,2837,Middle Harbour,21590,ABBOTT,Tony,4,N,Y,LP,Liberal,1281,3.75
-NSW,151,Warringah,2838,Mosman,21425,ZOCHLING,Hugh,3,N,N,ALP,Labor,1132,-3.07
-NSW,151,Warringah,2838,Mosman,21590,ABBOTT,Tony,4,N,Y,LP,Liberal,2097,3.07
-NSW,151,Warringah,2839,Mosman Bay,21425,ZOCHLING,Hugh,3,N,N,ALP,Labor,812,-5.34
-NSW,151,Warringah,2839,Mosman Bay,21590,ABBOTT,Tony,4,N,Y,LP,Liberal,1757,5.34
+NSW,151,Warringah,2838,Mosman,21425,ZOCHLING,Hugh,3,N,N,ALP,Labor,1137,-2.96
+NSW,151,Warringah,2838,Mosman,21590,ABBOTT,Tony,4,N,Y,LP,Liberal,2096,2.96
+NSW,151,Warringah,2839,Mosman Bay,21425,ZOCHLING,Hugh,3,N,N,ALP,Labor,807,-5.49
+NSW,151,Warringah,2839,Mosman Bay,21590,ABBOTT,Tony,4,N,Y,LP,Liberal,1758,5.49
 NSW,151,Warringah,58710,Mosman Central,21425,ZOCHLING,Hugh,3,N,N,ALP,Labor,495,-4.28
 NSW,151,Warringah,58710,Mosman Central,21590,ABBOTT,Tony,4,N,Y,LP,Liberal,941,4.28
 NSW,151,Warringah,33965,Mosman PPVC,21425,ZOCHLING,Hugh,3,N,N,ALP,Labor,829,-28.3
 NSW,151,Warringah,33965,Mosman PPVC,21590,ABBOTT,Tony,4,N,Y,LP,Liberal,1967,28.3
-NSW,151,Warringah,2840,Mosman West,21425,ZOCHLING,Hugh,3,N,N,ALP,Labor,209,-4.13
-NSW,151,Warringah,2840,Mosman West,21590,ABBOTT,Tony,4,N,Y,LP,Liberal,377,4.13
+NSW,151,Warringah,2840,Mosman West,21425,ZOCHLING,Hugh,3,N,N,ALP,Labor,211,-3.67
+NSW,151,Warringah,2840,Mosman West,21590,ABBOTT,Tony,4,N,Y,LP,Liberal,373,3.67
 NSW,151,Warringah,2027,Neutral Bay (Warringah),21425,ZOCHLING,Hugh,3,N,N,ALP,Labor,1179,-5.75
 NSW,151,Warringah,2027,Neutral Bay (Warringah),21590,ABBOTT,Tony,4,N,Y,LP,Liberal,1836,5.75
 NSW,151,Warringah,58308,Neutral Bay West (Warringah),21425,ZOCHLING,Hugh,3,N,N,ALP,Labor,377,-6.41
@@ -7312,8 +7312,8 @@ QLD,161,Fisher,58740,Maroochydore FISHER PPVC,21466,CUMMINS,Chris,1,N,N,ALP,Aust
 QLD,161,Fisher,58740,Maroochydore FISHER PPVC,20759,SLIPPER,Peter,4,N,Y,LNQ,Liberal National Party of Queensland,550,2.06
 QLD,161,Fisher,46384,Meridan Plains,21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor Party,1017,4.37
 QLD,161,Fisher,46384,Meridan Plains,20759,SLIPPER,Peter,4,N,Y,LNQ,Liberal National Party of Queensland,1076,-4.37
-QLD,161,Fisher,33094,Minyama,21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor Party,325,-0.33
-QLD,161,Fisher,33094,Minyama,20759,SLIPPER,Peter,4,N,Y,LNQ,Liberal National Party of Queensland,673,0.33
+QLD,161,Fisher,33094,Minyama,21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor Party,325,-0.2
+QLD,161,Fisher,33094,Minyama,20759,SLIPPER,Peter,4,N,Y,LNQ,Liberal National Party of Queensland,669,0.2
 QLD,161,Fisher,5494,Montville (Fisher),21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor Party,229,-4.4
 QLD,161,Fisher,5494,Montville (Fisher),20759,SLIPPER,Peter,4,N,Y,LNQ,Liberal National Party of Queensland,299,4.4
 QLD,161,Fisher,5437,Mooloolaba (Fisher),21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor Party,1020,-0.84
@@ -7328,16 +7328,16 @@ QLD,161,Fisher,12066,Peachester,21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor P
 QLD,161,Fisher,12066,Peachester,20759,SLIPPER,Peter,4,N,Y,LNQ,Liberal National Party of Queensland,380,1.42
 QLD,161,Fisher,38263,Pelican Waters,21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor Party,769,-2.59
 QLD,161,Fisher,38263,Pelican Waters,20759,SLIPPER,Peter,4,N,Y,LNQ,Liberal National Party of Queensland,1548,2.59
-QLD,161,Fisher,5436,Shelly Beach,21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor Party,746,2.69
-QLD,161,Fisher,5436,Shelly Beach,20759,SLIPPER,Peter,4,N,Y,LNQ,Liberal National Party of Queensland,826,-2.69
+QLD,161,Fisher,5436,Shelly Beach,21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor Party,747,2.69
+QLD,161,Fisher,5436,Shelly Beach,20759,SLIPPER,Peter,4,N,Y,LNQ,Liberal National Party of Queensland,827,-2.69
 QLD,161,Fisher,32552,Sippy Downs (Fisher),21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor Party,1580,3.88
 QLD,161,Fisher,32552,Sippy Downs (Fisher),20759,SLIPPER,Peter,4,N,Y,LNQ,Liberal National Party of Queensland,1664,-3.88
 QLD,161,Fisher,32837,Special Hospital Team 1,21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor Party,93,10.49
 QLD,161,Fisher,32837,Special Hospital Team 1,20759,SLIPPER,Peter,4,N,Y,LNQ,Liberal National Party of Queensland,100,-10.49
 QLD,161,Fisher,32929,Special Hospital Team 2,21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor Party,50,-1.56
 QLD,161,Fisher,32929,Special Hospital Team 2,20759,SLIPPER,Peter,4,N,Y,LNQ,Liberal National Party of Queensland,87,1.56
-QLD,161,Fisher,33099,Warana,21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor Party,933,1.42
-QLD,161,Fisher,33099,Warana,20759,SLIPPER,Peter,4,N,Y,LNQ,Liberal National Party of Queensland,1221,-1.42
+QLD,161,Fisher,33099,Warana,21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor Party,934,1.45
+QLD,161,Fisher,33099,Warana,20759,SLIPPER,Peter,4,N,Y,LNQ,Liberal National Party of Queensland,1221,-1.45
 QLD,161,Fisher,47798,Warana PPVC,21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor Party,812,-5.44
 QLD,161,Fisher,47798,Warana PPVC,20759,SLIPPER,Peter,4,N,Y,LNQ,Liberal National Party of Queensland,1223,5.44
 QLD,161,Fisher,38264,Witta,21466,CUMMINS,Chris,1,N,N,ALP,Australian Labor Party,423,3.22
@@ -8544,8 +8544,8 @@ QLD,302,Longman,12009,Banksia Beach,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labo
 QLD,302,Longman,12009,Banksia Beach,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,1864,4.15
 QLD,302,Longman,5456,Beachmere,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,857,-2.35
 QLD,302,Longman,5456,Beachmere,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,974,2.35
-QLD,302,Longman,5459,Bellara,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,1066,-3.65
-QLD,302,Longman,5459,Bellara,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,1347,3.65
+QLD,302,Longman,5459,Bellara,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,1088,-2.33
+QLD,302,Longman,5459,Bellara,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,1303,2.33
 QLD,302,Longman,5462,Bongaree,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,1132,-1.73
 QLD,302,Longman,5462,Bongaree,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,1398,1.73
 QLD,302,Longman,32666,Bribie Island PPVC,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,0,0
@@ -8556,12 +8556,12 @@ QLD,302,Longman,5464,Burpengary,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Pa
 QLD,302,Longman,5464,Burpengary,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,1318,3.47
 QLD,302,Longman,55956,Burpengary East (Longman),21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,319,-6.42
 QLD,302,Longman,55956,Burpengary East (Longman),20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,438,6.42
-QLD,302,Longman,47745,Burpengary Meadows,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,530,-10.15
-QLD,302,Longman,47745,Burpengary Meadows,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,681,10.15
+QLD,302,Longman,47745,Burpengary Meadows,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,529,-10.13
+QLD,302,Longman,47745,Burpengary Meadows,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,679,10.13
 QLD,302,Longman,32060,Burpengary South,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,908,-2.38
 QLD,302,Longman,32060,Burpengary South,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,1020,2.38
-QLD,302,Longman,32503,Burpengary West,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,1122,-4.33
-QLD,302,Longman,32503,Burpengary West,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,1137,4.33
+QLD,302,Longman,32503,Burpengary West,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,1114,-4.22
+QLD,302,Longman,32503,Burpengary West,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,1124,4.22
 QLD,302,Longman,5465,Caboolture,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,1749,-3.46
 QLD,302,Longman,5465,Caboolture,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,1543,3.46
 QLD,302,Longman,5466,Caboolture East,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,1331,-3.52
@@ -8610,8 +8610,8 @@ QLD,302,Longman,58546,Upper Caboolture,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian L
 QLD,302,Longman,58546,Upper Caboolture,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,414,14.49
 QLD,302,Longman,5517,Wamuran,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,583,-5.74
 QLD,302,Longman,5517,Wamuran,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,939,5.74
-QLD,302,Longman,5519,Woodford,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,941,-8.94
-QLD,302,Longman,5519,Woodford,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,1216,8.94
+QLD,302,Longman,5519,Woodford,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,934,-8.88
+QLD,302,Longman,5519,Woodford,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,1204,8.88
 QLD,302,Longman,5520,Woorim,21453,SULLIVAN,Jon,1,N,Y,ALP,Australian Labor Party,522,-6.38
 QLD,302,Longman,5520,Woorim,20752,ROY,Wyatt,7,N,N,LNQ,Liberal National Party of Queensland,651,6.38
 QLD,170,Maranoa,6430,Allora,20736,SCOTT,Bruce,1,N,Y,LNQ,Liberal National Party of Queensland,829,10.21
@@ -10542,8 +10542,8 @@ SA,185,Hindmarsh,46629,Adelaide Airport PPVC,20825,WOOD,Jassmine,2,N,N,LP,Libera
 SA,185,Hindmarsh,46629,Adelaide Airport PPVC,21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,196,-4.18
 SA,185,Hindmarsh,58735,Adelaide HINDMARSH PPVC,20825,WOOD,Jassmine,2,N,N,LP,Liberal,233,-0.27
 SA,185,Hindmarsh,58735,Adelaide HINDMARSH PPVC,21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,292,0.27
-SA,185,Hindmarsh,7050,Brooklyn Park,20825,WOOD,Jassmine,2,N,N,LP,Liberal,712,0.15
-SA,185,Hindmarsh,7050,Brooklyn Park,21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,1186,-0.15
+SA,185,Hindmarsh,7050,Brooklyn Park,20825,WOOD,Jassmine,2,N,N,LP,Liberal,689,-1.04
+SA,185,Hindmarsh,7050,Brooklyn Park,21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,1208,1.04
 SA,185,Hindmarsh,7051,Brooklyn Park South,20825,WOOD,Jassmine,2,N,N,LP,Liberal,597,-2.53
 SA,185,Hindmarsh,7051,Brooklyn Park South,21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,829,2.53
 SA,185,Hindmarsh,7052,Camden Park,20825,WOOD,Jassmine,2,N,N,LP,Liberal,422,-2.09
@@ -10578,10 +10578,10 @@ SA,185,Hindmarsh,7021,Glenelg South,20825,WOOD,Jassmine,2,N,N,LP,Liberal,1112,-3
 SA,185,Hindmarsh,7021,Glenelg South,21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,924,3.48
 SA,185,Hindmarsh,7022,Glengowrie,20825,WOOD,Jassmine,2,N,N,LP,Liberal,917,-2.77
 SA,185,Hindmarsh,7022,Glengowrie,21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,910,2.77
-SA,185,Hindmarsh,7063,Grange,20825,WOOD,Jassmine,2,N,N,LP,Liberal,1342,-0.11
-SA,185,Hindmarsh,7063,Grange,21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,1406,0.11
-SA,185,Hindmarsh,7023,Grovene,20825,WOOD,Jassmine,2,N,N,LP,Liberal,613,-3.39
-SA,185,Hindmarsh,7023,Grovene,21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,520,3.39
+SA,185,Hindmarsh,7063,Grange,20825,WOOD,Jassmine,2,N,N,LP,Liberal,1335,-0.28
+SA,185,Hindmarsh,7063,Grange,21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,1408,0.28
+SA,185,Hindmarsh,7023,Grovene,20825,WOOD,Jassmine,2,N,N,LP,Liberal,612,-3.47
+SA,185,Hindmarsh,7023,Grovene,21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,521,3.47
 SA,185,Hindmarsh,7064,Henley Beach,20825,WOOD,Jassmine,2,N,N,LP,Liberal,893,0.1
 SA,185,Hindmarsh,7064,Henley Beach,21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,1075,-0.1
 SA,185,Hindmarsh,7065,Henley South,20825,WOOD,Jassmine,2,N,N,LP,Liberal,640,-0.59
@@ -10602,8 +10602,8 @@ SA,185,Hindmarsh,7026,Morphettville,20825,WOOD,Jassmine,2,N,N,LP,Liberal,530,-4.
 SA,185,Hindmarsh,7026,Morphettville,21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,783,4.41
 SA,185,Hindmarsh,7074,Netley,20825,WOOD,Jassmine,2,N,N,LP,Liberal,408,-2.78
 SA,185,Hindmarsh,7074,Netley,21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,662,2.78
-SA,185,Hindmarsh,7028,Novar Gardens,20825,WOOD,Jassmine,2,N,N,LP,Liberal,1003,-2.05
-SA,185,Hindmarsh,7028,Novar Gardens,21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,848,2.05
+SA,185,Hindmarsh,7028,Novar Gardens,20825,WOOD,Jassmine,2,N,N,LP,Liberal,1005,-2
+SA,185,Hindmarsh,7028,Novar Gardens,21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,848,2
 SA,185,Hindmarsh,7030,Park Holme,20825,WOOD,Jassmine,2,N,N,LP,Liberal,536,-2.37
 SA,185,Hindmarsh,7030,Park Holme,21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,825,2.37
 SA,185,Hindmarsh,7031,Park Holme South,20825,WOOD,Jassmine,2,N,N,LP,Liberal,436,-0.67
@@ -10618,8 +10618,8 @@ SA,185,Hindmarsh,7078,Richmond,20825,WOOD,Jassmine,2,N,N,LP,Liberal,733,0.03
 SA,185,Hindmarsh,7078,Richmond,21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,1322,-0.03
 SA,185,Hindmarsh,36687,Royal Park South (Hindmarsh),20825,WOOD,Jassmine,2,N,N,LP,Liberal,259,-6.34
 SA,185,Hindmarsh,36687,Royal Park South (Hindmarsh),21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,303,6.34
-SA,185,Hindmarsh,36688,Seaton (Hindmarsh),20825,WOOD,Jassmine,2,N,N,LP,Liberal,263,1.89
-SA,185,Hindmarsh,36688,Seaton (Hindmarsh),21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,307,-1.89
+SA,185,Hindmarsh,36688,Seaton (Hindmarsh),20825,WOOD,Jassmine,2,N,N,LP,Liberal,263,1.97
+SA,185,Hindmarsh,36688,Seaton (Hindmarsh),21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,306,-1.97
 SA,185,Hindmarsh,36701,Seaton West (Hindmarsh),20825,WOOD,Jassmine,2,N,N,LP,Liberal,652,-1.95
 SA,185,Hindmarsh,36701,Seaton West (Hindmarsh),21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,676,1.95
 SA,185,Hindmarsh,7271,Semaphore Park,20825,WOOD,Jassmine,2,N,N,LP,Liberal,402,-0.72
@@ -15732,8 +15732,8 @@ VIC,231,Murray,4829,Yielima,21059,STONE,Sharman,1,N,Y,LP,Liberal,102,3.86
 VIC,231,Murray,4829,Yielima,21091,MORTENSEN,Hugh,4,N,N,ALP,Australian Labor Party,27,-3.86
 VIC,232,Scullin,4308,Apollo Parkways,21077,JENKINS,Harry,2,N,Y,ALP,Australian Labor Party,1543,6.09
 VIC,232,Scullin,4308,Apollo Parkways,21062,WILLIAMS,Max,4,N,N,LP,Liberal,1067,-6.09
-VIC,232,Scullin,33109,Blossom Park,21077,JENKINS,Harry,2,N,Y,ALP,Australian Labor Party,2299,1.69
-VIC,232,Scullin,33109,Blossom Park,21062,WILLIAMS,Max,4,N,N,LP,Liberal,1029,-1.69
+VIC,232,Scullin,33109,Blossom Park,21077,JENKINS,Harry,2,N,Y,ALP,Australian Labor Party,2303,1.73
+VIC,232,Scullin,33109,Blossom Park,21062,WILLIAMS,Max,4,N,N,LP,Liberal,1029,-1.73
 VIC,232,Scullin,30223,Divisional Office (PREPOLL),21077,JENKINS,Harry,2,N,Y,ALP,Australian Labor Party,745,0.76
 VIC,232,Scullin,30223,Divisional Office (PREPOLL),21062,WILLIAMS,Max,4,N,N,LP,Liberal,362,-0.76
 VIC,232,Scullin,4321,Epping,21077,JENKINS,Harry,2,N,Y,ALP,Australian Labor Party,1922,0.5
@@ -15786,8 +15786,8 @@ VIC,232,Scullin,32870,Special Hospital Team 2,21077,JENKINS,Harry,2,N,Y,ALP,Aust
 VIC,232,Scullin,32870,Special Hospital Team 2,21062,WILLIAMS,Max,4,N,N,LP,Liberal,13,-4.43
 VIC,232,Scullin,36426,St Helena (Scullin),21077,JENKINS,Harry,2,N,Y,ALP,Australian Labor Party,482,2.18
 VIC,232,Scullin,36426,St Helena (Scullin),21062,WILLIAMS,Max,4,N,N,LP,Liberal,530,-2.18
-VIC,232,Scullin,4365,The Stables,21077,JENKINS,Harry,2,N,Y,ALP,Australian Labor Party,2528,2.31
-VIC,232,Scullin,4365,The Stables,21062,WILLIAMS,Max,4,N,N,LP,Liberal,1031,-2.31
+VIC,232,Scullin,4365,The Stables,21077,JENKINS,Harry,2,N,Y,ALP,Australian Labor Party,2520,2.17
+VIC,232,Scullin,4365,The Stables,21062,WILLIAMS,Max,4,N,N,LP,Liberal,1035,-2.17
 VIC,232,Scullin,4862,Thomastown,21077,JENKINS,Harry,2,N,Y,ALP,Australian Labor Party,543,-5.03
 VIC,232,Scullin,4862,Thomastown,21062,WILLIAMS,Max,4,N,N,LP,Liberal,167,5.03
 VIC,232,Scullin,4863,Thomastown East,21077,JENKINS,Harry,2,N,Y,ALP,Australian Labor Party,1438,-0.1
@@ -16272,10 +16272,10 @@ WA,236,Canning,7557,Westfield,20913,MacTIERNAN,Alannah,1,N,N,ALP,Australian Labo
 WA,236,Canning,7557,Westfield,20865,RANDALL,Don,2,N,Y,LP,Liberal,437,-5.22
 WA,236,Canning,7558,Westfield South,20913,MacTIERNAN,Alannah,1,N,N,ALP,Australian Labor Party,971,5.7
 WA,236,Canning,7558,Westfield South,20865,RANDALL,Don,2,N,Y,LP,Liberal,590,-5.7
-WA,236,Canning,7515,Yunderup,20913,MacTIERNAN,Alannah,1,N,N,ALP,Australian Labor Party,449,4.59
-WA,236,Canning,7515,Yunderup,20865,RANDALL,Don,2,N,Y,LP,Liberal,699,-4.59
-WA,236,Canning,7516,Yunderup North,20913,MacTIERNAN,Alannah,1,N,N,ALP,Australian Labor Party,212,2.41
-WA,236,Canning,7516,Yunderup North,20865,RANDALL,Don,2,N,Y,LP,Liberal,245,-2.41
+WA,236,Canning,7515,Yunderup,20913,MacTIERNAN,Alannah,1,N,N,ALP,Australian Labor Party,443,3.8
+WA,236,Canning,7515,Yunderup,20865,RANDALL,Don,2,N,Y,LP,Liberal,713,-3.8
+WA,236,Canning,7516,Yunderup North,20913,MacTIERNAN,Alannah,1,N,N,ALP,Australian Labor Party,212,2.61
+WA,236,Canning,7516,Yunderup North,20865,RANDALL,Don,2,N,Y,LP,Liberal,243,-2.61
 WA,237,Cowan,11591,Alexander Heights,20895,HOPKINS,Chas,2,N,N,ALP,Australian Labor Party,909,-12.33
 WA,237,Cowan,11591,Alexander Heights,20848,SIMPKINS,Luke,4,N,Y,LP,Liberal,1387,12.33
 WA,237,Cowan,32071,Alexander Heights West,20895,HOPKINS,Chas,2,N,N,ALP,Australian Labor Party,907,-7.87
@@ -17418,8 +17418,8 @@ WA,244,Pearce,47774,Beechboro West (Pearce),20894,LEADBETTER,Bill,1,N,N,ALP,Aust
 WA,244,Pearce,47774,Beechboro West (Pearce),20861,MOYLAN,Judi,2,N,Y,LP,Liberal,527,-11.44
 WA,244,Pearce,7982,Beverley,20894,LEADBETTER,Bill,1,N,N,ALP,Australian Labor Party,252,-1.99
 WA,244,Pearce,7982,Beverley,20861,MOYLAN,Judi,2,N,Y,LP,Liberal,582,1.99
-WA,244,Pearce,7921,Bindoon,20894,LEADBETTER,Bill,1,N,N,ALP,Australian Labor Party,246,2.06
-WA,244,Pearce,7921,Bindoon,20861,MOYLAN,Judi,2,N,Y,LP,Liberal,568,-2.06
+WA,244,Pearce,7921,Bindoon,20894,LEADBETTER,Bill,1,N,N,ALP,Australian Labor Party,243,1.95
+WA,244,Pearce,7921,Bindoon,20861,MOYLAN,Judi,2,N,Y,LP,Liberal,564,-1.95
 WA,244,Pearce,7923,Bullsbrook,20894,LEADBETTER,Bill,1,N,N,ALP,Australian Labor Party,654,-7.41
 WA,244,Pearce,7923,Bullsbrook,20861,MOYLAN,Judi,2,N,Y,LP,Liberal,1317,7.41
 WA,244,Pearce,38192,Butler,20894,LEADBETTER,Bill,1,N,N,ALP,Australian Labor Party,1171,0.89
