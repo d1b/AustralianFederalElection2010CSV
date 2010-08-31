@@ -1,4 +1,4 @@
-2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T20:06:46 Cycle:6b8cb9b1-32f5-41cc-8a56-2194d755d2c2 Created:2010-08-31T19:50:16 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T20:22:15 Cycle:3aaf37a0-3438-4573-ac08-8f09921aaa90 Created:2010-08-31T20:05:21 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent
 119,Fowler,NSW,64114,8217,72331,11.36
 251,Watson,NSW,66907,7864,74771,10.52
@@ -62,7 +62,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 173,Moreton,QLD,65036,3021,68057,4.44
 310,Bonner,QLD,66099,3053,69152,4.41
 171,McPherson,QLD,74794,3453,78247,4.41
-168,Leichhardt,QLD,73772,3355,77127,4.35
+168,Leichhardt,QLD,73817,3355,77172,4.35
 126,Hunter,NSW,77002,3462,80464,4.3
 246,Stirling,WA,72902,3266,76168,4.29
 311,Flynn,QLD,67053,2997,70050,4.28
@@ -83,7 +83,6 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 160,Fairfax,QLD,67948,2864,70812,4.04
 155,Bowman,QLD,74902,3128,78030,4.01
 164,Groom,QLD,70990,2966,73956,4.01
-178,Wide Bay,QLD,70737,2957,73694,4.01
 157,Capricornia,QLD,73772,3057,76829,3.98
 113,Cowper,NSW,74566,3090,77656,3.98
 228,Melbourne,VIC,67554,2792,70346,3.97
@@ -96,6 +95,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 114,Cunningham,NSW,86836,3535,90371,3.91
 247,Swan,WA,76019,3083,79102,3.9
 244,Pearce,WA,66850,2675,69525,3.85
+178,Wide Bay,QLD,73784,2957,76741,3.85
 240,Fremantle,WA,77754,3107,80861,3.84
 220,Jagajaga,VIC,66564,2638,69202,3.81
 163,Griffith,QLD,64708,2552,67260,3.79
@@ -128,7 +128,6 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 218,Indi,VIC,73986,2509,76495,3.28
 214,Goldstein,VIC,75219,2542,77761,3.27
 152,Wentworth,NSW,63249,2122,65371,3.25
-243,O'Connor,WA,50706,1639,52345,3.13
 149,Sydney,NSW,59232,1915,61147,3.13
 207,Corangamite,VIC,84302,2693,86995,3.1
 106,Berowra,NSW,77076,2459,79535,3.09
@@ -136,6 +135,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 156,Brisbane,QLD,62989,1972,64961,3.04
 137,North Sydney,NSW,75429,2361,77790,3.04
 195,Franklin,TAS,63724,1986,65710,3.02
+243,O'Connor,WA,53046,1639,54685,3
 194,Denison,TAS,55847,1696,57543,2.95
 179,Adelaide,SA,72176,2121,74297,2.85
 188,Mayo,SA,73837,2166,76003,2.85
