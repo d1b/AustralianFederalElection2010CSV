@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T16:38:04 Cycle:37025947-9441-4491-a8b9-c3d20d869abe Created:2010-08-31T16:19:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T16:53:34 Cycle:b4abdde7-8eee-4605-987a-2215550884d0 Created:2010-08-31T16:34:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 179,Adelaide,SA,98526,79181,80.37,-14.22
 197,Aston,VIC,93448,85330,91.31,-5.08
@@ -8,7 +8,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 104,Barton,NSW,95243,77655,81.53,-13.52
 192,Bass,TAS,71689,68314,95.29,-1.01
 199,Batman,VIC,89160,72279,81.07,-13.13
-200,Bendigo,VIC,100701,87736,87.13,-8.9
+200,Bendigo,VIC,100701,91262,90.63,-5.4
 105,Bennelong,NSW,98900,80761,81.66,-13.34
 106,Berowra,NSW,95115,82424,86.66,-8.69
 304,Blair,QLD,83071,76873,92.54,-2.45
@@ -17,13 +17,13 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 182,Boothby,SA,97898,88340,90.24,-5.44
 155,Bowman,QLD,91892,82796,90.1,-5.14
 193,Braddon,TAS,71574,66707,93.2,-3.08
-108,Bradfield,NSW,97251,80187,82.45,-11.6
+108,Bradfield,NSW,97251,80189,82.46,-11.59
 235,Brand,WA,88203,79094,89.67,-3.6
 156,Brisbane,QLD,92222,80263,87.03,-8.18
 201,Bruce,VIC,88171,76432,86.69,-7.89
 109,Calare,NSW,98504,87166,88.49,-7.93
 203,Calwell,VIC,101314,85668,84.56,-10.28
-101,Canberra,ACT,124215,109285,87.98,-8.03
+101,Canberra,ACT,124215,110309,88.8,-7.21
 236,Canning,WA,90107,79782,88.54,-4.58
 157,Capricornia,QLD,91962,79521,86.47,-8.93
 204,Casey,VIC,92357,83774,90.71,-5.51
@@ -67,7 +67,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 183,Grey,SA,99817,88417,88.58,-6.37
 163,Griffith,QLD,92588,78648,84.94,-8.68
 164,Groom,QLD,93374,85461,91.53,-3.93
-305,Hasluck,WA,93892,86656,92.29,-1.38
+305,Hasluck,WA,93892,87056,92.72,-0.95
 165,Herbert,QLD,91044,86019,94.48,0.82
 215,Higgins,VIC,90398,70764,78.28,-15.49
 185,Hindmarsh,SA,100245,86965,86.75,-8.62
@@ -90,11 +90,11 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 169,Lilley,QLD,97415,86666,88.97,-6.88
 128,Lindsay,NSW,95975,89244,92.99,-2.89
 306,Lingiari,NT,61126,44117,72.17,-9.09
-302,Longman,QLD,87062,79387,91.18,-2.1
+302,Longman,QLD,87062,79390,91.19,-2.09
 130,Lyne,NSW,92565,83043,89.71,-5.88
 196,Lyons,TAS,72865,68922,94.59,-0.25
-131,Macarthur,NSW,90059,80215,89.07,-5.89
-132,Mackellar,NSW,98556,82095,83.3,-11.98
+131,Macarthur,NSW,90059,80216,89.07,-5.89
+132,Mackellar,NSW,98556,82867,84.08,-11.2
 133,Macquarie,NSW,97560,90286,92.54,-3.37
 187,Makin,SA,96263,89576,93.05,-2.62
 224,Mallee,VIC,89840,78772,87.68,-8.21
@@ -103,7 +103,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 188,Mayo,SA,101565,86253,84.92,-10.96
 226,McEwen,VIC,115783,96382,83.24,-13
 315,McMahon,NSW,96058,80885,84.2,-9.33
-227,McMillan,VIC,93323,82049,87.92,-7.96
+227,McMillan,VIC,93323,83097,89.04,-6.84
 171,McPherson,QLD,90090,77667,86.21,-8.52
 228,Melbourne,VIC,102879,77914,75.73,-15.77
 230,Melbourne Ports,VIC,97765,73839,75.53,-16.19
@@ -137,12 +137,12 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 307,Solomon,NT,59879,52859,88.28,-3.78
 246,Stirling,WA,91728,82620,90.07,-3.53
 190,Sturt,SA,99061,81259,82.03,-13.55
-247,Swan,WA,90766,78346,86.32,-6.68
+247,Swan,WA,90766,79672,87.78,-5.22
 149,Sydney,NSW,95277,65424,68.67,-23.14
 248,Tangney,WA,92176,81967,88.92,-6.16
 150,Throsby,NSW,95874,84776,88.42,-7.44
 191,Wakefield,SA,100209,91072,90.88,-4.25
-233,Wannon,VIC,92264,80155,86.88,-9.52
+233,Wannon,VIC,92264,80699,87.47,-8.93
 151,Warringah,NSW,96706,79670,82.38,-12.45
 251,Watson,NSW,97765,77430,79.2,-13.04
 152,Wentworth,NSW,101464,72483,71.44,-21.09
