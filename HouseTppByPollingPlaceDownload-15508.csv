@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T11:43:45 Cycle:a863f3ea-9459-4f28-b7de-4f3a2a43960f Created:2010-08-31T11:33:50 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T11:58:59 Cycle:dd6cffe8-0c84-4c41-a863-69c7a3156e34 Created:2010-08-31T11:48:46 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1399,63.91,790,36.09,2189,2.73
 ACT,101,Canberra,11877,Bonython,1219,59.55,828,40.45,2047,-1.78
@@ -161,14 +161,14 @@ NSW,104,Barton,2656,Clemton Park (Barton),1054,58.01,763,41.99,1817,-13.02
 NSW,104,Barton,30095,Divisional Office (PREPOLL),237,58.37,169,41.63,406,-6.39
 NSW,104,Barton,2659,Earlwood,501,55.48,402,44.52,903,-11.53
 NSW,104,Barton,2660,Earlwood Central,806,56.01,633,43.99,1439,-6.71
-NSW,104,Barton,2661,Earlwood South,1395,58.81,977,41.19,2372,-8.91
+NSW,104,Barton,2661,Earlwood South,1398,58.81,979,41.19,2377,-8.91
 NSW,104,Barton,2666,Kingsgrove,878,54.88,722,45.13,1600,-8.42
-NSW,104,Barton,2657,Kingsgrove North (Barton),474,55.37,382,44.63,856,-13.77
-NSW,104,Barton,2667,Kingsgrove South,603,59.23,415,40.77,1018,-9.56
-NSW,104,Barton,48,Kogarah,588,62.69,350,37.31,938,-9.28
+NSW,104,Barton,2657,Kingsgrove North (Barton),472,55.27,382,44.73,854,-13.87
+NSW,104,Barton,2667,Kingsgrove South,607,59.34,416,40.66,1023,-9.45
+NSW,104,Barton,48,Kogarah,590,62.83,349,37.17,939,-9.14
 NSW,104,Barton,49,Kogarah Bay,516,49.47,527,50.53,1043,2.9
 NSW,104,Barton,50,Kogarah Central,910,64.04,511,35.96,1421,-11.74
-NSW,104,Barton,54,Kogarah East,405,53.93,346,46.07,751,-8.42
+NSW,104,Barton,54,Kogarah East,405,53.86,347,46.14,752,-8.49
 NSW,104,Barton,71,Kogarah North,270,61.36,170,38.64,440,-8.5
 NSW,104,Barton,2654,Kogarah West,616,61.11,392,38.89,1008,-10.99
 NSW,104,Barton,51,Kyeemagh,487,51.64,456,48.36,943,-7.45
@@ -1510,7 +1510,7 @@ NSW,127,Kingsford Smith,2314,Kensington Park,688,45.23,833,54.77,1521,-10.03
 NSW,127,Kingsford Smith,2316,Kensington West,967,46.83,1098,53.17,2065,-6.16
 NSW,127,Kingsford Smith,2315,Kingsford,140,54.26,118,45.74,258,-6.95
 NSW,127,Kingsford Smith,2318,Kingsford South,806,55.59,644,44.41,1450,-8.05
-NSW,127,Kingsford Smith,1449,La Perouse,685,55.56,548,44.44,1233,-5.51
+NSW,127,Kingsford Smith,1449,La Perouse,678,55.48,544,44.52,1222,-5.59
 NSW,127,Kingsford Smith,1451,Malabar,1028,52.74,921,47.26,1949,-7.02
 NSW,127,Kingsford Smith,1452,Maroubra,647,46.85,734,53.15,1381,-12.95
 NSW,127,Kingsford Smith,1453,Maroubra Bay,873,57.1,656,42.9,1529,-4.97
@@ -2273,7 +2273,7 @@ NSW,139,Parkes,2199,Lourdes Hospital,180,31.8,386,68.2,566,-10
 NSW,139,Parkes,2200,Louth,9,20.93,34,79.07,43,9.57
 NSW,139,Parkes,266,Lue,63,37.5,105,62.5,168,-1.29
 NSW,139,Parkes,1120,Mendooran,93,24.93,280,75.07,373,-10.01
-NSW,139,Parkes,2204,Montefiores,95,22.04,336,77.96,431,-9.27
+NSW,139,Parkes,2204,Montefiores,94,21.86,336,78.14,430,-9.45
 NSW,139,Parkes,1123,Moree,378,26.87,1029,73.13,1407,-3.78
 NSW,139,Parkes,1124,Moree East,423,36.75,728,63.25,1151,-6.03
 NSW,139,Parkes,33887,Moree PPVC,117,14.79,674,85.21,791,-49.45
@@ -2525,7 +2525,7 @@ NSW,145,Richmond,2414,Clunes,317,59.7,214,40.3,531,-0.41
 NSW,145,Richmond,2415,Condong,437,47.5,483,52.5,920,-3.32
 NSW,145,Richmond,2416,Coorabell,113,61.08,72,38.92,185,-4.56
 NSW,145,Richmond,2417,Corndale,86,56.21,67,43.79,153,-13.51
-NSW,145,Richmond,2418,Crabbes Creek,128,56.89,97,43.11,225,-4.14
+NSW,145,Richmond,2418,Crabbes Creek,124,56.11,97,43.89,221,-4.92
 NSW,145,Richmond,2419,Crystal Creek,167,49.7,169,50.3,336,0.46
 NSW,145,Richmond,2420,Cudgen,372,50.89,359,49.11,731,-5.63
 NSW,145,Richmond,30136,Divisional Office (PREPOLL),313,48.53,332,51.47,645,-7.78
@@ -2536,14 +2536,14 @@ NSW,145,Richmond,2425,Durrumbul,242,71.18,98,28.82,340,6.8
 NSW,145,Richmond,2427,Eureka,90,59.21,62,40.79,152,-1.24
 NSW,145,Richmond,2428,Ewingsdale,176,58.67,124,41.33,300,-7.84
 NSW,145,Richmond,2429,Federal,307,68.68,140,31.32,447,-12.83
-NSW,145,Richmond,2430,Fernleigh,127,53.36,111,46.64,238,-0.06
-NSW,145,Richmond,2431,Fingal Head,148,60.41,97,39.59,245,-7.59
+NSW,145,Richmond,2430,Fernleigh,126,53.62,109,46.38,235,0.2
+NSW,145,Richmond,2431,Fingal Head,146,60.58,95,39.42,241,-7.42
 NSW,145,Richmond,2432,Goolmangar,290,51.88,269,48.12,559,-2.29
-NSW,145,Richmond,2435,Goonengerry,110,80.88,26,19.12,136,-6.26
+NSW,145,Richmond,2435,Goonengerry,112,82.35,24,17.65,136,-4.79
 NSW,145,Richmond,2438,Hastings Point,299,54.86,246,45.14,545,-1.76
 NSW,145,Richmond,2439,Jiggi,171,72.77,64,27.23,235,-1.76
 NSW,145,Richmond,2440,Kingscliff,997,51.74,930,48.26,1927,-2.74
-NSW,145,Richmond,58461,Kingscliff South,477,53.54,414,46.46,891,-1.34
+NSW,145,Richmond,58461,Kingscliff South,473,53.39,413,46.61,886,-1.49
 NSW,145,Richmond,2441,Kunghur,119,63.98,67,36.02,186,0.06
 NSW,145,Richmond,2442,Lennox Head,1593,56.13,1245,43.87,2838,2.94
 NSW,145,Richmond,2452,Main Arm Upper,99,79.84,25,20.16,124,-2.87
@@ -5446,11 +5446,11 @@ SA,188,Mayo,33175,Happy Valley (Mayo),701,45.7,833,54.3,1534,0.46
 SA,188,Mayo,7183,Harrogate,63,44.37,79,55.63,142,3.93
 SA,188,Mayo,7185,Hindmarsh Valley,76,34.23,146,65.77,222,1.74
 SA,188,Mayo,7186,Hope Forest,74,32.6,153,67.4,227,-0.02
-SA,188,Mayo,7134,Houghton,222,39.5,340,60.5,562,3.76
+SA,188,Mayo,7134,Houghton,221,39.32,341,60.68,562,3.58
 SA,188,Mayo,7187,Inman Valley,82,47.13,92,52.87,174,8.48
 SA,188,Mayo,7189,Kangarilla,228,43.93,291,56.07,519,3.59
 SA,188,Mayo,7371,Kersbrook,315,42.92,419,57.08,734,0.12
-SA,188,Mayo,7191,Kingscote,494,35.72,889,64.28,1383,-1.54
+SA,188,Mayo,7191,Kingscote,490,35.53,889,64.47,1379,-1.73
 SA,188,Mayo,12995,Kingscote PPVC,0,0,0,0,0,0
 SA,188,Mayo,7192,Langhorne Creek,79,23.51,257,76.49,336,-1.85
 SA,188,Mayo,7193,Lenswood,153,36.43,267,63.57,420,2.66
@@ -5465,7 +5465,7 @@ SA,188,Mayo,7202,Milang,249,40.62,364,59.38,613,-1.76
 SA,188,Mayo,7204,Montacute,81,45.76,96,54.24,177,-4.5
 SA,188,Mayo,7205,Mount Barker,1802,44.46,2251,55.54,4053,-3.1
 SA,188,Mayo,46416,Mount Barker Central,699,45.42,840,54.58,1539,-0.38
-SA,188,Mayo,7206,Mount Compass,471,42.28,643,57.72,1114,-1.66
+SA,188,Mayo,7206,Mount Compass,474,42.47,642,57.53,1116,-1.47
 SA,188,Mayo,7207,Mount Pleasant,255,43.59,330,56.41,585,0.53
 SA,188,Mayo,7208,Mount Torrens,150,42.25,205,57.75,355,2.86
 SA,188,Mayo,47788,Mt Barker PPVC,511,38.31,823,61.69,1334,-1.92
@@ -5487,7 +5487,7 @@ SA,188,Mayo,33189,Special Hospital Team 2,33,24.81,100,75.19,133,-3.59
 SA,188,Mayo,36815,Special Hospital Team 3,43,36.13,76,63.87,119,7.56
 SA,188,Mayo,36816,Special Hospital Team 4,16,48.48,17,51.52,33,16.22
 SA,188,Mayo,7421,Springton,132,47.31,147,52.69,279,1.4
-SA,188,Mayo,7228,Stirling East,463,43.39,604,56.61,1067,-4.47
+SA,188,Mayo,7228,Stirling East,466,43.51,605,56.49,1071,-4.35
 SA,188,Mayo,46631,Stirling PPVC,370,39.74,561,60.26,931,-0.49
 SA,188,Mayo,7229,Stirling West,946,46.37,1094,53.63,2040,0.25
 SA,188,Mayo,7231,Strathalbyn,1186,37.43,1983,62.57,3169,-1.38
@@ -5495,7 +5495,7 @@ SA,188,Mayo,7232,Summertown,343,44.84,422,55.16,765,-4.98
 SA,188,Mayo,7233,Upper Sturt,228,47.8,249,52.2,477,0.09
 SA,188,Mayo,7234,Uraidla,210,42.08,289,57.92,499,-0.47
 SA,188,Mayo,7235,Victor Harbor,909,42.88,1211,57.12,2120,1.6
-SA,188,Mayo,7236,Victor Harbor East,414,34.05,802,65.95,1216,-3.73
+SA,188,Mayo,7236,Victor Harbor East,412,34.05,798,65.95,1210,-3.73
 SA,188,Mayo,46759,Victor Harbor IVC PPVC,0,0,0,0,0,0
 SA,188,Mayo,12997,Victor Harbor PPVC,998,34.9,1862,65.1,2860,-5.38
 SA,188,Mayo,7176,Victor Harbor South,765,37.67,1266,62.33,2031,-3.73
