@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T17:40:24 Cycle:0dee7246-4a93-4cf3-8aef-10c9c225fcc4 Created:2010-08-31T17:19:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-08-31T17:55:42 Cycle:7bc570b6-f80c-4211-92df-1f611275ad07 Created:2010-08-31T17:34:50 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 ACT,101,Canberra,8829,Barton,20863,JONES,Giulia,1,N,N,LP,Liberal,793,-2.61
 ACT,101,Canberra,8829,Barton,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1397,2.61
@@ -496,8 +496,8 @@ NSW,106,Berowra,43686,Asquith (Berowra),21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,44
 NSW,106,Berowra,43686,Asquith (Berowra),21923,STOVE,Michael,4,N,N,ALP,Labor,299,-7.82
 NSW,106,Berowra,632,Beecroft,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,2081,6.42
 NSW,106,Berowra,632,Beecroft,21923,STOVE,Michael,4,N,N,ALP,Labor,1190,-6.42
-NSW,106,Berowra,117,Berowra,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,1891,5.82
-NSW,106,Berowra,117,Berowra,21923,STOVE,Michael,4,N,N,ALP,Labor,1299,-5.82
+NSW,106,Berowra,117,Berowra,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,1886,5.66
+NSW,106,Berowra,117,Berowra,21923,STOVE,Michael,4,N,N,ALP,Labor,1304,-5.66
 NSW,106,Berowra,118,Berowra Heights,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,1048,0.38
 NSW,106,Berowra,118,Berowra Heights,21923,STOVE,Michael,4,N,N,ALP,Labor,802,-0.38
 NSW,106,Berowra,1828,Berowra Waters,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,60,-1.78
@@ -530,8 +530,8 @@ NSW,106,Berowra,1838,Glenhaven (Berowra),21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,2
 NSW,106,Berowra,1838,Glenhaven (Berowra),21923,STOVE,Michael,4,N,N,ALP,Labor,578,-5.3
 NSW,106,Berowra,1839,Glenorie,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,1124,2.58
 NSW,106,Berowra,1839,Glenorie,21923,STOVE,Michael,4,N,N,ALP,Labor,317,-2.58
-NSW,106,Berowra,1831,Hillside Central,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,333,7.42
-NSW,106,Berowra,1831,Hillside Central,21923,STOVE,Michael,4,N,N,ALP,Labor,62,-7.42
+NSW,106,Berowra,1831,Hillside Central,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,331,7.34
+NSW,106,Berowra,1831,Hillside Central,21923,STOVE,Michael,4,N,N,ALP,Labor,62,-7.34
 NSW,106,Berowra,123,Hornsby (Berowra),21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,539,8.1
 NSW,106,Berowra,123,Hornsby (Berowra),21923,STOVE,Michael,4,N,N,ALP,Labor,493,-8.1
 NSW,106,Berowra,43688,Hornsby Central (Berowra),21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,261,8.94
@@ -554,8 +554,8 @@ NSW,106,Berowra,1788,Maroota,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,254,6.71
 NSW,106,Berowra,1788,Maroota,21923,STOVE,Michael,4,N,N,ALP,Labor,70,-6.71
 NSW,106,Berowra,1789,Maroota South,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,359,10.52
 NSW,106,Berowra,1789,Maroota South,21923,STOVE,Michael,4,N,N,ALP,Labor,73,-10.52
-NSW,106,Berowra,1846,Middle Dural,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,912,5
-NSW,106,Berowra,1846,Middle Dural,21923,STOVE,Michael,4,N,N,ALP,Labor,223,-5
+NSW,106,Berowra,1846,Middle Dural,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,911,4.84
+NSW,106,Berowra,1846,Middle Dural,21923,STOVE,Michael,4,N,N,ALP,Labor,225,-4.84
 NSW,106,Berowra,131,Mount Colah,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,1589,4.41
 NSW,106,Berowra,131,Mount Colah,21923,STOVE,Michael,4,N,N,ALP,Labor,1125,-4.41
 NSW,106,Berowra,132,Mount Kuring-Gai,21587,RUDDOCK,Philip,2,N,Y,LP,Liberal,736,4.71
@@ -9778,22 +9778,22 @@ QLD,316,Wright,6098,Springbrook,20746,BUCHHOLZ,Scott,1,N,N,LNQ,Liberal National 
 QLD,316,Wright,6098,Springbrook,21592,RAMSAY,Andrew,3,N,N,ALP,Australian Labor Party,167,4.36
 QLD,316,Wright,6288,St. Bernard,20746,BUCHHOLZ,Scott,1,N,N,LNQ,Liberal National Party of Queensland,699,-1.06
 QLD,316,Wright,6288,St. Bernard,21592,RAMSAY,Andrew,3,N,N,ALP,Australian Labor Party,466,1.06
-QLD,316,Wright,12059,Stockyard Creek,20746,BUCHHOLZ,Scott,1,N,N,LNQ,Liberal National Party of Queensland,141,13.57
-QLD,316,Wright,12059,Stockyard Creek,21592,RAMSAY,Andrew,3,N,N,ALP,Australian Labor Party,55,-13.57
+QLD,316,Wright,12059,Stockyard Creek,20746,BUCHHOLZ,Scott,1,N,N,LNQ,Liberal National Party of Queensland,142,14.83
+QLD,316,Wright,12059,Stockyard Creek,21592,RAMSAY,Andrew,3,N,N,ALP,Australian Labor Party,52,-14.83
 QLD,316,Wright,12042,Studio Village (Wright),20746,BUCHHOLZ,Scott,1,N,N,LNQ,Liberal National Party of Queensland,307,3.9
 QLD,316,Wright,12042,Studio Village (Wright),21592,RAMSAY,Andrew,3,N,N,ALP,Australian Labor Party,286,-3.9
-QLD,316,Wright,12027,Tallai (Wright),20746,BUCHHOLZ,Scott,1,N,N,LNQ,Liberal National Party of Queensland,1521,1.63
-QLD,316,Wright,12027,Tallai (Wright),21592,RAMSAY,Andrew,3,N,N,ALP,Australian Labor Party,726,-1.63
-QLD,316,Wright,6293,Tamborine,20746,BUCHHOLZ,Scott,1,N,N,LNQ,Liberal National Party of Queensland,805,4.85
-QLD,316,Wright,6293,Tamborine,21592,RAMSAY,Andrew,3,N,N,ALP,Australian Labor Party,650,-4.85
-QLD,316,Wright,6294,Tamborine North,20746,BUCHHOLZ,Scott,1,N,N,LNQ,Liberal National Party of Queensland,1283,3.87
-QLD,316,Wright,6294,Tamborine North,21592,RAMSAY,Andrew,3,N,N,ALP,Australian Labor Party,995,-3.87
-QLD,316,Wright,6295,Tamrookum,20746,BUCHHOLZ,Scott,1,N,N,LNQ,Liberal National Party of Queensland,557,6.01
-QLD,316,Wright,6295,Tamrookum,21592,RAMSAY,Andrew,3,N,N,ALP,Australian Labor Party,288,-6.01
+QLD,316,Wright,12027,Tallai (Wright),20746,BUCHHOLZ,Scott,1,N,N,LNQ,Liberal National Party of Queensland,1516,1.56
+QLD,316,Wright,12027,Tallai (Wright),21592,RAMSAY,Andrew,3,N,N,ALP,Australian Labor Party,726,-1.56
+QLD,316,Wright,6293,Tamborine,20746,BUCHHOLZ,Scott,1,N,N,LNQ,Liberal National Party of Queensland,807,4.95
+QLD,316,Wright,6293,Tamborine,21592,RAMSAY,Andrew,3,N,N,ALP,Australian Labor Party,649,-4.95
+QLD,316,Wright,6294,Tamborine North,20746,BUCHHOLZ,Scott,1,N,N,LNQ,Liberal National Party of Queensland,1280,3.79
+QLD,316,Wright,6294,Tamborine North,21592,RAMSAY,Andrew,3,N,N,ALP,Australian Labor Party,996,-3.79
+QLD,316,Wright,6295,Tamrookum,20746,BUCHHOLZ,Scott,1,N,N,LNQ,Liberal National Party of Queensland,555,5.93
+QLD,316,Wright,6295,Tamrookum,21592,RAMSAY,Andrew,3,N,N,ALP,Australian Labor Party,288,-5.93
 QLD,316,Wright,5639,Thornton,20746,BUCHHOLZ,Scott,1,N,N,LNQ,Liberal National Party of Queensland,152,6.03
 QLD,316,Wright,5639,Thornton,21592,RAMSAY,Andrew,3,N,N,ALP,Australian Labor Party,42,-6.03
-QLD,316,Wright,5647,Upper Tenthill,20746,BUCHHOLZ,Scott,1,N,N,LNQ,Liberal National Party of Queensland,177,2.52
-QLD,316,Wright,5647,Upper Tenthill,21592,RAMSAY,Andrew,3,N,N,ALP,Australian Labor Party,40,-2.52
+QLD,316,Wright,5647,Upper Tenthill,20746,BUCHHOLZ,Scott,1,N,N,LNQ,Liberal National Party of Queensland,179,3.06
+QLD,316,Wright,5647,Upper Tenthill,21592,RAMSAY,Andrew,3,N,N,ALP,Australian Labor Party,39,-3.06
 QLD,316,Wright,6481,Warrill View,20746,BUCHHOLZ,Scott,1,N,N,LNQ,Liberal National Party of Queensland,196,-2.52
 QLD,316,Wright,6481,Warrill View,21592,RAMSAY,Andrew,3,N,N,ALP,Australian Labor Party,74,2.52
 QLD,316,Wright,5650,Withcott,20746,BUCHHOLZ,Scott,1,N,N,LNQ,Liberal National Party of Queensland,801,9.24
@@ -15738,8 +15738,8 @@ VIC,232,Scullin,30223,Divisional Office (PREPOLL),21077,JENKINS,Harry,2,N,Y,ALP,
 VIC,232,Scullin,30223,Divisional Office (PREPOLL),21062,WILLIAMS,Max,4,N,N,LP,Liberal,362,-0.76
 VIC,232,Scullin,4321,Epping,21077,JENKINS,Harry,2,N,Y,ALP,Australian Labor Party,1922,0.5
 VIC,232,Scullin,4321,Epping,21062,WILLIAMS,Max,4,N,N,LP,Liberal,696,-0.5
-VIC,232,Scullin,4322,Epping East,21077,JENKINS,Harry,2,N,Y,ALP,Australian Labor Party,2014,3.49
-VIC,232,Scullin,4322,Epping East,21062,WILLIAMS,Max,4,N,N,LP,Liberal,654,-3.49
+VIC,232,Scullin,4322,Epping East,21077,JENKINS,Harry,2,N,Y,ALP,Australian Labor Party,2012,3.36
+VIC,232,Scullin,4322,Epping East,21062,WILLIAMS,Max,4,N,N,LP,Liberal,658,-3.36
 VIC,232,Scullin,11649,Epping South,21077,JENKINS,Harry,2,N,Y,ALP,Australian Labor Party,1849,1.47
 VIC,232,Scullin,11649,Epping South,21062,WILLIAMS,Max,4,N,N,LP,Liberal,480,-1.47
 VIC,232,Scullin,8899,Findon,21077,JENKINS,Harry,2,N,Y,ALP,Australian Labor Party,2491,2.56
@@ -15766,8 +15766,8 @@ VIC,232,Scullin,4859,Lalor West,21077,JENKINS,Harry,2,N,Y,ALP,Australian Labor P
 VIC,232,Scullin,4859,Lalor West,21062,WILLIAMS,Max,4,N,N,LP,Liberal,238,-0.03
 VIC,232,Scullin,31767,Meadowglen,21077,JENKINS,Harry,2,N,Y,ALP,Australian Labor Party,1605,2.69
 VIC,232,Scullin,31767,Meadowglen,21062,WILLIAMS,Max,4,N,N,LP,Liberal,559,-2.69
-VIC,232,Scullin,32000,Melbourne (Scullin),21077,JENKINS,Harry,2,N,Y,ALP,Australian Labor Party,44,1.52
-VIC,232,Scullin,32000,Melbourne (Scullin),21062,WILLIAMS,Max,4,N,N,LP,Liberal,22,-1.52
+VIC,232,Scullin,32000,Melbourne (Scullin),21077,JENKINS,Harry,2,N,Y,ALP,Australian Labor Party,43,1
+VIC,232,Scullin,32000,Melbourne (Scullin),21062,WILLIAMS,Max,4,N,N,LP,Liberal,22,-1
 VIC,232,Scullin,4345,Mill Park,21077,JENKINS,Harry,2,N,Y,ALP,Australian Labor Party,1708,1.34
 VIC,232,Scullin,4345,Mill Park,21062,WILLIAMS,Max,4,N,N,LP,Liberal,695,-1.34
 VIC,232,Scullin,11890,Mill Park Heights,21077,JENKINS,Harry,2,N,Y,ALP,Australian Labor Party,2231,1.84
