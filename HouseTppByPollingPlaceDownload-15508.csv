@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T15:09:54 Cycle:b0e25e98-6d0c-4b79-9c3c-e799314ece6b Created:2010-09-01T14:50:03 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T15:25:03 Cycle:c4178960-5ee1-4beb-8485-d1b0a6c7bc11 Created:2010-09-01T15:05:03 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -3029,7 +3029,7 @@ NSW,152,Wentworth,2880,Rose Bay,500,25.54,1458,74.46,1958,-8.59
 NSW,152,Wentworth,2881,Rose Bay Central,286,19.1,1211,80.9,1497,-8.39
 NSW,152,Wentworth,33641,Special Hospital Team 1,0,0,0,0,0,-28.47
 NSW,152,Wentworth,33955,Special Hospital Team 2,12,22.64,41,77.36,53,-5.93
-NSW,152,Wentworth,33956,Special Hospital Team 3,0,0,0,0,0,-28.57
+NSW,152,Wentworth,33956,Special Hospital Team 3,20,33.9,39,66.1,59,5.33
 NSW,152,Wentworth,2886,St Vincents Hospital,198,46.26,230,53.74,428,-15.19
 NSW,152,Wentworth,31648,Sydney (Wentworth),148,44.31,186,55.69,334,-14.44
 NSW,152,Wentworth,2889,Vaucluse,112,13.15,740,86.85,852,-7.79
@@ -3930,7 +3930,7 @@ QLD,165,Herbert,55749,Annandale East (Herbert),155,33.26,311,66.74,466,-1.72
 QLD,165,Herbert,5658,Arcadia,167,43.26,219,56.74,386,-8.76
 QLD,165,Herbert,5660,Belgian Gardens,584,46.28,678,53.72,1262,-0.38
 QLD,165,Herbert,5661,Bluewater,573,44.42,717,55.58,1290,-3.07
-QLD,165,Herbert,14221,Brisbane City (Herbert),17,45.95,20,54.05,37,-9.82
+QLD,165,Herbert,14221,Brisbane City (Herbert),13,35.14,24,64.86,37,-20.63
 QLD,165,Herbert,31569,Condon,1276,49.42,1306,50.58,2582,-3.81
 QLD,165,Herbert,5664,Cranbrook,946,45.2,1147,54.8,2093,-3.21
 QLD,165,Herbert,5665,Currajong,1223,55.24,991,44.76,2214,-2.07
@@ -4746,7 +4746,7 @@ QLD,177,Ryan,6511,Ironside,1267,40.43,1867,59.57,3134,-5.15
 QLD,177,Ryan,6516,Karana Downs,1191,42.14,1635,57.86,2826,-6.76
 QLD,177,Ryan,6512,Kenmore,1068,37.85,1754,62.15,2822,-6.3
 QLD,177,Ryan,6513,Kenmore South,1114,39.7,1692,60.3,2806,-3.28
-QLD,177,Ryan,11996,Keperra,1194,50.77,1158,49.23,2352,-4.89
+QLD,177,Ryan,11996,Keperra,1192,50.62,1163,49.38,2355,-5.04
 QLD,177,Ryan,38089,Milton (Ryan),669,45.92,788,54.08,1457,-3.45
 QLD,177,Ryan,5188,Mitchelton,1153,50.17,1145,49.83,2298,-7.04
 QLD,177,Ryan,6515,Moggill,1175,36.5,2044,63.5,3219,-10.65
@@ -4910,30 +4910,30 @@ SA,179,Adelaide,6652,Adelaide West,308,73.33,112,26.67,420,-1.92
 SA,179,Adelaide,7011,Black Forest East,1115,59.91,746,40.09,1861,1.66
 SA,179,Adelaide,7008,Black Forest West,481,62.06,294,37.94,775,1.39
 SA,179,Adelaide,6653,Blair Athol,439,58.85,307,41.15,746,-2.94
-SA,179,Adelaide,6654,Blair Athol North,671,72.78,251,27.22,922,-3.94
+SA,179,Adelaide,6654,Blair Athol North,674,72.94,250,27.06,924,-3.78
 SA,179,Adelaide,6655,Broadview,1044,54.04,888,45.96,1932,-1.5
 SA,179,Adelaide,7049,Brompton,1000,72.62,377,27.38,1377,-0.62
-SA,179,Adelaide,7010,Clarence Park,547,51.36,518,48.64,1065,-0.97
-SA,179,Adelaide,6664,College Park,625,46.68,714,53.32,1339,-1.36
+SA,179,Adelaide,7010,Clarence Park,544,51.37,515,48.63,1059,-0.96
+SA,179,Adelaide,6664,College Park,620,46.48,714,53.52,1334,-1.56
 SA,179,Adelaide,36447,Croydon (Adelaide),236,70.87,97,29.13,333,0.42
 SA,179,Adelaide,6657,Croydon Park,1109,75.34,363,24.66,1472,-0.01
 SA,179,Adelaide,12086,Croydon Park West (Adelaide),245,73.8,87,26.2,332,2.03
 SA,179,Adelaide,30170,Divisional Office (PREPOLL),0,0,0,0,0,0
-SA,179,Adelaide,6887,Dulwich,448,42.03,618,57.97,1066,-1.59
+SA,179,Adelaide,6887,Dulwich,447,42.09,615,57.91,1062,-1.53
 SA,179,Adelaide,6659,Enfield,859,67.43,415,32.57,1274,2.28
-SA,179,Adelaide,6660,Enfield North (Adelaide),731,69.55,320,30.45,1051,-2.56
+SA,179,Adelaide,6660,Enfield North (Adelaide),716,68.71,326,31.29,1042,-3.4
 SA,179,Adelaide,6661,Enfield South,194,63.4,112,36.6,306,0.32
 SA,179,Adelaide,6868,Fullarton,758,47.7,831,52.3,1589,-2.36
 SA,179,Adelaide,6871,Goodwood,1017,69,457,31,1474,1.01
 SA,179,Adelaide,6872,Goodwood Park,597,61.93,367,38.07,964,2.9
-SA,179,Adelaide,6663,Greenacres,780,63.99,439,36.01,1219,1.46
-SA,179,Adelaide,6671,Hampstead Gardens,537,60.27,354,39.73,891,0.12
+SA,179,Adelaide,6663,Greenacres,778,63.67,444,36.33,1222,1.14
+SA,179,Adelaide,6671,Hampstead Gardens,534,60.54,348,39.46,882,0.39
 SA,179,Adelaide,7066,Hindmarsh,71,67.62,34,32.38,105,2.43
 SA,179,Adelaide,6878,Hyde Park,552,34.89,1030,65.11,1582,-4.16
 SA,179,Adelaide,7303,Kent Town,372,55.36,300,44.64,672,0.35
 SA,179,Adelaide,7067,Keswick,392,62.92,231,37.08,623,2.33
 SA,179,Adelaide,6668,Kilburn,1149,72.31,440,27.69,1589,-4.48
-SA,179,Adelaide,6670,Lower North Adelaide,522,49.76,527,50.24,1049,-0.24
+SA,179,Adelaide,6670,Lower North Adelaide,522,49.81,526,50.19,1048,-0.19
 SA,179,Adelaide,31070,Malvern,509,42.42,691,57.58,1200,1.16
 SA,179,Adelaide,36446,Marden West (Adelaide),356,56.78,271,43.22,627,-4.48
 SA,179,Adelaide,6673,Maylands,659,59.8,443,40.2,1102,-4.94
@@ -4943,12 +4943,12 @@ SA,179,Adelaide,6675,North Adelaide,1130,45.88,1333,54.12,2463,-0.55
 SA,179,Adelaide,6676,Northfield,695,74.25,241,25.75,936,-0.77
 SA,179,Adelaide,12082,Northfield South,773,63.62,442,36.38,1215,-0.24
 SA,179,Adelaide,38208,Northgate,732,55.92,577,44.08,1309,1.91
-SA,179,Adelaide,7311,Norwood (Adelaide),616,57.57,454,42.43,1070,-0.28
+SA,179,Adelaide,7311,Norwood (Adelaide),613,57.5,453,42.5,1066,-0.35
 SA,179,Adelaide,7312,Norwood West,1157,56.86,878,43.14,2035,1.16
 SA,179,Adelaide,6886,Parkside East,1127,60.46,737,39.54,1864,1.13
 SA,179,Adelaide,6679,Prospect,1901,64.38,1052,35.62,2953,7.2
 SA,179,Adelaide,6683,Prospect East,197,63.75,112,36.25,309,1.1
-SA,179,Adelaide,6681,Prospect North,1309,64.93,707,35.07,2016,-0.41
+SA,179,Adelaide,6681,Prospect North,1311,64.8,712,35.2,2023,-0.54
 SA,179,Adelaide,6682,Prospect South,905,54.82,746,45.18,1651,0.83
 SA,179,Adelaide,7077,Renown Park,1091,75.09,362,24.91,1453,1.75
 SA,179,Adelaide,6888,Rose Park,786,43.19,1034,56.81,1820,0.93
@@ -5345,7 +5345,7 @@ SA,186,Kingston,7105,Morphett Vale,1892,69.89,815,30.11,2707,10.21
 SA,186,Kingston,7106,Morphett Vale East,1171,65.13,627,34.87,1798,11.06
 SA,186,Kingston,7107,Morphett Vale North,872,65.66,456,34.34,1328,11.56
 SA,186,Kingston,7108,Morphett Vale South,829,70.55,346,29.45,1175,7.12
-SA,186,Kingston,31731,Noarlunga Centre PPVC,1714,61.63,1067,38.37,2781,13.88
+SA,186,Kingston,31731,Noarlunga Centre PPVC,1717,61.67,1067,38.33,2784,13.92
 SA,186,Kingston,7109,Noarlunga Downs,994,70.95,407,29.05,1401,9.22
 SA,186,Kingston,7110,O'Halloran Hill,1548,62.42,932,37.58,2480,10.3
 SA,186,Kingston,7217,Old Noarlunga,490,62.1,299,37.9,789,7.64
@@ -7822,14 +7822,14 @@ VIC,231,Murray,32010,Melbourne (Murray),14,30.43,32,69.57,46,-2.9
 VIC,231,Murray,4781,Merrigum,136,32.08,288,67.92,424,4.9
 VIC,231,Murray,4783,Mitiamo,16,16.33,82,83.67,98,-10.94
 VIC,231,Murray,4784,Mooroopna,390,42.76,522,57.24,912,0.13
-VIC,231,Murray,4787,Mooroopna Park,968,37.58,1608,62.42,2576,-5.39
+VIC,231,Murray,4787,Mooroopna Park,947,37.45,1582,62.55,2529,-5.52
 VIC,231,Murray,4788,Murchison,179,31.46,390,68.54,569,-7.26
 VIC,231,Murray,4792,Nanneella,30,11.15,239,88.85,269,2.72
 VIC,231,Murray,4793,Nathalia,238,23.26,785,76.74,1023,-2.72
 VIC,231,Murray,4083,Numurkah,707,28.76,1751,71.24,2458,-2.51
 VIC,231,Murray,4794,Orrvale,126,22.26,440,77.74,566,1.8
 VIC,231,Murray,4796,Picola,15,9.93,136,90.07,151,-6.84
-VIC,231,Murray,4798,Pyramid Hill,61,17.78,282,82.22,343,-5.42
+VIC,231,Murray,4798,Pyramid Hill,60,17.91,275,82.09,335,-5.29
 VIC,231,Murray,4800,Rochester,482,27,1303,73,1785,-1.89
 VIC,231,Murray,4801,Rushworth,340,39.22,527,60.78,867,-1.66
 VIC,231,Murray,4802,Serpentine,28,17.83,129,82.17,157,0.34
@@ -8328,10 +8328,10 @@ WA,312,Durack,32884,Port Hedland PPVC,0,0,0,0,0,0
 WA,312,Durack,47094,Prison Mobile Team 1,23,41.82,32,58.18,55,-8.18
 WA,312,Durack,47095,Prison Mobile Team 2,57,62.64,34,37.36,91,12.64
 WA,312,Durack,47090,Remote Mobile Team 1,95,55.56,76,44.44,171,-18.6
-WA,312,Durack,47091,Remote Mobile Team 2,429,63.56,246,36.44,675,-10.25
+WA,312,Durack,47091,Remote Mobile Team 2,429,64.03,241,35.97,670,-9.78
 WA,312,Durack,47092,Remote Mobile Team 3,316,51.3,300,48.7,616,-22.5
-WA,312,Durack,47093,Remote Mobile Team 4,123,49.8,124,50.2,247,-23.94
-WA,312,Durack,47801,Remote Mobile Team 5,5,33.33,10,66.67,15,-41.67
+WA,312,Durack,47093,Remote Mobile Team 4,121,49.59,123,50.41,244,-24.15
+WA,312,Durack,47801,Remote Mobile Team 5,6,37.5,10,62.5,16,-37.5
 WA,312,Durack,7881,Roebourne,142,45.81,168,54.19,310,-19.99
 WA,312,Durack,58812,Roebuck Bay,307,40.03,460,59.97,767,1.04
 WA,312,Durack,32176,Rottnest (Durack),0,0,0,0,0,-70
@@ -8348,10 +8348,10 @@ WA,312,Durack,7891,Tom Price,344,36.36,602,63.64,946,-11.59
 WA,312,Durack,58647,Tom Price PPVC,0,0,0,0,0,0
 WA,312,Durack,8104,Trayning,27,16.27,139,83.73,166,-7.57
 WA,312,Durack,7893,Useless Loop,27,39.71,41,60.29,68,-15.85
-WA,312,Durack,8108,Walkaway,76,23.31,250,76.69,326,-9.65
+WA,312,Durack,8108,Walkaway,77,23.55,250,76.45,327,-9.41
 WA,312,Durack,7892,Warmun,101,81.45,23,18.55,124,21.09
 WA,312,Durack,8110,Watheroo,14,11.97,103,88.03,117,-7.77
-WA,312,Durack,7896,Wickham,265,44.02,337,55.98,602,-7.27
+WA,312,Durack,7896,Wickham,269,44.68,333,55.32,602,-6.61
 WA,312,Durack,7897,Wiluna,31,35.23,57,64.77,88,-12.81
 WA,312,Durack,8114,Wongan Hills,97,18.83,418,81.17,515,-1.27
 WA,312,Durack,8118,Wubin,9,12.5,63,87.5,72,-8.41

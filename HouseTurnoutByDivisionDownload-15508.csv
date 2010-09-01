@@ -1,6 +1,6 @@
-2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T15:09:27 Cycle:b0e25e98-6d0c-4b79-9c3c-e799314ece6b Created:2010-09-01T14:50:03 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T15:24:36 Cycle:c4178960-5ee1-4beb-8485-d1b0a6c7bc11 Created:2010-09-01T15:05:03 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
-179,Adelaide,SA,98526,79181,80.37,-14.22
+179,Adelaide,SA,98526,79180,80.36,-14.23
 197,Aston,VIC,93448,87530,93.67,-2.72
 198,Ballarat,VIC,97802,89317,91.32,-4.77
 103,Banks,NSW,98762,88136,89.24,-5.24
@@ -12,7 +12,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 105,Bennelong,NSW,98900,86716,87.68,-7.32
 106,Berowra,NSW,95115,82442,86.68,-8.67
 304,Blair,QLD,83071,77244,92.99,-2
-107,Blaxland,NSW,95354,76911,80.66,-12.09
+107,Blaxland,NSW,95354,78812,82.65,-10.1
 310,Bonner,QLD,92684,82192,88.68,-6.65
 182,Boothby,SA,97898,88455,90.35,-5.33
 155,Bowman,QLD,91892,83481,90.85,-4.39
@@ -43,7 +43,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 252,Dickson,QLD,90111,81315,90.24,-5.13
 115,Dobell,NSW,93661,85160,90.92,-3.92
 210,Dunkley,VIC,95324,87626,91.92,-3.31
-312,Durack,WA,85782,67501,78.69,-8.47
+312,Durack,WA,85782,67509,78.7,-8.46
 117,Eden-Monaro,NSW,96465,90581,93.9,-2
 159,Fadden,QLD,85236,76926,90.25,-1.99
 160,Fairfax,QLD,89743,82371,91.79,-1.33
@@ -78,11 +78,11 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 125,Hume,NSW,97698,85136,87.14,-8.66
 126,Hunter,NSW,91516,81822,89.41,-6.55
 218,Indi,VIC,92956,80185,86.26,-9.54
-219,Isaacs,VIC,102790,82416,80.18,-15
+219,Isaacs,VIC,102790,83680,81.41,-13.77
 220,Jagajaga,VIC,95202,85246,89.54,-6.18
 167,Kennedy,QLD,94465,79988,84.67,-9.23
-127,Kingsford Smith,NSW,97747,78568,80.38,-13.89
-186,Kingston,SA,102296,94615,92.49,-3.48
+127,Kingsford Smith,NSW,97747,80888,82.75,-11.52
+186,Kingston,SA,102296,96191,94.03,-1.94
 221,Kooyong,VIC,89659,77340,86.26,-8.54
 223,La Trobe,VIC,97960,91575,93.48,-2.36
 222,Lalor,VIC,117023,100368,85.77,-9.65
@@ -101,9 +101,9 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 170,Maranoa,QLD,97957,91451,93.36,-1.56
 225,Maribyrnong,VIC,88412,75581,85.49,-8.66
 188,Mayo,SA,101565,90743,89.34,-6.54
-226,McEwen,VIC,115783,96370,83.23,-13.01
+226,McEwen,VIC,115783,100159,86.51,-9.73
 315,McMahon,NSW,96058,84818,88.3,-5.23
-227,McMillan,VIC,93323,85056,91.14,-4.74
+227,McMillan,VIC,93323,85796,91.93,-3.95
 171,McPherson,QLD,90090,78473,87.11,-7.62
 228,Melbourne,VIC,102879,80324,78.08,-13.42
 230,Melbourne Ports,VIC,97765,73839,75.53,-16.19
@@ -112,13 +112,13 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 172,Moncrieff,QLD,89087,78151,87.72,-6.85
 242,Moore,WA,92295,83406,90.37,-3.39
 173,Moreton,QLD,92733,82444,88.9,-6.12
-231,Murray,VIC,90218,79364,87.97,-7.75
+231,Murray,VIC,90218,79365,87.97,-7.75
 135,New England,NSW,99677,86980,87.26,-8.84
 136,Newcastle,NSW,92896,79928,86.04,-9.21
 137,North Sydney,NSW,97567,85602,87.74,-6.47
 243,O'Connor,WA,92875,83701,90.12,-2.93
 174,Oxley,QLD,82782,73665,88.99,-4.42
-138,Page,NSW,94360,84007,89.03,-7.06
+138,Page,NSW,94360,85391,90.49,-5.6
 139,Parkes,NSW,100169,86402,86.26,-10.26
 140,Parramatta,NSW,94014,83471,88.79,-3.8
 249,Paterson,NSW,92149,82994,90.07,-5.66
@@ -127,11 +127,11 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 175,Petrie,QLD,86683,78057,90.05,-4.05
 189,Port Adelaide,SA,104308,96704,92.71,-2.16
 176,Rankin,QLD,94602,85202,90.06,-3.65
-144,Reid,NSW,95873,83684,87.29,-5.85
+144,Reid,NSW,95873,84633,88.28,-4.86
 145,Richmond,NSW,92384,77908,84.33,-10.16
 250,Riverina,NSW,98594,87241,88.49,-7.26
 146,Robertson,NSW,96593,89633,92.79,-3.32
-177,Ryan,QLD,98224,88066,89.66,-6.09
+177,Ryan,QLD,98224,88836,90.44,-5.31
 232,Scullin,VIC,90822,77193,84.99,-10.71
 148,Shortland,NSW,94245,83560,88.66,-7.62
 307,Solomon,NT,59879,52859,88.28,-3.78
@@ -143,9 +143,9 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 150,Throsby,NSW,95874,84779,88.43,-7.43
 191,Wakefield,SA,100209,92081,91.89,-3.24
 233,Wannon,VIC,92264,83100,90.07,-6.33
-151,Warringah,NSW,96706,82190,84.99,-9.84
+151,Warringah,NSW,96706,84184,87.05,-7.78
 251,Watson,NSW,97765,82873,84.77,-7.47
-152,Wentworth,NSW,101464,74506,73.43,-19.1
+152,Wentworth,NSW,101464,74566,73.49,-19.04
 153,Werriwa,NSW,90994,79897,87.8,-6.1
 178,Wide Bay,QLD,92636,78914,85.19,-9.34
 234,Wills,VIC,98599,77936,79.04,-14.63
