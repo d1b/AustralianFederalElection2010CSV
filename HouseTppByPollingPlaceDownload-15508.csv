@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T16:11:08 Cycle:ae91eef8-1f9f-489a-98b8-8f732df2edb1 Created:2010-09-01T15:50:04 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T16:26:53 Cycle:e20bb12f-e4b3-4d79-a9ce-3cd52f431a91 Created:2010-09-01T16:05:04 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -734,20 +734,20 @@ NSW,113,Cowper,2139,Wooli,175,43.53,227,56.47,402,-6.94
 NSW,114,Cunningham,1661,Austinmer,670,69.72,291,30.28,961,-3.16
 NSW,114,Cunningham,31754,Balgownie,877,58.2,630,41.8,1507,-5.45
 NSW,114,Cunningham,1662,Balgownie Central,1135,58.09,819,41.91,1954,-4.6
-NSW,114,Cunningham,1664,Bellambi,892,80.22,220,19.78,1112,-1.44
-NSW,114,Cunningham,1668,Bulli,644,70.69,267,29.31,911,-2.79
+NSW,114,Cunningham,1664,Bellambi,888,79.93,223,20.07,1111,-1.73
+NSW,114,Cunningham,1668,Bulli,643,70.66,267,29.34,910,-2.82
 NSW,114,Cunningham,1666,Bulli Central,1685,68.8,764,31.2,2449,-2.45
 NSW,114,Cunningham,1195,Bundeena,630,57.9,458,42.1,1088,-2.1
 NSW,114,Cunningham,1198,Coalcliff,72,66.06,37,33.94,109,-6.46
 NSW,114,Cunningham,1199,Coledale,699,71.4,280,28.6,979,1.49
 NSW,114,Cunningham,539,Coniston,1084,70.99,443,29.01,1527,-6.01
 NSW,114,Cunningham,11499,Cordeaux Heights,1069,58.29,765,41.71,1834,-4.06
-NSW,114,Cunningham,1678,Corrimal,1517,68.74,690,31.26,2207,-2.46
-NSW,114,Cunningham,1679,Corrimal East,2135,72.03,829,27.97,2964,-3.95
+NSW,114,Cunningham,1678,Corrimal,1511,68.78,686,31.22,2197,-2.42
+NSW,114,Cunningham,1679,Corrimal East,2114,71.81,830,28.19,2944,-4.17
 NSW,114,Cunningham,30105,Divisional Office (PREPOLL),201,63.61,115,36.39,316,-2.36
 NSW,114,Cunningham,1682,Fairy Meadow,1180,67.97,556,32.03,1736,-5.1
-NSW,114,Cunningham,1683,Fairy Meadow South,142,67.94,67,32.06,209,-4.73
-NSW,114,Cunningham,1694,Fernhill,443,64.96,239,35.04,682,-7.63
+NSW,114,Cunningham,1683,Fairy Meadow South,141,68.12,66,31.88,207,-4.55
+NSW,114,Cunningham,1694,Fernhill,441,64.66,241,35.34,682,-7.93
 NSW,114,Cunningham,542,Figtree,1780,62.19,1082,37.81,2862,-2.2
 NSW,114,Cunningham,543,Figtree Heights,855,57.11,642,42.89,1497,-1.33
 NSW,114,Cunningham,544,Gwynneville,801,64.03,450,35.97,1251,-6.91
@@ -1495,8 +1495,8 @@ NSW,127,Kingsford Smith,1439,Chifley,1001,55.4,806,44.6,1807,-6.96
 NSW,127,Kingsford Smith,2322,Clovelly Beach (Kingsford Smith),403,59.88,270,40.12,673,-8
 NSW,127,Kingsford Smith,33796,Clovelly North (Kingsford Smith),185,51.1,177,48.9,362,-6.2
 NSW,127,Kingsford Smith,2308,Coogee,1032,57.11,775,42.89,1807,-5.65
-NSW,127,Kingsford Smith,2307,Coogee Beach,1088,57.69,798,42.31,1886,-4.82
-NSW,127,Kingsford Smith,2309,Coogee Central,999,59.46,681,40.54,1680,-5.95
+NSW,127,Kingsford Smith,2307,Coogee Beach,1085,57.68,796,42.32,1881,-4.83
+NSW,127,Kingsford Smith,2309,Coogee Central,986,59.25,678,40.75,1664,-6.16
 NSW,127,Kingsford Smith,2310,Coogee South,890,43.86,1139,56.14,2029,-8.33
 NSW,127,Kingsford Smith,2312,Daceyville,603,52.85,538,47.15,1141,-11
 NSW,127,Kingsford Smith,1462,Daceyville South,107,44.58,133,55.42,240,-11.27
@@ -4344,9 +4344,9 @@ QLD,170,Maranoa,6553,Coolabunia,113,29.66,268,70.34,381,-6.87
 QLD,170,Maranoa,6137,Cooranga North,2,4,48,96,50,-10.81
 QLD,170,Maranoa,5470,Cooyar,52,29.21,126,70.79,178,-8.74
 QLD,170,Maranoa,5471,Crows Nest,392,31.79,841,68.21,1233,-7.19
-QLD,170,Maranoa,6139,Cunnamulla,242,39.87,365,60.13,607,-11.23
+QLD,170,Maranoa,6139,Cunnamulla,241,39.9,363,60.1,604,-11.2
 QLD,170,Maranoa,58611,Cunnamulla Interstate PPVC,0,0,0,0,0,0
-QLD,170,Maranoa,58599,Cunnamulla PPVC,241,39.9,363,60.1,604,-20.1
+QLD,170,Maranoa,58599,Cunnamulla PPVC,0,0,0,0,0,-60
 QLD,170,Maranoa,6142,Dalby,394,28.65,981,71.35,1375,-4.68
 QLD,170,Maranoa,6144,Dalby North,256,22.72,871,77.28,1127,-8.82
 QLD,170,Maranoa,58603,Dalby PPVC,171,22.01,606,77.99,777,-39.25
@@ -5176,7 +5176,7 @@ SA,183,Grey,7335,Hardwicke Bay,37,39.78,56,60.22,93,-5.52
 SA,183,Grey,6928,Hawker,41,21.81,147,78.19,188,-12.14
 SA,183,Grey,6930,Iron Knob,42,46.15,49,53.85,91,-13.64
 SA,183,Grey,7367,Jamestown,241,21.85,862,78.15,1103,-7.19
-SA,183,Grey,7369,Kadina,586,35.22,1078,64.78,1664,-3.91
+SA,183,Grey,7369,Kadina,587,35.28,1077,64.72,1664,-3.85
 SA,183,Grey,38201,Kadina IVC PPVC,0,0,0,0,0,0
 SA,183,Grey,12047,Karkoo,15,12.61,104,87.39,119,2.71
 SA,183,Grey,6932,Kimba,54,9.22,532,90.78,586,-9.81
@@ -5257,7 +5257,7 @@ SA,183,Grey,6983,Whyalla Norrie East,882,51.19,841,48.81,1723,-13.62
 SA,183,Grey,6979,Whyalla Norrie North,883,58.91,616,41.09,1499,-9.09
 SA,183,Grey,6926,Whyalla Norrie North-West,543,61.43,341,38.57,884,-5.55
 SA,183,Grey,6980,Whyalla Norrie South,1053,63.13,615,36.87,1668,-8.83
-SA,183,Grey,13116,Whyalla PPVC,502,50.86,485,49.14,987,-0.75
+SA,183,Grey,13116,Whyalla PPVC,502,50.81,486,49.19,988,-0.8
 SA,183,Grey,6962,Whyalla Stuart South,428,63.69,244,36.31,672,-7.27
 SA,183,Grey,6982,Whyalla Stuart West,866,60.6,563,39.4,1429,-5.29
 SA,183,Grey,6984,Willsden,436,55.12,355,44.88,791,-8.29
@@ -5295,17 +5295,17 @@ SA,185,Hindmarsh,7064,Henley Beach,1075,54.62,893,45.38,1968,-0.1
 SA,185,Hindmarsh,7065,Henley South,858,57.24,641,42.76,1499,0.7
 SA,185,Hindmarsh,7068,Kidman Park,236,60.2,156,39.8,392,0.3
 SA,185,Hindmarsh,7069,Kidman Park South,1410,55.56,1128,44.44,2538,2.34
-SA,185,Hindmarsh,7070,Kurralta Park,917,60.05,610,39.95,1527,1.29
+SA,185,Hindmarsh,7070,Kurralta Park,914,59.97,610,40.03,1524,1.21
 SA,185,Hindmarsh,7071,Lockleys,729,48.8,765,51.2,1494,2.29
 SA,185,Hindmarsh,7072,Lockleys North,716,51.88,664,48.12,1380,-1.48
-SA,185,Hindmarsh,34117,Mile End (Hindmarsh),448,74.05,157,25.95,605,3.74
+SA,185,Hindmarsh,34117,Mile End (Hindmarsh),447,74.01,157,25.99,604,3.7
 SA,185,Hindmarsh,7026,Morphettville,783,59.63,530,40.37,1313,4.41
 SA,185,Hindmarsh,7074,Netley,662,61.87,408,38.13,1070,2.78
 SA,185,Hindmarsh,7028,Novar Gardens,848,45.76,1005,54.24,1853,2
 SA,185,Hindmarsh,7030,Park Holme,825,60.62,536,39.38,1361,2.37
 SA,185,Hindmarsh,7031,Park Holme South,703,61.72,436,38.28,1139,0.67
 SA,185,Hindmarsh,7075,Plympton,986,60.75,637,39.25,1623,2.59
-SA,185,Hindmarsh,7016,Plympton Park,502,61.9,309,38.1,811,3.68
+SA,185,Hindmarsh,7016,Plympton Park,503,62.25,305,37.75,808,4.03
 SA,185,Hindmarsh,7076,Plympton West,734,60.61,477,39.39,1211,1.88
 SA,185,Hindmarsh,7078,Richmond,1322,64.33,733,35.67,2055,-0.03
 SA,185,Hindmarsh,36687,Royal Park South (Hindmarsh),303,53.91,259,46.09,562,6.34
@@ -5588,12 +5588,12 @@ SA,190,Sturt,7302,Kensington Park,789,42.37,1073,57.63,1862,-4.87
 SA,190,Sturt,6669,Klemzig,1088,54.98,891,45.02,1979,-4.42
 SA,190,Sturt,7304,Linden Park,551,34.46,1048,65.54,1599,-6.64
 SA,190,Sturt,38419,Magill (Sturt),1153,44.36,1446,55.64,2599,-2.76
-SA,190,Sturt,7307,Magill North,897,54.26,756,45.74,1653,-3.78
+SA,190,Sturt,7307,Magill North,888,54.05,755,45.95,1643,-3.99
 SA,190,Sturt,7308,Marden,159,50.16,158,49.84,317,-3.4
-SA,190,Sturt,6672,Marden West (Sturt),660,54.55,550,45.45,1210,-1.54
-SA,190,Sturt,7309,Marryatville,633,50.04,632,49.96,1265,-1.53
-SA,190,Sturt,7310,Newton,633,51.51,596,48.49,1229,-7.14
-SA,190,Sturt,36944,Norwood (Sturt),294,49.41,301,50.59,595,-1.41
+SA,190,Sturt,6672,Marden West (Sturt),657,54.43,550,45.57,1207,-1.66
+SA,190,Sturt,7309,Marryatville,631,50,631,50,1262,-1.57
+SA,190,Sturt,7310,Newton,635,51.58,596,48.42,1231,-7.07
+SA,190,Sturt,36944,Norwood (Sturt),290,49.07,301,50.93,591,-1.75
 SA,190,Sturt,7313,Paradise,1040,53.2,915,46.8,1955,-3.8
 SA,190,Sturt,7141,Paradise West,468,52.53,423,47.47,891,-0.17
 SA,190,Sturt,7314,Rostrevor,1063,48.21,1142,51.79,2205,-2.99
@@ -6101,13 +6101,13 @@ VIC,198,Ballarat,31986,Melbourne (Ballarat),48,80,12,20,60,14.69
 VIC,198,Ballarat,3040,Miners Rest,725,59.43,495,40.57,1220,8.85
 VIC,198,Ballarat,3042,Mount Clear,1458,62.84,862,37.16,2320,4.93
 VIC,198,Ballarat,3312,Mount Egerton,209,77.41,61,22.59,270,6.78
-VIC,198,Ballarat,3043,Mount Pleasant,1023,68.43,472,31.57,1495,1.8
+VIC,198,Ballarat,3043,Mount Pleasant,1021,68.34,473,31.66,1494,1.71
 VIC,198,Ballarat,3314,Mount Wallace,68,42.5,92,57.5,160,5.41
 VIC,198,Ballarat,3316,Myrniong,265,63.86,150,36.14,415,3.96
 VIC,198,Ballarat,3046,Napoleons,389,61.26,246,38.74,635,0.44
-VIC,198,Ballarat,3048,Newington,393,63.08,230,36.92,623,2.26
-VIC,198,Ballarat,3049,Newlyn,205,44.09,260,55.91,465,0
-VIC,198,Ballarat,3054,Redan,1384,69.3,613,30.7,1997,5.13
+VIC,198,Ballarat,3048,Newington,393,63.18,229,36.82,622,2.36
+VIC,198,Ballarat,3049,Newlyn,204,43.97,260,56.03,464,-0.12
+VIC,198,Ballarat,3054,Redan,1380,69.21,614,30.79,1994,5.04
 VIC,198,Ballarat,3057,Ross Creek,429,62.26,260,37.74,689,8.78
 VIC,198,Ballarat,3059,Sebastopol,1792,69.3,794,30.7,2586,4.65
 VIC,198,Ballarat,3062,Smeaton,70,38.89,110,61.11,180,-1.27
@@ -7874,7 +7874,7 @@ VIC,232,Scullin,11649,Epping South,1854,79.37,482,20.63,2336,1.45
 VIC,232,Scullin,8899,Findon,2480,76.03,782,23.97,3262,2.39
 VIC,232,Scullin,4330,Greensborough,658,63.95,371,36.05,1029,2.33
 VIC,232,Scullin,58644,Greensborough SCULLIN PPVC,636,61.33,401,38.67,1037,-5.03
-VIC,232,Scullin,4170,Grimshaw,1199,66.32,609,33.68,1808,3.28
+VIC,232,Scullin,4170,Grimshaw,1192,66.04,613,33.96,1805,3
 VIC,232,Scullin,4180,Keelbundoora,275,67.4,133,32.6,408,1.83
 VIC,232,Scullin,4855,Lalor,1730,78.64,470,21.36,2200,-0.33
 VIC,232,Scullin,4856,Lalor East,2352,77.68,676,22.32,3028,0.37
@@ -7885,11 +7885,11 @@ VIC,232,Scullin,4859,Lalor West,1024,81.14,238,18.86,1262,0.03
 VIC,232,Scullin,31767,Meadowglen,1605,74.17,559,25.83,2164,2.69
 VIC,232,Scullin,32000,Melbourne (Scullin),43,66.15,22,33.85,65,1
 VIC,232,Scullin,4345,Mill Park,1707,71.01,697,28.99,2404,1.27
-VIC,232,Scullin,11890,Mill Park Heights,2231,76.12,700,23.88,2931,1.84
+VIC,232,Scullin,11890,Mill Park Heights,2238,76.57,685,23.43,2923,2.29
 VIC,232,Scullin,46761,Mill Park SCULLIN PPVC,1839,71.86,720,28.14,2559,5.41
 VIC,232,Scullin,4861,Norris Bank,2047,70.98,837,29.02,2884,0.03
 VIC,232,Scullin,4353,Plenty,465,44.37,583,55.63,1048,7.63
-VIC,232,Scullin,4349,South Morang (Scullin),1953,66.84,969,33.16,2922,6.32
+VIC,232,Scullin,4349,South Morang (Scullin),1950,66.83,968,33.17,2918,6.31
 VIC,232,Scullin,31591,Special Hospital Team 1,14,82.35,3,17.65,17,14.35
 VIC,232,Scullin,32870,Special Hospital Team 2,37,74,13,26,50,4.43
 VIC,232,Scullin,36426,St Helena (Scullin),483,47.68,530,52.32,1013,2.23
@@ -8713,7 +8713,7 @@ WA,244,Pearce,7921,Bindoon,243,30.11,564,69.89,807,1.95
 WA,244,Pearce,7923,Bullsbrook,696,35.49,1265,64.51,1961,-5.1
 WA,244,Pearce,38192,Butler,1171,45.72,1390,54.28,2561,0.89
 WA,244,Pearce,7530,Carmel,101,26.51,280,73.49,381,-3.31
-WA,244,Pearce,7927,Chidlow,383,41.68,536,58.32,919,-3.78
+WA,244,Pearce,7927,Chidlow,382,41.61,536,58.39,918,-3.85
 WA,244,Pearce,7930,Darlington,744,41.96,1029,58.04,1773,-1.67
 WA,244,Pearce,30235,Divisional Office (PREPOLL),0,0,0,0,0,-42.86
 WA,244,Pearce,32575,Ellenbrook,1492,42.96,1981,57.04,3473,0.96
@@ -8753,7 +8753,7 @@ WA,244,Pearce,34085,Special Hospital Team 1,21,30,49,70,70,-8.71
 WA,244,Pearce,34196,Special Hospital Team 2,11,39.29,17,60.71,28,-0.71
 WA,244,Pearce,47783,Special Hospital Team 3,36,38.71,57,61.29,93,-0.65
 WA,244,Pearce,7962,Stoneville,378,39.66,575,60.34,953,-1.56
-WA,244,Pearce,11901,Stratton,1235,54.67,1024,45.33,2259,3.75
+WA,244,Pearce,11901,Stratton,1182,52.6,1065,47.4,2247,1.68
 WA,244,Pearce,7963,Swan View (Pearce),1598,49.61,1623,50.39,3221,-0.63
 WA,244,Pearce,8103,Toodyay,636,38.38,1021,61.62,1657,-4.86
 WA,244,Pearce,7964,Two Rocks,385,46.11,450,53.89,835,2.48
