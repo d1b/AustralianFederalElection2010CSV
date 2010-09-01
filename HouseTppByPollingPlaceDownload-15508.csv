@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T14:07:56 Cycle:95af5ea1-4126-4f70-8b27-7bb9b363de87 Created:2010-09-01T13:49:58 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T14:23:31 Cycle:5411dc11-aad5-4bc8-b2c3-632ccc775b46 Created:2010-09-01T14:04:58 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -370,7 +370,7 @@ NSW,108,Bradfield,210,Roseville East,355,36.41,620,63.59,975,-1.61
 NSW,108,Bradfield,2032,Roseville South (Bradfield),275,33.78,539,66.22,814,-6.07
 NSW,108,Bradfield,33599,Special Hospital Team 1,76,20.49,295,79.51,371,1.34
 NSW,108,Bradfield,33804,Special Hospital Team 2,39,14.61,228,85.39,267,-4.49
-NSW,108,Bradfield,33805,Special Hospital Team 3,53,13.09,352,86.91,405,-6.2
+NSW,108,Bradfield,33805,Special Hospital Team 3,62,15.38,341,84.62,403,-3.91
 NSW,108,Bradfield,211,St Ives,421,23.49,1371,76.51,1792,-0.38
 NSW,108,Bradfield,212,St Ives Chase,231,24.55,710,75.45,941,1.37
 NSW,108,Bradfield,213,St Ives North,576,23.53,1872,76.47,2448,-2.64
@@ -381,9 +381,9 @@ NSW,108,Bradfield,138,Thornleigh (Bradfield),381,39.69,579,60.31,960,-3.4
 NSW,108,Bradfield,139,Turramurra,139,23.13,462,76.87,601,-1.19
 NSW,108,Bradfield,140,Turramurra Central,513,27.87,1328,72.13,1841,-2.91
 NSW,108,Bradfield,141,Turramurra North,659,35.87,1178,64.13,1837,7.95
-NSW,108,Bradfield,142,Turramurra South,987,36.57,1712,63.43,2699,-4.29
+NSW,108,Bradfield,142,Turramurra South,994,36.77,1709,63.23,2703,-4.09
 NSW,108,Bradfield,143,Wahroonga,654,26.12,1850,73.88,2504,1.29
-NSW,108,Bradfield,144,Wahroonga East,624,24.64,1908,75.36,2532,-4.34
+NSW,108,Bradfield,144,Wahroonga East,624,24.65,1907,75.35,2531,-4.33
 NSW,108,Bradfield,33948,Wahroonga PPVC,390,21.61,1415,78.39,1805,-19.49
 NSW,108,Bradfield,145,Waitara,808,38.53,1289,61.47,2097,-8.38
 NSW,108,Bradfield,146,Waitara South,118,33.81,231,66.19,349,-3.29
@@ -1042,7 +1042,7 @@ NSW,119,Fowler,11990,Bonnyrigg Central,905,60.86,582,39.14,1487,-15.8
 NSW,119,Fowler,31649,Bonnyrigg Heights,1797,58.5,1275,41.5,3072,-15.81
 NSW,119,Fowler,38204,Busby,604,65.72,315,34.28,919,-7.54
 NSW,119,Fowler,868,Cabramatta,1499,59.32,1028,40.68,2527,-23.13
-NSW,119,Fowler,163,Cabramatta East,1418,61.49,888,38.51,2306,-16.45
+NSW,119,Fowler,163,Cabramatta East,1413,61.41,888,38.59,2301,-16.53
 NSW,119,Fowler,869,Cabramatta South,1064,59.94,711,40.06,1775,-21.51
 NSW,119,Fowler,870,Cabramatta West,1081,58.81,757,41.19,1838,-18.44
 NSW,119,Fowler,876,Cabramatta West Central,1602,59.93,1071,40.07,2673,-18.73
@@ -1256,20 +1256,20 @@ NSW,124,Hughes,1208,Hammondville,833,45.84,984,54.16,1817,-6.81
 NSW,124,Hughes,1214,Holsworthy,731,49.16,756,50.84,1487,-3.47
 NSW,124,Hughes,1215,Illawong,1046,33.87,2042,66.13,3088,-2.76
 NSW,124,Hughes,1217,Jannali West (Hughes),323,52.86,288,47.14,611,-3.21
-NSW,124,Hughes,879,Liverpool (Hughes),715,62.23,434,37.77,1149,-9.11
+NSW,124,Hughes,879,Liverpool (Hughes),714,62.09,436,37.91,1150,-9.25
 NSW,124,Hughes,33907,Liverpool HUGHES PPVC,519,49.1,538,50.9,1057,-2.08
 NSW,124,Hughes,31790,Liverpool North,371,61.32,234,38.68,605,-12.79
 NSW,124,Hughes,1220,Loftus,1073,47.54,1184,52.46,2257,-3.4
-NSW,124,Hughes,1204,Marton,663,45.23,803,54.77,1466,-0.92
+NSW,124,Hughes,1204,Marton,675,45.55,807,54.45,1482,-0.6
 NSW,124,Hughes,1222,Menai,937,43.26,1229,56.74,2166,-3.3
 NSW,124,Hughes,32901,Menai Central,994,37.61,1649,62.39,2643,-4.27
 NSW,124,Hughes,1191,Menai North,511,38.11,830,61.89,1341,-4.73
 NSW,124,Hughes,174,Milperra,993,45.07,1210,54.93,2203,-5.48
 NSW,124,Hughes,1223,Moorebank,1454,44.86,1787,55.14,3241,-4.37
 NSW,124,Hughes,890,Newbridge Heights,829,45.08,1010,54.92,1839,-0.9
-NSW,124,Hughes,11,Panania,631,56.04,495,43.96,1126,-6.09
+NSW,124,Hughes,11,Panania,634,56.11,496,43.89,1130,-6.02
 NSW,124,Hughes,12,Panania Central,609,54.28,513,45.72,1122,-6.63
-NSW,124,Hughes,13,Panania North,1107,55.6,884,44.4,1991,-13.19
+NSW,124,Hughes,13,Panania North,1108,55.68,882,44.32,1990,-13.11
 NSW,124,Hughes,14,Panania South,1331,44.92,1632,55.08,2963,-8.4
 NSW,124,Hughes,22,Picnic Point North,894,44.08,1134,55.92,2028,-4.49
 NSW,124,Hughes,1226,Prince Edward Park,243,43.39,317,56.61,560,-2.02
@@ -3067,7 +3067,7 @@ NSW,153,Werriwa,31641,Liverpool West (Werriwa),821,62.15,500,37.85,1321,-7.73
 NSW,153,Werriwa,2924,Lurnea,1263,63.06,740,36.94,2003,-8.05
 NSW,153,Werriwa,2925,Macquarie Fields,1455,60.15,964,39.85,2419,-6.12
 NSW,153,Werriwa,2915,Macquarie Fields Central,708,73.9,250,26.1,958,-7.95
-NSW,153,Werriwa,2911,Macquarie Fields East,572,64.49,315,35.51,887,-13.04
+NSW,153,Werriwa,2911,Macquarie Fields East,573,64.53,315,35.47,888,-13
 NSW,153,Werriwa,31644,Macquarie Fields North,703,61.45,441,38.55,1144,-2.2
 NSW,153,Werriwa,2926,Minto,1246,61.84,769,38.16,2015,-7.98
 NSW,153,Werriwa,2934,Minto North,742,63.36,429,36.64,1171,-8.98
@@ -3998,7 +3998,7 @@ QLD,166,Hinkler,5761,Kalkie,353,32.62,729,67.38,1082,-8.07
 QLD,166,Hinkler,31547,Kawungan,1195,37.09,2027,62.91,3222,-8.24
 QLD,166,Hinkler,31560,Kepnock,622,43.53,807,56.47,1429,-10.52
 QLD,166,Hinkler,5766,Millbank,664,44.27,836,55.73,1500,-6.28
-QLD,166,Hinkler,5778,Norville,938,46.41,1083,53.59,2021,-7.24
+QLD,166,Hinkler,5778,Norville,939,46.62,1075,53.38,2014,-7.03
 QLD,166,Hinkler,6613,Pialba,397,37.77,654,62.23,1051,-7.62
 QLD,166,Hinkler,38274,Pialba North,1680,41.38,2380,58.62,4060,-10.25
 QLD,166,Hinkler,33943,River Heads,295,39.7,448,60.3,743,-5.21
@@ -4670,7 +4670,7 @@ QLD,175,Petrie,58567,Murrumba Downs (Petrie),293,49.58,298,50.42,591,-4.36
 QLD,175,Petrie,38225,North Lakes,1572,49.57,1599,50.43,3171,3.64
 QLD,175,Petrie,58525,North Lakes North,733,47.88,798,52.12,1531,1.97
 QLD,175,Petrie,6415,Redcliffe,1318,54.6,1096,45.4,2414,-2.87
-QLD,175,Petrie,47703,Redcliffe PPVC,1666,51.72,1555,48.28,3221,1.93
+QLD,175,Petrie,47703,Redcliffe PPVC,1664,51.66,1557,48.34,3221,1.87
 QLD,175,Petrie,46453,Redcliffe South,722,55.67,575,44.33,1297,-0.48
 QLD,175,Petrie,11642,Rothwell,903,43.52,1172,56.48,2075,-1.95
 QLD,175,Petrie,6417,Scarborough,1320,49.66,1338,50.34,2658,-3.7
@@ -5209,7 +5209,7 @@ SA,183,Grey,7406,Port Broughton,258,29.28,623,70.72,881,-8.29
 SA,183,Grey,7407,Port Clinton,138,47.59,152,52.41,290,3.54
 SA,183,Grey,6949,Port Germein,124,44.29,156,55.71,280,-7.84
 SA,183,Grey,6950,Port Kenny,23,17.29,110,82.71,133,-3.69
-SA,183,Grey,6951,Port Lincoln,736,35.01,1366,64.99,2102,0.31
+SA,183,Grey,6951,Port Lincoln,718,34.84,1343,65.16,2061,0.14
 SA,183,Grey,6952,Port Lincoln Central,548,25.81,1575,74.19,2123,-15.26
 SA,183,Grey,13113,Port Lincoln PPVC,322,29.7,762,70.3,1084,-21.89
 SA,183,Grey,6953,Port Lincoln South,527,49.76,532,50.24,1059,-8.68
@@ -5253,10 +5253,10 @@ SA,183,Grey,7434,Warooka,108,29.03,264,70.97,372,-4.55
 SA,183,Grey,6975,Warramboo,5,5.43,87,94.57,92,-4.57
 SA,183,Grey,6977,Whyalla Central East,426,45.91,502,54.09,928,-8.43
 SA,183,Grey,6981,Whyalla Central West,878,52.42,797,47.58,1675,-5.18
-SA,183,Grey,6983,Whyalla Norrie East,883,51.22,841,48.78,1724,-13.59
+SA,183,Grey,6983,Whyalla Norrie East,882,51.19,841,48.81,1723,-13.62
 SA,183,Grey,6979,Whyalla Norrie North,883,58.91,616,41.09,1499,-9.09
 SA,183,Grey,6926,Whyalla Norrie North-West,543,61.43,341,38.57,884,-5.55
-SA,183,Grey,6980,Whyalla Norrie South,1038,62.27,629,37.73,1667,-9.69
+SA,183,Grey,6980,Whyalla Norrie South,1053,63.13,615,36.87,1668,-8.83
 SA,183,Grey,13116,Whyalla PPVC,502,50.86,485,49.14,987,-0.75
 SA,183,Grey,6962,Whyalla Stuart South,428,63.69,244,36.31,672,-7.27
 SA,183,Grey,6982,Whyalla Stuart West,866,60.6,563,39.4,1429,-5.29
@@ -8240,7 +8240,7 @@ WA,312,Durack,32077,Broome West,575,50.98,553,49.02,1128,-2.45
 WA,312,Durack,7998,Cadoux,6,8.96,61,91.04,67,-1.47
 WA,312,Durack,7999,Calingiri,27,18.37,120,81.63,147,2.14
 WA,312,Durack,8000,Carnamah,38,18.27,170,81.73,208,-2.97
-WA,312,Durack,7808,Carnarvon,382,38.94,599,61.06,981,-12.19
+WA,312,Durack,7808,Carnarvon,383,39.16,595,60.84,978,-11.97
 WA,312,Durack,32762,Carnarvon Central PPVC,110,39.15,171,60.85,281,-4.85
 WA,312,Durack,7809,Carnarvon East,337,33.97,655,66.03,992,-9.44
 WA,312,Durack,32759,Carnarvon PPVC,0,0,0,0,0,0
@@ -8269,7 +8269,7 @@ WA,312,Durack,7984,Geraldton - Bluff Point,698,37.01,1188,62.99,1886,-1.5
 WA,312,Durack,31485,Geraldton - Cape Burney,117,37.99,191,62.01,308,2.45
 WA,312,Durack,8066,Geraldton - Mount Tarcoola,809,34.18,1558,65.82,2367,-0.89
 WA,312,Durack,8095,Geraldton - Rangeway,820,46.56,941,53.44,1761,-2.05
-WA,312,Durack,11904,Geraldton - Spalding,362,44.25,456,55.75,818,-0.45
+WA,312,Durack,11904,Geraldton - Spalding,356,43.79,457,56.21,813,-0.91
 WA,312,Durack,8106,Geraldton - Waggrakine,707,35.78,1269,64.22,1976,-5.28
 WA,312,Durack,8115,Geraldton - Wonthella,710,36.37,1242,63.63,1952,-4.36
 WA,312,Durack,34255,Geraldton 1 PPVC,590,31.72,1270,68.28,1860,-12.23
@@ -8336,7 +8336,7 @@ WA,312,Durack,7881,Roebourne,142,45.81,168,54.19,310,-19.99
 WA,312,Durack,58812,Roebuck Bay,307,40.03,460,59.97,767,1.04
 WA,312,Durack,32176,Rottnest (Durack),0,0,0,0,0,-70
 WA,312,Durack,7883,Sandstone,14,35.9,25,64.1,39,-20.35
-WA,312,Durack,7886,South Hedland,331,44.61,411,55.39,742,-14.85
+WA,312,Durack,7886,South Hedland,330,44.41,413,55.59,743,-15.05
 WA,312,Durack,7887,South Hedland Baler,674,51.1,645,48.9,1319,-13.22
 WA,312,Durack,38316,South Hedland PPVC,0,0,0,0,0,-44.09
 WA,312,Durack,47096,Special Hospital Team 1,27,50.94,26,49.06,53,50.94
