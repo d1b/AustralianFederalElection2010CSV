@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T17:29:02 Cycle:8c3e602e-b864-4097-948c-c67dcf17c4f2 Created:2010-09-01T17:20:20 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T17:44:40 Cycle:947e8c99-135f-406e-ade9-84f9c2e7c36c Created:2010-09-01T17:35:40 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -465,13 +465,13 @@ NSW,109,Calare,2216,Parkes East,310,30.42,709,69.58,1019,-0.76
 NSW,109,Calare,2218,Parkes Hospital,215,36.69,371,63.31,586,-2.16
 NSW,109,Calare,2217,Parkes North,263,31.61,569,68.39,832,-5.05
 NSW,109,Calare,33952,Parkes PPVC,278,25.74,802,74.26,1080,-20.45
-NSW,109,Calare,2221,Parkes South,268,35.54,486,64.46,754,-4.14
-NSW,109,Calare,2222,Parkes West,288,33.14,581,66.86,869,-4.83
-NSW,109,Calare,2219,Peak Hill,189,33.39,377,66.61,566,-3.69
+NSW,109,Calare,2221,Parkes South,272,35.28,499,64.72,771,-4.4
+NSW,109,Calare,2222,Parkes West,285,33.06,577,66.94,862,-4.91
+NSW,109,Calare,2219,Peak Hill,188,33.33,376,66.67,564,-3.75
 NSW,109,Calare,289,Peel,65,39.39,100,60.61,165,-11.59
-NSW,109,Calare,290,Perthville,183,32.68,377,67.32,560,-10.83
-NSW,109,Calare,291,Portland,719,61.14,457,38.86,1176,-11.89
-NSW,109,Calare,294,Raglan,391,46.44,451,53.56,842,-7.77
+NSW,109,Calare,290,Perthville,183,32.62,378,67.38,561,-10.89
+NSW,109,Calare,291,Portland,712,60.91,457,39.09,1169,-12.12
+NSW,109,Calare,294,Raglan,387,46.29,449,53.71,836,-7.92
 NSW,109,Calare,1803,Rockley,70,37.23,118,62.77,188,-13.99
 NSW,109,Calare,296,Rydal,14,21.88,50,78.13,64,-25.74
 NSW,109,Calare,298,Sofala,30,50,30,50,60,11.19
@@ -550,7 +550,7 @@ NSW,110,Charlton,370,Teralba,646,67.93,305,32.07,951,3.91
 NSW,110,Charlton,371,Toronto,483,67.08,237,32.92,720,-0.15
 NSW,110,Charlton,372,Toronto North,377,60.51,246,39.49,623,0.23
 NSW,110,Charlton,33900,Toronto PPVC,1053,57.45,780,42.55,1833,6.93
-NSW,110,Charlton,38205,Wallsend,979,69.04,439,30.96,1418,-0.03
+NSW,110,Charlton,38205,Wallsend,966,68.71,440,31.29,1406,-0.36
 NSW,110,Charlton,1901,Wallsend South,1675,60.47,1095,39.53,2770,-0.57
 NSW,110,Charlton,375,Wangi Wangi,939,61.7,583,38.3,1522,-1.31
 NSW,110,Charlton,43974,Warners Bay (Charlton),519,58.84,363,41.16,882,-3.64
@@ -1365,8 +1365,8 @@ NSW,125,Hume,33703,Special Hospital Team 3,43,42.16,59,57.84,102,6.45
 NSW,125,Hume,33704,Special Hospital Team 4,56,41.48,79,58.52,135,5.63
 NSW,125,Hume,57354,Special Hospital Team 5,46,35.94,82,64.06,128,-0.31
 NSW,125,Hume,57356,Special Hospital Team 6,18,33.96,35,66.04,53,-1.52
-NSW,125,Hume,1314,Stockinbingal,68,34.34,130,65.66,198,1.57
-NSW,125,Hume,32915,Sutton,449,46.63,514,53.37,963,-1.31
+NSW,125,Hume,1314,Stockinbingal,69,35.03,128,64.97,197,2.26
+NSW,125,Hume,32915,Sutton,449,46.67,513,53.33,962,-1.27
 NSW,125,Hume,14092,Sydney (Hume),22,59.46,15,40.54,37,9.46
 NSW,125,Hume,1698,Tahmoor,1203,46.39,1390,53.61,2593,-3.12
 NSW,125,Hume,967,Tallong,149,45.02,182,54.98,331,3.21
@@ -5004,7 +5004,7 @@ SA,180,Barker,6741,Loxton North,163,31.47,355,68.53,518,-5.9
 SA,180,Barker,6742,Lucindale,61,16.94,299,83.06,360,-2.74
 SA,180,Barker,7378,Lyndoch,497,46.23,578,53.77,1075,2.16
 SA,180,Barker,6743,Lyrup,66,32.51,137,67.49,203,-4.22
-SA,180,Barker,7381,Mannum,655,43.23,860,56.77,1515,-0.78
+SA,180,Barker,7381,Mannum,660,43.39,861,56.61,1521,-0.62
 SA,180,Barker,6747,Meningie,202,24.46,624,75.54,826,-2.15
 SA,180,Barker,6748,Mil Lel,26,16.56,131,83.44,157,-10.83
 SA,180,Barker,6749,Millicent,895,44.68,1108,55.32,2003,-6.35
@@ -8360,7 +8360,7 @@ WA,312,Durack,7899,Wyndham,212,59.72,143,40.28,355,-10.61
 WA,312,Durack,7901,Yalgoo,24,33.8,47,66.2,71,5.73
 WA,312,Durack,8122,Yerecoin,17,20.24,67,79.76,84,5.15
 WA,239,Forrest,7644,Acton Park,46,20.81,175,79.19,221,-0.58
-WA,239,Forrest,7648,Alexandra Bridge,31,24.22,97,75.78,128,2.37
+WA,239,Forrest,7648,Alexandra Bridge,33,25.78,95,74.22,128,3.93
 WA,239,Forrest,7649,Allanson,199,57.35,148,42.65,347,-6.19
 WA,239,Forrest,7650,Augusta,295,36.78,507,63.22,802,-1.79
 WA,239,Forrest,7651,Australind,1161,37.13,1966,62.87,3127,-4.21
