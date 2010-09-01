@@ -1,14 +1,14 @@
-2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T17:59:42 Cycle:5cde76d9-a5c4-4acc-8c56-9cdee246759e Created:2010-09-01T17:50:20 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T18:15:15 Cycle:15c04f51-777a-48d1-81e3-04cd3711ff9a Created:2010-09-01T18:05:20 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 179,Adelaide,SA,98526,80847,82.06,-12.53
 197,Aston,VIC,93448,87531,93.67,-2.72
 198,Ballarat,VIC,97802,91038,93.08,-3.01
-103,Banks,NSW,98762,88136,89.24,-5.24
+103,Banks,NSW,98762,89722,90.85,-3.63
 180,Barker,SA,104888,91752,87.48,-8.49
 104,Barton,NSW,95243,81045,85.09,-9.96
 192,Bass,TAS,71689,68315,95.29,-1.01
 199,Batman,VIC,89160,75222,84.37,-9.83
-200,Bendigo,VIC,100701,91262,90.63,-5.4
+200,Bendigo,VIC,100701,94449,93.79,-2.24
 105,Bennelong,NSW,98900,89268,90.26,-4.74
 106,Berowra,NSW,95115,85456,89.84,-5.51
 304,Blair,QLD,83071,77244,92.99,-2
@@ -43,8 +43,8 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 252,Dickson,QLD,90111,83310,92.45,-2.92
 115,Dobell,NSW,93661,85395,91.17,-3.67
 210,Dunkley,VIC,95324,87631,91.93,-3.3
-312,Durack,WA,85782,67411,78.58,-8.58
-117,Eden-Monaro,NSW,96465,90780,94.11,-1.79
+312,Durack,WA,85782,68636,80.01,-7.15
+117,Eden-Monaro,NSW,96465,90784,94.11,-1.79
 159,Fadden,QLD,85236,77262,90.64,-1.6
 160,Fairfax,QLD,89743,82371,91.79,-1.33
 118,Farrer,NSW,94061,80446,85.53,-10.71
@@ -105,7 +105,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 315,McMahon,NSW,96058,84818,88.3,-5.23
 227,McMillan,VIC,93323,86791,93,-2.88
 171,McPherson,QLD,90090,80134,88.95,-5.78
-228,Melbourne,VIC,102879,80324,78.08,-13.42
+228,Melbourne,VIC,102879,83454,81.12,-10.38
 230,Melbourne Ports,VIC,97765,73839,75.53,-16.19
 229,Menzies,VIC,90966,77493,85.19,-10.96
 134,Mitchell,NSW,93588,84432,90.22,-4.75
@@ -123,7 +123,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 140,Parramatta,NSW,94014,83471,88.79,-3.8
 249,Paterson,NSW,92149,84566,91.77,-3.96
 244,Pearce,WA,89526,75408,84.23,-8.95
-245,Perth,WA,91904,79115,86.08,-7.11
+245,Perth,WA,91904,79814,86.84,-6.35
 175,Petrie,QLD,86683,78057,90.05,-4.05
 189,Port Adelaide,SA,104308,96704,92.71,-2.16
 176,Rankin,QLD,94602,85202,90.06,-3.65
