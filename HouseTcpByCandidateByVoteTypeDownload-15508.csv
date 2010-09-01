@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T19:02:08 Cycle:95e00402-d618-4d22-be96-b19e169bd3ef Created:2010-09-01T18:50:21 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T19:17:30 Cycle:d34475da-1ab2-4067-afbf-6bdc359160ff Created:2010-09-01T19:05:21 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,Swing
 ACT,101,Canberra,20863,JONES,Giulia,1,N,N,LP,Liberal,40757,0,0,1611,482,42850,2.65
 ACT,101,Canberra,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,59304,0,0,2306,484,62094,-2.65
@@ -78,8 +78,8 @@ NSW,140,Parramatta,21461,OWENS,Julie,3,N,Y,ALP,Labor,34784,2910,0,1195,2429,4131
 NSW,140,Parramatta,21479,CAMENZULI,Charles,7,N,N,LP,Liberal,29488,2277,0,1006,2152,34923,5.67
 NSW,249,Paterson,21675,BALDWIN,Bob,5,N,Y,LP,Liberal,39054,1417,57,1054,2539,44121,4.69
 NSW,249,Paterson,21418,ARNEMAN,Jim,6,N,N,ALP,Labor,32167,1127,65,620,1729,35708,-4.69
-NSW,144,Reid,21438,MURPHY,John,2,N,Y,ALP,Labor,35443,2182,0,1427,1937,40989,-8.32
-NSW,144,Reid,21717,COOPER,Peter,4,N,N,LP,Liberal,31803,1837,0,1321,2094,37055,8.32
+NSW,144,Reid,21438,MURPHY,John,2,N,Y,ALP,Labor,35443,2182,0,1652,1937,41214,-8.28
+NSW,144,Reid,21717,COOPER,Peter,4,N,N,LP,Liberal,31803,1837,0,1472,2094,37206,8.28
 NSW,145,Richmond,21416,ELLIOT,Justine,2,N,Y,ALP,Labor,39374,908,0,0,2270,42552,-2.22
 NSW,145,Richmond,21262,HUNTER,Alan,6,N,N,NP,The Nationals,29950,518,0,0,2091,32559,2.22
 NSW,250,Riverina,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,52958,1650,0,0,3113,57721,3.96
@@ -274,12 +274,12 @@ WA,235,Brand,20857,GORDIN,Donna,2,N,N,LP,Liberal,30935,2325,81,1266,1660,36267,2
 WA,235,Brand,20909,GRAY,Gary,5,N,Y,ALP,Australian Labor Party,35986,2529,118,1189,1640,41462,-2.64
 WA,236,Canning,20913,MacTIERNAN,Alannah,1,N,N,ALP,Australian Labor Party,31792,2618,0,819,1829,37058,2.39
 WA,236,Canning,20865,RANDALL,Don,2,N,Y,LP,Liberal,33670,3044,0,1113,2253,40080,-2.39
-WA,237,Cowan,20895,HOPKINS,Chas,2,N,N,ALP,Australian Labor Party,28878,2480,129,1287,1645,34419,-5.19
-WA,237,Cowan,20848,SIMPKINS,Luke,4,N,Y,LP,Liberal,37493,2953,146,1817,2237,44646,5.19
-WA,238,Curtin,20851,BISHOP,Julie,1,N,Y,LP,Liberal,44049,2627,133,736,2900,50445,2.94
-WA,238,Curtin,20933,VAN DER MERWE,Sophie,3,N,N,ALP,Australian Labor Party,22348,1758,93,351,1209,25759,-2.94
-WA,312,Durack,20866,HAASE,Barry,2,N,Y,LP,Liberal,38921,1810,0,0,1926,42657,6.01
-WA,312,Durack,20964,HILL,Shane,3,N,N,ALP,Australian Labor Party,22584,1148,0,0,623,24355,-6.01
+WA,237,Cowan,20895,HOPKINS,Chas,2,N,N,ALP,Australian Labor Party,28878,2481,129,1287,1645,34420,-5.19
+WA,237,Cowan,20848,SIMPKINS,Luke,4,N,Y,LP,Liberal,37493,2952,146,1817,2237,44645,5.19
+WA,238,Curtin,20851,BISHOP,Julie,1,N,Y,LP,Liberal,44047,2627,133,736,2900,50443,2.93
+WA,238,Curtin,20933,VAN DER MERWE,Sophie,3,N,N,ALP,Australian Labor Party,22350,1758,93,351,1209,25761,-2.93
+WA,312,Durack,20866,HAASE,Barry,2,N,Y,LP,Liberal,38921,2171,0,0,1926,43018,6
+WA,312,Durack,20964,HILL,Shane,3,N,N,ALP,Australian Labor Party,22584,1358,0,0,623,24565,-6
 WA,239,Forrest,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,28708,1679,0,901,971,32259,-3.26
 WA,239,Forrest,20855,MARINO,Nola,3,N,Y,LP,Liberal,40290,2314,0,1521,1810,45935,3.26
 WA,240,Fremantle,20856,TAYLOR,Matt,1,N,N,LP,Liberal,29877,2641,0,1773,1934,36225,3.58
