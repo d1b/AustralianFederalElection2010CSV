@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T14:23:04 Cycle:5411dc11-aad5-4bc8-b2c3-632ccc775b46 Created:2010-09-01T14:04:58 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T14:38:33 Cycle:8ddb5b37-fd7f-4bbd-b9c5-71381fe3e311 Created:2010-09-01T14:19:53 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 179,Adelaide,SA,98526,79181,80.37,-14.22
 197,Aston,VIC,93448,87130,93.24,-3.15
@@ -13,11 +13,11 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 106,Berowra,NSW,95115,82442,86.68,-8.67
 304,Blair,QLD,83071,77244,92.99,-2
 107,Blaxland,NSW,95354,76911,80.66,-12.09
-310,Bonner,QLD,92684,82190,88.68,-6.65
+310,Bonner,QLD,92684,82192,88.68,-6.65
 182,Boothby,SA,97898,88455,90.35,-5.33
 155,Bowman,QLD,91892,83481,90.85,-4.39
 193,Braddon,TAS,71574,67492,94.3,-1.98
-108,Bradfield,NSW,97251,80183,82.45,-11.6
+108,Bradfield,NSW,97251,80917,83.2,-10.85
 235,Brand,WA,88203,80661,91.45,-1.82
 156,Brisbane,QLD,92222,80263,87.03,-8.18
 201,Bruce,VIC,88171,76409,86.66,-7.92
@@ -35,7 +35,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 208,Corio,VIC,91974,83377,90.65,-4.77
 237,Cowan,WA,89546,82729,92.39,-2.2
 113,Cowper,NSW,94645,81650,86.27,-8.81
-114,Cunningham,NSW,100698,91823,91.19,-4.94
+114,Cunningham,NSW,100698,91833,91.2,-4.93
 238,Curtin,WA,90400,76979,85.15,-8.73
 158,Dawson,QLD,94553,85716,90.65,-4.76
 209,Deakin,VIC,87744,77209,87.99,-7.9
@@ -43,7 +43,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 252,Dickson,QLD,90111,81315,90.24,-5.13
 115,Dobell,NSW,93661,85160,90.92,-3.92
 210,Dunkley,VIC,95324,87626,91.92,-3.31
-312,Durack,WA,85782,67497,78.68,-8.48
+312,Durack,WA,85782,67485,78.67,-8.49
 117,Eden-Monaro,NSW,96465,90581,93.9,-2
 159,Fadden,QLD,85236,76926,90.25,-1.99
 160,Fairfax,QLD,89743,82371,91.79,-1.33
@@ -82,7 +82,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 220,Jagajaga,VIC,95202,85246,89.54,-6.18
 167,Kennedy,QLD,94465,79988,84.67,-9.23
 127,Kingsford Smith,NSW,97747,78568,80.38,-13.89
-186,Kingston,SA,102296,93631,91.53,-4.44
+186,Kingston,SA,102296,94603,92.48,-3.49
 221,Kooyong,VIC,89659,77340,86.26,-8.54
 223,La Trobe,VIC,97960,91574,93.48,-2.36
 222,Lalor,VIC,117023,100368,85.77,-9.65
@@ -102,7 +102,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 225,Maribyrnong,VIC,88412,75581,85.49,-8.66
 188,Mayo,SA,101565,90743,89.34,-6.54
 226,McEwen,VIC,115783,96370,83.23,-13.01
-315,McMahon,NSW,96058,80885,84.2,-9.33
+315,McMahon,NSW,96058,84819,88.3,-5.23
 227,McMillan,VIC,93323,83855,89.85,-6.03
 171,McPherson,QLD,90090,78473,87.11,-7.62
 228,Melbourne,VIC,102879,80324,78.08,-13.42
@@ -125,14 +125,14 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 244,Pearce,WA,89526,75404,84.23,-8.95
 245,Perth,WA,91904,75766,82.44,-10.75
 175,Petrie,QLD,86683,78057,90.05,-4.05
-189,Port Adelaide,SA,104308,95801,91.84,-3.03
+189,Port Adelaide,SA,104308,96704,92.71,-2.16
 176,Rankin,QLD,94602,83980,88.77,-4.94
 144,Reid,NSW,95873,83684,87.29,-5.85
 145,Richmond,NSW,92384,77908,84.33,-10.16
 250,Riverina,NSW,98594,87241,88.49,-7.26
 146,Robertson,NSW,96593,89633,92.79,-3.32
 177,Ryan,QLD,98224,88066,89.66,-6.09
-232,Scullin,VIC,90822,77181,84.98,-10.72
+232,Scullin,VIC,90822,77193,84.99,-10.71
 148,Shortland,NSW,94245,83560,88.66,-7.62
 307,Solomon,NT,59879,52859,88.28,-3.78
 246,Stirling,WA,91728,82620,90.07,-3.53
@@ -141,7 +141,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 149,Sydney,NSW,95277,65424,68.67,-23.14
 248,Tangney,WA,92176,83575,90.67,-4.41
 150,Throsby,NSW,95874,84779,88.43,-7.43
-191,Wakefield,SA,100209,91072,90.88,-4.25
+191,Wakefield,SA,100209,92081,91.89,-3.24
 233,Wannon,VIC,92264,83100,90.07,-6.33
 151,Warringah,NSW,96706,82190,84.99,-9.84
 251,Watson,NSW,97765,77430,79.2,-13.04
