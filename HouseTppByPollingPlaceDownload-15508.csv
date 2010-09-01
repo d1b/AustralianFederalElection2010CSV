@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T16:42:23 Cycle:ec5c6e3b-4567-4545-ad3c-b786e3e5cac1 Created:2010-09-01T16:20:04 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T16:57:56 Cycle:6b7a79ad-a372-4bb1-b0da-0349ff6be970 Created:2010-09-01T16:35:09 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -68,11 +68,11 @@ ACT,102,Fraser,8814,Florey,1274,63.38,736,36.62,2010,-2.66
 ACT,102,Fraser,34238,Fraser Central,1930,62.46,1160,37.54,3090,-0.4
 ACT,102,Fraser,8816,Giralang,1209,63.8,686,36.2,1895,-5.1
 ACT,102,Fraser,34240,Gungahlin,1492,55.04,1219,44.96,2711,6.32
-ACT,102,Fraser,38504,Gungahlin PPVC,1883,52.44,1708,47.56,3591,-13.45
+ACT,102,Fraser,38504,Gungahlin PPVC,1884,52.44,1709,47.56,3593,-13.45
 ACT,102,Fraser,8819,Hall,137,51.7,128,48.3,265,5.38
-ACT,102,Fraser,47681,Harrison,1069,52.66,961,47.34,2030,2.37
-ACT,102,Fraser,8821,Holt,1428,53.56,1238,46.44,2666,-11.63
-ACT,102,Fraser,8822,Jervis Bay,30,53.57,26,46.43,56,1.04
+ACT,102,Fraser,47681,Harrison,1087,53.34,951,46.66,2038,3.05
+ACT,102,Fraser,8821,Holt,1748,65.54,919,34.46,2667,0.35
+ACT,102,Fraser,8822,Jervis Bay,33,58.93,23,41.07,56,6.4
 ACT,102,Fraser,8823,Kaleen,1736,63.99,977,36.01,2713,-0.67
 ACT,102,Fraser,8824,Kaleen South,1081,62.56,647,37.44,1728,-4.8
 ACT,102,Fraser,8825,Latham,1487,64.93,803,35.07,2290,-0.68
@@ -1681,14 +1681,14 @@ NSW,131,Macarthur,33738,Cawdor (Macarthur),119,25.76,343,74.24,462,-1.38
 NSW,131,Macarthur,1677,Cobbitty,149,24.27,465,75.73,614,-3.14
 NSW,131,Macarthur,31468,Currans Hill,1137,52.47,1030,47.53,2167,-1.48
 NSW,131,Macarthur,30122,Divisional Office (PREPOLL),123,42.27,168,57.73,291,-10.87
-NSW,131,Macarthur,1680,Douglas Park,214,38.7,339,61.3,553,-7.69
+NSW,131,Macarthur,1680,Douglas Park,214,38.63,340,61.37,554,-7.76
 NSW,131,Macarthur,34364,Glen Alpine,1169,41.91,1620,58.09,2789,-5.42
 NSW,131,Macarthur,33100,Harrington Park,943,37.87,1547,62.13,2490,-3.85
 NSW,131,Macarthur,58618,Harrington Park Central,359,37.79,591,62.21,950,-3.24
 NSW,131,Macarthur,878,Kemps Creek (Macarthur),242,30.52,551,69.48,793,-8.12
 NSW,131,Macarthur,2921,Kentlyn,385,44.15,487,55.85,872,-0.07
 NSW,131,Macarthur,2922,Leumeah,861,60.72,557,39.28,1418,-5
-NSW,131,Macarthur,33668,Leumeah North (Macarthur),323,54.29,272,45.71,595,-3.35
+NSW,131,Macarthur,33668,Leumeah North (Macarthur),322,54.21,272,45.79,594,-3.43
 NSW,131,Macarthur,883,Luddenham,154,30.26,355,69.74,509,-5.27
 NSW,131,Macarthur,1686,Menangle Park,125,30.34,287,69.66,412,-5.5
 NSW,131,Macarthur,11991,Mount Annan,927,45.04,1131,54.96,2058,1.98
@@ -2960,20 +2960,20 @@ NSW,251,Watson,992,Campsie South,682,62.51,409,37.49,1091,-13.97
 NSW,251,Watson,993,Canterbury,348,63.62,199,36.38,547,-13.72
 NSW,251,Watson,994,Canterbury Hospital,510,64.07,286,35.93,796,-6.62
 NSW,251,Watson,2652,Canterbury South,837,64.29,465,35.71,1302,-11.31
-NSW,251,Watson,165,Chullora,930,58.05,672,41.95,1602,-6.19
+NSW,251,Watson,165,Chullora,936,58.25,671,41.75,1607,-5.99
 NSW,251,Watson,58426,Clemton Park (Watson),592,63.79,336,36.21,928,-7.18
 NSW,251,Watson,1529,Croydon Park,1478,54.68,1225,45.32,2703,-6.66
 NSW,251,Watson,30402,Divisional Office (PREPOLL),149,65.07,80,34.93,229,0.58
 NSW,251,Watson,1532,Enfield,1126,55.6,899,44.4,2025,-8.82
 NSW,251,Watson,58680,Enfield PPVC,888,52.67,798,47.33,1686,-11.62
 NSW,251,Watson,999,Enfield South,705,51.12,674,48.88,1379,-13.24
-NSW,251,Watson,1000,Enfield West,654,48.37,698,51.63,1352,-10.3
+NSW,251,Watson,1000,Enfield West,708,50.39,697,49.61,1405,-8.28
 NSW,251,Watson,171,Greenacre,1941,60.71,1256,39.29,3197,-8.07
 NSW,251,Watson,170,Greenacre Central,851,60.27,561,39.73,1412,-1.03
 NSW,251,Watson,47687,Greenacre North,592,63.18,345,36.82,937,-1.95
 NSW,251,Watson,33131,Greenacre West,547,58.94,381,41.06,928,-11.88
 NSW,251,Watson,1001,Harcourt,1870,62.5,1122,37.5,2992,-10.02
-NSW,251,Watson,1002,Harcourt Central,360,61.86,222,38.14,582,-20.31
+NSW,251,Watson,1002,Harcourt Central,363,62.05,222,37.95,585,-20.12
 NSW,251,Watson,1003,Harcourt North,726,51.09,695,48.91,1421,-11.8
 NSW,251,Watson,58427,Kingsgrove North (Watson),132,65.67,69,34.33,201,-3.1
 NSW,251,Watson,1005,Lakemba,1309,74.21,455,25.79,1764,-4.63
@@ -2985,12 +2985,12 @@ NSW,251,Watson,31837,Mount Lewis,813,54.06,691,45.94,1504,-12.19
 NSW,251,Watson,176,Punchbowl (Watson),1617,64.17,903,35.83,2520,-9.02
 NSW,251,Watson,175,Punchbowl Central,901,55.55,721,44.45,1622,-10.13
 NSW,251,Watson,33601,Special Hospital Team 1,29,58,21,42,50,4.67
-NSW,251,Watson,58413,Strathfield (Watson),116,42.34,158,57.66,274,-18.31
+NSW,251,Watson,58413,Strathfield (Watson),116,42.49,157,57.51,273,-18.16
 NSW,251,Watson,1546,Strathfield Central (Watson),505,29.71,1195,70.29,1700,-11.9
-NSW,251,Watson,1548,Strathfield South,920,50.69,895,49.31,1815,-10.17
+NSW,251,Watson,1548,Strathfield South,913,50.39,899,49.61,1812,-10.47
 NSW,251,Watson,1549,Strathfield West (Watson),207,26.99,560,73.01,767,-9.93
 NSW,251,Watson,14175,Sydney (Watson),71,56.8,54,43.2,125,-15.39
-NSW,251,Watson,178,Wiley Park East,852,72.82,318,27.18,1170,-10.76
+NSW,251,Watson,178,Wiley Park East,836,72.7,314,27.3,1150,-10.88
 NSW,251,Watson,179,Wiley Park West,1463,71.26,590,28.74,2053,-11.43
 NSW,152,Wentworth,2854,Bellevue Hill,657,26.6,1813,73.4,2470,-9.25
 NSW,152,Wentworth,58469,Bellevue Hill North,152,18.31,678,81.69,830,-17.58
@@ -3507,7 +3507,7 @@ QLD,158,Dawson,46717,Proserpine PPVC,0,0,0,0,0,-47.51
 QLD,158,Dawson,5363,Queens Beach,456,55.41,367,44.59,823,-0.5
 QLD,158,Dawson,5371,Seaforth,333,43.76,428,56.24,761,-8.62
 QLD,158,Dawson,5374,Slade Point,952,58.73,669,41.27,1621,-6.12
-QLD,158,Dawson,5343,South Mackay,1206,57.48,892,42.52,2098,-5.06
+QLD,158,Dawson,5343,South Mackay,1237,57.4,918,42.6,2155,-5.14
 QLD,158,Dawson,32653,South Molle PPVC,0,0,0,0,0,0
 QLD,158,Dawson,32654,Special Hospital Team 1,43,48.31,46,51.69,89,4.31
 QLD,158,Dawson,32655,Special Hospital Team 2,20,74.07,7,25.93,27,28.62
@@ -4179,8 +4179,8 @@ QLD,168,Leichhardt,11640,Diwan,112,47.46,124,52.54,236,-6.11
 QLD,168,Leichhardt,5948,Earlville,1164,41.28,1656,58.72,2820,-7.37
 QLD,168,Leichhardt,5951,Edge Hill,1607,48.86,1682,51.14,3289,-3.98
 QLD,168,Leichhardt,55860,Edmonton (Leichhardt),409,47.95,444,52.05,853,-7.45
-QLD,168,Leichhardt,5957,Freshwater,622,48.07,672,51.93,1294,-1.33
-QLD,168,Leichhardt,5965,Holloways Beach,491,48.95,512,51.05,1003,-8.18
+QLD,168,Leichhardt,5957,Freshwater,624,48.19,671,51.81,1295,-1.21
+QLD,168,Leichhardt,5965,Holloways Beach,494,49.01,514,50.99,1008,-8.12
 QLD,168,Leichhardt,5966,Hope Vale,89,38.03,145,61.97,234,-32.42
 QLD,168,Leichhardt,5967,Horn Island,92,55.42,74,44.58,166,-16.17
 QLD,168,Leichhardt,5944,Injinoo,70,58.33,50,41.67,120,-24.82
@@ -4191,18 +4191,18 @@ QLD,168,Leichhardt,5976,Lockhart River,102,48.8,107,51.2,209,-36.36
 QLD,168,Leichhardt,5978,Machans Beach,308,63.9,174,36.1,482,-3.09
 QLD,168,Leichhardt,5937,Manunda,674,48.7,710,51.3,1384,-7.57
 QLD,168,Leichhardt,5981,Miallo,120,35.82,215,64.18,335,-8.22
-QLD,168,Leichhardt,5926,Mooroobool,947,48.17,1019,51.83,1966,-8.3
+QLD,168,Leichhardt,5926,Mooroobool,954,48.16,1027,51.84,1981,-8.31
 QLD,168,Leichhardt,5985,Mossman,710,44.43,888,55.57,1598,-7.43
 QLD,168,Leichhardt,6008,Napranum,187,62.33,113,37.67,300,-16.15
 QLD,168,Leichhardt,5991,Parramatta Park,1489,54.24,1256,45.76,2745,-2.93
 QLD,168,Leichhardt,5953,Pormpuraaw,148,42.05,204,57.95,352,-38.09
-QLD,168,Leichhardt,5992,Port Douglas,700,44.67,867,55.33,1567,-3.12
+QLD,168,Leichhardt,5992,Port Douglas,695,44.07,882,55.93,1577,-3.72
 QLD,168,Leichhardt,32676,Port Douglas PPVC,135,38.35,217,61.65,352,-11.1
 QLD,168,Leichhardt,5993,Redlynch,1038,40.88,1501,59.12,2539,-5.66
 QLD,168,Leichhardt,32469,Remote Mobile Team 1,513,55.4,413,44.6,926,-23.89
 QLD,168,Leichhardt,32470,Remote Mobile Team 2,532,50.24,527,49.76,1059,-29.01
 QLD,168,Leichhardt,32471,Remote Mobile Team 3,45,60,30,40,75,-19.52
-QLD,168,Leichhardt,46395,Smithfield,835,44.23,1053,55.77,1888,-9.2
+QLD,168,Leichhardt,46395,Smithfield,836,44.26,1053,55.74,1889,-9.17
 QLD,168,Leichhardt,32472,Special Hospital Team 1,67,49.26,69,50.74,136,-11.61
 QLD,168,Leichhardt,34226,Special Hospital Team 2,30,55.56,24,44.44,54,-3.7
 QLD,168,Leichhardt,6001,Stratford,456,51.35,432,48.65,888,-2.25
@@ -4421,7 +4421,7 @@ QLD,170,Maranoa,5505,Perseverance,73,34.93,136,65.07,209,-10.96
 QLD,170,Maranoa,6470,Pilton,11,10.19,97,89.81,108,-7.99
 QLD,170,Maranoa,6471,Pratten,30,31.58,65,68.42,95,7.34
 QLD,170,Maranoa,6205,Quilpie,57,18.15,257,81.85,314,-13.67
-QLD,170,Maranoa,58804,Remote Mobile Team 1,89,22.42,308,77.58,397,-10.91
+QLD,170,Maranoa,58804,Remote Mobile Team 1,88,22.22,308,77.78,396,-11.11
 QLD,170,Maranoa,6209,Roma,490,26.78,1340,73.22,1830,-5.52
 QLD,170,Maranoa,47770,Roma Interstate PPVC,0,0,0,0,0,0
 QLD,170,Maranoa,47712,Roma PPVC,44,19.73,179,80.27,223,-41.29
@@ -5210,7 +5210,7 @@ SA,183,Grey,7407,Port Clinton,138,47.59,152,52.41,290,3.54
 SA,183,Grey,6949,Port Germein,124,44.29,156,55.71,280,-7.84
 SA,183,Grey,6950,Port Kenny,23,17.29,110,82.71,133,-3.69
 SA,183,Grey,6951,Port Lincoln,718,34.84,1343,65.16,2061,0.14
-SA,183,Grey,6952,Port Lincoln Central,548,25.81,1575,74.19,2123,-15.26
+SA,183,Grey,6952,Port Lincoln Central,554,26.19,1561,73.81,2115,-14.88
 SA,183,Grey,13113,Port Lincoln PPVC,322,29.7,762,70.3,1084,-21.89
 SA,183,Grey,6953,Port Lincoln South,527,49.76,532,50.24,1059,-8.68
 SA,183,Grey,6954,Port Neill,33,20.37,129,79.63,162,-1.53
@@ -7867,7 +7867,7 @@ VIC,231,Murray,4127,Yarroweyah,91,16.73,453,83.27,544,-3.53
 VIC,231,Murray,4829,Yielima,27,20.93,102,79.07,129,-3.86
 VIC,232,Scullin,4308,Apollo Parkways,1544,59.13,1067,40.87,2611,6.1
 VIC,232,Scullin,33109,Blossom Park,2303,69.12,1029,30.88,3332,1.73
-VIC,232,Scullin,30223,Divisional Office (PREPOLL),745,67.3,362,32.7,1107,0.76
+VIC,232,Scullin,30223,Divisional Office (PREPOLL),746,67.27,363,32.73,1109,0.73
 VIC,232,Scullin,4321,Epping,1922,73.41,696,26.59,2618,0.5
 VIC,232,Scullin,4322,Epping East,2012,75.36,658,24.64,2670,3.36
 VIC,232,Scullin,11649,Epping South,1854,79.37,482,20.63,2336,1.45
@@ -8342,7 +8342,7 @@ WA,312,Durack,38316,South Hedland PPVC,207,40.12,309,59.88,516,-3.97
 WA,312,Durack,47096,Special Hospital Team 1,27,50.94,26,49.06,53,50.94
 WA,312,Durack,47097,Special Hospital Team 2,9,64.29,5,35.71,14,64.29
 WA,312,Durack,47098,Special Hospital Team 3,14,45.16,17,54.84,31,-54.84
-WA,312,Durack,8100,Tammin,67,23.84,214,76.16,281,-10.71
+WA,312,Durack,8100,Tammin,47,25.41,138,74.59,185,-9.14
 WA,312,Durack,8101,Three Springs,74,24.83,224,75.17,298,1.51
 WA,312,Durack,7891,Tom Price,358,37.84,588,62.16,946,-10.11
 WA,312,Durack,58647,Tom Price PPVC,0,0,0,0,0,0
@@ -8720,7 +8720,7 @@ WA,244,Pearce,32575,Ellenbrook,1492,42.96,1981,57.04,3473,0.96
 WA,244,Pearce,46519,Ellenbrook North,1210,44.35,1518,55.65,2728,0.37
 WA,244,Pearce,7933,Gidgegannup,494,36.84,847,63.16,1341,-1.25
 WA,244,Pearce,7934,Gingin,188,27.53,495,72.47,683,-0.96
-WA,244,Pearce,7935,Glen Forrest,621,44.52,774,55.48,1395,0.31
+WA,244,Pearce,7935,Glen Forrest,618,44.4,774,55.6,1392,0.19
 WA,244,Pearce,8028,Grass Valley,31,21.99,110,78.01,141,-3.51
 WA,244,Pearce,8029,Greenhills,21,17.07,102,82.93,123,-3.38
 WA,244,Pearce,7936,Greenmount,711,43.62,919,56.38,1630,-0.75
