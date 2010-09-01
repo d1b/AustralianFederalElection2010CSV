@@ -1,11 +1,11 @@
-2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T13:36:38 Cycle:1d53ba4f-9368-4613-ac94-16f9a93056a1 Created:2010-09-01T13:19:42 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T13:52:06 Cycle:273894e3-9781-4a26-bcab-195090ac66f6 Created:2010-09-01T13:34:48 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 179,Adelaide,SA,98526,79181,80.37,-14.22
 197,Aston,VIC,93448,86341,92.39,-4
 198,Ballarat,VIC,97802,89317,91.32,-4.77
 103,Banks,NSW,98762,87439,88.54,-5.94
-180,Barker,SA,104888,90736,86.51,-9.46
-104,Barton,NSW,95243,78375,82.29,-12.76
+180,Barker,SA,104888,90737,86.51,-9.46
+104,Barton,NSW,95243,80486,84.51,-10.54
 192,Bass,TAS,71689,68315,95.29,-1.01
 199,Batman,VIC,89160,73251,82.16,-12.04
 200,Bendigo,VIC,100701,91262,90.63,-5.4
@@ -13,7 +13,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 106,Berowra,NSW,95115,82442,86.68,-8.67
 304,Blair,QLD,83071,77243,92.98,-2.01
 107,Blaxland,NSW,95354,76911,80.66,-12.09
-310,Bonner,QLD,92684,79900,86.21,-9.12
+310,Bonner,QLD,92684,82190,88.68,-6.65
 182,Boothby,SA,97898,88455,90.35,-5.33
 155,Bowman,QLD,91892,83481,90.85,-4.39
 193,Braddon,TAS,71574,67492,94.3,-1.98
@@ -24,7 +24,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 109,Calare,NSW,98504,89365,90.72,-5.7
 203,Calwell,VIC,101314,85668,84.56,-10.28
 101,Canberra,ACT,124215,110314,88.81,-7.2
-236,Canning,WA,90107,79782,88.54,-4.58
+236,Canning,WA,90107,80784,89.65,-3.47
 157,Capricornia,QLD,91962,79521,86.47,-8.93
 204,Casey,VIC,92357,84373,91.36,-4.86
 110,Charlton,NSW,94480,80715,85.43,-10.57
@@ -41,7 +41,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 209,Deakin,VIC,87744,77209,87.99,-7.9
 194,Denison,TAS,71349,66724,93.52,-2.01
 252,Dickson,QLD,90111,81315,90.24,-5.13
-115,Dobell,NSW,93661,83748,89.42,-5.42
+115,Dobell,NSW,93661,85160,90.92,-3.92
 210,Dunkley,VIC,95324,87626,91.92,-3.31
 312,Durack,WA,85782,67497,78.68,-8.48
 117,Eden-Monaro,NSW,96465,88587,91.83,-4.07
@@ -53,7 +53,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 311,Flynn,QLD,91377,77786,85.13,-9.98
 162,Forde,QLD,82558,74568,90.32,-2.37
 239,Forrest,WA,89636,82153,91.65,-2.85
-119,Fowler,NSW,95561,80753,84.5,-8.84
+119,Fowler,NSW,95561,83019,86.88,-6.46
 195,Franklin,TAS,71090,67519,94.98,-0.88
 102,Fraser,ACT,123444,110860,89.81,-5.86
 240,Fremantle,WA,93341,86164,92.31,-1.47
@@ -72,13 +72,13 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 215,Higgins,VIC,90398,70764,78.28,-15.49
 185,Hindmarsh,SA,100245,89704,89.48,-5.89
 166,Hinkler,QLD,91397,84776,92.76,-1.71
-216,Holt,VIC,108893,92280,84.74,-10.69
+216,Holt,VIC,108893,92285,84.75,-10.68
 217,Hotham,VIC,89581,70588,78.8,-15.99
 124,Hughes,NSW,97995,85946,87.7,-8.35
 125,Hume,NSW,97698,85136,87.14,-8.66
 126,Hunter,NSW,91516,81822,89.41,-6.55
 218,Indi,VIC,92956,80185,86.26,-9.54
-219,Isaacs,VIC,102790,82413,80.18,-15
+219,Isaacs,VIC,102790,82416,80.18,-15
 220,Jagajaga,VIC,95202,84442,88.7,-7.02
 167,Kennedy,QLD,94465,79988,84.67,-9.23
 127,Kingsford Smith,NSW,97747,78568,80.38,-13.89
@@ -93,10 +93,10 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 302,Longman,QLD,87062,79390,91.19,-2.09
 130,Lyne,NSW,92565,84484,91.27,-4.32
 196,Lyons,TAS,72865,68921,94.59,-0.25
-131,Macarthur,NSW,90059,81522,90.52,-4.44
+131,Macarthur,NSW,90059,81523,90.52,-4.44
 132,Mackellar,NSW,98556,82867,84.08,-11.2
 133,Macquarie,NSW,97560,90286,92.54,-3.37
-187,Makin,SA,96263,89760,93.24,-2.43
+187,Makin,SA,96263,90096,93.59,-2.08
 224,Mallee,VIC,89840,78773,87.68,-8.21
 170,Maranoa,QLD,97957,91451,93.36,-1.56
 225,Maribyrnong,VIC,88412,75581,85.49,-8.66
@@ -109,7 +109,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 230,Melbourne Ports,VIC,97765,73839,75.53,-16.19
 229,Menzies,VIC,90966,77493,85.19,-10.96
 134,Mitchell,NSW,93588,83325,89.03,-5.94
-172,Moncrieff,QLD,89087,76667,86.06,-8.51
+172,Moncrieff,QLD,89087,78151,87.72,-6.85
 242,Moore,WA,92295,83406,90.37,-3.39
 173,Moreton,QLD,92733,82444,88.9,-6.12
 231,Murray,VIC,90218,79364,87.97,-7.75
@@ -119,11 +119,11 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 243,O'Connor,WA,92875,83525,89.93,-3.12
 174,Oxley,QLD,82782,72075,87.07,-6.34
 138,Page,NSW,94360,84007,89.03,-7.06
-139,Parkes,NSW,100169,84409,84.27,-12.25
+139,Parkes,NSW,100169,86402,86.26,-10.26
 140,Parramatta,NSW,94014,83471,88.79,-3.8
 249,Paterson,NSW,92149,82994,90.07,-5.66
 244,Pearce,WA,89526,75404,84.23,-8.95
-245,Perth,WA,91904,73249,79.7,-13.49
+245,Perth,WA,91904,75766,82.44,-10.75
 175,Petrie,QLD,86683,78053,90.04,-4.06
 189,Port Adelaide,SA,104308,95801,91.84,-3.03
 176,Rankin,QLD,94602,83980,88.77,-4.94
@@ -133,10 +133,10 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 146,Robertson,NSW,96593,89633,92.79,-3.32
 177,Ryan,QLD,98224,88066,89.66,-6.09
 232,Scullin,VIC,90822,77181,84.98,-10.72
-148,Shortland,NSW,94245,83332,88.42,-7.86
+148,Shortland,NSW,94245,83560,88.66,-7.62
 307,Solomon,NT,59879,52859,88.28,-3.78
 246,Stirling,WA,91728,82620,90.07,-3.53
-190,Sturt,SA,99061,81882,82.66,-12.92
+190,Sturt,SA,99061,81881,82.66,-12.92
 247,Swan,WA,90766,79673,87.78,-5.22
 149,Sydney,NSW,95277,65424,68.67,-23.14
 248,Tangney,WA,92176,83575,90.67,-4.41
@@ -146,7 +146,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 151,Warringah,NSW,96706,82158,84.96,-9.87
 251,Watson,NSW,97765,77430,79.2,-13.04
 152,Wentworth,NSW,101464,74506,73.43,-19.1
-153,Werriwa,NSW,90994,78196,85.94,-7.96
+153,Werriwa,NSW,90994,79892,87.8,-6.1
 178,Wide Bay,QLD,92636,78914,85.19,-9.34
 234,Wills,VIC,98599,77936,79.04,-14.63
 316,Wright,QLD,85304,74515,87.35,-6.23

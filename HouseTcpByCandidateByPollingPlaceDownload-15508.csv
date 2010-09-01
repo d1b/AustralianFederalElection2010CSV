@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T13:37:00 Cycle:1d53ba4f-9368-4613-ac94-16f9a93056a1 Created:2010-09-01T13:19:42 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T13:52:28 Cycle:273894e3-9781-4a26-bcab-195090ac66f6 Created:2010-09-01T13:34:48 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 ACT,101,Canberra,8829,Barton,20863,JONES,Giulia,1,N,N,LP,Liberal,793,-2.61
 ACT,101,Canberra,8829,Barton,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1397,2.61
@@ -2128,8 +2128,8 @@ NSW,119,Fowler,173,Lansvale East,21665,DANG,Thomas,2,N,N,LP,Liberal,562,14.21
 NSW,119,Fowler,173,Lansvale East,21261,HAYES,Chris,3,N,Y,ALP,Labor,607,-14.21
 NSW,119,Fowler,57099,Liverpool (Fowler),21665,DANG,Thomas,2,N,N,LP,Liberal,131,7.66
 NSW,119,Fowler,57099,Liverpool (Fowler),21261,HAYES,Chris,3,N,Y,ALP,Labor,230,-7.66
-NSW,119,Fowler,58778,Liverpool FOWLER PPVC,21665,DANG,Thomas,2,N,N,LP,Liberal,0,-33.64
-NSW,119,Fowler,58778,Liverpool FOWLER PPVC,21261,HAYES,Chris,3,N,Y,ALP,Labor,0,-66.36
+NSW,119,Fowler,58778,Liverpool FOWLER PPVC,21665,DANG,Thomas,2,N,N,LP,Liberal,915,13.12
+NSW,119,Fowler,58778,Liverpool FOWLER PPVC,21261,HAYES,Chris,3,N,Y,ALP,Labor,1042,-13.12
 NSW,119,Fowler,882,Liverpool West (Fowler),21665,DANG,Thomas,2,N,N,LP,Liberal,516,8.08
 NSW,119,Fowler,882,Liverpool West (Fowler),21261,HAYES,Chris,3,N,Y,ALP,Labor,793,-8.08
 NSW,119,Fowler,884,Marsden Road,21665,DANG,Thomas,2,N,N,LP,Liberal,655,3.37
@@ -3352,8 +3352,8 @@ NSW,131,Macarthur,2906,Campbelltown North,21596,BLEASDALE,Nick,2,N,N,ALP,Labor,4
 NSW,131,Macarthur,2906,Campbelltown North,21649,MATHESON,Russell,4,N,N,LP,Liberal,366,2.6
 NSW,131,Macarthur,1674,Carrington Hospital,21596,BLEASDALE,Nick,2,N,N,ALP,Labor,194,1.53
 NSW,131,Macarthur,1674,Carrington Hospital,21649,MATHESON,Russell,4,N,N,LP,Liberal,482,-1.53
-NSW,131,Macarthur,1675,Catherine Field,21596,BLEASDALE,Nick,2,N,N,ALP,Labor,246,-3.04
-NSW,131,Macarthur,1675,Catherine Field,21649,MATHESON,Russell,4,N,N,LP,Liberal,559,3.04
+NSW,131,Macarthur,1675,Catherine Field,21596,BLEASDALE,Nick,2,N,N,ALP,Labor,243,-3
+NSW,131,Macarthur,1675,Catherine Field,21649,MATHESON,Russell,4,N,N,LP,Liberal,551,3
 NSW,131,Macarthur,33738,Cawdor (Macarthur),21596,BLEASDALE,Nick,2,N,N,ALP,Labor,119,-1.38
 NSW,131,Macarthur,33738,Cawdor (Macarthur),21649,MATHESON,Russell,4,N,N,LP,Liberal,343,1.38
 NSW,131,Macarthur,1677,Cobbitty,21596,BLEASDALE,Nick,2,N,N,ALP,Labor,146,-3.75
@@ -6732,8 +6732,8 @@ QLD,157,Capricornia,46723,Clermont Interstate PPVC,21456,LIVERMORE,Kirsten,5,N,Y
 QLD,157,Capricornia,46723,Clermont Interstate PPVC,20817,LANDRY,Michelle,6,N,N,LNQ,Liberal National Party of Queensland,0,0
 QLD,157,Capricornia,46722,Clermont PPVC,21456,LIVERMORE,Kirsten,5,N,Y,ALP,Australian Labor Party,170,7.83
 QLD,157,Capricornia,46722,Clermont PPVC,20817,LANDRY,Michelle,6,N,N,LNQ,Liberal National Party of Queensland,213,-7.83
-QLD,157,Capricornia,5303,Collinsville,21456,LIVERMORE,Kirsten,5,N,Y,ALP,Australian Labor Party,549,1.29
-QLD,157,Capricornia,5303,Collinsville,20817,LANDRY,Michelle,6,N,N,LNQ,Liberal National Party of Queensland,105,-1.29
+QLD,157,Capricornia,5303,Collinsville,21456,LIVERMORE,Kirsten,5,N,Y,ALP,Australian Labor Party,545,0.94
+QLD,157,Capricornia,5303,Collinsville,20817,LANDRY,Michelle,6,N,N,LNQ,Liberal National Party of Queensland,107,-0.94
 QLD,157,Capricornia,46725,Collinsville Interstate PPVC,21456,LIVERMORE,Kirsten,5,N,Y,ALP,Australian Labor Party,0,0
 QLD,157,Capricornia,46725,Collinsville Interstate PPVC,20817,LANDRY,Michelle,6,N,N,LNQ,Liberal National Party of Queensland,0,0
 QLD,157,Capricornia,46724,Collinsville PPVC,21456,LIVERMORE,Kirsten,5,N,Y,ALP,Australian Labor Party,198,43.65
@@ -9094,16 +9094,16 @@ QLD,172,Moncrieff,6092,Nerang South,21707,HOUGH,Robert,1,N,N,ALP,Australian Labo
 QLD,172,Moncrieff,6092,Nerang South,20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,1741,3.32
 QLD,172,Moncrieff,32516,Nerang West (Moncrieff),21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,1253,-0.47
 QLD,172,Moncrieff,32516,Nerang West (Moncrieff),20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,1652,0.47
-QLD,172,Moncrieff,37827,Robina West (Moncrieff),21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,41,3.28
-QLD,172,Moncrieff,37827,Robina West (Moncrieff),20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,77,-3.28
+QLD,172,Moncrieff,37827,Robina West (Moncrieff),21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,40,2.72
+QLD,172,Moncrieff,37827,Robina West (Moncrieff),20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,77,-2.72
 QLD,172,Moncrieff,6289,Southport (Moncrieff),21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,766,-3.55
 QLD,172,Moncrieff,6289,Southport (Moncrieff),20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,1147,3.55
 QLD,172,Moncrieff,32562,Southport MONCRIEFF PPVC,21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,1595,-6.71
 QLD,172,Moncrieff,32562,Southport MONCRIEFF PPVC,20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,3928,6.71
 QLD,172,Moncrieff,12029,Southport North,21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,211,-8.95
 QLD,172,Moncrieff,12029,Southport North,20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,321,8.95
-QLD,172,Moncrieff,6292,Southport West,21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,531,-4
-QLD,172,Moncrieff,6292,Southport West,20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,756,4
+QLD,172,Moncrieff,6292,Southport West,21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,530,-4.14
+QLD,172,Moncrieff,6292,Southport West,20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,759,4.14
 QLD,172,Moncrieff,32564,Special Hospital Team 1,21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,35,-1.49
 QLD,172,Moncrieff,32564,Special Hospital Team 1,20758,CIOBO,Steven,3,N,Y,LNQ,Liberal National Party of Queensland,108,1.49
 QLD,172,Moncrieff,32565,Special Hospital Team 2,21707,HOUGH,Robert,1,N,N,ALP,Australian Labor Party,22,-4.21
@@ -10038,8 +10038,8 @@ SA,180,Barker,6759,Mount Gambier North,21067,McDONNELL,Simone,1,N,N,ALP,Australi
 SA,180,Barker,6759,Mount Gambier North,20829,SECKER,Patrick,3,N,Y,LP,Liberal,602,1.53
 SA,180,Barker,6744,Mount Gambier Park,21067,McDONNELL,Simone,1,N,N,ALP,Australian Labor Party,1058,1
 SA,180,Barker,6744,Mount Gambier Park,20829,SECKER,Patrick,3,N,Y,LP,Liberal,1245,-1
-SA,180,Barker,34268,Mount Gambier PPVC,21067,McDONNELL,Simone,1,N,N,ALP,Australian Labor Party,1455,-12.77
-SA,180,Barker,34268,Mount Gambier PPVC,20829,SECKER,Patrick,3,N,Y,LP,Liberal,2328,12.77
+SA,180,Barker,34268,Mount Gambier PPVC,21067,McDONNELL,Simone,1,N,N,ALP,Australian Labor Party,1461,-12.62
+SA,180,Barker,34268,Mount Gambier PPVC,20829,SECKER,Patrick,3,N,Y,LP,Liberal,2323,12.62
 SA,180,Barker,6760,Mount Gambier West,21067,McDONNELL,Simone,1,N,N,ALP,Australian Labor Party,1490,-1.93
 SA,180,Barker,6760,Mount Gambier West,20829,SECKER,Patrick,3,N,Y,LP,Liberal,1614,1.93
 SA,180,Barker,6800,Mundulla,21067,McDONNELL,Simone,1,N,N,ALP,Australian Labor Party,63,-1.9
@@ -11152,8 +11152,8 @@ SA,190,Sturt,6870,Glenunga,20991,SARRE,Rick,2,N,N,ALP,Australian Labor Party,923
 SA,190,Sturt,6870,Glenunga,20834,PYNE,Christopher,4,N,Y,LP,Liberal,1499,-0.23
 SA,190,Sturt,7296,Glynde,20991,SARRE,Rick,2,N,N,ALP,Australian Labor Party,904,-5.89
 SA,190,Sturt,7296,Glynde,20834,PYNE,Christopher,4,N,Y,LP,Liberal,913,5.89
-SA,190,Sturt,38285,Glynde PPVC,20991,SARRE,Rick,2,N,N,ALP,Australian Labor Party,1282,-17.29
-SA,190,Sturt,38285,Glynde PPVC,20834,PYNE,Christopher,4,N,Y,LP,Liberal,2272,17.29
+SA,190,Sturt,38285,Glynde PPVC,20991,SARRE,Rick,2,N,N,ALP,Australian Labor Party,1281,-17.28
+SA,190,Sturt,38285,Glynde PPVC,20834,PYNE,Christopher,4,N,Y,LP,Liberal,2269,17.28
 SA,190,Sturt,7298,Hectorville North,20991,SARRE,Rick,2,N,N,ALP,Australian Labor Party,951,-3.38
 SA,190,Sturt,7298,Hectorville North,20834,PYNE,Christopher,4,N,Y,LP,Liberal,798,3.38
 SA,190,Sturt,7299,Highbury East,20991,SARRE,Rick,2,N,N,ALP,Australian Labor Party,769,1.84
@@ -14286,12 +14286,12 @@ VIC,219,Isaacs,31564,Special Hospital Team 1,21257,DREYFUS,Mark,2,N,Y,ALP,Austra
 VIC,219,Isaacs,31564,Special Hospital Team 1,21120,McCLELLAND,Dale,3,N,N,LP,Liberal,36,-9.11
 VIC,219,Isaacs,31568,Special Hospital Team 2,21257,DREYFUS,Mark,2,N,Y,ALP,Australian Labor Party,37,2.75
 VIC,219,Isaacs,31568,Special Hospital Team 2,21120,McCLELLAND,Dale,3,N,N,LP,Liberal,36,-2.75
-VIC,219,Isaacs,38329,Special Hospital Team 3,21257,DREYFUS,Mark,2,N,Y,ALP,Australian Labor Party,117,6.15
-VIC,219,Isaacs,38329,Special Hospital Team 3,21120,McCLELLAND,Dale,3,N,N,LP,Liberal,100,-6.15
-VIC,219,Isaacs,58536,Springvale South (Isaacs),21257,DREYFUS,Mark,2,N,Y,ALP,Australian Labor Party,363,16.11
-VIC,219,Isaacs,58536,Springvale South (Isaacs),21120,McCLELLAND,Dale,3,N,N,LP,Liberal,107,-16.11
-VIC,219,Isaacs,3981,Wallarano,21257,DREYFUS,Mark,2,N,Y,ALP,Australian Labor Party,1897,-1.48
-VIC,219,Isaacs,3981,Wallarano,21120,McCLELLAND,Dale,3,N,N,LP,Liberal,950,1.48
+VIC,219,Isaacs,38329,Special Hospital Team 3,21257,DREYFUS,Mark,2,N,Y,ALP,Australian Labor Party,118,6.86
+VIC,219,Isaacs,38329,Special Hospital Team 3,21120,McCLELLAND,Dale,3,N,N,LP,Liberal,98,-6.86
+VIC,219,Isaacs,58536,Springvale South (Isaacs),21257,DREYFUS,Mark,2,N,Y,ALP,Australian Labor Party,361,16.02
+VIC,219,Isaacs,58536,Springvale South (Isaacs),21120,McCLELLAND,Dale,3,N,N,LP,Liberal,107,-16.02
+VIC,219,Isaacs,3981,Wallarano,21257,DREYFUS,Mark,2,N,Y,ALP,Australian Labor Party,2014,2.71
+VIC,219,Isaacs,3981,Wallarano,21120,McCLELLAND,Dale,3,N,N,LP,Liberal,830,-2.71
 VIC,219,Isaacs,36375,Willow Lodge,21257,DREYFUS,Mark,2,N,Y,ALP,Australian Labor Party,232,3.71
 VIC,219,Isaacs,36375,Willow Lodge,21120,McCLELLAND,Dale,3,N,N,LP,Liberal,120,-3.71
 VIC,220,Jagajaga,4164,Banyule,21244,MACKLIN,Jenny,2,N,Y,ALP,Australian Labor Party,1576,1.9
@@ -16264,8 +16264,8 @@ WA,236,Canning,34078,Special Hospital Team 1,20913,MacTIERNAN,Alannah,1,N,N,ALP,
 WA,236,Canning,34078,Special Hospital Team 1,20865,RANDALL,Don,2,N,Y,LP,Liberal,48,-8.2
 WA,236,Canning,34207,Special Hospital Team 2,20913,MacTIERNAN,Alannah,1,N,N,ALP,Australian Labor Party,94,4.12
 WA,236,Canning,34207,Special Hospital Team 2,20865,RANDALL,Don,2,N,Y,LP,Liberal,93,-4.12
-WA,236,Canning,11898,Strawberry Fields,20913,MacTIERNAN,Alannah,1,N,N,ALP,Australian Labor Party,1506,4.28
-WA,236,Canning,11898,Strawberry Fields,20865,RANDALL,Don,2,N,Y,LP,Liberal,1175,-4.28
+WA,236,Canning,11898,Strawberry Fields,20913,MacTIERNAN,Alannah,1,N,N,ALP,Australian Labor Party,1505,4.31
+WA,236,Canning,11898,Strawberry Fields,20865,RANDALL,Don,2,N,Y,LP,Liberal,1173,-4.31
 WA,236,Canning,7512,Waroona,20913,MacTIERNAN,Alannah,1,N,N,ALP,Australian Labor Party,589,-0.9
 WA,236,Canning,7512,Waroona,20865,RANDALL,Don,2,N,Y,LP,Liberal,839,0.9
 WA,236,Canning,7557,Westfield,20913,MacTIERNAN,Alannah,1,N,N,ALP,Australian Labor Party,705,5.22
