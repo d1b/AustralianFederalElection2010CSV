@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T14:39:00 Cycle:8ddb5b37-fd7f-4bbd-b9c5-71381fe3e311 Created:2010-09-01T14:19:53 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T14:54:36 Cycle:efb5cd0a-24b1-4fe8-8b4a-a8c117990efd Created:2010-09-01T14:35:03 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -341,7 +341,7 @@ NSW,107,Blaxland,2362,Yennora,558,65.11,299,34.89,857,-0.23
 NSW,108,Bradfield,115,Asquith (Bradfield),628,46.52,722,53.48,1350,-3.41
 NSW,108,Bradfield,119,Bowden Brae,142,30.67,321,69.33,463,-0.35
 NSW,108,Bradfield,56720,Chatswood (Bradfield),102,40,153,60,255,-9.83
-NSW,108,Bradfield,58723,Chatswood BRADFIELD PPVC,636,31.09,1410,68.91,2046,-9.96
+NSW,108,Bradfield,58723,Chatswood BRADFIELD PPVC,635,30.93,1418,69.07,2053,-10.12
 NSW,108,Bradfield,2015,Chatswood North,234,50.43,230,49.57,464,2.19
 NSW,108,Bradfield,56721,Chatswood West (Bradfield),307,44.56,382,55.44,689,-6.72
 NSW,108,Bradfield,30099,Divisional Office (PREPOLL),0,0,0,0,0,-41.09
@@ -384,8 +384,8 @@ NSW,108,Bradfield,141,Turramurra North,705,27.63,1847,72.37,2552,-0.29
 NSW,108,Bradfield,142,Turramurra South,994,36.77,1709,63.23,2703,-4.09
 NSW,108,Bradfield,143,Wahroonga,667,26.55,1845,73.45,2512,1.72
 NSW,108,Bradfield,144,Wahroonga East,624,24.65,1907,75.35,2531,-4.33
-NSW,108,Bradfield,33948,Wahroonga PPVC,390,21.61,1415,78.39,1805,-19.49
-NSW,108,Bradfield,145,Waitara,808,38.53,1289,61.47,2097,-8.38
+NSW,108,Bradfield,33948,Wahroonga PPVC,394,21.73,1419,78.27,1813,-19.37
+NSW,108,Bradfield,145,Waitara,799,38.25,1290,61.75,2089,-8.66
 NSW,108,Bradfield,146,Waitara South,118,33.81,231,66.19,349,-3.29
 NSW,108,Bradfield,147,Warrawee,829,33.7,1631,66.3,2460,-1.83
 NSW,109,Calare,2148,Alectown,31,20.39,121,79.61,152,-7.9
@@ -1672,7 +1672,7 @@ NSW,131,Macarthur,33979,Camden PPVC,768,32.9,1566,67.1,2334,-20.35
 NSW,131,Macarthur,1673,Camden South,886,38.69,1404,61.31,2290,-1.02
 NSW,131,Macarthur,11963,Campbelltown,970,57.4,720,42.6,1690,-1.31
 NSW,131,Macarthur,2905,Campbelltown East,1205,56.05,945,43.95,2150,-4.42
-NSW,131,Macarthur,46475,Campbelltown Hospital,286,50.89,276,49.11,562,0.53
+NSW,131,Macarthur,46475,Campbelltown Hospital,280,50.18,278,49.82,558,-0.18
 NSW,131,Macarthur,33980,Campbelltown MACARTHUR PPVC,1332,51.79,1240,48.21,2572,-1.48
 NSW,131,Macarthur,2906,Campbelltown North,428,53.9,366,46.1,794,-2.6
 NSW,131,Macarthur,1674,Carrington Hospital,194,28.7,482,71.3,676,1.53
@@ -1845,7 +1845,7 @@ NSW,315,McMahon,57627,Special Hospital Team 1,43,59.72,29,40.28,72,1.15
 NSW,315,McMahon,409,St Clair,960,60.04,639,39.96,1599,-0.41
 NSW,315,McMahon,391,St Clair East,1232,56.7,941,43.3,2173,-1.18
 NSW,315,McMahon,390,St Clair South,1487,57.81,1085,42.19,2572,-3.09
-NSW,315,McMahon,383,St Clair West,2062,58.36,1471,41.64,3533,-3.44
+NSW,315,McMahon,383,St Clair West,2028,58.31,1450,41.69,3478,-3.49
 NSW,315,McMahon,14145,Sydney (McMahon),46,62.16,28,37.84,74,-5.94
 NSW,315,McMahon,2361,Wetherill Park,1718,60.79,1108,39.21,2826,-6.04
 NSW,134,Mitchell,8876,Aminya,249,34.06,482,65.94,731,-3.5
@@ -4998,12 +4998,12 @@ SA,180,Barker,7372,Keyneton,66,39.29,102,60.71,168,2.81
 SA,180,Barker,6733,Kingston SE,301,23.78,965,76.22,1266,-5.44
 SA,180,Barker,6735,Kongorong,51,24.4,158,75.6,209,-4.17
 SA,180,Barker,6737,Lameroo,81,17.49,382,82.51,463,-2.22
-SA,180,Barker,6740,Loxton,836,31.74,1798,68.26,2634,-4.12
+SA,180,Barker,6740,Loxton,839,31.79,1800,68.21,2639,-4.07
 SA,180,Barker,38505,Loxton IVC PPVC,0,0,0,0,0,0
 SA,180,Barker,6741,Loxton North,163,31.47,355,68.53,518,-5.9
 SA,180,Barker,6742,Lucindale,73,20.28,287,79.72,360,0.6
 SA,180,Barker,7378,Lyndoch,497,46.23,578,53.77,1075,2.16
-SA,180,Barker,6743,Lyrup,65,32.02,138,67.98,203,-4.71
+SA,180,Barker,6743,Lyrup,66,32.51,137,67.49,203,-4.22
 SA,180,Barker,7381,Mannum,655,43.23,860,56.77,1515,-0.78
 SA,180,Barker,6747,Meningie,202,24.46,624,75.54,826,-2.15
 SA,180,Barker,6748,Mil Lel,26,16.56,131,83.44,157,-10.83
@@ -5079,7 +5079,7 @@ SA,180,Barker,7424,Tanunda,848,33.6,1676,66.4,2524,-3.3
 SA,180,Barker,6799,Tarpeena,144,52.36,131,47.64,275,-0.97
 SA,180,Barker,6802,Tintinara,27,7.83,318,92.17,345,-4.58
 SA,180,Barker,7428,Truro,154,46.53,177,53.47,331,3.44
-SA,180,Barker,6803,Waikerie,566,33.77,1110,66.23,1676,-4.14
+SA,180,Barker,6803,Waikerie,565,33.71,1111,66.29,1676,-4.2
 SA,180,Barker,32455,Waikerie IVC PPVC,0,0,0,0,0,0
 SA,180,Barker,7431,Walker Flat,56,42.42,76,57.58,132,-1.29
 SA,180,Barker,7237,Wellington,32,22.07,113,77.93,145,-2.33
@@ -5367,7 +5367,7 @@ SA,186,Kingston,33234,Special Hospital Team 3,91,59.09,63,40.91,154,17.23
 SA,186,Kingston,11653,Trott Park,1664,63.68,949,36.32,2613,11.66
 SA,186,Kingston,7238,Willunga,1135,57.04,855,42.96,1990,8.73
 SA,186,Kingston,7100,Woodcroft,2492,61.08,1588,38.92,4080,12.47
-SA,186,Kingston,58619,Woodcroft South,677,59.08,469,40.92,1146,9.49
+SA,186,Kingston,58619,Woodcroft South,677,59.13,468,40.87,1145,9.54
 SA,187,Makin,31851,Adelaide (Makin),52,70.27,22,29.73,74,7.06
 SA,187,Makin,58738,Adelaide MAKIN PPVC,124,64.25,69,35.75,193,14.25
 SA,187,Makin,7124,Banksia Park,1119,58.99,778,41.01,1897,8.02
@@ -8268,7 +8268,7 @@ WA,312,Durack,7979,Geraldton - Beachlands,346,45.53,414,54.47,760,-6.17
 WA,312,Durack,7984,Geraldton - Bluff Point,698,37.01,1188,62.99,1886,-1.5
 WA,312,Durack,31485,Geraldton - Cape Burney,115,37.58,191,62.42,306,2.04
 WA,312,Durack,8066,Geraldton - Mount Tarcoola,809,34.18,1558,65.82,2367,-0.89
-WA,312,Durack,8095,Geraldton - Rangeway,820,46.56,941,53.44,1761,-2.05
+WA,312,Durack,8095,Geraldton - Rangeway,827,46.72,943,53.28,1770,-1.89
 WA,312,Durack,11904,Geraldton - Spalding,356,43.79,457,56.21,813,-0.91
 WA,312,Durack,8106,Geraldton - Waggrakine,703,35.54,1275,64.46,1978,-5.52
 WA,312,Durack,8115,Geraldton - Wonthella,710,36.37,1242,63.63,1952,-4.36
@@ -8304,7 +8304,7 @@ WA,312,Durack,8057,Miling,9,10.34,78,89.66,87,-0.06
 WA,312,Durack,8058,Mingenew,69,25.94,197,74.06,266,4.25
 WA,312,Durack,8060,Mogumber,10,18.18,45,81.82,55,0.15
 WA,312,Durack,8063,Moonyoonooka,66,22.84,223,77.16,289,0.83
-WA,312,Durack,8064,Moora,185,20.46,719,79.54,904,-7.9
+WA,312,Durack,8064,Moora,185,20.58,714,79.42,899,-7.78
 WA,312,Durack,7864,Morawa,94,26.04,267,73.96,361,-5.7
 WA,312,Durack,7866,Mount Magnet,49,27.68,128,72.32,177,-11.33
 WA,312,Durack,8068,Mukinbudin,40,13.29,261,86.71,301,1.33
