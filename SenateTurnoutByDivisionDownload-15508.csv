@@ -1,4 +1,4 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T10:26:04 Cycle:c693d82a-9d9c-4edb-89b1-db6d891ae694 Created:2010-09-01T10:04:00 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T10:41:59 Cycle:c7b3c274-7ff8-422f-ab4c-e58af153f7a3 Created:2010-09-01T10:19:06 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 179,Adelaide,SA,98526,74534,75.65
 197,Aston,VIC,93448,79228,84.78
@@ -27,7 +27,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 236,Canning,WA,90107,77713,86.25
 157,Capricornia,QLD,91962,76829,83.54
 204,Casey,VIC,92357,80204,86.84
-110,Charlton,NSW,94480,80573,85.28
+110,Charlton,NSW,94480,80963,85.28
 111,Chifley,NSW,97605,85389,87.48
 205,Chisholm,VIC,86275,70013,81.15
 112,Cook,NSW,100748,75128,74.57
@@ -69,7 +69,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 164,Groom,QLD,93374,73956,79.2
 305,Hasluck,WA,93892,66910,71.26
 165,Herbert,QLD,91044,66305,72.83
-215,Higgins,VIC,90398,54344,63.4
+215,Higgins,VIC,90398,51313,60.12
 185,Hindmarsh,SA,100245,76077,75.89
 166,Hinkler,QLD,91397,68854,75.34
 216,Holt,VIC,108893,92815,85.24
@@ -79,7 +79,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 126,Hunter,NSW,91516,80464,87.92
 218,Indi,VIC,92956,76495,82.29
 219,Isaacs,VIC,102790,79179,77.03
-220,Jagajaga,VIC,95202,74420,72.69
+220,Jagajaga,VIC,95202,75558,78.17
 167,Kennedy,QLD,94465,71863,76.07
 127,Kingsford Smith,NSW,97747,68950,70.54
 186,Kingston,SA,102296,76400,74.69
@@ -140,7 +140,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 247,Swan,WA,90766,79102,87.15
 149,Sydney,NSW,95277,61147,64.18
 248,Tangney,WA,92176,80664,87.51
-150,Throsby,NSW,95874,71392,74.41
+150,Throsby,NSW,95874,71440,74.46
 191,Wakefield,SA,100209,79443,79.28
 233,Wannon,VIC,92264,75853,82.21
 151,Warringah,NSW,96706,66342,68.6
