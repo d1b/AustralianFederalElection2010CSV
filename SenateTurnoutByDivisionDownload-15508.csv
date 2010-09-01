@@ -1,4 +1,4 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T08:19:15 Cycle:fd4fe270-8ba2-45bf-a645-f4370d89e40e Created:2010-09-02T08:03:13 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T08:34:44 Cycle:cee16dec-304d-4b07-a32d-d3098c0aca24 Created:2010-09-02T08:18:18 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 179,Adelaide,SA,98526,74535,75.65
 197,Aston,VIC,93448,79228,84.78
@@ -42,7 +42,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 194,Denison,TAS,71349,58627,82.17
 252,Dickson,QLD,90111,69634,77.28
 115,Dobell,NSW,93661,85326,91.1
-210,Dunkley,VIC,95324,73720,77.33
+210,Dunkley,VIC,95324,73720,77.34
 312,Durack,WA,85782,64698,75.42
 117,Eden-Monaro,NSW,96465,83755,86.82
 159,Fadden,QLD,85236,65294,76.6
@@ -66,12 +66,12 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 122,Greenway,NSW,93828,80783,86.1
 183,Grey,SA,99817,76596,76.74
 163,Griffith,QLD,92588,67260,72.64
-164,Groom,QLD,93374,74595,79.52
+164,Groom,QLD,93374,74636,79.89
 305,Hasluck,WA,93892,87112,92.78
 165,Herbert,QLD,91044,66305,72.83
 215,Higgins,VIC,90398,59608,65.94
 185,Hindmarsh,SA,100245,76080,75.89
-166,Hinkler,QLD,91397,75245,79.89
+166,Hinkler,QLD,91397,75245,82.33
 216,Holt,VIC,108893,92815,85.24
 217,Hotham,VIC,89581,67941,75.84
 124,Hughes,NSW,97995,86005,87.76
@@ -131,7 +131,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 145,Richmond,NSW,92384,76727,83.05
 250,Riverina,NSW,98594,84192,85.39
 146,Robertson,NSW,96593,69529,71.98
-177,Ryan,QLD,98224,70660,71.93
+177,Ryan,QLD,98224,70758,71.94
 232,Scullin,VIC,90822,77454,85.28
 148,Shortland,NSW,94245,81505,86.48
 307,Solomon,NT,59879,52782,88.15
@@ -147,6 +147,6 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 251,Watson,NSW,97765,74771,76.48
 152,Wentworth,NSW,101464,65371,64.43
 153,Werriwa,NSW,90994,70314,77.27
-178,Wide Bay,QLD,92636,76741,82.84
+178,Wide Bay,QLD,92636,78705,82.84
 234,Wills,VIC,98599,74972,76.04
 316,Wright,QLD,85304,74784,87.67
