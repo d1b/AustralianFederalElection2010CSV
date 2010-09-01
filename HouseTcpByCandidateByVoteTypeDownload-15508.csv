@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T18:46:19 Cycle:34101e7e-8821-44ba-8ad0-4e2075b29f9c Created:2010-09-01T18:35:21 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T19:02:08 Cycle:95e00402-d618-4d22-be96-b19e169bd3ef Created:2010-09-01T18:50:21 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,Swing
 ACT,101,Canberra,20863,JONES,Giulia,1,N,N,LP,Liberal,40757,0,0,1611,482,42850,2.65
 ACT,101,Canberra,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,59304,0,0,2306,484,62094,-2.65
@@ -270,8 +270,8 @@ VIC,233,Wannon,21063,TEHAN,Dan,3,N,N,LP,Liberal,40126,1664,0,873,3584,46247,-0.3
 VIC,233,Wannon,21070,McNAMARA,Judith,5,N,N,ALP,Australian Labor Party,30694,1533,0,591,1940,34758,0.38
 VIC,234,Wills,21060,TOMISICH,Claude,1,N,N,LP,Liberal,18798,335,0,0,1484,20617,0.06
 VIC,234,Wills,21073,THOMSON,Kelvin,2,N,Y,ALP,Australian Labor Party,50546,876,0,0,2508,53930,-0.06
-WA,235,Brand,20857,GORDIN,Donna,2,N,N,LP,Liberal,30935,2272,81,1160,1660,36108,2.63
-WA,235,Brand,20909,GRAY,Gary,5,N,Y,ALP,Australian Labor Party,35986,2456,118,1088,1640,41288,-2.63
+WA,235,Brand,20857,GORDIN,Donna,2,N,N,LP,Liberal,30935,2325,81,1266,1660,36267,2.64
+WA,235,Brand,20909,GRAY,Gary,5,N,Y,ALP,Australian Labor Party,35986,2529,118,1189,1640,41462,-2.64
 WA,236,Canning,20913,MacTIERNAN,Alannah,1,N,N,ALP,Australian Labor Party,31792,2618,0,819,1829,37058,2.39
 WA,236,Canning,20865,RANDALL,Don,2,N,Y,LP,Liberal,33670,3044,0,1113,2253,40080,-2.39
 WA,237,Cowan,20895,HOPKINS,Chas,2,N,N,ALP,Australian Labor Party,28878,2480,129,1287,1645,34419,-5.19
@@ -279,9 +279,9 @@ WA,237,Cowan,20848,SIMPKINS,Luke,4,N,Y,LP,Liberal,37493,2953,146,1817,2237,44646
 WA,238,Curtin,20851,BISHOP,Julie,1,N,Y,LP,Liberal,44049,2627,133,736,2900,50445,2.94
 WA,238,Curtin,20933,VAN DER MERWE,Sophie,3,N,N,ALP,Australian Labor Party,22348,1758,93,351,1209,25759,-2.94
 WA,312,Durack,20866,HAASE,Barry,2,N,Y,LP,Liberal,38921,1810,0,0,1926,42657,6.01
-WA,312,Durack,20964,HILL,Shane,3,N,N,ALP,Australian Labor Party,22584,1147,0,0,623,24354,-6.01
-WA,239,Forrest,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,28706,1679,0,901,971,32257,-3.27
-WA,239,Forrest,20855,MARINO,Nola,3,N,Y,LP,Liberal,40290,2314,0,1521,1810,45935,3.27
+WA,312,Durack,20964,HILL,Shane,3,N,N,ALP,Australian Labor Party,22584,1148,0,0,623,24355,-6.01
+WA,239,Forrest,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,28708,1679,0,901,971,32259,-3.26
+WA,239,Forrest,20855,MARINO,Nola,3,N,Y,LP,Liberal,40290,2314,0,1521,1810,45935,3.26
 WA,240,Fremantle,20856,TAYLOR,Matt,1,N,N,LP,Liberal,29877,2641,0,1773,1934,36225,3.58
 WA,240,Fremantle,20885,PARKE,Melissa,5,N,Y,ALP,Australian Labor Party,38315,2815,0,1697,2463,45290,-3.58
 WA,305,Hasluck,20876,WYATT,Ken,5,N,N,LP,Liberal,33144,3403,109,2300,2589,41545,1.43
@@ -296,7 +296,7 @@ WA,245,Perth,20904,SMITH,Stephen Francis,3,N,Y,ALP,Australian Labor Party,36712,
 WA,245,Perth,20878,FERRANTE,Joe,6,N,N,LP,Liberal,28202,2945,0,250,1909,33306,1.99
 WA,246,Stirling,20952,DURACK,Louise,2,N,N,ALP,Australian Labor Party,29379,2463,0,952,2153,34947,-4.2
 WA,246,Stirling,20868,KEENAN,Michael,6,N,Y,LP,Liberal,36720,2881,0,1341,2587,43529,4.2
-WA,247,Swan,20889,HAMMOND,Tim,1,N,N,ALP,Australian Labor Party,31045,2666,0,1077,2100,36888,-2.82
-WA,247,Swan,20883,IRONS,Steve,6,N,Y,LP,Liberal,33991,2943,0,1496,2424,40854,2.82
+WA,247,Swan,20889,HAMMOND,Tim,1,N,N,ALP,Australian Labor Party,31045,2666,0,1164,2100,36975,-2.83
+WA,247,Swan,20883,IRONS,Steve,6,N,Y,LP,Liberal,33991,2943,0,1605,2424,40963,2.83
 WA,248,Tangney,20893,DOEPEL,David,2,N,N,ALP,Australian Labor Party,26224,1686,66,1330,1305,30611,-2.61
 WA,248,Tangney,20859,JENSEN,Dennis,4,N,Y,LP,Liberal,43935,2116,113,2196,2481,50841,2.61
