@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T18:15:17 Cycle:15c04f51-777a-48d1-81e3-04cd3711ff9a Created:2010-09-01T18:05:20 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-01T18:30:58 Cycle:df30a353-9ba8-4399-850c-faf0f22cd8b5 Created:2010-09-01T18:20:20 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,Swing
 ACT,101,Canberra,20863,JONES,Giulia,1,N,N,LP,Liberal,40757,0,0,1611,482,42850,2.65
 ACT,101,Canberra,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,59304,0,0,2306,484,62094,-2.65
@@ -78,8 +78,8 @@ NSW,140,Parramatta,21461,OWENS,Julie,3,N,Y,ALP,Labor,34784,2910,0,1195,2429,4131
 NSW,140,Parramatta,21479,CAMENZULI,Charles,7,N,N,LP,Liberal,29488,2277,0,1006,2152,34923,5.67
 NSW,249,Paterson,21675,BALDWIN,Bob,5,N,Y,LP,Liberal,39054,1417,57,1054,2539,44121,4.69
 NSW,249,Paterson,21418,ARNEMAN,Jim,6,N,N,ALP,Labor,32167,1127,65,620,1729,35708,-4.69
-NSW,144,Reid,21438,MURPHY,John,2,N,Y,ALP,Labor,35443,2182,0,985,1937,40547,-8.28
-NSW,144,Reid,21717,COOPER,Peter,4,N,N,LP,Liberal,31803,1837,0,859,2094,36593,8.28
+NSW,144,Reid,21438,MURPHY,John,2,N,Y,ALP,Labor,35443,2182,0,1427,1937,40989,-8.32
+NSW,144,Reid,21717,COOPER,Peter,4,N,N,LP,Liberal,31803,1837,0,1321,2094,37055,8.32
 NSW,145,Richmond,21416,ELLIOT,Justine,2,N,Y,ALP,Labor,39374,908,0,0,2270,42552,-2.22
 NSW,145,Richmond,21262,HUNTER,Alan,6,N,N,NP,The Nationals,29950,518,0,0,2091,32559,2.22
 NSW,250,Riverina,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,52958,1650,0,0,3113,57721,3.96
@@ -172,8 +172,8 @@ SA,182,Boothby,20941,DIGANCE,Annabel,1,N,N,ALP,Australian Labor Party,34593,3089
 SA,182,Boothby,20884,SOUTHCOTT,Andrew,4,N,Y,LP,Liberal,35228,2595,110,1306,3790,43029,-2.15
 SA,183,Grey,20998,SANSBURY,Tauto,2,N,N,ALP,Australian Labor Party,29808,1675,0,842,1241,33566,-6.57
 SA,183,Grey,20832,RAMSEY,Rowan,3,N,Y,LP,Liberal,45420,2530,0,1621,2921,52492,6.57
-SA,185,Hindmarsh,20825,WOOD,Jassmine,2,N,N,LP,Liberal,32011,2776,107,951,2382,38227,-0.69
-SA,185,Hindmarsh,21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,40527,3908,135,952,2624,48146,0.69
+SA,185,Hindmarsh,20825,WOOD,Jassmine,2,N,N,LP,Liberal,32011,2776,107,1298,2382,38574,-0.64
+SA,185,Hindmarsh,21336,GEORGANAS,Steve,4,N,Y,ALP,Australian Labor Party,40527,3908,135,1286,2624,48480,0.64
 SA,186,Kingston,20957,ZANKER,Chris,3,N,N,LP,Liberal,27411,1751,68,1093,2626,32949,-9.5
 SA,186,Kingston,20967,RISHWORTH,Amanda,4,N,Y,ALP,Australian Labor Party,49824,2871,172,1433,4070,58370,9.5
 SA,187,Makin,20945,ZAPPIA,Tony,5,N,Y,ALP,Australian Labor Party,44948,3514,96,983,3151,52692,4.59
@@ -278,10 +278,10 @@ WA,237,Cowan,20895,HOPKINS,Chas,2,N,N,ALP,Australian Labor Party,28878,2480,129,
 WA,237,Cowan,20848,SIMPKINS,Luke,4,N,Y,LP,Liberal,37493,2953,146,1817,2237,44646,5.19
 WA,238,Curtin,20851,BISHOP,Julie,1,N,Y,LP,Liberal,44049,1711,133,736,2900,49529,3
 WA,238,Curtin,20933,VAN DER MERWE,Sophie,3,N,N,ALP,Australian Labor Party,22348,1215,93,351,1209,25216,-3
-WA,312,Durack,20866,HAASE,Barry,2,N,Y,LP,Liberal,38921,720,0,0,1926,41567,6.07
-WA,312,Durack,20964,HILL,Shane,3,N,N,ALP,Australian Labor Party,22584,457,0,0,623,23664,-6.07
-WA,239,Forrest,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,28702,1679,0,901,971,32253,-3.27
-WA,239,Forrest,20855,MARINO,Nola,3,N,Y,LP,Liberal,40295,2314,0,1521,1810,45940,3.27
+WA,312,Durack,20866,HAASE,Barry,2,N,Y,LP,Liberal,38921,1154,0,0,1926,42001,6.11
+WA,312,Durack,20964,HILL,Shane,3,N,N,ALP,Australian Labor Party,22584,669,0,0,623,23876,-6.11
+WA,239,Forrest,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,28707,1679,0,901,971,32258,-3.27
+WA,239,Forrest,20855,MARINO,Nola,3,N,Y,LP,Liberal,40293,2314,0,1521,1810,45938,3.27
 WA,240,Fremantle,20856,TAYLOR,Matt,1,N,N,LP,Liberal,29877,2641,0,1773,1934,36225,3.58
 WA,240,Fremantle,20885,PARKE,Melissa,5,N,Y,ALP,Australian Labor Party,38315,2815,0,1697,2463,45290,-3.58
 WA,305,Hasluck,20876,WYATT,Ken,5,N,N,LP,Liberal,33144,3403,109,2300,2589,41545,1.43
