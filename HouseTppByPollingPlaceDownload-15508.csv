@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T15:02:17 Cycle:51fd40dd-c978-4ee7-a45a-104995a4da6c Created:2010-09-02T14:49:38 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T15:17:29 Cycle:96c4faca-dc00-42f6-987b-361a15bf0cd0 Created:2010-09-02T15:04:38 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -52,7 +52,7 @@ ACT,102,Fraser,8804,Ainslie South,634,76.66,193,23.34,827,1.95
 ACT,102,Fraser,38197,Amaroo,1694,55.78,1343,44.22,3037,4.41
 ACT,102,Fraser,8803,Aranda,2036,73.05,751,26.95,2787,-1.34
 ACT,102,Fraser,8805,Belconnen,1635,65.32,868,34.68,2503,-1.56
-ACT,102,Fraser,32464,Belconnen PPVC,4257,58.12,3068,41.88,7325,-7.76
+ACT,102,Fraser,32464,Belconnen PPVC,4484,61.31,2830,38.69,7314,-4.57
 ACT,102,Fraser,8802,Braddon,1366,72.54,517,27.46,1883,0.27
 ACT,102,Fraser,12073,Bruce,546,61.07,348,38.93,894,0.06
 ACT,102,Fraser,8806,Campbell,1031,48.89,1078,51.11,2109,-6.36
@@ -91,8 +91,8 @@ ACT,102,Fraser,8834,Scullin,1160,69.3,514,30.7,1674,2.81
 ACT,102,Fraser,32467,Special Hospital Team 1,90,55.21,73,44.79,163,2.67
 ACT,102,Fraser,32468,Special Hospital Team 2,48,47.52,53,52.48,101,-4.12
 ACT,102,Fraser,8836,Turner,1646,76.63,502,23.37,2148,-0.56
-ACT,102,Fraser,8837,Watson,2183,73.23,798,26.77,2981,1.14
-ACT,102,Fraser,8838,Weetangera,1453,63.95,819,36.05,2272,-0.82
+ACT,102,Fraser,8837,Watson,2184,73.19,800,26.81,2984,1.1
+ACT,102,Fraser,8838,Weetangera,1454,63.88,822,36.12,2276,-0.89
 ACT,102,Fraser,8839,Wreck Bay,59,86.76,9,13.24,68,-9.07
 NSW,103,Banks,31,Allawah,759,53.26,666,46.74,1425,-16.23
 NSW,103,Banks,67,Allawah South,596,54.28,502,45.72,1098,-11.13
@@ -3953,7 +3953,7 @@ QLD,165,Herbert,5681,Nelly Bay,297,49.83,299,50.17,596,-2.74
 QLD,165,Herbert,5682,North Ward,1038,43.67,1339,56.33,2377,0.35
 QLD,165,Herbert,40275,Northern Beaches,1459,49.64,1480,50.36,2939,-0.91
 QLD,165,Herbert,5684,Pallarenda,179,43.77,230,56.23,409,-2.81
-QLD,165,Herbert,5685,Palm Island,314,64.74,171,35.26,485,-1.04
+QLD,165,Herbert,5685,Palm Island,317,65.36,168,34.64,485,-0.42
 QLD,165,Herbert,5686,Picnic Bay,87,55.06,71,44.94,158,-0.36
 QLD,165,Herbert,5687,Pimlico,862,50.92,831,49.08,1693,-2.69
 QLD,165,Herbert,5688,Railway Estate,929,58.03,672,41.97,1601,-0.74
@@ -6628,7 +6628,7 @@ VIC,211,Flinders,3631,Flinders,189,34.74,355,65.26,544,-4.81
 VIC,211,Flinders,3633,Glen Alvie,18,24.66,55,75.34,73,1.2
 VIC,211,Flinders,3634,Grantville,299,44.96,366,55.04,665,-0.82
 VIC,211,Flinders,3635,Hastings,1085,45.78,1285,54.22,2370,-1.12
-VIC,211,Flinders,31697,Hastings PPVC,2325,43.06,3074,56.94,5399,-1.28
+VIC,211,Flinders,31697,Hastings PPVC,2317,42.93,3080,57.07,5397,-1.41
 VIC,211,Flinders,32326,Kernot,19,17.76,88,82.24,107,-11.99
 VIC,211,Flinders,3636,Kilcunda,96,43.44,125,56.56,221,-0.61
 VIC,211,Flinders,3637,Kooweerup,386,34.37,737,65.63,1123,2.13
@@ -8165,7 +8165,7 @@ WA,237,Cowan,13966,Perth (Cowan),26,48.15,28,51.85,54,-15.62
 WA,237,Cowan,32280,Rottnest (Cowan),4,50,4,50,8,0
 WA,237,Cowan,36412,Sinagra,756,39.09,1178,60.91,1934,-7.46
 WA,237,Cowan,34080,Special Hospital Team 1,66,31.58,143,68.42,209,-0.95
-WA,237,Cowan,34122,Tapping,1164,41.19,1662,58.81,2826,1.28
+WA,237,Cowan,34122,Tapping,1163,41.17,1662,58.83,2825,1.26
 WA,237,Cowan,7966,Wanneroo,731,45.6,872,54.4,1603,-1.2
 WA,237,Cowan,7967,Wanneroo East,1292,41.77,1801,58.23,3093,-2.53
 WA,237,Cowan,34099,Wanneroo West,453,37.16,766,62.84,1219,-1.45
