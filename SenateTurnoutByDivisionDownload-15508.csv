@@ -1,4 +1,4 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T09:18:59 Cycle:2fef06ed-97c3-499c-8b81-7bdb5d9e36da Created:2010-09-03T09:03:33 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T09:34:15 Cycle:167e51b0-7a77-4f33-b91d-6ccac30ee2ab Created:2010-09-03T09:18:33 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 179,Adelaide,SA,98526,74727,75.84
 197,Aston,VIC,93448,83944,89.83
@@ -21,7 +21,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 235,Brand,WA,88203,73904,83.79
 156,Brisbane,QLD,92222,65240,70.74
 201,Bruce,VIC,88171,64939,73.65
-109,Calare,NSW,98504,90140,91.31
+109,Calare,NSW,98504,90339,91.51
 203,Calwell,VIC,101314,81040,79.99
 101,Canberra,ACT,124215,106444,85.69
 236,Canning,WA,90107,80372,89.2
@@ -30,7 +30,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 110,Charlton,NSW,94480,85523,90.52
 111,Chifley,NSW,97605,89964,92.17
 205,Chisholm,VIC,86275,75386,87.38
-112,Cook,NSW,100748,80279,79.68
+112,Cook,NSW,100748,81253,79.68
 207,Corangamite,VIC,101569,86995,85.65
 208,Corio,VIC,91974,85858,93.35
 237,Cowan,WA,89546,79222,88.47
@@ -71,7 +71,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 165,Herbert,QLD,91044,66305,72.83
 215,Higgins,VIC,90398,64728,71.6
 185,Hindmarsh,SA,100245,79462,79.27
-166,Hinkler,QLD,91397,75175,82.25
+166,Hinkler,QLD,91397,75864,82.25
 216,Holt,VIC,108893,97617,89.64
 217,Hotham,VIC,89581,69649,77.75
 124,Hughes,NSW,97995,86005,87.76
@@ -126,11 +126,11 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 245,Perth,WA,91904,68151,74.15
 175,Petrie,QLD,86683,61565,71.02
 189,Port Adelaide,SA,104308,97941,93.9
-176,Rankin,QLD,94602,72651,76.54
+176,Rankin,QLD,94602,81122,76.8
 144,Reid,NSW,95873,85525,89.21
 145,Richmond,NSW,92384,79653,86.22
 250,Riverina,NSW,98594,86707,87.94
-146,Robertson,NSW,96593,69529,71.98
+146,Robertson,NSW,96593,72511,71.98
 177,Ryan,QLD,98224,71324,72.61
 232,Scullin,VIC,90822,77292,85.1
 148,Shortland,NSW,94245,83960,89.09
@@ -142,11 +142,11 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 248,Tangney,WA,92176,86567,93.91
 150,Throsby,NSW,95874,82289,85.83
 191,Wakefield,SA,100209,81908,81.74
-233,Wannon,VIC,92264,75937,82.3
+233,Wannon,VIC,92264,76042,82.3
 151,Warringah,NSW,96706,66295,68.55
 251,Watson,NSW,97765,74771,76.48
 152,Wentworth,NSW,101464,72538,71.49
 153,Werriwa,NSW,90994,73677,80.97
-178,Wide Bay,QLD,92636,80130,85.09
+178,Wide Bay,QLD,92636,80130,86.5
 234,Wills,VIC,98599,79680,80.81
 316,Wright,QLD,85304,78077,91.53
