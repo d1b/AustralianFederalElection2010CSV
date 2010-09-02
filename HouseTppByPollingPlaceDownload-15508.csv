@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T11:14:34 Cycle:d7e586ff-7488-48dc-9ebd-21efb1122fcd Created:2010-09-02T11:03:50 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T11:29:42 Cycle:c4cfc4fa-3aad-44e4-83b2-b60f2441141f Created:2010-09-02T11:18:55 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -472,9 +472,9 @@ NSW,109,Calare,289,Peel,65,39.39,100,60.61,165,-11.59
 NSW,109,Calare,290,Perthville,183,32.62,378,67.38,561,-10.89
 NSW,109,Calare,291,Portland,712,60.91,457,39.09,1169,-12.12
 NSW,109,Calare,294,Raglan,387,46.29,449,53.71,836,-7.92
-NSW,109,Calare,1803,Rockley,70,37.23,118,62.77,188,-13.99
+NSW,109,Calare,1803,Rockley,72,38.1,117,61.9,189,-13.12
 NSW,109,Calare,296,Rydal,14,21.88,50,78.13,64,-25.74
-NSW,109,Calare,298,Sofala,30,50,30,50,60,11.19
+NSW,109,Calare,298,Sofala,31,50.82,30,49.18,61,12.01
 NSW,109,Calare,33603,Special Hospital Team 1,81,40.3,120,59.7,201,-1.13
 NSW,109,Calare,33842,Special Hospital Team 2,9,23.08,30,76.92,39,-19.34
 NSW,109,Calare,33843,Special Hospital Team 3,17,36.17,30,63.83,47,-4.57
@@ -2861,12 +2861,12 @@ NSW,150,Throsby,2781,Burrawang,98,28.82,242,71.18,340,-6.73
 NSW,150,Throsby,540,Cringila,904,82.48,192,17.52,1096,-10.67
 NSW,150,Throsby,541,Dapto,1436,68.32,666,31.68,2102,-5.99
 NSW,150,Throsby,38319,Dapto PPVC,1225,69.17,546,30.83,1771,6.15
-NSW,150,Throsby,30141,Divisional Office (PREPOLL),440,69.4,194,30.6,634,6.3
-NSW,150,Throsby,921,Exeter,148,44.05,188,55.95,336,7.55
-NSW,150,Throsby,2785,Glenquarry,45,27.27,120,72.73,165,-2.95
+NSW,150,Throsby,30141,Divisional Office (PREPOLL),441,69.23,196,30.77,637,6.13
+NSW,150,Throsby,921,Exeter,147,44.01,187,55.99,334,7.51
+NSW,150,Throsby,2785,Glenquarry,45,27.11,121,72.89,166,-3.11
 NSW,150,Throsby,545,Hayes Park,1524,63.05,893,36.95,2417,-5.18
 NSW,150,Throsby,46419,Horsley,1780,65.27,947,34.73,2727,-7.27
-NSW,150,Throsby,31450,Horsley South,350,63.99,197,36.01,547,-7.41
+NSW,150,Throsby,31450,Horsley South,348,63.74,198,36.26,546,-7.66
 NSW,150,Throsby,2789,Kangaloon,38,32.48,79,67.52,117,-2.77
 NSW,150,Throsby,549,Koonawarra,1509,77.42,440,22.58,1949,-4.44
 NSW,150,Throsby,550,Lake Heights,914,72.6,345,27.4,1259,-8.09
@@ -4236,7 +4236,7 @@ QLD,169,Lilley,6403,Chermside East,918,48.19,987,51.81,1905,-11.21
 QLD,169,Lilley,6404,Chermside Gardens,227,46.23,264,53.77,491,-3.77
 QLD,169,Lilley,58700,Chermside LILLEY PPVC,1016,48.85,1064,51.15,2080,-4.72
 QLD,169,Lilley,6406,Chermside West,1455,48.79,1527,51.21,2982,-5.1
-QLD,169,Lilley,58692,Clayfield LILLEY PPVC,753,51.05,722,48.95,1475,-2.57
+QLD,169,Lilley,58692,Clayfield LILLEY PPVC,752,50.95,724,49.05,1476,-2.67
 QLD,169,Lilley,6409,Craigslea,444,42.13,610,57.87,1054,-3.86
 QLD,169,Lilley,6031,Deagon,845,61.37,532,38.63,1377,-7.11
 QLD,169,Lilley,30160,Divisional Office (PREPOLL),56,41.18,80,58.82,136,-12.21
@@ -5015,7 +5015,7 @@ SA,180,Barker,6752,Moorak,163,28.85,402,71.15,565,-4.25
 SA,180,Barker,6753,Moorook,107,35.79,192,64.21,299,-2.74
 SA,180,Barker,7391,Morgan,156,41.94,216,58.06,372,-8.54
 SA,180,Barker,6755,Mount Burr,153,60.47,100,39.53,253,7.51
-SA,180,Barker,6756,Mount Gambier,785,41.53,1105,58.47,1890,-3.86
+SA,180,Barker,6756,Mount Gambier,782,41.42,1106,58.58,1888,-3.97
 SA,180,Barker,6757,Mount Gambier East,1407,53.91,1203,46.09,2610,-2.66
 SA,180,Barker,6759,Mount Gambier North,706,53.93,603,46.07,1309,-1.61
 SA,180,Barker,6744,Mount Gambier Park,1058,45.94,1245,54.06,2303,1
@@ -5085,10 +5085,10 @@ SA,180,Barker,7431,Walker Flat,56,42.42,76,57.58,132,-1.29
 SA,180,Barker,7237,Wellington,32,22.07,113,77.93,145,-2.33
 SA,180,Barker,6805,Western Flat,19,16.67,95,83.33,114,-0.93
 SA,180,Barker,6806,Willalooka,15,13.64,95,86.36,110,2.32
-SA,180,Barker,6807,Winkie,76,36.71,131,63.29,207,-0.23
+SA,180,Barker,6807,Winkie,78,37.68,129,62.32,207,0.74
 SA,180,Barker,6809,Wolseley,40,33.61,79,66.39,119,1.89
-SA,180,Barker,7241,Woods Point,47,27.01,127,72.99,174,0.22
-SA,180,Barker,6813,Yahl,139,35.01,258,64.99,397,-7.42
+SA,180,Barker,7241,Woods Point,49,27.84,127,72.16,176,1.05
+SA,180,Barker,6813,Yahl,139,35.1,257,64.9,396,-7.33
 SA,182,Boothby,33173,Aberfoyle Park North (Boothby),392,53.26,344,46.74,736,8.11
 SA,182,Boothby,31785,Adelaide (Boothby),60,60,40,40,100,6.28
 SA,182,Boothby,58733,Adelaide BOOTHBY PPVC,267,48.19,287,51.81,554,-2.64
@@ -7868,7 +7868,7 @@ VIC,231,Murray,4829,Yielima,27,20.93,102,79.07,129,-3.86
 VIC,232,Scullin,4308,Apollo Parkways,1544,59.13,1067,40.87,2611,6.1
 VIC,232,Scullin,33109,Blossom Park,2303,69.12,1029,30.88,3332,1.73
 VIC,232,Scullin,30223,Divisional Office (PREPOLL),746,67.27,363,32.73,1109,0.73
-VIC,232,Scullin,4321,Epping,1922,73.41,696,26.59,2618,0.5
+VIC,232,Scullin,4321,Epping,1926,72.93,715,27.07,2641,0.02
 VIC,232,Scullin,4322,Epping East,2012,75.36,658,24.64,2670,3.36
 VIC,232,Scullin,11649,Epping South,1854,79.37,482,20.63,2336,1.45
 VIC,232,Scullin,8899,Findon,2480,76.03,782,23.97,3262,2.39

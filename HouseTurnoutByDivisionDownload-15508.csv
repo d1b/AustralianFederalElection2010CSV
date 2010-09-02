@@ -1,7 +1,7 @@
-2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T11:14:08 Cycle:d7e586ff-7488-48dc-9ebd-21efb1122fcd Created:2010-09-02T11:03:50 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T11:29:15 Cycle:c4cfc4fa-3aad-44e4-83b2-b60f2441141f Created:2010-09-02T11:18:55 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 179,Adelaide,SA,98526,80847,82.06,-12.53
-197,Aston,VIC,93448,87531,93.67,-2.72
+197,Aston,VIC,93448,87820,93.98,-2.41
 198,Ballarat,VIC,97802,91038,93.08,-3.01
 103,Banks,NSW,98762,89722,90.85,-3.63
 180,Barker,SA,104888,91752,87.48,-8.49
@@ -20,7 +20,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 108,Bradfield,NSW,97251,85629,88.05,-6
 235,Brand,WA,88203,82005,92.97,-0.3
 156,Brisbane,QLD,92222,80263,87.03,-8.18
-201,Bruce,VIC,88171,76409,86.66,-7.92
+201,Bruce,VIC,88171,77407,87.79,-6.79
 109,Calare,NSW,98504,90623,92,-4.42
 203,Calwell,VIC,101314,86370,85.25,-9.59
 101,Canberra,ACT,124215,110338,88.83,-7.18
@@ -41,7 +41,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 209,Deakin,VIC,87744,77209,87.99,-7.9
 194,Denison,TAS,71349,66929,93.81,-1.72
 252,Dickson,QLD,90111,83310,92.45,-2.92
-115,Dobell,NSW,93661,85395,91.17,-3.67
+115,Dobell,NSW,93661,86135,91.96,-2.88
 210,Dunkley,VIC,95324,87631,91.93,-3.3
 312,Durack,WA,85782,73702,85.92,-1.24
 117,Eden-Monaro,NSW,96465,90787,94.11,-1.79
@@ -51,7 +51,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 161,Fisher,QLD,83754,76264,91.06,-2.05
 211,Flinders,VIC,100875,87655,86.89,-8.55
 311,Flynn,QLD,91377,78923,86.37,-8.74
-162,Forde,QLD,82558,74568,90.32,-2.37
+162,Forde,QLD,82558,74797,90.6,-2.09
 239,Forrest,WA,89636,83777,93.46,-1.04
 119,Fowler,NSW,95561,83014,86.87,-6.47
 195,Franklin,TAS,71090,67519,94.98,-0.88
@@ -87,11 +87,11 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 223,La Trobe,VIC,97960,91575,93.48,-2.36
 222,Lalor,VIC,117023,100368,85.77,-9.65
 168,Leichhardt,QLD,93140,83558,89.71,-2.75
-169,Lilley,QLD,97415,89120,91.48,-4.37
+169,Lilley,QLD,97415,89121,91.49,-4.36
 128,Lindsay,NSW,95975,89244,92.99,-2.89
 306,Lingiari,NT,61126,45763,74.87,-6.39
-302,Longman,QLD,87062,79390,91.19,-2.09
-130,Lyne,NSW,92565,85477,92.34,-3.25
+302,Longman,QLD,87062,79992,91.88,-1.4
+130,Lyne,NSW,92565,85483,92.35,-3.24
 196,Lyons,TAS,72865,68921,94.59,-0.25
 131,Macarthur,NSW,90059,82063,91.12,-3.84
 132,Mackellar,NSW,98556,87172,88.45,-6.83
@@ -105,7 +105,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 315,McMahon,NSW,96058,84818,88.3,-5.23
 227,McMillan,VIC,93323,86791,93,-2.88
 171,McPherson,QLD,90090,81291,90.23,-4.5
-228,Melbourne,VIC,102879,83503,81.17,-10.33
+228,Melbourne,VIC,102879,83515,81.18,-10.32
 230,Melbourne Ports,VIC,97765,73839,75.53,-16.19
 229,Menzies,VIC,90966,77493,85.19,-10.96
 134,Mitchell,NSW,93588,84432,90.22,-4.75
@@ -132,7 +132,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 250,Riverina,NSW,98594,89413,90.69,-5.06
 146,Robertson,NSW,96593,90528,93.72,-2.39
 177,Ryan,QLD,98224,88840,90.45,-5.3
-232,Scullin,VIC,90822,77181,84.98,-10.72
+232,Scullin,VIC,90822,77207,85.01,-10.69
 148,Shortland,NSW,94245,83560,88.66,-7.62
 307,Solomon,NT,59879,52859,88.28,-3.78
 246,Stirling,WA,91728,82620,90.07,-3.53
@@ -140,7 +140,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 247,Swan,WA,90766,81973,90.31,-2.69
 149,Sydney,NSW,95277,67419,70.76,-21.05
 248,Tangney,WA,92176,85562,92.82,-2.26
-150,Throsby,NSW,95874,86245,89.96,-5.9
+150,Throsby,NSW,95874,86246,89.96,-5.9
 191,Wakefield,SA,100209,93174,92.98,-2.15
 233,Wannon,VIC,92264,85570,92.74,-3.66
 151,Warringah,NSW,96706,84180,87.05,-7.78
