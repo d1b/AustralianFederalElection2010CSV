@@ -1,4 +1,4 @@
-2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T07:48:03 Cycle:41f70d8d-87b1-44f6-bafc-6d9180e129aa Created:2010-09-03T07:33:27 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T08:03:29 Cycle:3f3fd0ef-96d5-449c-a072-0b98df58979a Created:2010-09-03T07:48:27 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent
 251,Watson,NSW,66908,7863,74771,10.52
 119,Fowler,NSW,72521,8210,80731,10.17
@@ -43,7 +43,6 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 191,Wakefield,SA,78106,3776,81882,4.61
 175,Petrie,QLD,58744,2821,61565,4.58
 250,Riverina,NSW,82735,3972,86707,4.58
-196,Lyons,TAS,63769,3057,66826,4.57
 139,Parkes,NSW,84803,4026,88829,4.53
 316,Wright,QLD,74543,3534,78077,4.53
 189,Port Adelaide,SA,93234,4381,97615,4.49
@@ -51,6 +50,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 224,Mallee,VIC,76682,3537,80219,4.41
 310,Bonner,QLD,66282,3053,69335,4.4
 159,Fadden,QLD,62235,2835,65070,4.36
+196,Lyons,TAS,64348,2919,67267,4.34
 233,Wannon,VIC,72640,3289,75929,4.33
 226,McEwen,VIC,93284,4194,97478,4.3
 311,Flynn,QLD,67066,2982,70048,4.26
@@ -81,7 +81,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 227,McMillan,VIC,72972,2851,75823,3.76
 168,Leichhardt,QLD,81011,3151,84162,3.74
 138,Page,NSW,84272,3278,87550,3.74
-193,Braddon,TAS,65536,2526,68062,3.71
+193,Braddon,TAS,65537,2525,68062,3.71
 113,Cowper,NSW,86184,3299,89483,3.69
 244,Pearce,WA,70549,2703,73252,3.69
 198,Ballarat,VIC,82027,3134,85161,3.68
@@ -112,7 +112,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 236,Canning,WA,77699,2673,80372,3.33
 135,New England,NSW,76124,2613,78737,3.32
 134,Mitchell,NSW,82506,2789,85295,3.27
-192,Bass,TAS,65413,2194,67607,3.25
+192,Bass,TAS,65418,2189,67607,3.24
 105,Bennelong,NSW,86222,2889,89111,3.24
 205,Chisholm,VIC,72944,2442,75386,3.24
 187,Makin,SA,87853,2942,90795,3.24
@@ -131,8 +131,8 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 209,Deakin,VIC,78772,2417,81189,2.98
 149,Sydney,NSW,62839,1917,64756,2.96
 137,North Sydney,NSW,79691,2421,82112,2.95
-194,Denison,TAS,56932,1695,58627,2.89
-195,Franklin,TAS,65293,1941,67234,2.89
+194,Denison,TAS,56938,1689,58627,2.88
+195,Franklin,TAS,65295,1939,67234,2.88
 190,Sturt,SA,78801,2325,81126,2.87
 221,Kooyong,VIC,60029,1752,61781,2.84
 188,Mayo,SA,74196,2166,76362,2.84
