@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T14:46:49 Cycle:69e810a2-e284-4077-b67c-9eaaaeb9ddce Created:2010-09-02T14:34:32 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T15:02:17 Cycle:51fd40dd-c978-4ee7-a45a-104995a4da6c Created:2010-09-02T14:49:38 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -90,7 +90,7 @@ ACT,102,Fraser,8833,Reid,441,62.03,270,37.97,711,-2.58
 ACT,102,Fraser,8834,Scullin,1160,69.3,514,30.7,1674,2.81
 ACT,102,Fraser,32467,Special Hospital Team 1,90,55.21,73,44.79,163,2.67
 ACT,102,Fraser,32468,Special Hospital Team 2,48,47.52,53,52.48,101,-4.12
-ACT,102,Fraser,8836,Turner,1645,76.58,503,23.42,2148,-0.61
+ACT,102,Fraser,8836,Turner,1646,76.63,502,23.37,2148,-0.56
 ACT,102,Fraser,8837,Watson,2183,73.23,798,26.77,2981,1.14
 ACT,102,Fraser,8838,Weetangera,1453,63.95,819,36.05,2272,-0.82
 ACT,102,Fraser,8839,Wreck Bay,59,86.76,9,13.24,68,-9.07
@@ -540,14 +540,14 @@ NSW,110,Charlton,2713,New Lambton Heights,412,57.14,309,42.86,721,4.07
 NSW,110,Charlton,1891,Pittown,506,70.28,214,29.72,720,3.18
 NSW,110,Charlton,1892,Plattsburg,1251,68.36,579,31.64,1830,-4.03
 NSW,110,Charlton,365,Rathmines,1352,60.71,875,39.29,2227,2.75
-NSW,110,Charlton,1906,Silver Ridge,480,60.15,318,39.85,798,2.75
+NSW,110,Charlton,1906,Silver Ridge,478,59.97,319,40.03,797,2.57
 NSW,110,Charlton,33605,Special Hospital Team 1,124,67.39,60,32.61,184,4.28
 NSW,110,Charlton,33949,Special Hospital Team 2,67,46.21,78,53.79,145,-17.12
 NSW,110,Charlton,56853,Special Hospital Team 3,40,71.43,16,28.57,56,8.93
 NSW,110,Charlton,367,Speers Point,1240,62.12,756,37.88,1996,1.15
 NSW,110,Charlton,14038,Sydney (Charlton),20,51.28,19,48.72,39,-27.29
 NSW,110,Charlton,370,Teralba,645,67.82,306,32.18,951,3.8
-NSW,110,Charlton,371,Toronto,483,67.08,237,32.92,720,-0.15
+NSW,110,Charlton,371,Toronto,482,67.04,237,32.96,719,-0.19
 NSW,110,Charlton,372,Toronto North,377,60.51,246,39.49,623,0.23
 NSW,110,Charlton,33900,Toronto PPVC,1071,57.74,784,42.26,1855,7.22
 NSW,110,Charlton,38205,Wallsend,966,68.71,440,31.29,1406,-0.36
@@ -972,7 +972,7 @@ NSW,118,Farrer,782,Deniliquin North,217,23.93,690,76.07,907,-2.8
 NSW,118,Farrer,33879,Deniliquin PPVC,0,0,0,0,0,0
 NSW,118,Farrer,783,Deniliquin South,186,27.07,501,72.93,687,-1.73
 NSW,118,Farrer,784,Deniliquin West,372,30.97,829,69.03,1201,-4.49
-NSW,118,Farrer,30109,Divisional Office (PREPOLL),139,24.01,440,75.99,579,-20.43
+NSW,118,Farrer,30109,Divisional Office (PREPOLL),194,33.51,385,66.49,579,-10.93
 NSW,118,Farrer,2503,Emery,4,3.92,98,96.08,102,0.04
 NSW,118,Farrer,785,Euston,91,27.16,244,72.84,335,-0.04
 NSW,118,Farrer,2505,Excelsior,0,0,0,0,0,-66.48
@@ -1253,7 +1253,7 @@ NSW,124,Hughes,1203,Engadine East,393,51.17,375,48.83,768,1.91
 NSW,124,Hughes,1193,Engadine South,785,46.1,918,53.9,1703,-1.93
 NSW,124,Hughes,1205,Engadine West,1407,46.33,1630,53.67,3037,0.19
 NSW,124,Hughes,1208,Hammondville,833,45.84,984,54.16,1817,-6.81
-NSW,124,Hughes,1214,Holsworthy,731,49.16,756,50.84,1487,-3.47
+NSW,124,Hughes,1214,Holsworthy,730,48.89,763,51.11,1493,-3.74
 NSW,124,Hughes,1215,Illawong,1046,33.87,2042,66.13,3088,-2.76
 NSW,124,Hughes,1217,Jannali West (Hughes),323,52.86,288,47.14,611,-3.21
 NSW,124,Hughes,879,Liverpool (Hughes),714,62.09,436,37.91,1150,-9.25
@@ -2061,10 +2061,10 @@ NSW,136,Newcastle,1905,Waratah West,727,68.98,327,31.02,1054,-4.92
 NSW,136,Newcastle,1655,Williamtown,225,50.22,223,49.78,448,-2.24
 NSW,136,Newcastle,1430,Woodberry,1132,73.65,405,26.35,1537,-2.68
 NSW,137,North Sydney,2008,Artarmon,492,38.71,779,61.29,1271,-13.96
-NSW,137,North Sydney,2009,Artarmon Central,901,41.81,1254,58.19,2155,-11.39
+NSW,137,North Sydney,2009,Artarmon Central,904,41.91,1253,58.09,2157,-11.29
 NSW,137,North Sydney,76,Boronia Park (North Sydney),555,39.28,858,60.72,1413,-7.75
 NSW,137,North Sydney,2010,Cammeray,1037,36.07,1838,63.93,2875,-8.62
-NSW,137,North Sydney,2011,Castle Cove,362,26.1,1025,73.9,1387,-6.96
+NSW,137,North Sydney,2011,Castle Cove,358,25.87,1026,74.13,1384,-7.19
 NSW,137,North Sydney,2012,Castlecrag,418,31.93,891,68.07,1309,-8.51
 NSW,137,North Sydney,11935,Chatswood (North Sydney),419,35,778,65,1197,-14.92
 NSW,137,North Sydney,33766,Chatswood East,457,34.7,860,65.3,1317,-6.82
@@ -2517,7 +2517,7 @@ NSW,145,Richmond,2407,Brunswick Heads,1041,66.77,518,33.23,1559,-1.33
 NSW,145,Richmond,2408,Burringbar,386,62.56,231,37.44,617,-5.12
 NSW,145,Richmond,2409,Byron Bay,1207,68.08,566,31.92,1773,-4.3
 NSW,145,Richmond,33760,Byron Bay PPVC,865,61.79,535,38.21,1400,5.43
-NSW,145,Richmond,11917,Byron Bay South,683,67.42,330,32.58,1013,-2.11
+NSW,145,Richmond,11917,Byron Bay South,684,67.46,330,32.54,1014,-2.07
 NSW,145,Richmond,2411,Carool,93,60.78,60,39.22,153,2.72
 NSW,145,Richmond,2412,Chillingham,120,43.96,153,56.04,273,-9
 NSW,145,Richmond,2413,Chinderah,673,58.22,483,41.78,1156,-3.57
@@ -8155,7 +8155,7 @@ WA,237,Cowan,47761,Hocking,920,39.76,1394,60.24,2314,-3.47
 WA,237,Cowan,7578,Kingsley,1326,40.19,1973,59.81,3299,-2.6
 WA,237,Cowan,11912,Kingsley East,617,36.53,1072,63.47,1689,-3.61
 WA,237,Cowan,7579,Kingsley South,802,38.86,1262,61.14,2064,-2.8
-WA,237,Cowan,7580,Koondoola,921,58.59,651,41.41,1572,-11.99
+WA,237,Cowan,7580,Koondoola,919,58.54,651,41.46,1570,-12.04
 WA,237,Cowan,32813,Landsdale,1081,37.52,1800,62.48,2881,-3.81
 WA,237,Cowan,47764,Madeley,555,32.48,1154,67.52,1709,-13.51
 WA,237,Cowan,11593,Marangaroo,1149,52.61,1035,47.39,2184,-3.68
