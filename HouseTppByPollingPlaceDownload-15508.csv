@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T16:04:07 Cycle:8346e4a7-b8a0-490b-bc76-4db3f3f9fa57 Created:2010-09-02T15:49:53 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T16:19:20 Cycle:80d1e32b-dba1-4d86-a28b-68c5d19d2b6e Created:2010-09-02T16:04:58 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -749,28 +749,28 @@ NSW,114,Cunningham,1682,Fairy Meadow,1177,67.96,555,32.04,1732,-5.11
 NSW,114,Cunningham,1683,Fairy Meadow South,141,68.12,66,31.88,207,-4.55
 NSW,114,Cunningham,1694,Fernhill,441,64.66,241,35.34,682,-7.93
 NSW,114,Cunningham,542,Figtree,1774,62.11,1082,37.89,2856,-2.28
-NSW,114,Cunningham,543,Figtree Heights,855,57.11,642,42.89,1497,-1.33
-NSW,114,Cunningham,544,Gwynneville,801,64.03,450,35.97,1251,-6.91
-NSW,114,Cunningham,1210,Heathcote,980,48.4,1045,51.6,2025,0.38
+NSW,114,Cunningham,543,Figtree Heights,848,56.8,645,43.2,1493,-1.64
+NSW,114,Cunningham,544,Gwynneville,827,66,426,34,1253,-4.94
+NSW,114,Cunningham,1210,Heathcote,977,48.32,1045,51.68,2022,0.3
 NSW,114,Cunningham,1211,Heathcote East,537,45.62,640,54.38,1177,0.25
-NSW,114,Cunningham,1212,Helensburgh,1201,54.67,996,45.33,2197,-6.37
+NSW,114,Cunningham,1212,Helensburgh,1204,54.7,997,45.3,2201,-6.34
 NSW,114,Cunningham,1213,Helensburgh North,583,60.6,379,39.4,962,-3.83
-NSW,114,Cunningham,546,Keiraville,1368,59.92,915,40.08,2283,-3.73
-NSW,114,Cunningham,551,Lindsay Park,1230,59.54,836,40.46,2066,-2.14
+NSW,114,Cunningham,546,Keiraville,1363,59.89,913,40.11,2276,-3.76
+NSW,114,Cunningham,551,Lindsay Park,1233,60.21,815,39.79,2048,-1.47
 NSW,114,Cunningham,1221,Maianbar,137,52.9,122,47.1,259,-2.97
-NSW,114,Cunningham,553,Mount Keira,572,59.71,386,40.29,958,-2.4
-NSW,114,Cunningham,554,Mount Kembla,323,61.29,204,38.71,527,-4
+NSW,114,Cunningham,553,Mount Keira,574,59.92,384,40.08,958,-2.19
+NSW,114,Cunningham,554,Mount Kembla,319,60.99,204,39.01,523,-4.3
 NSW,114,Cunningham,1689,Mount Ousley,926,56.12,724,43.88,1650,-3.6
-NSW,114,Cunningham,555,Mount Saint Thomas,1002,60.69,649,39.31,1651,-5.58
+NSW,114,Cunningham,555,Mount Saint Thomas,996,62.41,600,37.59,1596,-3.86
 NSW,114,Cunningham,1224,Otford,127,61.95,78,38.05,205,-13.19
 NSW,114,Cunningham,1696,Russell Vale,958,70.6,399,29.4,1357,-6.22
 NSW,114,Cunningham,1228,Scarborough,149,70.95,61,29.05,210,-3.42
-NSW,114,Cunningham,568,Smith's Hill,1596,58.61,1127,41.39,2723,-2.73
+NSW,114,Cunningham,568,Smith's Hill,1597,58.84,1117,41.16,2714,-2.5
 NSW,114,Cunningham,33614,Special Hospital Team 1,31,48.44,33,51.56,64,-3.41
 NSW,114,Cunningham,33732,Special Hospital Team 2,47,68.12,22,31.88,69,16.31
 NSW,114,Cunningham,56993,Special Hospital Team 3,66,54.55,55,45.45,121,2.55
 NSW,114,Cunningham,1229,Stanwell Park,415,62.03,254,37.97,669,-1.92
-NSW,114,Cunningham,14046,Sydney (Cunningham),40,64.52,22,35.48,62,1.3
+NSW,114,Cunningham,14046,Sydney (Cunningham),41,66.13,21,33.87,62,2.91
 NSW,114,Cunningham,1699,Tarrawanna,1195,68.25,556,31.75,1751,-2.77
 NSW,114,Cunningham,1703,Thirroul,1180,70.83,486,29.17,1666,-2.42
 NSW,114,Cunningham,1704,Thirroul East,833,64.18,465,35.82,1298,-6.75
@@ -858,7 +858,7 @@ NSW,117,Eden-Monaro,670,Batemans Bay,845,49.33,868,50.67,1713,2.65
 NSW,117,Eden-Monaro,33919,Batemans Bay PPVC,1313,51.11,1256,48.89,2569,2.39
 NSW,117,Eden-Monaro,672,Bega,969,59.89,649,40.11,1618,3.14
 NSW,117,Eden-Monaro,673,Bega Central,592,53.97,505,46.03,1097,2.68
-NSW,117,Eden-Monaro,33920,Bega PPVC,683,52.99,606,47.01,1289,4.26
+NSW,117,Eden-Monaro,33920,Bega PPVC,680,52.88,606,47.12,1286,4.15
 NSW,117,Eden-Monaro,675,Bemboka,195,52.99,173,47.01,368,10.58
 NSW,117,Eden-Monaro,676,Bermagui,674,51.77,628,48.23,1302,-5.22
 NSW,117,Eden-Monaro,677,Berridale,212,37.92,347,62.08,559,-2.37
@@ -955,7 +955,7 @@ NSW,118,Farrer,2489,Broken Hill,478,50.96,460,49.04,938,-11.77
 NSW,118,Farrer,2490,Broken Hill Hospital,318,60.34,209,39.66,527,-8.36
 NSW,118,Farrer,2491,Broken Hill North,984,59.6,667,40.4,1651,-8.02
 NSW,118,Farrer,33950,Broken Hill PPVC,1718,59.06,1191,40.94,2909,14.53
-NSW,118,Farrer,763,Bunnaloo,10,11.9,74,88.1,84,-0.98
+NSW,118,Farrer,763,Bunnaloo,9,10.71,75,89.29,84,-2.17
 NSW,118,Farrer,764,Buronga,169,23.25,558,76.75,727,-4.79
 NSW,118,Farrer,765,Burrumbuttock,40,17.7,186,82.3,226,-2.3
 NSW,118,Farrer,770,Conargo,12,17.91,55,82.09,67,1.44
@@ -963,7 +963,7 @@ NSW,118,Farrer,773,Corowa,588,38.26,949,61.74,1537,0.08
 NSW,118,Farrer,774,Corowa Central,310,37.71,512,62.29,822,3.09
 NSW,118,Farrer,775,Corowa South,278,36.63,481,63.37,759,-1.6
 NSW,118,Farrer,776,Culcairn,298,36.88,510,63.12,808,2.35
-NSW,118,Farrer,777,Curlwaa,22,15.38,121,84.62,143,-7.18
+NSW,118,Farrer,777,Curlwaa,23,16.08,120,83.92,143,-6.48
 NSW,118,Farrer,778,Dareton,102,21.25,378,78.75,480,-3.13
 NSW,118,Farrer,779,Daysdale,21,27.63,55,72.37,76,14.64
 NSW,118,Farrer,780,Deniliquin,367,28.94,901,71.06,1268,-3.55
@@ -2565,7 +2565,7 @@ NSW,145,Richmond,33753,Special Hospital Team 2,86,56.58,66,43.42,152,1.99
 NSW,145,Richmond,33756,Special Hospital Team 3,29,61.7,18,38.3,47,6.98
 NSW,145,Richmond,2465,Stokers Siding,206,60.95,132,39.05,338,-3.86
 NSW,145,Richmond,38336,Suffolk Park,781,70.11,333,29.89,1114,-4.15
-NSW,145,Richmond,14150,Sydney (Richmond),23,85.19,4,14.81,27,12.22
+NSW,145,Richmond,14150,Sydney (Richmond),22,81.48,5,18.52,27,8.51
 NSW,145,Richmond,2466,Terranora,567,43.75,729,56.25,1296,-3.09
 NSW,145,Richmond,2467,The Channon,291,76.38,90,23.62,381,-4.52
 NSW,145,Richmond,2468,Tintenbar,174,43.83,223,56.17,397,0.46
@@ -2573,7 +2573,7 @@ NSW,145,Richmond,2471,Tumbulgum,235,54.78,194,45.22,429,-5.71
 NSW,145,Richmond,2472,Tweed Heads,1281,54.79,1057,45.21,2338,-1
 NSW,145,Richmond,2436,Tweed Heads Central,754,48.36,805,51.64,1559,-1.73
 NSW,145,Richmond,33761,Tweed Heads PPVC,2926,51.63,2741,48.37,5667,-4.72
-NSW,145,Richmond,2473,Tweed Heads South,1451,57.33,1080,42.67,2531,-3.01
+NSW,145,Richmond,2473,Tweed Heads South,1435,57.13,1077,42.87,2512,-3.21
 NSW,145,Richmond,34348,Tweed Heads West,804,58.35,574,41.65,1378,-1.14
 NSW,145,Richmond,2474,Tyalgum,261,56.99,197,43.01,458,-6.22
 NSW,145,Richmond,2475,Uki,529,68.35,245,31.65,774,-5.97
@@ -3027,7 +3027,7 @@ NSW,152,Wentworth,46280,Randwick (Wentworth),277,45.56,331,54.44,608,-7.36
 NSW,152,Wentworth,2323,Randwick North (Wentworth),758,40.02,1136,59.98,1894,-15.23
 NSW,152,Wentworth,2880,Rose Bay,500,25.54,1458,74.46,1958,-8.59
 NSW,152,Wentworth,2881,Rose Bay Central,286,19.1,1211,80.9,1497,-8.39
-NSW,152,Wentworth,33641,Special Hospital Team 1,0,0,0,0,0,-28.47
+NSW,152,Wentworth,33641,Special Hospital Team 1,35,19.66,143,80.34,178,-8.81
 NSW,152,Wentworth,33955,Special Hospital Team 2,12,22.64,41,77.36,53,-5.93
 NSW,152,Wentworth,33956,Special Hospital Team 3,20,33.9,39,66.1,59,5.33
 NSW,152,Wentworth,2886,St Vincents Hospital,198,46.26,230,53.74,428,-15.19
@@ -3401,22 +3401,22 @@ QLD,157,Capricornia,5250,Moranbah West,756,71.52,301,28.48,1057,-3.38
 QLD,157,Capricornia,5251,Mount Archer,1075,59.82,722,40.18,1797,-7.43
 QLD,157,Capricornia,5254,Nebo,99,43.81,127,56.19,226,-2.98
 QLD,157,Capricornia,46436,Nebo Mac Camp PPVC,23,60.53,15,39.47,38,24.82
-QLD,157,Capricornia,31517,Norman Road,1157,53.91,989,46.09,2146,-3.91
+QLD,157,Capricornia,31517,Norman Road,1102,51.5,1038,48.5,2140,-6.32
 QLD,157,Capricornia,5315,North Eton,30,31.25,66,68.75,96,-6.25
 QLD,157,Capricornia,5257,North Rockhampton,1827,58.78,1281,41.22,3108,-8.76
 QLD,157,Capricornia,31448,Ooralea,438,48.72,461,51.28,899,-7.7
-QLD,157,Capricornia,5259,Park Avenue,1395,62.33,843,37.67,2238,-10.65
-QLD,157,Capricornia,5260,Parkhurst,826,46.93,934,53.07,1760,-8.61
+QLD,157,Capricornia,5259,Park Avenue,1410,62.56,844,37.44,2254,-10.42
+QLD,157,Capricornia,5260,Parkhurst,839,47.13,941,52.87,1780,-8.41
 QLD,157,Capricornia,5262,Port Curtis,84,55.26,68,44.74,152,-7.31
 QLD,157,Capricornia,5364,Racecourse,73,31.74,157,68.26,230,1.15
 QLD,157,Capricornia,5266,Rockhampton Central,212,62.17,129,37.83,341,-2.91
-QLD,157,Capricornia,5265,Rockhampton City,347,55.79,275,44.21,622,-6.55
+QLD,157,Capricornia,5265,Rockhampton City,348,55.95,274,44.05,622,-6.39
 QLD,157,Capricornia,5277,Rockhampton High School,1069,60.02,712,39.98,1781,-7.82
 QLD,157,Capricornia,32700,Rockhampton PPVC,2086,52.68,1874,47.32,3960,16.44
 QLD,157,Capricornia,5271,Rockhampton Range,533,40.97,768,59.03,1301,-5.93
 QLD,157,Capricornia,5367,Sarina Beach,183,49.59,186,50.41,369,-7.55
-QLD,157,Capricornia,5366,Sarina Central,1025,61.38,645,38.62,1670,-6.81
-QLD,157,Capricornia,33990,Sarina East,531,64.21,296,35.79,827,-5.55
+QLD,157,Capricornia,5366,Sarina Central,1021,61.32,644,38.68,1665,-6.87
+QLD,157,Capricornia,33990,Sarina East,531,64.36,294,35.64,825,-5.4
 QLD,157,Capricornia,46727,Sarina Interstate PPVC,0,0,0,0,0,0
 QLD,157,Capricornia,46726,Sarina PPVC,223,54.39,187,45.61,410,17.88
 QLD,157,Capricornia,5369,Sarina Range,53,50,53,50,106,1.35
@@ -4162,7 +4162,7 @@ QLD,168,Leichhardt,14224,Brisbane City (Leichhardt),32,69.57,14,30.43,46,15.22
 QLD,168,Leichhardt,46598,Cairns Airport PPVC,273,50.46,268,49.54,541,0.91
 QLD,168,Leichhardt,5935,Cairns Base Hospital,309,55.48,248,44.52,557,-6.83
 QLD,168,Leichhardt,32677,Cairns Beaches PPVC,0,0,0,0,0,0
-QLD,168,Leichhardt,5934,Cairns City,539,43.64,696,56.36,1235,-8.02
+QLD,168,Leichhardt,5934,Cairns City,538,43.6,696,56.4,1234,-8.06
 QLD,168,Leichhardt,32675,Cairns City PPVC,1836,38.56,2926,61.44,4762,-10.96
 QLD,168,Leichhardt,5936,Cairns North,366,48.35,391,51.65,757,-3.71
 QLD,168,Leichhardt,46569,Cairns South PPVC,0,0,0,0,0,0
@@ -7380,7 +7380,7 @@ VIC,224,Mallee,4789,Murrabit,34,15.89,180,84.11,214,-0.04
 VIC,224,Mallee,4519,Murrayville,29,11.24,229,88.76,258,-4.01
 VIC,224,Mallee,4520,Murtoa,229,39.48,351,60.52,580,1.02
 VIC,224,Mallee,4522,Nangiloc,42,17.57,197,82.43,239,-13.45
-VIC,224,Mallee,4524,Natimuk,133,33.67,262,66.33,395,6.6
+VIC,224,Mallee,4524,Natimuk,136,34.43,259,65.57,395,7.36
 VIC,224,Mallee,4525,Netherby,6,7.79,71,92.21,77,-3.19
 VIC,224,Mallee,4527,Nhill,292,23.4,956,76.6,1248,-3
 VIC,224,Mallee,4528,Nichols Point,146,19.86,589,80.14,735,-3.86
