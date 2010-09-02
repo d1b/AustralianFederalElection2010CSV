@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T18:05:45 Cycle:bcda99d2-d0a6-4b33-9c26-4d4b9670be11 Created:2010-09-02T17:50:24 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T18:21:09 Cycle:d8620bd5-ea45-490e-97ea-2ea808832f06 Created:2010-09-02T18:05:24 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -252,7 +252,7 @@ NSW,106,Berowra,117,Berowra,1304,40.88,1886,59.12,3190,-5.66
 NSW,106,Berowra,118,Berowra Heights,802,43.35,1048,56.65,1850,-0.38
 NSW,106,Berowra,1828,Berowra Waters,35,36.84,60,63.16,95,1.78
 NSW,106,Berowra,120,Brooklyn,195,49.24,201,50.76,396,-1.39
-NSW,106,Berowra,58669,Castle Hill BEROWRA PPVC,364,24.06,1149,75.94,1513,-32.65
+NSW,106,Berowra,58669,Castle Hill BEROWRA PPVC,366,24.19,1147,75.81,1513,-32.52
 NSW,106,Berowra,637,Cheltenham,549,39.16,853,60.84,1402,-7.69
 NSW,106,Berowra,11928,Cherrybrook,945,32.92,1926,67.08,2871,-8.11
 NSW,106,Berowra,34004,Cherrybrook Central,281,27.33,747,72.67,1028,-8.26
@@ -282,11 +282,11 @@ NSW,106,Berowra,131,Mount Colah,1129,41.88,1567,58.12,2696,-3.98
 NSW,106,Berowra,132,Mount Kuring-Gai,458,38.29,738,61.71,1196,-4.73
 NSW,106,Berowra,1850,Murray Farm,1004,35.02,1863,64.98,2867,-7.91
 NSW,106,Berowra,56575,Normanhurst (Berowra),126,42.57,170,57.43,296,-1.84
-NSW,106,Berowra,135,Normanhurst West,886,41.54,1247,58.46,2133,-3.36
+NSW,106,Berowra,135,Normanhurst West,904,42.38,1229,57.62,2133,-2.52
 NSW,106,Berowra,33781,Oakhill Drive (Berowra),601,31.52,1306,68.48,1907,-9.62
 NSW,106,Berowra,136,Pennant Hills,1019,31.56,2210,68.44,3229,-18.35
 NSW,106,Berowra,56586,Samuel Gilbert (Berowra),139,23.8,445,76.2,584,-9.1
-NSW,106,Berowra,33598,Special Hospital Team 1,40,23.95,127,76.05,167,2.85
+NSW,106,Berowra,33598,Special Hospital Team 1,40,24.1,126,75.9,166,3
 NSW,106,Berowra,14020,Sydney (Berowra),44,44.44,55,55.56,99,-3.65
 NSW,106,Berowra,1855,Thompsons Corner,1015,34.12,1960,65.88,2975,-5.78
 NSW,106,Berowra,56576,Thornleigh (Berowra),157,38.57,250,61.43,407,-4.65
@@ -294,7 +294,7 @@ NSW,106,Berowra,33118,West Pennant Hills (Berowra),549,29.53,1310,70.47,1859,-9.
 NSW,106,Berowra,148,Westleigh,1184,35.5,2151,64.5,3335,-6.14
 NSW,106,Berowra,33800,Wisemans Ferry,42,28.77,104,71.23,146,-2.77
 NSW,107,Blaxland,2366,Auburn East (Blaxland),360,64.06,202,35.94,562,-3.81
-NSW,107,Blaxland,56664,Auburn West (Blaxland),361,67.98,170,32.02,531,-6.01
+NSW,107,Blaxland,56664,Auburn West (Blaxland),363,68.36,168,31.64,531,-5.63
 NSW,107,Blaxland,31455,Bankstown (Blaxland),1127,73.66,403,26.34,1530,-3.2
 NSW,107,Blaxland,33854,Bankstown BLAXLAND PPVC,1145,63.68,653,36.32,1798,-2.53
 NSW,107,Blaxland,155,Bankstown Central (Blaxland),839,71.1,341,28.9,1180,-6.45
@@ -622,7 +622,7 @@ NSW,112,Cook,430,Gymea Bay,1174,35.44,2139,64.56,3313,-7.25
 NSW,112,Cook,429,Gymea North,440,35.23,809,64.77,1249,-8.61
 NSW,112,Cook,1216,Jannali East,849,51.96,785,48.04,1634,-1.03
 NSW,112,Cook,56926,Jannali West (Cook),224,47.46,248,52.54,472,-8.67
-NSW,112,Cook,431,Kareela,707,34.42,1347,65.58,2054,-4.96
+NSW,112,Cook,431,Kareela,711,34.7,1338,65.3,2049,-4.68
 NSW,112,Cook,1218,Kirrawee,718,41.43,1015,58.57,1733,-5.94
 NSW,112,Cook,432,Kirrawee South,642,40.05,961,59.95,1603,-5.52
 NSW,112,Cook,433,Kurnell,448,38.75,708,61.25,1156,-7.84
@@ -2513,7 +2513,7 @@ NSW,145,Richmond,2401,Bexhill,185,46.37,214,53.63,399,-1.06
 NSW,145,Richmond,2402,Bilambil,681,53.88,583,46.12,1264,-1.18
 NSW,145,Richmond,2403,Billinudgel,490,61.48,307,38.52,797,-5.29
 NSW,145,Richmond,2404,Bogangar,1047,61.95,643,38.05,1690,-2.35
-NSW,145,Richmond,2407,Brunswick Heads,1041,66.77,518,33.23,1559,-1.33
+NSW,145,Richmond,2407,Brunswick Heads,1042,66.79,518,33.21,1560,-1.31
 NSW,145,Richmond,2408,Burringbar,386,62.56,231,37.44,617,-5.12
 NSW,145,Richmond,2409,Byron Bay,1207,68.08,566,31.92,1773,-4.3
 NSW,145,Richmond,33760,Byron Bay PPVC,865,61.79,535,38.21,1400,5.43
@@ -3427,13 +3427,13 @@ QLD,157,Capricornia,32581,Special Hospital Team 4,17,68,8,32,25,6.1
 QLD,157,Capricornia,46530,Special Hospital Team 6,31,72.09,12,27.91,43,9.93
 QLD,157,Capricornia,32525,St Brendan's College,526,49.76,531,50.24,1057,-6.99
 QLD,157,Capricornia,5273,St Lawrence,41,40.59,60,59.41,101,-5.81
-QLD,157,Capricornia,5373,Swayneville,184,52.72,165,47.28,349,-5.56
+QLD,157,Capricornia,5373,Swayneville,189,53.09,167,46.91,356,-5.19
 QLD,157,Capricornia,5225,Taranganba,1251,45.96,1471,54.04,2722,-9.36
 QLD,157,Capricornia,5222,The Caves,272,42.04,375,57.96,647,-8.77
 QLD,157,Capricornia,5376,Walkerston,968,46.43,1117,53.57,2085,-4.49
 QLD,157,Capricornia,5276,Wandal,401,48.49,426,51.51,827,-6.84
 QLD,157,Capricornia,5280,Yaamba,29,24.58,89,75.42,118,-9.73
-QLD,157,Capricornia,5281,Yeppoon,653,55.86,516,44.14,1169,-3.52
+QLD,157,Capricornia,5281,Yeppoon,647,55.44,520,44.56,1167,-3.94
 QLD,157,Capricornia,46729,Yeppoon Interstate PPVC,0,0,0,0,0,0
 QLD,157,Capricornia,46728,Yeppoon PPVC,905,45.23,1096,54.77,2001,8.96
 QLD,158,Dawson,5287,Airlie Beach,382,32.87,780,67.13,1162,-12.61
