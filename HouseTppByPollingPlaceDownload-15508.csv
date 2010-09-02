@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T18:36:37 Cycle:937777d0-0294-4acb-945d-059ca8dffa9a Created:2010-09-02T18:20:30 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T19:11:31 Cycle:491c2815-b6e7-442d-b0b5-4b5ae51f016b Created:2010-09-02T18:50:40 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -284,7 +284,7 @@ NSW,106,Berowra,1850,Murray Farm,1004,35.07,1859,64.93,2863,-7.86
 NSW,106,Berowra,56575,Normanhurst (Berowra),128,43.39,167,56.61,295,-1.02
 NSW,106,Berowra,135,Normanhurst West,904,42.38,1229,57.62,2133,-2.52
 NSW,106,Berowra,33781,Oakhill Drive (Berowra),598,31.47,1302,68.53,1900,-9.67
-NSW,106,Berowra,136,Pennant Hills,1019,31.56,2210,68.44,3229,-18.35
+NSW,106,Berowra,136,Pennant Hills,1280,40.13,1910,59.87,3190,-9.78
 NSW,106,Berowra,56586,Samuel Gilbert (Berowra),139,23.8,445,76.2,584,-9.1
 NSW,106,Berowra,33598,Special Hospital Team 1,40,24.1,126,75.9,166,3
 NSW,106,Berowra,14020,Sydney (Berowra),44,44.44,55,55.56,99,-3.65
@@ -2089,7 +2089,7 @@ NSW,137,North Sydney,96,Lane Cove West,709,35.54,1286,64.46,1995,-7.84
 NSW,137,North Sydney,97,Longueville,510,28.44,1283,71.56,1793,-9.35
 NSW,137,North Sydney,2024,Mcmahons Point,727,42.32,991,57.68,1718,-6.28
 NSW,137,North Sydney,2025,Milsons Point,278,36.53,483,63.47,761,-9.25
-NSW,137,North Sydney,33722,Mowbray,662,35.44,1206,64.56,1868,-8.22
+NSW,137,North Sydney,33722,Mowbray,671,35.98,1194,64.02,1865,-7.68
 NSW,137,North Sydney,2026,Naremburn,787,35.01,1461,64.99,2248,-10.65
 NSW,137,North Sydney,37052,Naremburn East,255,37.28,429,62.72,684,-11.55
 NSW,137,North Sydney,57834,Neutral Bay (North Sydney),224,39.23,347,60.77,571,-5.62
@@ -2819,9 +2819,9 @@ NSW,149,Sydney,2743,Glebe East,1009,77.14,299,22.86,1308,-2.25
 NSW,149,Sydney,2744,Glebe North,742,71.07,302,28.93,1044,-1.3
 NSW,149,Sydney,2768,Glebe West,883,74.51,302,25.49,1185,-0.53
 NSW,149,Sydney,46533,Haymarket PPVC,876,66.82,435,33.18,1311,-1.68
-NSW,149,Sydney,2869,Hyde Park,401,65.63,210,34.37,611,-1.46
+NSW,149,Sydney,2869,Hyde Park,404,66.12,207,33.88,611,-0.97
 NSW,149,Sydney,2755,Lord Howe Island,98,57.31,73,42.69,171,1.7
-NSW,149,Sydney,2756,Millers Point,573,49.31,589,50.69,1162,-2.67
+NSW,149,Sydney,2756,Millers Point,593,50.13,590,49.87,1183,-1.85
 NSW,149,Sydney,8881,Newtown East,813,83.56,160,16.44,973,-3.81
 NSW,149,Sydney,8882,Newtown North (Sydney),1209,80.98,284,19.02,1493,-3.33
 NSW,149,Sydney,2761,Prince Alfred Hospital,307,74.88,103,25.12,410,-2.53
@@ -8382,8 +8382,8 @@ WA,239,Forrest,32928,Busselton East,574,36.77,987,63.23,1561,0.31
 WA,239,Forrest,34114,Busselton South,762,39.77,1154,60.23,1916,-1.37
 WA,239,Forrest,7667,Busselton West,895,35.89,1599,64.11,2494,-1.12
 WA,239,Forrest,7668,Capel,569,40.53,835,59.47,1404,-2.45
-WA,239,Forrest,8852,Carbunup River,114,29.69,270,70.31,384,0.96
-WA,239,Forrest,7669,Carey Park,810,52.12,744,47.88,1554,-3.97
+WA,239,Forrest,8852,Carbunup River,112,29.24,271,70.76,383,0.51
+WA,239,Forrest,7669,Carey Park,816,52.58,736,47.42,1552,-3.51
 WA,239,Forrest,7670,Carey Park South,502,47.67,551,52.33,1053,-5.61
 WA,239,Forrest,11899,Clifton Park,262,41.32,372,58.68,634,-0.17
 WA,239,Forrest,7673,Collie,536,67.85,254,32.15,790,-2.02
