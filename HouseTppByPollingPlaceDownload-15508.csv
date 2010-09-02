@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T15:32:40 Cycle:5efadae4-0556-465f-a8c1-9d655aeb3b56 Created:2010-09-02T15:19:43 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T15:48:40 Cycle:dfd2d66f-3c48-4200-9f6f-99ba73ba0111 Created:2010-09-02T15:34:48 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -6,11 +6,11 @@ ACT,101,Canberra,11452,Calwell,1566,60.44,1025,39.56,2591,0.93
 ACT,101,Canberra,8794,Canberra Hospital,516,61.21,327,38.79,843,-2.82
 ACT,101,Canberra,8761,Chapman,1688,59.35,1156,40.65,2844,-1.86
 ACT,101,Canberra,8763,Chisholm,1020,56.2,795,43.8,1815,-6.67
-ACT,101,Canberra,58708,City CANBERRA PPVC,1245,63.52,715,36.48,1960,26.32
+ACT,101,Canberra,58708,City CANBERRA PPVC,1244,63.47,716,36.53,1960,26.27
 ACT,101,Canberra,31298,Conder,2025,58.11,1460,41.89,3485,-0.93
 ACT,101,Canberra,8764,Curtin,1871,63.57,1072,36.43,2943,-0.16
 ACT,101,Canberra,8766,Deakin,789,46.47,909,53.53,1698,-3.1
-ACT,101,Canberra,30092,Divisional Office (PREPOLL),954,58.56,675,41.44,1629,21.33
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),957,58.71,673,41.29,1630,21.48
 ACT,101,Canberra,8767,Duffy,1300,64.68,710,35.32,2010,-1.72
 ACT,101,Canberra,8768,Fadden,1268,54.26,1069,45.74,2337,-2.47
 ACT,101,Canberra,8769,Farrer,1464,52.99,1299,47.01,2763,-2.17
@@ -40,7 +40,7 @@ ACT,101,Canberra,58811,Special Hospital Team 3,48,47.52,53,52.48,101,-1.57
 ACT,101,Canberra,46425,Stirling,548,57.99,397,42.01,945,-9.96
 ACT,101,Canberra,8788,Tharwa,66,52.38,60,47.62,126,3.42
 ACT,101,Canberra,11878,Theodore,1044,59.15,721,40.85,1765,-1
-ACT,101,Canberra,32704,Tuggeranong PPVC,4216,56.84,3201,43.16,7417,19.61
+ACT,101,Canberra,32704,Tuggeranong PPVC,4230,56.89,3206,43.11,7436,19.66
 ACT,101,Canberra,8790,Wanniassa,1571,61.75,973,38.25,2544,-5.15
 ACT,101,Canberra,8791,Wanniassa Hills,1556,62.79,922,37.21,2478,-0.09
 ACT,101,Canberra,8792,Waramanga,1752,63.39,1012,36.61,2764,-1.67
@@ -994,7 +994,7 @@ NSW,118,Farrer,798,Jindera,272,27.59,714,72.41,986,-1.1
 NSW,118,Farrer,801,Koraleigh,49,24.38,152,75.62,201,3.03
 NSW,118,Farrer,805,Lavington,888,39.03,1387,60.97,2275,-3.1
 NSW,118,Farrer,806,Lavington East,750,42.11,1031,57.89,1781,0.76
-NSW,118,Farrer,807,Lockhart,161,24.43,498,75.57,659,-5.05
+NSW,118,Farrer,807,Lockhart,158,23.94,502,76.06,660,-5.54
 NSW,118,Farrer,809,Lowesdale,25,17.36,119,82.64,144,2.97
 NSW,118,Farrer,812,Mathoura,152,30.83,341,69.17,493,-7.49
 NSW,118,Farrer,813,Mayrung,6,8.82,62,91.18,68,1.5
@@ -1030,7 +1030,7 @@ NSW,118,Farrer,840,Tooleybuc,36,16,189,84,225,-7.83
 NSW,118,Farrer,843,Urana,111,44.05,141,55.95,252,0.07
 NSW,118,Farrer,845,Wakool,30,13.51,192,86.49,222,-2.4
 NSW,118,Farrer,846,Walbundrie,12,9.02,121,90.98,133,-2.79
-NSW,118,Farrer,847,Walla Walla,88,20.14,349,79.86,437,-3.53
+NSW,118,Farrer,847,Walla Walla,86,19.68,351,80.32,437,-3.99
 NSW,118,Farrer,849,Wentworth,217,26.66,597,73.34,814,-8.93
 NSW,118,Farrer,2559,White Cliffs,22,29.33,53,70.67,75,-2.01
 NSW,118,Farrer,2560,Wilcannia,97,48.26,104,51.74,201,6.09
@@ -4275,7 +4275,7 @@ QLD,302,Longman,5456,Beachmere,857,46.81,974,53.19,1831,-2.35
 QLD,302,Longman,5459,Bellara,1088,45.5,1303,54.5,2391,-2.33
 QLD,302,Longman,5462,Bongaree,1132,44.74,1398,55.26,2530,-1.73
 QLD,302,Longman,32666,Bribie Island PPVC,0,0,0,0,0,0
-QLD,302,Longman,31691,Brisbane City (Longman),26,52,24,48,50,-9.43
+QLD,302,Longman,31691,Brisbane City (Longman),26,53.06,23,46.94,49,-8.37
 QLD,302,Longman,5464,Burpengary,1214,47.95,1318,52.05,2532,-3.47
 QLD,302,Longman,55956,Burpengary East (Longman),319,42.14,438,57.86,757,-6.42
 QLD,302,Longman,47745,Burpengary Meadows,529,43.79,679,56.21,1208,-10.13
@@ -6087,7 +6087,7 @@ VIC,198,Ballarat,3015,Creswick North,308,64.98,166,35.02,474,-0.17
 VIC,198,Ballarat,3276,Darley,2192,65.87,1136,34.13,3328,7.32
 VIC,198,Ballarat,3277,Daylesford,1365,71.58,542,28.42,1907,2.42
 VIC,198,Ballarat,3018,Delacombe,1152,62.34,696,37.66,1848,5.14
-VIC,198,Ballarat,30189,Divisional Office (PREPOLL),17,54.84,14,45.16,31,0.99
+VIC,198,Ballarat,30189,Divisional Office (PREPOLL),17,45.95,20,54.05,37,-7.9
 VIC,198,Ballarat,3278,Drummond,150,62.5,90,37.5,240,-7.62
 VIC,198,Ballarat,3280,Elaine,114,47.9,124,52.1,238,3.11
 VIC,198,Ballarat,3286,Glenlyon,284,66.36,144,33.64,428,-0.97
@@ -6114,7 +6114,7 @@ VIC,198,Ballarat,3062,Smeaton,69,38.55,110,61.45,179,-1.61
 VIC,198,Ballarat,3064,Soldiers Hill,502,68.39,232,31.61,734,6.31
 VIC,198,Ballarat,31562,Special Hospital Team 1,61,54.95,50,45.05,111,2.25
 VIC,198,Ballarat,31594,Special Hospital Team 2,87,52.1,80,47.9,167,-0.34
-VIC,198,Ballarat,31595,Special Hospital Team 3,84,71.19,34,28.81,118,18.69
+VIC,198,Ballarat,31595,Special Hospital Team 3,83,70.94,34,29.06,117,18.44
 VIC,198,Ballarat,31596,Special Hospital Team 4,28,53.85,24,46.15,52,1.4
 VIC,198,Ballarat,3065,Springbank,99,43.81,127,56.19,226,1.73
 VIC,198,Ballarat,3068,The Stockade,940,65.1,504,34.9,1444,5.31
@@ -6122,9 +6122,9 @@ VIC,198,Ballarat,3335,Trentham,444,59.36,304,40.64,748,-0.61
 VIC,198,Ballarat,3337,Warrenheip,311,46.84,353,53.16,664,0.37
 VIC,198,Ballarat,3072,Wendouree,1017,55.85,804,44.15,1821,2.74
 VIC,198,Ballarat,3073,Wendouree East,670,59.61,454,40.39,1124,3.55
-VIC,198,Ballarat,3074,Wendouree North,1500,66.28,763,33.72,2263,6.41
-VIC,198,Ballarat,3075,Wendouree West,666,80.14,165,19.86,831,3.71
-VIC,198,Ballarat,3340,Yandoit,93,60.78,60,39.22,153,5.46
+VIC,198,Ballarat,3074,Wendouree North,1499,66.39,759,33.61,2258,6.52
+VIC,198,Ballarat,3075,Wendouree West,665,80.12,165,19.88,830,3.69
+VIC,198,Ballarat,3340,Yandoit,94,61.44,59,38.56,153,6.12
 VIC,199,Batman,36417,Alphington (Batman),0,0,0,0,0,-77.56
 VIC,199,Batman,3086,Alphington North,0,0,0,0,0,-74.65
 VIC,199,Batman,5087,Bell,0,0,0,0,0,-77.95
@@ -8379,8 +8379,8 @@ WA,239,Forrest,7666,Busselton,782,39.04,1221,60.96,2003,-2.43
 WA,239,Forrest,32817,Busselton 1 PPVC,539,33.81,1055,66.19,1594,-20.47
 WA,239,Forrest,32818,Busselton 2 PPVC,0,0,0,0,0,0
 WA,239,Forrest,32928,Busselton East,574,36.77,987,63.23,1561,0.31
-WA,239,Forrest,34114,Busselton South,770,40.23,1144,59.77,1914,-0.91
-WA,239,Forrest,7667,Busselton West,899,36.08,1593,63.92,2492,-0.93
+WA,239,Forrest,34114,Busselton South,762,39.77,1154,60.23,1916,-1.37
+WA,239,Forrest,7667,Busselton West,895,35.89,1599,64.11,2494,-1.12
 WA,239,Forrest,7668,Capel,577,40.84,836,59.16,1413,-2.14
 WA,239,Forrest,8852,Carbunup River,114,29.69,270,70.31,384,0.96
 WA,239,Forrest,7669,Carey Park,810,52.12,744,47.88,1554,-3.97
