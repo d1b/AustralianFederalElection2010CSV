@@ -1,8 +1,8 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T10:58:46 Cycle:8a5328ae-21c8-49dd-a290-d58978b0197a Created:2010-09-02T10:48:45 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T11:14:37 Cycle:d7e586ff-7488-48dc-9ebd-21efb1122fcd Created:2010-09-02T11:03:50 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 179,Adelaide,SA,98526,74726,75.84
 197,Aston,VIC,93448,83405,89.25
-198,Ballarat,VIC,97802,85206,86.97
+198,Ballarat,VIC,97802,85206,87.12
 103,Banks,NSW,98762,89377,90.5
 180,Barker,SA,104888,86055,82.04
 104,Barton,NSW,95243,71788,75.37
@@ -16,7 +16,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 310,Bonner,QLD,92684,69152,74.61
 182,Boothby,SA,97898,71649,73.19
 155,Bowman,QLD,91892,79666,86.7
-193,Braddon,TAS,71574,67030,93.65
+193,Braddon,TAS,71574,67337,93.65
 108,Bradfield,NSW,97251,80823,83.11
 235,Brand,WA,88203,71689,81.28
 156,Brisbane,QLD,92222,64961,70.44
@@ -25,7 +25,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 203,Calwell,VIC,101314,81040,79.99
 101,Canberra,ACT,124215,106438,85.69
 236,Canning,WA,90107,79751,88.51
-157,Capricornia,QLD,91962,79752,86.72
+157,Capricornia,QLD,91962,82225,86.72
 204,Casey,VIC,92357,83459,90.37
 110,Charlton,NSW,94480,83785,88.68
 111,Chifley,NSW,97605,90091,92.3
@@ -48,7 +48,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 159,Fadden,QLD,85236,65294,76.6
 160,Fairfax,QLD,89743,82289,91.69
 118,Farrer,NSW,94061,80831,85.93
-161,Fisher,QLD,83754,73878,88.21
+161,Fisher,QLD,83754,76050,88.21
 211,Flinders,VIC,100875,82892,82.17
 311,Flynn,QLD,91377,70050,76.66
 162,Forde,QLD,82558,61186,74.11
@@ -94,7 +94,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 130,Lyne,NSW,92565,85650,92.53
 196,Lyons,TAS,72865,66832,91.72
 131,Macarthur,NSW,90059,73587,81.71
-132,Mackellar,NSW,98556,82276,83.48
+132,Mackellar,NSW,98556,86506,83.48
 133,Macquarie,NSW,97560,79759,81.75
 187,Makin,SA,96263,90132,93.63
 224,Mallee,VIC,89840,80904,90.05
@@ -103,20 +103,20 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 188,Mayo,SA,101565,76362,75.19
 226,McEwen,VIC,115783,97618,84.31
 315,McMahon,NSW,96058,81122,84.45
-227,McMillan,VIC,93323,72376,77.54
+227,McMillan,VIC,93323,72489,77.55
 171,McPherson,QLD,90090,80097,88.91
-228,Melbourne,VIC,102879,73793,71.67
+228,Melbourne,VIC,102879,73831,71.73
 230,Melbourne Ports,VIC,97765,60359,61.74
 229,Menzies,VIC,90966,77788,85.51
 134,Mitchell,NSW,93588,83369,89.08
 172,Moncrieff,QLD,89087,79817,89.59
 242,Moore,WA,92295,83932,90.94
-173,Moreton,QLD,92733,68069,73.39
+173,Moreton,QLD,92733,68069,73.4
 231,Murray,VIC,90218,71836,79.62
 135,New England,NSW,99677,73006,73.24
 136,Newcastle,NSW,92896,79738,85.84
 137,North Sydney,NSW,97567,82112,84.16
-243,O'Connor,WA,92875,75092,80.85
+243,O'Connor,WA,92875,75673,80.85
 174,Oxley,QLD,82782,68373,82.59
 138,Page,NSW,94360,85994,91.13
 139,Parkes,NSW,100169,86343,86.2
@@ -135,7 +135,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 232,Scullin,VIC,90822,77454,85.28
 148,Shortland,NSW,94245,81505,86.48
 307,Solomon,NT,59879,52782,88.15
-246,Stirling,WA,91728,77643,83.03
+246,Stirling,WA,91728,77643,84.64
 190,Sturt,SA,99061,75500,76.22
 247,Swan,WA,90766,81404,89.69
 149,Sydney,NSW,95277,60653,63.66
