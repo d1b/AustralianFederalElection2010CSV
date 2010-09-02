@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T16:34:37 Cycle:a012d4a1-28b8-403a-b9f1-6e5907c36202 Created:2010-09-02T16:20:03 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T16:49:44 Cycle:4e002140-ca99-4d11-80a5-1c8750aa73ab Created:2010-09-02T16:35:08 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -1682,11 +1682,11 @@ NSW,131,Macarthur,1677,Cobbitty,149,24.27,465,75.73,614,-3.14
 NSW,131,Macarthur,31468,Currans Hill,1137,52.47,1030,47.53,2167,-1.48
 NSW,131,Macarthur,30122,Divisional Office (PREPOLL),123,42.27,168,57.73,291,-10.87
 NSW,131,Macarthur,1680,Douglas Park,214,38.63,340,61.37,554,-7.76
-NSW,131,Macarthur,34364,Glen Alpine,1169,41.91,1620,58.09,2789,-5.42
+NSW,131,Macarthur,34364,Glen Alpine,1182,42.2,1619,57.8,2801,-5.13
 NSW,131,Macarthur,33100,Harrington Park,939,38.03,1530,61.97,2469,-3.69
 NSW,131,Macarthur,58618,Harrington Park Central,359,37.87,589,62.13,948,-3.16
-NSW,131,Macarthur,878,Kemps Creek (Macarthur),242,30.52,551,69.48,793,-8.12
-NSW,131,Macarthur,2921,Kentlyn,385,44.15,487,55.85,872,-0.07
+NSW,131,Macarthur,878,Kemps Creek (Macarthur),240,30.53,546,69.47,786,-8.11
+NSW,131,Macarthur,2921,Kentlyn,376,43.47,489,56.53,865,-0.75
 NSW,131,Macarthur,2922,Leumeah,861,60.72,557,39.28,1418,-5
 NSW,131,Macarthur,33668,Leumeah North (Macarthur),322,54.21,272,45.79,594,-3.43
 NSW,131,Macarthur,883,Luddenham,154,30.26,355,69.74,509,-5.27
@@ -2085,9 +2085,9 @@ NSW,137,North Sydney,91,Hunters Hill West,354,33.12,715,66.88,1069,-9.45
 NSW,137,North Sydney,2023,Kirribilli,0,0,0,0,0,-44.84
 NSW,137,North Sydney,94,Lane Cove,1259,37.63,2087,62.37,3346,-7.75
 NSW,137,North Sydney,95,Lane Cove South,237,31.98,504,68.02,741,-10.42
-NSW,137,North Sydney,96,Lane Cove West,653,33.61,1290,66.39,1943,-9.77
+NSW,137,North Sydney,96,Lane Cove West,709,35.54,1286,64.46,1995,-7.84
 NSW,137,North Sydney,97,Longueville,478,26.66,1315,73.34,1793,-11.13
-NSW,137,North Sydney,2024,Mcmahons Point,728,42.3,993,57.7,1721,-6.3
+NSW,137,North Sydney,2024,Mcmahons Point,727,42.32,991,57.68,1718,-6.28
 NSW,137,North Sydney,2025,Milsons Point,275,36.14,486,63.86,761,-9.64
 NSW,137,North Sydney,33722,Mowbray,662,35.44,1206,64.56,1868,-8.22
 NSW,137,North Sydney,2026,Naremburn,787,35.01,1461,64.99,2248,-10.65
@@ -7394,7 +7394,7 @@ VIC,224,Mallee,4537,Piangil,43,16.67,215,83.33,258,-5.83
 VIC,224,Mallee,4538,Pimpinio,13,12.15,94,87.85,107,-4.24
 VIC,224,Mallee,4799,Quambatook,42,22.22,147,77.78,189,0.21
 VIC,224,Mallee,5046,Quantong,56,20.22,221,79.78,277,5.22
-VIC,224,Mallee,4539,Rainbow,97,20.64,373,79.36,470,2.06
+VIC,224,Mallee,4539,Rainbow,93,19.75,378,80.25,471,1.17
 VIC,224,Mallee,4540,Red Cliffs,517,29.13,1258,70.87,1775,-6.25
 VIC,224,Mallee,4542,Riverside,42,22.34,146,77.66,188,7.62
 VIC,224,Mallee,4543,Robinvale,243,19.69,991,80.31,1234,-6.54
@@ -8192,10 +8192,10 @@ WA,238,Curtin,7611,Leederville,506,51.74,472,48.26,978,-2.22
 WA,238,Curtin,7612,Leederville North,582,49.53,593,50.47,1175,-3.15
 WA,238,Curtin,7613,Leederville West,752,42.03,1037,57.97,1789,-2.5
 WA,238,Curtin,7614,Mosman Park,831,40.13,1240,59.87,2071,-2.33
-WA,238,Curtin,7615,Mosman Park South,188,21.89,671,78.11,859,-8.57
-WA,238,Curtin,7616,Mount Hawthorn,751,52.12,690,47.88,1441,-0.4
+WA,238,Curtin,7615,Mosman Park South,187,21.74,673,78.26,860,-8.72
+WA,238,Curtin,7616,Mount Hawthorn,752,52.33,685,47.67,1437,-0.19
 WA,238,Curtin,7617,Mount Hawthorn East,559,45.48,670,54.52,1229,-2.84
-WA,238,Curtin,7618,Mount Hawthorn West,520,48.51,552,51.49,1072,-1.14
+WA,238,Curtin,7618,Mount Hawthorn West,519,48.5,551,51.5,1070,-1.15
 WA,238,Curtin,7619,Nedlands Central,206,46.71,235,53.29,441,0.86
 WA,238,Curtin,7620,Nedlands East,256,27.53,674,72.47,930,-4.47
 WA,238,Curtin,7621,Nedlands North,488,34.93,909,65.07,1397,-4.06
