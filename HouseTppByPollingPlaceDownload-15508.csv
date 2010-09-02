@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T10:23:28 Cycle:7a1fcd02-7fbf-470d-a004-33f59586e699 Created:2010-09-02T10:03:34 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T10:58:43 Cycle:8a5328ae-21c8-49dd-a290-d58978b0197a Created:2010-09-02T10:48:45 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -741,20 +741,20 @@ NSW,114,Cunningham,1195,Bundeena,628,57.99,455,42.01,1083,-2.01
 NSW,114,Cunningham,1198,Coalcliff,72,66.06,37,33.94,109,-6.46
 NSW,114,Cunningham,1199,Coledale,699,71.4,280,28.6,979,1.49
 NSW,114,Cunningham,539,Coniston,1097,71.75,432,28.25,1529,-5.25
-NSW,114,Cunningham,11499,Cordeaux Heights,1069,58.29,765,41.71,1834,-4.06
+NSW,114,Cunningham,11499,Cordeaux Heights,1069,58.32,764,41.68,1833,-4.03
 NSW,114,Cunningham,1678,Corrimal,1511,68.78,686,31.22,2197,-2.42
 NSW,114,Cunningham,1679,Corrimal East,2114,71.81,830,28.19,2944,-4.17
 NSW,114,Cunningham,30105,Divisional Office (PREPOLL),201,63.61,115,36.39,316,-2.36
 NSW,114,Cunningham,1682,Fairy Meadow,1177,67.96,555,32.04,1732,-5.11
 NSW,114,Cunningham,1683,Fairy Meadow South,141,68.12,66,31.88,207,-4.55
 NSW,114,Cunningham,1694,Fernhill,441,64.66,241,35.34,682,-7.93
-NSW,114,Cunningham,542,Figtree,1780,62.19,1082,37.81,2862,-2.2
+NSW,114,Cunningham,542,Figtree,1774,62.11,1082,37.89,2856,-2.28
 NSW,114,Cunningham,543,Figtree Heights,855,57.11,642,42.89,1497,-1.33
 NSW,114,Cunningham,544,Gwynneville,801,64.03,450,35.97,1251,-6.91
 NSW,114,Cunningham,1210,Heathcote,980,48.4,1045,51.6,2025,0.38
 NSW,114,Cunningham,1211,Heathcote East,537,45.62,640,54.38,1177,0.25
 NSW,114,Cunningham,1212,Helensburgh,1201,54.67,996,45.33,2197,-6.37
-NSW,114,Cunningham,1213,Helensburgh North,584,60.71,378,39.29,962,-3.72
+NSW,114,Cunningham,1213,Helensburgh North,583,60.6,379,39.4,962,-3.83
 NSW,114,Cunningham,546,Keiraville,1368,59.92,915,40.08,2283,-3.73
 NSW,114,Cunningham,551,Lindsay Park,1230,59.54,836,40.46,2066,-2.14
 NSW,114,Cunningham,1221,Maianbar,137,52.9,122,47.1,259,-2.97
@@ -769,7 +769,7 @@ NSW,114,Cunningham,568,Smith's Hill,1596,58.61,1127,41.39,2723,-2.73
 NSW,114,Cunningham,33614,Special Hospital Team 1,31,48.44,33,51.56,64,-3.41
 NSW,114,Cunningham,33732,Special Hospital Team 2,47,68.12,22,31.88,69,16.31
 NSW,114,Cunningham,56993,Special Hospital Team 3,66,54.55,55,45.45,121,2.55
-NSW,114,Cunningham,1229,Stanwell Park,418,62.39,252,37.61,670,-1.56
+NSW,114,Cunningham,1229,Stanwell Park,415,62.03,254,37.97,669,-1.92
 NSW,114,Cunningham,14046,Sydney (Cunningham),40,64.52,22,35.48,62,1.3
 NSW,114,Cunningham,1699,Tarrawanna,1195,68.25,556,31.75,1751,-2.77
 NSW,114,Cunningham,1703,Thirroul,1180,70.83,486,29.17,1666,-2.42
@@ -2012,7 +2012,7 @@ NSW,136,Newcastle,1863,Birmingham Gardens North,657,67.73,313,32.27,970,-3.88
 NSW,136,Newcastle,1865,Carrington,849,68.58,389,31.42,1238,-6.86
 NSW,136,Newcastle,1866,Cooks Hill,444,59.36,304,40.64,748,-5.36
 NSW,136,Newcastle,1867,Cooks Hill South,1029,55.8,815,44.2,1844,-2.75
-NSW,136,Newcastle,30127,Divisional Office (PREPOLL),1061,57.41,787,42.59,1848,-4.96
+NSW,136,Newcastle,30127,Divisional Office (PREPOLL),1062,57.47,786,42.53,1848,-4.9
 NSW,136,Newcastle,1870,Fern Bay,620,67.39,300,32.61,920,-3.58
 NSW,136,Newcastle,1872,Hamilton,1118,66.51,563,33.49,1681,-2.99
 NSW,136,Newcastle,1873,Hamilton Central,670,66.4,339,33.6,1009,-2.06
@@ -2039,8 +2039,8 @@ NSW,136,Newcastle,1882,New Lambton,1775,61.48,1112,38.52,2887,-2.18
 NSW,136,Newcastle,2712,New Lambton Central,522,56.13,408,43.87,930,-3.94
 NSW,136,Newcastle,2714,New Lambton South,1007,64.14,563,35.86,1570,-2.44
 NSW,136,Newcastle,1889,Newcastle,863,57.73,632,42.27,1495,-0.47
-NSW,136,Newcastle,33789,Newcastle PPVC,1194,61.8,738,38.2,1932,-0.53
-NSW,136,Newcastle,1894,Shortland,848,67.84,402,32.16,1250,-4.43
+NSW,136,Newcastle,33789,Newcastle PPVC,1197,61.8,740,38.2,1937,-0.53
+NSW,136,Newcastle,1894,Shortland,851,68.03,400,31.97,1251,-4.24
 NSW,136,Newcastle,58535,Somerset,733,59.3,503,40.7,1236,-6.74
 NSW,136,Newcastle,33606,Special Hospital Team 1,26,61.9,16,38.1,42,-6.93
 NSW,136,Newcastle,33773,Special Hospital Team 2,66,54.1,56,45.9,122,-15.54
@@ -3113,7 +3113,7 @@ NT,306,Lingiari,12068,Katherine East,405,49.75,409,50.25,814,4.56
 NT,306,Lingiari,34179,Katherine PPVC,764,43.34,999,56.66,1763,-15.1
 NT,306,Lingiari,12069,Larapinta,563,52.91,501,47.09,1064,8.17
 NT,306,Lingiari,8723,Nhulunbuy,807,66.8,401,33.2,1208,0.42
-NT,306,Lingiari,34181,Nhulunbuy PPVC,233,65.45,123,34.55,356,7.12
+NT,306,Lingiari,34181,Nhulunbuy PPVC,231,65.25,123,34.75,354,6.92
 NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,366,43.99,466,56.01,832,-14.6
 NT,306,Lingiari,8727,Pine Creek,54,47.79,59,52.21,113,3.85
 NT,306,Lingiari,34143,Prison Mobile Team 1,88,47.06,99,52.94,187,-41.08
@@ -3380,7 +3380,7 @@ QLD,157,Capricornia,5245,Emmaus College,697,54.58,580,45.42,1277,-13.59
 QLD,157,Capricornia,5231,Emu Park,984,50.36,970,49.64,1954,-10.2
 QLD,157,Capricornia,5314,Eton,194,42.45,263,57.55,457,-7.15
 QLD,157,Capricornia,5316,Eungella,70,55.12,57,44.88,127,2.74
-QLD,157,Capricornia,5232,Farnborough,515,46.23,599,53.77,1114,-7.8
+QLD,157,Capricornia,5232,Farnborough,518,46.5,596,53.5,1114,-7.53
 QLD,157,Capricornia,5318,Finch Hatton,114,45.78,135,54.22,249,-10.57
 QLD,157,Capricornia,5233,Frenchville,869,47.85,947,52.15,1816,-8.89
 QLD,157,Capricornia,5320,Gargett,111,32.74,228,67.26,339,-4.91
@@ -3388,7 +3388,7 @@ QLD,157,Capricornia,5321,Glenden,182,57.41,135,42.59,317,-12.84
 QLD,157,Capricornia,5234,Glenmore,1195,56,939,44,2134,-13.2
 QLD,157,Capricornia,5330,Homebush,134,36.71,231,63.29,365,-7.08
 QLD,157,Capricornia,5242,Keppel Sands,147,53.65,127,46.35,274,-10.79
-QLD,157,Capricornia,5272,Koongal,500,60.98,320,39.02,820,-11.11
+QLD,157,Capricornia,5272,Koongal,497,60.83,320,39.17,817,-11.26
 QLD,157,Capricornia,5337,Koumala,157,37.65,260,62.35,417,-13.02
 QLD,157,Capricornia,5243,Lakes Creek,478,64.68,261,35.32,739,-4.15
 QLD,157,Capricornia,5345,Marian,597,48.97,622,51.03,1219,-9.75
@@ -3822,7 +3822,7 @@ QLD,162,Forde,6259,Waterford,366,45.81,433,54.19,799,-11.09
 QLD,162,Forde,6486,Waterford West,1234,53.24,1084,46.76,2318,-9.31
 QLD,162,Forde,38308,Windaroo,299,55.27,242,44.73,541,2.72
 QLD,162,Forde,31805,Windaroo Valley,909,39.85,1372,60.15,2281,-3.89
-QLD,163,Griffith,6303,Annerley (Griffith),506,64.21,282,35.79,788,4.37
+QLD,163,Griffith,6303,Annerley (Griffith),504,64.12,282,35.88,786,4.28
 QLD,163,Griffith,5564,Balmoral,916,55.05,748,44.95,1664,-6.05
 QLD,163,Griffith,14217,Brisbane City (Griffith),364,70.13,155,29.87,519,-2.83
 QLD,163,Griffith,58690,Brisbane City GRIFFITH PPVC,692,57.86,504,42.14,1196,-2.23
@@ -4230,16 +4230,16 @@ QLD,169,Lilley,6026,Brighton,1026,61.11,653,38.89,1679,-6.98
 QLD,169,Lilley,6032,Brighton East,477,55.99,375,44.01,852,-8.13
 QLD,169,Lilley,6027,Brighton South,1142,60.91,733,39.09,1875,-8.94
 QLD,169,Lilley,14225,Brisbane City (Lilley),142,63.68,81,36.32,223,2.98
-QLD,169,Lilley,58691,Brisbane City LILLEY PPVC,309,55.98,243,44.02,552,2.36
+QLD,169,Lilley,58691,Brisbane City LILLEY PPVC,309,55.88,244,44.12,553,2.26
 QLD,169,Lilley,6402,Chermside,248,63.1,145,36.9,393,-1.62
 QLD,169,Lilley,6403,Chermside East,918,48.19,987,51.81,1905,-11.21
 QLD,169,Lilley,6404,Chermside Gardens,227,46.23,264,53.77,491,-3.77
-QLD,169,Lilley,58700,Chermside LILLEY PPVC,1013,48.8,1063,51.2,2076,-4.77
+QLD,169,Lilley,58700,Chermside LILLEY PPVC,1016,48.85,1064,51.15,2080,-4.72
 QLD,169,Lilley,6406,Chermside West,1455,48.79,1527,51.21,2982,-5.1
 QLD,169,Lilley,58692,Clayfield LILLEY PPVC,753,51.05,722,48.95,1475,-2.57
 QLD,169,Lilley,6409,Craigslea,444,42.13,610,57.87,1054,-3.86
 QLD,169,Lilley,6031,Deagon,845,61.37,532,38.63,1377,-7.11
-QLD,169,Lilley,30160,Divisional Office (PREPOLL),55,40.44,81,59.56,136,-12.95
+QLD,169,Lilley,30160,Divisional Office (PREPOLL),56,41.18,80,58.82,136,-12.21
 QLD,169,Lilley,46734,Domestic Airport PPVC,0,0,0,0,0,0
 QLD,169,Lilley,5175,Everton Park,521,52.73,467,47.27,988,-6.92
 QLD,169,Lilley,32561,Everton Park North,912,47.57,1005,52.43,1917,-1.19
