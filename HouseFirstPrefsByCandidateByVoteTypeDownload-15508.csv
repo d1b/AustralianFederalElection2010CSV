@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives First Preferences By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T19:11:05 Cycle:491c2815-b6e7-442d-b0b5-4b5ae51f016b Created:2010-09-02T18:50:40 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives First Preferences By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T19:26:34 Cycle:f0858f01-0fbe-45bf-9231-16d5c21e4eea Created:2010-09-02T19:05:40 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,Swing
 ACT,101,Canberra,20863,JONES,Giulia,1,N,N,LP,Liberal,37205,0,0,1416,449,39070,2.09
 ACT,101,Canberra,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,18142,0,0,933,134,19209,5.35
@@ -122,14 +122,14 @@ NSW,119,Fowler,21665,DANG,Thomas,2,N,N,LP,Liberal,24836,1050,0,0,820,26706,14.16
 NSW,119,Fowler,21261,HAYES,Chris,3,N,Y,ALP,Labor,36137,1200,0,0,1020,38357,-14.78
 NSW,119,Fowler,20818,WESTERBERG,Signe,4,N,N,GRN,The Greens,4278,254,0,0,112,4644,0.47
 NSW,119,Fowler,999,Informal,Informal,999,N,N,,Informal,10398,334,0,0,98,10830,4.57
-NSW,120,Gilmore,21129,BRUMERSKYJ,Bohdan,1,N,N,CDP,Christian Democratic Party (Fred Nile Group),2058,80,0,0,82,2220,0.21
-NSW,120,Gilmore,20735,van der WIJNGAART,Ben,2,N,N,GRN,The Greens,7116,329,0,0,273,7718,1.32
-NSW,120,Gilmore,21750,CUNNINGHAM,Elizabeth,3,N,N,FFP,Family First,661,35,0,0,36,732,0.49
-NSW,120,Gilmore,21253,REILLY,Neil,4,N,N,ALP,Labor,26939,705,0,0,1409,29053,-6.62
-NSW,120,Gilmore,21727,GASH,Joanna,5,N,Y,LP,Liberal,38234,1013,0,0,2520,41767,5.1
-NSW,120,Gilmore,21663,WILLIAMS,Annette,6,N,N,SPA,Secular Party of Australia,230,9,0,0,18,257,0.31
-NSW,120,Gilmore,21738,KEYS,Don,7,N,N,LDP,Liberal Democrats (LDP),290,21,0,0,27,338,0.26
-NSW,120,Gilmore,999,Informal,Informal,999,N,N,,Informal,4136,136,0,0,122,4394,0.84
+NSW,120,Gilmore,21129,BRUMERSKYJ,Bohdan,1,N,N,CDP,Christian Democratic Party (Fred Nile Group),2058,80,4,24,82,2248,0.2
+NSW,120,Gilmore,20735,van der WIJNGAART,Ben,2,N,N,GRN,The Greens,7116,329,13,156,273,7887,1.35
+NSW,120,Gilmore,21750,CUNNINGHAM,Elizabeth,3,N,N,FFP,Family First,661,35,1,17,36,750,0.5
+NSW,120,Gilmore,21253,REILLY,Neil,4,N,N,ALP,Labor,26939,705,56,482,1409,29591,-6.64
+NSW,120,Gilmore,21727,GASH,Joanna,5,N,Y,LP,Liberal,38234,1013,61,750,2520,42578,5.11
+NSW,120,Gilmore,21663,WILLIAMS,Annette,6,N,N,SPA,Secular Party of Australia,230,9,0,5,18,262,0.31
+NSW,120,Gilmore,21738,KEYS,Don,7,N,N,LDP,Liberal Democrats (LDP),290,21,0,18,27,356,0.28
+NSW,120,Gilmore,999,Informal,Informal,999,N,N,,Informal,4136,136,12,54,122,4460,0.82
 NSW,121,Grayndler,21624,COGAN,James Michael,1,N,N,SEP,Socialist Equality Party,844,7,0,0,23,874,0.81
 NSW,121,Grayndler,21682,HINMAN,Pip,2,N,N,SAL,Socialist Alliance,877,7,0,0,8,892,1.18
 NSW,121,Grayndler,21672,DORE,Alexander,3,N,N,LP,Liberal,16865,172,0,0,592,17629,3.35
@@ -923,13 +923,13 @@ WA,312,Durack,21390,FORSYTH,Mac,4,N,N,CDP,Christian Democratic Party,973,72,0,20
 WA,312,Durack,20800,MATHESON,Julie,5,N,N,GRN,The Greens,5565,520,0,284,165,6534,3.28
 WA,312,Durack,21374,FOREMAN,Jane,6,N,N,FFP,Family First,1482,122,0,51,65,1720,1.12
 WA,312,Durack,999,Informal,Informal,999,N,N,,Informal,3314,172,0,76,54,3616,0.43
-WA,239,Forrest,20790,PETERSEN,Luke,1,N,N,GRN,The Greens,9153,987,29,360,273,10802,5.02
-WA,239,Forrest,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,19984,1301,37,642,699,22663,-2.44
-WA,239,Forrest,20855,MARINO,Nola,3,N,Y,LP,Liberal,33806,2645,68,1405,1512,39436,3.89
+WA,239,Forrest,20790,PETERSEN,Luke,1,N,N,GRN,The Greens,9149,987,29,360,273,10798,5.02
+WA,239,Forrest,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,19974,1301,37,642,699,22653,-2.44
+WA,239,Forrest,20855,MARINO,Nola,3,N,Y,LP,Liberal,33801,2645,68,1405,1512,39431,3.89
 WA,239,Forrest,21249,HERRIDGE,Lee,4,N,N,CDP,Christian Democratic Party,985,105,2,22,35,1149,-0.46
-WA,239,Forrest,21288,CUSTERS,Bev,5,N,N,FFP,Family First,1383,101,4,29,49,1566,0.57
-WA,239,Forrest,21090,HILL,Cale John,6,N,N,NP,The Nationals,4030,408,10,142,213,4803,5.97
-WA,239,Forrest,999,Informal,Informal,999,N,N,,Informal,3377,196,13,84,52,3722,1.14
+WA,239,Forrest,21288,CUSTERS,Bev,5,N,N,FFP,Family First,1382,101,4,29,49,1565,0.57
+WA,239,Forrest,21090,HILL,Cale John,6,N,N,NP,The Nationals,4031,408,10,142,213,4804,5.98
+WA,239,Forrest,999,Informal,Informal,999,N,N,,Informal,3389,196,13,84,52,3734,1.16
 WA,240,Fremantle,20856,TAYLOR,Matt,1,N,N,LP,Liberal,26132,2144,0,1484,1715,31475,3.52
 WA,240,Fremantle,20786,DAVIS,Kate,2,N,N,GRN,The Greens,11912,1306,0,656,478,14352,3.03
 WA,240,Fremantle,21263,PARSONS,Larry,3,N,N,FFP,Family First,1107,148,0,75,69,1399,0.29
