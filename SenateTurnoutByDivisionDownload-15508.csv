@@ -1,4 +1,4 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T17:05:21 Cycle:9d5a2b78-5de3-422c-9948-c15fcb42a328 Created:2010-09-02T16:50:14 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T17:20:39 Cycle:eef07ffc-39fc-43ca-9da1-7fe944a088cc Created:2010-09-02T17:05:14 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 179,Adelaide,SA,98526,74726,75.84
 197,Aston,VIC,93448,83944,89.83
@@ -8,7 +8,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 104,Barton,NSW,95243,77894,81.78
 192,Bass,TAS,71689,67607,94.31
 199,Batman,VIC,89160,73788,82.76
-200,Bendigo,VIC,100701,87444,86.3
+200,Bendigo,VIC,100701,87444,86.84
 105,Bennelong,NSW,98900,89168,90.16
 106,Berowra,NSW,95115,82432,86.67
 304,Blair,QLD,83071,77000,92.69
@@ -27,7 +27,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 236,Canning,WA,90107,80411,89.24
 157,Capricornia,QLD,91962,82225,89.41
 204,Casey,VIC,92357,84028,90.98
-110,Charlton,NSW,94480,83792,88.69
+110,Charlton,NSW,94480,85350,88.69
 111,Chifley,NSW,97605,90091,92.3
 205,Chisholm,VIC,86275,75353,87.34
 112,Cook,NSW,100748,80283,79.69
@@ -35,7 +35,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 208,Corio,VIC,91974,84358,91.72
 237,Cowan,WA,89546,79370,88.64
 113,Cowper,NSW,94645,89481,94.54
-114,Cunningham,NSW,100698,91191,90.56
+114,Cunningham,NSW,100698,91535,90.56
 238,Curtin,WA,90400,76747,84.9
 158,Dawson,QLD,94553,66945,70.8
 209,Deakin,VIC,87744,81182,92.52
@@ -61,8 +61,8 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 120,Gilmore,NSW,96317,81626,84.75
 213,Gippsland,VIC,97543,84680,86.81
 214,Goldstein,VIC,93945,82179,87.48
-309,Gorton,VIC,113656,97611,86.68
-121,Grayndler,NSW,98112,74802,73.94
+309,Gorton,VIC,113656,98502,85.88
+121,Grayndler,NSW,98112,75072,76.24
 122,Greenway,NSW,93828,81090,86.42
 183,Grey,SA,99817,76628,76.77
 163,Griffith,QLD,92588,67260,72.64
@@ -70,7 +70,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 305,Hasluck,WA,93892,87112,92.78
 165,Herbert,QLD,91044,66305,72.83
 215,Higgins,VIC,90398,64713,71.59
-185,Hindmarsh,SA,100245,79462,79.19
+185,Hindmarsh,SA,100245,79462,79.27
 166,Hinkler,QLD,91397,75265,82.35
 216,Holt,VIC,108893,92433,84.88
 217,Hotham,VIC,89581,69649,77.75
@@ -82,11 +82,11 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 220,Jagajaga,VIC,95202,76500,80.36
 167,Kennedy,QLD,94465,71863,76.07
 127,Kingsford Smith,NSW,97747,69108,70.7
-186,Kingston,SA,102296,96164,91.29
+186,Kingston,SA,102296,96164,94.01
 221,Kooyong,VIC,89659,61739,68.86
 223,La Trobe,VIC,97960,84442,86.2
 222,Lalor,VIC,117023,100426,85.82
-168,Leichhardt,QLD,93140,84137,89.85
+168,Leichhardt,QLD,93140,84137,90.33
 169,Lilley,QLD,97415,75612,77.62
 128,Lindsay,NSW,95975,87822,91.51
 306,Lingiari,NT,61126,45478,74.4
@@ -108,7 +108,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 228,Melbourne,VIC,102879,82845,80.53
 230,Melbourne Ports,VIC,97765,69839,71.44
 229,Menzies,VIC,90966,77435,85.13
-134,Mitchell,NSW,93588,85295,90.96
+134,Mitchell,NSW,93588,85295,91.14
 172,Moncrieff,QLD,89087,79817,89.59
 242,Moore,WA,92295,85497,92.63
 173,Moreton,QLD,92733,68069,73.4
@@ -128,7 +128,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 189,Port Adelaide,SA,104308,97615,93.58
 176,Rankin,QLD,94602,72920,77.08
 144,Reid,NSW,95873,85525,89.21
-145,Richmond,NSW,92384,76727,83.05
+145,Richmond,NSW,92384,79653,83.05
 250,Riverina,NSW,98594,86707,87.94
 146,Robertson,NSW,96593,69529,71.98
 177,Ryan,QLD,98224,70909,72.19
@@ -141,8 +141,8 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 149,Sydney,NSW,95277,64714,67.92
 248,Tangney,WA,92176,85395,92.64
 150,Throsby,NSW,95874,85073,88.73
-191,Wakefield,SA,100209,81882,79.33
-233,Wannon,VIC,92264,75878,82.24
+191,Wakefield,SA,100209,81882,81.71
+233,Wannon,VIC,92264,75879,82.24
 151,Warringah,NSW,96706,66295,68.55
 251,Watson,NSW,97765,74771,76.48
 152,Wentworth,NSW,101464,65366,64.42
