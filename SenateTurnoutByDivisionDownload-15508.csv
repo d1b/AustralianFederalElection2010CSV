@@ -1,4 +1,4 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T17:50:49 Cycle:1555dc1f-70c5-42a7-80ed-1116e7a41983 Created:2010-09-02T17:35:19 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-02T18:05:48 Cycle:bcda99d2-d0a6-4b33-9c26-4d4b9670be11 Created:2010-09-02T17:50:24 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 179,Adelaide,SA,98526,74726,75.84
 197,Aston,VIC,93448,83944,89.83
@@ -12,7 +12,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 105,Bennelong,NSW,98900,89168,90.16
 106,Berowra,NSW,95115,82432,86.67
 304,Blair,QLD,83071,77000,92.69
-107,Blaxland,NSW,95354,74835,78.48
+107,Blaxland,NSW,95354,74773,78.48
 310,Bonner,QLD,92684,69152,74.61
 182,Boothby,SA,97898,71649,73.19
 155,Bowman,QLD,91892,79666,86.7
@@ -72,7 +72,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 215,Higgins,VIC,90398,64713,71.59
 185,Hindmarsh,SA,100245,79462,79.27
 166,Hinkler,QLD,91397,75265,82.35
-216,Holt,VIC,108893,92433,84.88
+216,Holt,VIC,108893,97533,84.88
 217,Hotham,VIC,89581,69649,77.75
 124,Hughes,NSW,97995,86005,87.76
 125,Hume,NSW,97698,85121,87.13
@@ -90,14 +90,14 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 169,Lilley,QLD,97415,75612,77.62
 128,Lindsay,NSW,95975,87822,91.51
 306,Lingiari,NT,61126,45478,74.4
-302,Longman,QLD,87062,69174,75.36
+302,Longman,QLD,87062,69307,79.45
 130,Lyne,NSW,92565,86443,93.39
 196,Lyons,TAS,72865,66826,91.71
 131,Macarthur,NSW,90059,73587,81.71
 132,Mackellar,NSW,98556,87974,89.26
 133,Macquarie,NSW,97560,79759,81.75
 187,Makin,SA,96263,90795,94.32
-224,Mallee,VIC,89840,80226,90
+224,Mallee,VIC,89840,80226,89.3
 170,Maranoa,QLD,97957,88843,90.7
 225,Maribyrnong,VIC,88412,74622,84.4
 188,Mayo,SA,101565,76362,75.19
@@ -105,7 +105,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 315,McMahon,NSW,96058,81122,84.45
 227,McMillan,VIC,93323,75826,81.25
 171,McPherson,QLD,90090,81953,90.97
-228,Melbourne,VIC,102879,82641,80.53
+228,Melbourne,VIC,102879,82641,80.33
 230,Melbourne Ports,VIC,97765,69839,71.44
 229,Menzies,VIC,90966,77435,85.13
 134,Mitchell,NSW,93588,85295,91.14
@@ -138,14 +138,14 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 246,Stirling,WA,91728,80818,88.11
 190,Sturt,SA,99061,81126,81.89
 247,Swan,WA,90766,81460,89.75
-149,Sydney,NSW,95277,64714,67.92
+149,Sydney,NSW,95277,64756,67.92
 248,Tangney,WA,92176,85862,93.15
 150,Throsby,NSW,95874,85073,88.73
 191,Wakefield,SA,100209,81882,81.71
-233,Wannon,VIC,92264,75879,82.24
+233,Wannon,VIC,92264,75906,82.24
 151,Warringah,NSW,96706,66295,68.55
 251,Watson,NSW,97765,74771,76.48
-152,Wentworth,NSW,101464,65793,64.44
+152,Wentworth,NSW,101464,65793,64.84
 153,Werriwa,NSW,90994,69229,76.08
 178,Wide Bay,QLD,92636,78705,84.96
 234,Wills,VIC,98599,79735,80.87
