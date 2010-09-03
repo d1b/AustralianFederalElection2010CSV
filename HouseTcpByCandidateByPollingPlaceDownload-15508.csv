@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T13:09:47 Cycle:ca62dcbe-c09e-4d87-92ce-baac638568ab Created:2010-09-03T12:48:50 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T13:24:52 Cycle:b0b71219-19fb-4782-83a6-d40c34ccd977 Created:2010-09-03T13:03:55 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 ACT,101,Canberra,8829,Barton,20863,JONES,Giulia,1,N,N,LP,Liberal,793,-2.61
 ACT,101,Canberra,8829,Barton,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1397,2.61
@@ -1876,12 +1876,12 @@ NSW,118,Farrer,747,Albury East,21637,LEY,Sussan,4,N,Y,LP,Liberal,467,1.37
 NSW,118,Farrer,747,Albury East,21284,EMMERY,Christian,5,N,N,ALP,Country Labor,271,-1.37
 NSW,118,Farrer,751,Albury North,21637,LEY,Sussan,4,N,Y,LP,Liberal,954,2.05
 NSW,118,Farrer,751,Albury North,21284,EMMERY,Christian,5,N,N,ALP,Country Labor,620,-2.05
-NSW,118,Farrer,831,Albury North Central,21637,LEY,Sussan,4,N,Y,LP,Liberal,660,3.6
-NSW,118,Farrer,831,Albury North Central,21284,EMMERY,Christian,5,N,N,ALP,Country Labor,458,-3.6
+NSW,118,Farrer,831,Albury North Central,21637,LEY,Sussan,4,N,Y,LP,Liberal,664,4.07
+NSW,118,Farrer,831,Albury North Central,21284,EMMERY,Christian,5,N,N,ALP,Country Labor,452,-4.07
 NSW,118,Farrer,34273,Albury PPVC,21637,LEY,Sussan,4,N,Y,LP,Liberal,2885,12.43
 NSW,118,Farrer,34273,Albury PPVC,21284,EMMERY,Christian,5,N,N,ALP,Country Labor,1364,-12.43
-NSW,118,Farrer,749,Albury South,21637,LEY,Sussan,4,N,Y,LP,Liberal,734,0.31
-NSW,118,Farrer,749,Albury South,21284,EMMERY,Christian,5,N,N,ALP,Country Labor,496,-0.31
+NSW,118,Farrer,749,Albury South,21637,LEY,Sussan,4,N,Y,LP,Liberal,734,0.36
+NSW,118,Farrer,749,Albury South,21284,EMMERY,Christian,5,N,N,ALP,Country Labor,495,-0.36
 NSW,118,Farrer,752,Albury West,21637,LEY,Sussan,4,N,Y,LP,Liberal,1023,1.05
 NSW,118,Farrer,752,Albury West,21284,EMMERY,Christian,5,N,N,ALP,Country Labor,602,-1.05
 NSW,118,Farrer,2493,Alma,21637,LEY,Sussan,4,N,Y,LP,Liberal,455,6.21
@@ -1912,14 +1912,14 @@ NSW,118,Farrer,33950,Broken Hill PPVC,21637,LEY,Sussan,4,N,Y,LP,Liberal,1191,-14
 NSW,118,Farrer,33950,Broken Hill PPVC,21284,EMMERY,Christian,5,N,N,ALP,Country Labor,1718,14.53
 NSW,118,Farrer,763,Bunnaloo,21637,LEY,Sussan,4,N,Y,LP,Liberal,75,2.17
 NSW,118,Farrer,763,Bunnaloo,21284,EMMERY,Christian,5,N,N,ALP,Country Labor,9,-2.17
-NSW,118,Farrer,764,Buronga,21637,LEY,Sussan,4,N,Y,LP,Liberal,558,4.79
-NSW,118,Farrer,764,Buronga,21284,EMMERY,Christian,5,N,N,ALP,Country Labor,169,-4.79
+NSW,118,Farrer,764,Buronga,21637,LEY,Sussan,4,N,Y,LP,Liberal,557,4.76
+NSW,118,Farrer,764,Buronga,21284,EMMERY,Christian,5,N,N,ALP,Country Labor,169,-4.76
 NSW,118,Farrer,765,Burrumbuttock,21637,LEY,Sussan,4,N,Y,LP,Liberal,186,2.3
 NSW,118,Farrer,765,Burrumbuttock,21284,EMMERY,Christian,5,N,N,ALP,Country Labor,40,-2.3
 NSW,118,Farrer,770,Conargo,21637,LEY,Sussan,4,N,Y,LP,Liberal,54,-1.71
 NSW,118,Farrer,770,Conargo,21284,EMMERY,Christian,5,N,N,ALP,Country Labor,12,1.71
-NSW,118,Farrer,773,Corowa,21637,LEY,Sussan,4,N,Y,LP,Liberal,949,-0.08
-NSW,118,Farrer,773,Corowa,21284,EMMERY,Christian,5,N,N,ALP,Country Labor,588,0.08
+NSW,118,Farrer,773,Corowa,21637,LEY,Sussan,4,N,Y,LP,Liberal,945,-0.46
+NSW,118,Farrer,773,Corowa,21284,EMMERY,Christian,5,N,N,ALP,Country Labor,595,0.46
 NSW,118,Farrer,774,Corowa Central,21637,LEY,Sussan,4,N,Y,LP,Liberal,512,-3.09
 NSW,118,Farrer,774,Corowa Central,21284,EMMERY,Christian,5,N,N,ALP,Country Labor,310,3.09
 NSW,118,Farrer,775,Corowa South,21637,LEY,Sussan,4,N,Y,LP,Liberal,481,1.6
@@ -3428,8 +3428,8 @@ NSW,132,Mackellar,1720,Collaroy,21419,BEATTIE,Linda,2,N,N,ALP,Labor,611,-1.66
 NSW,132,Mackellar,1720,Collaroy,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1149,1.66
 NSW,132,Mackellar,1721,Collaroy Plateau,21419,BEATTIE,Linda,2,N,N,ALP,Labor,811,-3.75
 NSW,132,Mackellar,1721,Collaroy Plateau,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1708,3.75
-NSW,132,Mackellar,1724,Cromer,21419,BEATTIE,Linda,2,N,N,ALP,Labor,874,-3.48
-NSW,132,Mackellar,1724,Cromer,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1839,3.48
+NSW,132,Mackellar,1724,Cromer,21419,BEATTIE,Linda,2,N,N,ALP,Labor,874,-3.52
+NSW,132,Mackellar,1724,Cromer,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1842,3.52
 NSW,132,Mackellar,1722,Cromer East,21419,BEATTIE,Linda,2,N,N,ALP,Labor,357,-5.81
 NSW,132,Mackellar,1722,Cromer East,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,742,5.81
 NSW,132,Mackellar,1725,Dee Why,21419,BEATTIE,Linda,2,N,N,ALP,Labor,1258,-6.54
@@ -3442,8 +3442,8 @@ NSW,132,Mackellar,30123,Divisional Office (PREPOLL),21419,BEATTIE,Linda,2,N,N,AL
 NSW,132,Mackellar,30123,Divisional Office (PREPOLL),21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,414,4.5
 NSW,132,Mackellar,1727,Elanora,21419,BEATTIE,Linda,2,N,N,ALP,Labor,680,-3.31
 NSW,132,Mackellar,1727,Elanora,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1381,3.31
-NSW,132,Mackellar,189,Forest,21419,BEATTIE,Linda,2,N,N,ALP,Labor,509,-5.47
-NSW,132,Mackellar,189,Forest,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1129,5.47
+NSW,132,Mackellar,189,Forest,21419,BEATTIE,Linda,2,N,N,ALP,Labor,515,-5.18
+NSW,132,Mackellar,189,Forest,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1127,5.18
 NSW,132,Mackellar,57630,Forestville (Mackellar),21419,BEATTIE,Linda,2,N,N,ALP,Labor,725,-3.49
 NSW,132,Mackellar,57630,Forestville (Mackellar),21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1299,3.49
 NSW,132,Mackellar,192,Frenchs Forest (Mackellar),21419,BEATTIE,Linda,2,N,N,ALP,Labor,594,-3.59
@@ -3456,8 +3456,8 @@ NSW,132,Mackellar,205,Mimosa,21419,BEATTIE,Linda,2,N,N,ALP,Labor,647,-2.89
 NSW,132,Mackellar,205,Mimosa,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1560,2.89
 NSW,132,Mackellar,1729,Mona Vale,21419,BEATTIE,Linda,2,N,N,ALP,Labor,1733,6.14
 NSW,132,Mackellar,1729,Mona Vale,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,2480,-6.14
-NSW,132,Mackellar,1730,Mona Vale Beach,21419,BEATTIE,Linda,2,N,N,ALP,Labor,469,-3.62
-NSW,132,Mackellar,1730,Mona Vale Beach,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1035,3.62
+NSW,132,Mackellar,1730,Mona Vale Beach,21419,BEATTIE,Linda,2,N,N,ALP,Labor,521,-0.18
+NSW,132,Mackellar,1730,Mona Vale Beach,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,984,0.18
 NSW,132,Mackellar,1731,Mona Vale Hospital,21419,BEATTIE,Linda,2,N,N,ALP,Labor,278,-0.68
 NSW,132,Mackellar,1731,Mona Vale Hospital,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,344,0.68
 NSW,132,Mackellar,33074,Mona Vale North,21419,BEATTIE,Linda,2,N,N,ALP,Labor,603,-1.77
@@ -16812,10 +16812,10 @@ WA,239,Forrest,7487,Harvey,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,
 WA,239,Forrest,7487,Harvey,20855,MARINO,Nola,3,N,Y,LP,Liberal,1279,6.25
 WA,239,Forrest,7695,Karridale,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,90,-17.08
 WA,239,Forrest,7695,Karridale,20855,MARINO,Nola,3,N,Y,LP,Liberal,156,17.08
-WA,239,Forrest,7697,Kirup,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,78,-1.23
-WA,239,Forrest,7697,Kirup,20855,MARINO,Nola,3,N,Y,LP,Liberal,165,1.23
-WA,239,Forrest,32577,Leschenault,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,242,-8.81
-WA,239,Forrest,32577,Leschenault,20855,MARINO,Nola,3,N,Y,LP,Liberal,449,8.81
+WA,239,Forrest,7697,Kirup,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,79,-0.82
+WA,239,Forrest,7697,Kirup,20855,MARINO,Nola,3,N,Y,LP,Liberal,164,0.82
+WA,239,Forrest,32577,Leschenault,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,239,-9.04
+WA,239,Forrest,32577,Leschenault,20855,MARINO,Nola,3,N,Y,LP,Liberal,448,9.04
 WA,239,Forrest,7702,Lowden,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,90,-1.85
 WA,239,Forrest,7702,Lowden,20855,MARINO,Nola,3,N,Y,LP,Liberal,154,1.85
 WA,239,Forrest,7709,Margaret River,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,1216,3.83
