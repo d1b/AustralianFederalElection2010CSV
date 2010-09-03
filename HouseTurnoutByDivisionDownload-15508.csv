@@ -1,7 +1,7 @@
-2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T11:08:23 Cycle:0c268884-cfe2-4e81-823f-64c20c1ce881 Created:2010-09-03T10:48:39 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T11:23:25 Cycle:819d1d3c-a5af-4243-934c-eade525928ca Created:2010-09-03T11:03:44 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 179,Adelaide,SA,98526,83466,84.71,-9.88
-197,Aston,VIC,93448,88164,94.35,-2.04
+197,Aston,VIC,93448,88297,94.49,-1.9
 198,Ballarat,VIC,97802,91055,93.1,-2.99
 103,Banks,NSW,98762,90705,91.84,-2.64
 180,Barker,SA,104888,94601,90.19,-5.78
@@ -10,7 +10,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 199,Batman,VIC,89160,76886,86.23,-7.97
 200,Bendigo,VIC,100701,94725,94.07,-1.96
 105,Bennelong,NSW,98900,89268,90.26,-4.74
-106,Berowra,NSW,95115,88255,92.79,-2.56
+106,Berowra,NSW,95115,88259,92.79,-2.56
 304,Blair,QLD,83071,77244,92.99,-2
 107,Blaxland,NSW,95354,80240,84.15,-8.6
 310,Bonner,QLD,92684,84829,91.52,-3.81
@@ -42,7 +42,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 194,Denison,TAS,71349,66929,93.81,-1.72
 252,Dickson,QLD,90111,84409,93.67,-1.7
 115,Dobell,NSW,93661,87415,93.33,-1.51
-210,Dunkley,VIC,95324,87631,91.93,-3.3
+210,Dunkley,VIC,95324,88554,92.9,-2.33
 312,Durack,WA,85782,74533,86.89,-0.27
 117,Eden-Monaro,NSW,96465,90886,94.22,-1.68
 159,Fadden,QLD,85236,77484,90.91,-1.33
@@ -50,14 +50,14 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 118,Farrer,NSW,94061,87926,93.48,-2.76
 161,Fisher,QLD,83754,76264,91.06,-2.05
 211,Flinders,VIC,100875,89817,89.04,-6.4
-311,Flynn,QLD,91377,81853,89.58,-5.53
+311,Flynn,QLD,91377,82849,90.67,-4.44
 162,Forde,QLD,82558,74797,90.6,-2.09
 239,Forrest,WA,89636,84154,93.88,-0.62
 119,Fowler,NSW,95561,83014,86.87,-6.47
 195,Franklin,TAS,71090,67519,94.98,-0.88
-102,Fraser,ACT,123444,110885,89.83,-5.84
+102,Fraser,ACT,123444,111620,90.42,-5.25
 240,Fremantle,WA,93341,86164,92.31,-1.47
-212,Gellibrand,VIC,95611,82442,86.23,-7.93
+212,Gellibrand,VIC,95611,83223,87.04,-7.12
 120,Gilmore,NSW,96317,88132,91.5,-4.31
 213,Gippsland,VIC,97543,86885,89.07,-6.6
 214,Goldstein,VIC,93945,84343,89.78,-5.18
@@ -111,7 +111,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 134,Mitchell,NSW,93588,87018,92.98,-1.99
 172,Moncrieff,QLD,89087,79584,89.33,-5.24
 242,Moore,WA,92295,85493,92.63,-1.13
-173,Moreton,QLD,92733,82444,88.9,-6.12
+173,Moreton,QLD,92733,82993,89.5,-5.52
 231,Murray,VIC,90218,79386,87.99,-7.73
 135,New England,NSW,99677,93391,93.69,-2.41
 136,Newcastle,NSW,92896,85814,92.38,-2.87
