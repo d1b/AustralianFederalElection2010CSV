@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T15:11:21 Cycle:80ec2e65-039b-4d65-abda-e897f52e112d Created:2010-09-03T14:48:56 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T15:26:33 Cycle:cae5eb07-a36f-4cc9-a703-2304f95354f1 Created:2010-09-03T15:04:02 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -664,7 +664,7 @@ NSW,113,Cowper,464,Coffs Harbour Central,850,39.15,1321,60.85,2171,-5.29
 NSW,113,Cowper,32332,Coffs Harbour East,286,40.4,422,59.6,708,-5.54
 NSW,113,Cowper,463,Coffs Harbour Hospital,214,45.73,254,54.27,468,-6.66
 NSW,113,Cowper,465,Coffs Harbour Jetty,795,42.33,1083,57.67,1878,-6.57
-NSW,113,Cowper,33739,Coffs Harbour PPVC,1802,36.82,3092,63.18,4894,-8.1
+NSW,113,Cowper,33739,Coffs Harbour PPVC,1802,36.8,3095,63.2,4897,-8.12
 NSW,113,Cowper,494,Coffs Harbour South,966,37.51,1609,62.49,2575,-7.79
 NSW,113,Cowper,466,Coffs Harbour West,1224,40.21,1820,59.79,3044,-6.56
 NSW,113,Cowper,2062,Coramba,136,42.5,184,57.5,320,-6.29
@@ -692,7 +692,7 @@ NSW,113,Cowper,2097,Lowanna,65,44.22,82,55.78,147,-18.43
 NSW,113,Cowper,489,Macksville,754,34.41,1437,65.59,2191,-8.87
 NSW,113,Cowper,2100,Maclean (Cowper),417,39.9,628,60.1,1045,-6.82
 NSW,113,Cowper,2101,Maclean Hospital,202,43.72,260,56.28,462,-4.91
-NSW,113,Cowper,33763,Maclean PPVC,184,37.25,310,62.75,494,-7.66
+NSW,113,Cowper,33763,Maclean PPVC,185,37.37,310,62.63,495,-7.54
 NSW,113,Cowper,491,Missabotti,68,60.71,44,39.29,112,-3.58
 NSW,113,Cowper,2105,Moonee Beach,531,42.65,714,57.35,1245,-5.91
 NSW,113,Cowper,31726,Mullaway,595,49.46,608,50.54,1203,-6.23
@@ -2105,7 +2105,7 @@ NSW,137,North Sydney,33597,Special Hospital Team 1,82,27.61,215,72.39,297,0.99
 NSW,137,North Sydney,33908,Special Hospital Team 2,31,28.7,77,71.3,108,1.78
 NSW,137,North Sydney,33910,Special Hospital Team 3,26,17.11,126,82.89,152,-9.99
 NSW,137,North Sydney,14135,Sydney (North Sydney),87,52.41,79,47.59,166,-2.27
-NSW,137,North Sydney,2034,Waverton,542,42.68,728,57.32,1270,-7.62
+NSW,137,North Sydney,2034,Waverton,541,42.6,729,57.4,1270,-7.7
 NSW,137,North Sydney,2035,Willoughby,1196,34.27,2294,65.73,3490,-11
 NSW,137,North Sydney,2036,Willoughby North,847,35.68,1527,64.32,2374,-9.01
 NSW,137,North Sydney,2037,Wollstonecraft,884,39.52,1353,60.48,2237,-9.43
@@ -2550,7 +2550,7 @@ NSW,145,Richmond,2452,Main Arm Upper,99,79.84,25,20.16,124,-2.87
 NSW,145,Richmond,2470,Modanville,179,47.35,199,52.65,378,3.98
 NSW,145,Richmond,2454,Mullumbimby,1440,65.69,752,34.31,2192,-4.35
 NSW,145,Richmond,2455,Murwillumbah,1085,60.65,704,39.35,1789,-0.79
-NSW,145,Richmond,33762,Murwillumbah PPVC,932,50.19,925,49.81,1857,-6.18
+NSW,145,Richmond,33762,Murwillumbah PPVC,919,49.78,927,50.22,1846,-6.59
 NSW,145,Richmond,2457,Murwillumbah South,549,53.46,478,46.54,1027,-4.09
 NSW,145,Richmond,2405,Murwillumbah West,550,49.91,552,50.09,1102,-3.26
 NSW,145,Richmond,2459,Newrybar,243,52.48,220,47.52,463,-1.06
@@ -8424,8 +8424,8 @@ WA,239,Forrest,34210,Special Hospital Team 2,20,31.75,43,68.25,63,-5.33
 WA,239,Forrest,34211,Special Hospital Team 3,13,52,12,48,25,14.86
 WA,239,Forrest,34212,Special Hospital Team 4,7,36.84,12,63.16,19,0.17
 WA,239,Forrest,34213,Special Hospital Team 5,24,61.54,15,38.46,39,26.06
-WA,239,Forrest,7732,Vasse,515,35.32,943,64.68,1458,5.3
-WA,239,Forrest,7738,Witchcliffe,319,51.87,296,48.13,615,0.12
+WA,239,Forrest,7732,Vasse,514,35.28,943,64.72,1457,5.26
+WA,239,Forrest,7738,Witchcliffe,318,51.88,295,48.12,613,0.13
 WA,239,Forrest,7739,Withers,803,49.78,810,50.22,1613,-4.8
 WA,239,Forrest,7740,Wollaston,404,43.21,531,56.79,935,0.73
 WA,239,Forrest,7742,Yallingup,182,32.91,371,67.09,553,-12.61
