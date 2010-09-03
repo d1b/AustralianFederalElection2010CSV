@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T12:23:45 Cycle:9c1cb08d-ad74-41fc-9a0b-30d3053deabc Created:2010-09-03T12:03:45 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T12:39:09 Cycle:1ca26f77-898a-47ec-8d7d-aa763fab8c53 Created:2010-09-03T12:18:50 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent,InformalSwing
 107,Blaxland,NSW,68855,11385,80240,14.19,5.3
 119,Fowler,NSW,72184,10830,83014,13.05,4.57
@@ -11,7 +11,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 144,Reid,NSW,79307,7651,86958,8.8,3.22
 140,Parramatta,NSW,76241,7230,83471,8.66,2.04
 103,Banks,NSW,83076,7629,90705,8.41,2.65
-127,Kingsford Smith,NSW,77333,6934,84267,8.23,2.92
+127,Kingsford Smith,NSW,77331,6935,84266,8.23,2.92
 128,Lindsay,NSW,82323,7309,89632,8.15,2.63
 131,Macarthur,NSW,76256,6620,82876,7.99,2.42
 306,Lingiari,NT,42355,3455,45810,7.54,2.69
@@ -25,12 +25,12 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 309,Gorton,VIC,91516,6707,98223,6.83,2.39
 174,Oxley,QLD,70283,5042,75325,6.69,2.63
 203,Calwell,VIC,83415,5798,89213,6.5,1.65
-124,Hughes,NSW,85597,5910,91507,6.46,2.02
+124,Hughes,NSW,85615,5897,91512,6.44,2
 118,Farrer,NSW,82388,5613,88001,6.38,2.55
 146,Robertson,NSW,84779,5749,90528,6.35,2.91
 148,Shortland,NSW,79818,5374,85192,6.31,2.15
 165,Herbert,QLD,78701,5258,83959,6.26,2.04
-117,Eden-Monaro,NSW,85280,5686,90966,6.25,2.52
+117,Eden-Monaro,NSW,85352,5690,91042,6.25,2.52
 126,Hunter,NSW,79178,5263,84441,6.23,1.96
 191,Wakefield,SA,87960,5835,93795,6.22,1.56
 222,Lalor,VIC,102003,6758,108761,6.21,2.72
@@ -56,7 +56,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 225,Maribyrnong,VIC,75164,4504,79668,5.65,1.67
 305,Hasluck,WA,82142,4914,87056,5.64,1.31
 316,Wright,QLD,74702,4450,79152,5.62,1.84
-134,Mitchell,NSW,82361,4890,87251,5.6,1.53
+134,Mitchell,NSW,82653,4901,87554,5.6,1.53
 249,Paterson,NSW,79829,4737,84566,5.6,2
 244,Pearce,WA,73247,4330,77577,5.58,1.59
 145,Richmond,NSW,77861,4585,82446,5.56,1.28
@@ -99,7 +99,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 173,Moreton,QLD,78984,4009,82993,4.83,1.67
 196,Lyons,TAS,65620,3311,68931,4.8,1.74
 179,Adelaide,SA,79468,3998,83466,4.79,1.68
-182,Boothby,SA,84875,4128,89003,4.64,1.77
+182,Boothby,SA,84874,4130,89004,4.64,1.77
 219,Isaacs,VIC,82991,4040,87031,4.64,1.33
 151,Warringah,NSW,82204,3991,86195,4.63,1.19
 188,Mayo,SA,89531,4322,93853,4.61,1.85
@@ -123,7 +123,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 204,Casey,VIC,83055,3659,86714,4.22,1.44
 164,Groom,QLD,82968,3588,86556,4.15,1.09
 229,Menzies,VIC,78202,3367,81569,4.13,1.37
-211,Flinders,VIC,86139,3670,89809,4.09,1.31
+211,Flinders,VIC,88712,3813,92525,4.12,1.34
 108,Bradfield,NSW,85964,3656,89620,4.08,0.11
 223,La Trobe,VIC,87856,3719,91575,4.06,0.78
 220,Jagajaga,VIC,84563,3505,88068,3.98,1.53
@@ -136,7 +136,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 200,Bendigo,VIC,91172,3553,94725,3.75,0.21
 130,Lyne,NSW,84086,3240,87326,3.71,-1.32
 198,Ballarat,VIC,87683,3372,91055,3.7,1.29
-194,Denison,TAS,64487,2442,66929,3.65,1.15
+194,Denison,TAS,64780,2443,67223,3.63,1.13
 205,Chisholm,VIC,74710,2791,77501,3.6,0.99
 209,Deakin,VIC,78826,2931,81757,3.59,1.5
 228,Melbourne,VIC,80562,2952,83514,3.53,0.73
@@ -148,5 +148,5 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 214,Goldstein,VIC,82421,2671,85092,3.14,0.72
 238,Curtin,WA,77046,2332,79378,2.94,0.98
 177,Ryan,QLD,87901,2540,90441,2.81,0.66
-221,Kooyong,VIC,78668,2250,80918,2.78,0.68
+221,Kooyong,VIC,78805,2252,81057,2.78,0.68
 215,Higgins,VIC,72381,1997,74378,2.68,0.11
