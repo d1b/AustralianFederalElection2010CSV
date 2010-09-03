@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T10:38:26 Cycle:845fcf08-46e1-4b9f-ad39-a6ecedc6fce1 Created:2010-09-03T10:18:39 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T10:53:45 Cycle:17c36035-013d-4115-b98a-397f95c2f0c0 Created:2010-09-03T10:33:39 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -3028,7 +3028,7 @@ NSW,152,Wentworth,2323,Randwick North (Wentworth),758,40.02,1136,59.98,1894,-15.
 NSW,152,Wentworth,2880,Rose Bay,500,25.54,1458,74.46,1958,-8.59
 NSW,152,Wentworth,2881,Rose Bay Central,286,19.1,1211,80.9,1497,-8.39
 NSW,152,Wentworth,33641,Special Hospital Team 1,35,19.66,143,80.34,178,-8.81
-NSW,152,Wentworth,33955,Special Hospital Team 2,12,22.64,41,77.36,53,-5.93
+NSW,152,Wentworth,33955,Special Hospital Team 2,12,23.08,40,76.92,52,-5.49
 NSW,152,Wentworth,33956,Special Hospital Team 3,20,33.9,39,66.1,59,5.33
 NSW,152,Wentworth,2886,St Vincents Hospital,198,46.26,230,53.74,428,-15.19
 NSW,152,Wentworth,31648,Sydney (Wentworth),148,44.31,186,55.69,334,-14.44
@@ -4959,10 +4959,10 @@ SA,179,Adelaide,33206,Special Hospital Team 4,43,38.39,69,61.61,112,-6.72
 SA,179,Adelaide,33207,Special Hospital Team 5,6,40,9,60,15,-4.44
 SA,179,Adelaide,38420,Special Hospital Team 6,57,43.51,74,56.49,131,-1.7
 SA,179,Adelaide,6684,St Peters,512,48.17,551,51.83,1063,0.88
-SA,179,Adelaide,6667,St Peters East,509,46.19,593,53.81,1102,-6.58
+SA,179,Adelaide,6667,St Peters East,508,46.14,593,53.86,1101,-6.63
 SA,179,Adelaide,6889,Unley,1540,56.39,1191,43.61,2731,-1.2
 SA,179,Adelaide,6686,Walkerville,674,37.84,1107,62.16,1781,-3.03
-SA,179,Adelaide,6656,Walkerville North,353,45.61,421,54.39,774,1.28
+SA,179,Adelaide,6656,Walkerville North,353,45.9,416,54.1,769,1.57
 SA,179,Adelaide,6890,Wayville,375,54.9,308,45.1,683,-2.45
 SA,180,Barker,6702,Allendale East,97,35.79,174,64.21,271,-5.17
 SA,180,Barker,7325,Angaston,659,42.49,892,57.51,1551,-0.57
@@ -8138,14 +8138,14 @@ WA,236,Canning,7557,Westfield,705,61.73,437,38.27,1142,5.22
 WA,236,Canning,7558,Westfield South,971,62.2,590,37.8,1561,5.7
 WA,236,Canning,7515,Yunderup,443,38.32,713,61.68,1156,3.8
 WA,236,Canning,7516,Yunderup North,212,46.59,243,53.41,455,2.61
-WA,237,Cowan,11591,Alexander Heights,909,39.59,1387,60.41,2296,-12.33
+WA,237,Cowan,11591,Alexander Heights,1022,44.51,1274,55.49,2296,-7.41
 WA,237,Cowan,32071,Alexander Heights West,907,50.47,890,49.53,1797,-7.87
 WA,237,Cowan,7564,Ballajura,974,46.38,1126,53.62,2100,-3.91
 WA,237,Cowan,11592,Ballajura Central,1037,44.76,1280,55.24,2317,-8.03
 WA,237,Cowan,31735,Ballajura South,1208,52.73,1083,47.27,2291,-8.93
-WA,237,Cowan,33068,Ballajura West,1174,46.77,1336,53.23,2510,-3.99
-WA,237,Cowan,32474,Banksia Grove,415,48.42,442,51.58,857,-3.07
-WA,237,Cowan,36411,Darch,1007,37.84,1654,62.16,2661,-6.04
+WA,237,Cowan,33068,Ballajura West,1176,46.85,1334,53.15,2510,-3.91
+WA,237,Cowan,32474,Banksia Grove,405,47.26,452,52.74,857,-4.23
+WA,237,Cowan,36411,Darch,1006,37.81,1655,62.19,2661,-6.07
 WA,237,Cowan,30228,Divisional Office (PREPOLL),988,38.35,1588,61.65,2576,-7.84
 WA,237,Cowan,7570,Girrawheen,929,60.25,613,39.75,1542,-5.4
 WA,237,Cowan,7572,Girrawheen East,609,62.02,373,37.98,982,-5.9
@@ -8398,7 +8398,7 @@ WA,239,Forrest,34343,Dalyellup,815,38.77,1287,61.23,2102,-2.17
 WA,239,Forrest,7679,Dardanup,260,28.48,653,71.52,913,-3.73
 WA,239,Forrest,30230,Divisional Office (PREPOLL),0,0,0,0,0,0
 WA,239,Forrest,7683,Donnybrook,598,35.22,1100,64.78,1698,-1.18
-WA,239,Forrest,7684,Dunsborough,790,35.7,1423,64.3,2213,-1.89
+WA,239,Forrest,7684,Dunsborough,798,36.01,1418,63.99,2216,-1.58
 WA,239,Forrest,7685,Eaton,1080,40.53,1585,59.47,2665,-4.53
 WA,239,Forrest,34115,Eaton East,804,42.61,1083,57.39,1887,-2.8
 WA,239,Forrest,7686,Elgin,25,15.06,141,84.94,166,-8.94
