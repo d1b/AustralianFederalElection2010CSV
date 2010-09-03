@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T09:49:23 Cycle:a1853a15-b5de-4b54-9a79-4b946e5e82f7 Created:2010-09-03T09:33:33 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T10:08:11 Cycle:b1726c0a-d36f-4b6c-9802-dd5a9ca1c7a3 Created:2010-09-03T09:48:33 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -548,7 +548,7 @@ NSW,110,Charlton,367,Speers Point,1240,62.12,756,37.88,1996,1.15
 NSW,110,Charlton,14038,Sydney (Charlton),20,51.28,19,48.72,39,-27.29
 NSW,110,Charlton,370,Teralba,645,67.82,306,32.18,951,3.8
 NSW,110,Charlton,371,Toronto,482,67.04,237,32.96,719,-0.19
-NSW,110,Charlton,372,Toronto North,377,60.51,246,39.49,623,0.23
+NSW,110,Charlton,372,Toronto North,414,66.45,209,33.55,623,6.17
 NSW,110,Charlton,33900,Toronto PPVC,1071,57.74,784,42.26,1855,7.22
 NSW,110,Charlton,38205,Wallsend,966,68.71,440,31.29,1406,-0.36
 NSW,110,Charlton,1901,Wallsend South,1674,60.46,1095,39.54,2769,-0.58
@@ -777,16 +777,16 @@ NSW,114,Cunningham,1704,Thirroul East,833,64.18,465,35.82,1298,-6.75
 NSW,114,Cunningham,1705,Towradgi,1119,69.25,497,30.75,1616,-5.56
 NSW,114,Cunningham,1706,Towradgi East,240,66.85,119,33.15,359,4.39
 NSW,114,Cunningham,11923,Unanderra,1555,67.84,737,32.16,2292,-5.46
-NSW,114,Cunningham,561,Unanderra South,1887,68.02,887,31.98,2774,-4.58
-NSW,114,Cunningham,1234,Waterfall,135,50.37,133,49.63,268,-1.05
-NSW,114,Cunningham,565,Wollongong,1077,62.87,636,37.13,1713,-6.57
+NSW,114,Cunningham,561,Unanderra South,1936,69.82,837,30.18,2773,-2.78
+NSW,114,Cunningham,1234,Waterfall,133,50.19,132,49.81,265,-1.23
+NSW,114,Cunningham,565,Wollongong,1069,64.98,576,35.02,1645,-4.46
 NSW,114,Cunningham,566,Wollongong Central,541,64.79,294,35.21,835,-6.68
 NSW,114,Cunningham,34033,Wollongong CUNNINGHAM PPVC,4275,60.9,2745,39.1,7020,-5.16
 NSW,114,Cunningham,567,Wollongong Hospital,201,67.68,96,32.32,297,-7.8
 NSW,114,Cunningham,569,Wollongong West,719,62.74,427,37.26,1146,-3.78
 NSW,114,Cunningham,1235,Wombarra,164,64.82,89,35.18,253,-9.4
 NSW,114,Cunningham,1709,Woonona,1251,64.09,701,35.91,1952,-6.58
-NSW,114,Cunningham,1710,Woonona Central,767,66.93,379,33.07,1146,-1.57
+NSW,114,Cunningham,1710,Woonona Central,768,67.02,378,32.98,1146,-1.48
 NSW,114,Cunningham,1711,Woonona East,1272,66.18,650,33.82,1922,-2.33
 NSW,115,Dobell,575,Bateau Bay Central,415,50.36,409,49.64,824,4.53
 NSW,115,Dobell,574,Bateau Bay East,1141,55.42,918,44.58,2059,2.18
@@ -2812,7 +2812,7 @@ NSW,149,Sydney,1440,Darlington Central,564,83.19,114,16.81,678,-1.71
 NSW,149,Sydney,30140,Divisional Office (PREPOLL),0,0,0,0,0,0
 NSW,149,Sydney,1444,Erskineville,2200,77.27,647,22.73,2847,-0.35
 NSW,149,Sydney,2866,Flinders (Sydney),465,64.67,254,35.33,719,-4.4
-NSW,149,Sydney,2740,Forest Lodge,1533,74.78,517,25.22,2050,-0.35
+NSW,149,Sydney,2740,Forest Lodge,1477,74.18,514,25.82,1991,-0.95
 NSW,149,Sydney,2741,Gladstone Park,1098,67.2,536,32.8,1634,-1.64
 NSW,149,Sydney,2742,Glebe,1034,75.04,344,24.96,1378,-2.74
 NSW,149,Sydney,2743,Glebe East,1009,77.14,299,22.86,1308,-2.25
@@ -2836,7 +2836,7 @@ NSW,149,Sydney,33642,Special Hospital Team 1,23,51.11,22,48.89,45,2.96
 NSW,149,Sydney,2887,Surry Hills,605,78.17,169,21.83,774,-1.02
 NSW,149,Sydney,2888,Surry Hills North,1162,72,452,28,1614,1.09
 NSW,149,Sydney,2852,Surry Hills South,1360,71.58,540,28.42,1900,-5.16
-NSW,149,Sydney,2864,Surry Hills West,771,68.05,362,31.95,1133,-6.35
+NSW,149,Sydney,2864,Surry Hills West,772,68.02,363,31.98,1135,-6.38
 NSW,149,Sydney,14165,Sydney (Sydney),1679,52.87,1497,47.13,3176,-6.12
 NSW,149,Sydney,33970,Sydney PPVC,1915,62.22,1163,37.78,3078,-6.23
 NSW,149,Sydney,2769,Ultimo,749,65.41,396,34.59,1145,-5.24
