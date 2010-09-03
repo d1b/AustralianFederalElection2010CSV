@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T14:26:03 Cycle:7780f1a4-682e-400c-b976-39bf847fdaed Created:2010-09-03T14:03:56 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T14:41:11 Cycle:d2e956a2-40f9-4a2e-af8c-6ad3b04b0938 Created:2010-09-03T14:18:56 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -773,9 +773,9 @@ NSW,114,Cunningham,1229,Stanwell Park,415,62.03,254,37.97,669,-1.92
 NSW,114,Cunningham,14046,Sydney (Cunningham),41,66.13,21,33.87,62,2.91
 NSW,114,Cunningham,1699,Tarrawanna,1195,68.25,556,31.75,1751,-2.77
 NSW,114,Cunningham,1703,Thirroul,1179,70.73,488,29.27,1667,-2.52
-NSW,114,Cunningham,1704,Thirroul East,833,64.18,465,35.82,1298,-6.75
+NSW,114,Cunningham,1704,Thirroul East,829,63.97,467,36.03,1296,-6.96
 NSW,114,Cunningham,1705,Towradgi,1119,69.25,497,30.75,1616,-5.56
-NSW,114,Cunningham,1706,Towradgi East,240,66.85,119,33.15,359,4.39
+NSW,114,Cunningham,1706,Towradgi East,242,67.41,117,32.59,359,4.95
 NSW,114,Cunningham,11923,Unanderra,1555,67.84,737,32.16,2292,-5.46
 NSW,114,Cunningham,561,Unanderra South,1936,69.82,837,30.18,2773,-2.78
 NSW,114,Cunningham,1234,Waterfall,133,50.19,132,49.81,265,-1.23
@@ -784,7 +784,7 @@ NSW,114,Cunningham,566,Wollongong Central,542,64.99,292,35.01,834,-6.48
 NSW,114,Cunningham,34033,Wollongong CUNNINGHAM PPVC,4275,60.9,2745,39.1,7020,-5.16
 NSW,114,Cunningham,567,Wollongong Hospital,198,67.12,97,32.88,295,-8.36
 NSW,114,Cunningham,569,Wollongong West,720,63.1,421,36.9,1141,-3.42
-NSW,114,Cunningham,1235,Wombarra,164,64.82,89,35.18,253,-9.4
+NSW,114,Cunningham,1235,Wombarra,161,63.89,91,36.11,252,-10.33
 NSW,114,Cunningham,1709,Woonona,1251,64.09,701,35.91,1952,-6.58
 NSW,114,Cunningham,1710,Woonona Central,768,67.02,378,32.98,1146,-1.48
 NSW,114,Cunningham,1711,Woonona East,1272,66.18,650,33.82,1922,-2.33
@@ -4283,9 +4283,9 @@ QLD,302,Longman,32060,Burpengary South,908,47.1,1020,52.9,1928,-2.38
 QLD,302,Longman,32503,Burpengary West,1114,49.78,1124,50.22,2238,-4.22
 QLD,302,Longman,5465,Caboolture,1749,53.13,1543,46.87,3292,-3.46
 QLD,302,Longman,5466,Caboolture East,1331,57.64,978,42.36,2309,-3.52
-QLD,302,Longman,34119,Caboolture PPVC,2609,47.32,2905,52.68,5514,-2.79
+QLD,302,Longman,34119,Caboolture PPVC,2633,46.78,2996,53.22,5629,-3.33
 QLD,302,Longman,5467,Caboolture West,1536,52.51,1389,47.49,2925,-2.88
-QLD,302,Longman,31576,Dakabin,617,51.37,584,48.63,1201,-7.1
+QLD,302,Longman,31576,Dakabin,623,51.57,585,48.43,1208,-6.9
 QLD,302,Longman,31687,Divisional Office (PREPOLL),12,50,12,50,24,50
 QLD,302,Longman,5478,Donnybrook,205,45.96,241,54.04,446,-5.31
 QLD,302,Longman,5479,Elimbah,896,44.23,1130,55.77,2026,-5.72
@@ -8215,16 +8215,16 @@ WA,238,Curtin,34201,Special Hospital Team 5,6,25,18,75,24,-3.13
 WA,238,Curtin,34202,Special Hospital Team 6,71,33.65,140,66.35,211,6.51
 WA,238,Curtin,34203,Special Hospital Team 7,3,6.38,44,93.62,47,-18.62
 WA,238,Curtin,46588,Special Hospital Team 8,3,100,0,0,3,66.67
-WA,238,Curtin,7629,Subiaco,559,40.04,837,59.96,1396,-2.69
-WA,238,Curtin,46574,Subiaco Central,752,39.45,1154,60.55,1906,-1.99
-WA,238,Curtin,7631,Subiaco North,144,48.98,150,51.02,294,-4.47
-WA,238,Curtin,7633,Swanbourne,462,27.4,1224,72.6,1686,-2.56
-WA,238,Curtin,7634,Wembley Central,276,35.2,508,64.8,784,-2.68
+WA,238,Curtin,7629,Subiaco,561,40.22,834,59.78,1395,-2.51
+WA,238,Curtin,46574,Subiaco Central,756,39.6,1153,60.4,1909,-1.84
+WA,238,Curtin,7631,Subiaco North,141,47.96,153,52.04,294,-5.49
+WA,238,Curtin,7633,Swanbourne,464,27.47,1225,72.53,1689,-2.49
+WA,238,Curtin,7634,Wembley Central,278,35.46,506,64.54,784,-2.42
 WA,238,Curtin,8199,Wembley Downs,811,31.04,1802,68.96,2613,-3.55
 WA,238,Curtin,7635,Wembley North,734,48.93,766,51.07,1500,-1.87
 WA,238,Curtin,7636,Wembley South,399,32.13,843,67.87,1242,-0.14
 WA,238,Curtin,7637,Wembley West,840,38.25,1356,61.75,2196,-1.93
-WA,238,Curtin,8144,West Perth (Curtin),268,50.19,266,49.81,534,-5.47
+WA,238,Curtin,8144,West Perth (Curtin),268,49.91,269,50.09,537,-5.75
 WA,238,Curtin,8165,West Perth Central,242,35.38,442,64.62,684,-2.32
 WA,238,Curtin,8200,Woodlands,793,29.35,1909,70.65,2702,-3.53
 WA,312,Durack,7801,Ajana,8,13.11,53,86.89,61,3.59
