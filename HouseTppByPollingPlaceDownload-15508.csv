@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T15:26:33 Cycle:cae5eb07-a36f-4cc9-a703-2304f95354f1 Created:2010-09-03T15:04:02 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T15:41:46 Cycle:af178c0b-aa79-4a98-8ce8-7fd5ed503d7b Created:2010-09-03T15:34:02 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -193,15 +193,15 @@ NSW,104,Barton,56572,Special Hospital Team 4,16,76.19,5,23.81,21,21.64
 NSW,104,Barton,14014,Sydney (Barton),81,60.9,52,39.1,133,-10.23
 NSW,104,Barton,2641,Turrella,595,60.59,387,39.41,982,-16.14
 NSW,104,Barton,2673,Undercliffe,1002,57.82,731,42.18,1733,-7.84
-NSW,105,Bennelong,75,Balaclava,1241,48.78,1303,51.22,2544,-4.94
+NSW,105,Bennelong,75,Balaclava,1229,48.62,1299,51.38,2528,-5.1
 NSW,105,Bennelong,33945,Bennelong PPVC,1633,44.31,2052,55.69,3685,-9.28
-NSW,105,Bennelong,33930,Boronia Park (Bennelong),358,49.72,362,50.28,720,-0.91
-NSW,105,Bennelong,634,Carlingford (Bennelong),559,44.86,687,55.14,1246,-4.72
-NSW,105,Bennelong,638,Denistone,472,46.55,542,53.45,1014,-10.43
+NSW,105,Bennelong,33930,Boronia Park (Bennelong),364,49.79,367,50.21,731,-0.84
+NSW,105,Bennelong,634,Carlingford (Bennelong),558,45.18,677,54.82,1235,-4.4
+NSW,105,Bennelong,638,Denistone,466,46.6,534,53.4,1000,-10.38
 NSW,105,Bennelong,639,Denistone East,1132,45.66,1347,54.34,2479,-6.66
 NSW,105,Bennelong,647,Denistone West,645,46.14,753,53.86,1398,-5.88
 NSW,105,Bennelong,30096,Divisional Office (PREPOLL),0,0,0,0,0,-53.49
-NSW,105,Bennelong,79,Eastview,440,40.74,640,59.26,1080,-5.11
+NSW,105,Bennelong,79,Eastview,444,40.96,640,59.04,1084,-4.89
 NSW,105,Bennelong,642,Eastwood,1689,51.81,1571,48.19,3260,-6.33
 NSW,105,Bennelong,80,Eastwood Heights,714,45.36,860,54.64,1574,-3.84
 NSW,105,Bennelong,643,Eastwood West,614,42.03,847,57.97,1461,-5.04
@@ -1205,7 +1205,7 @@ NSW,122,Greenway,1025,Blacktown Hospital,254,58.66,179,41.34,433,-12.33
 NSW,122,Greenway,45558,Blacktown North,822,59.52,559,40.48,1381,-6.01
 NSW,122,Greenway,57174,Blacktown South (Greenway),565,58.37,403,41.63,968,-5.63
 NSW,122,Greenway,57243,Darcy Road (Greenway),127,54.51,106,45.49,233,-8.61
-NSW,122,Greenway,30113,Divisional Office (PREPOLL),22,25.58,64,74.42,86,-26.04
+NSW,122,Greenway,30113,Divisional Office (PREPOLL),23,26.14,65,73.86,88,-25.48
 NSW,122,Greenway,2254,Girraween,1218,58.53,863,41.47,2081,-8.19
 NSW,122,Greenway,1043,Glenwood,1231,45.09,1499,54.91,2730,-3.41
 NSW,122,Greenway,46555,Glenwood South,604,42.6,814,57.4,1418,-4.63
@@ -1311,7 +1311,7 @@ NSW,125,Hume,58566,Cawdor (Hume),68,23.69,219,76.31,287,-3.39
 NSW,125,Hume,910,Collector,69,34.33,132,65.67,201,-6.05
 NSW,125,Hume,11962,Colo Vale,316,41.97,437,58.03,753,-5.38
 NSW,125,Hume,1263,Cootamundra,623,40.25,925,59.75,1548,-3.03
-NSW,125,Hume,58572,Cootamundra PPVC,330,38.28,532,61.72,862,-5.73
+NSW,125,Hume,58572,Cootamundra PPVC,328,38.18,531,61.82,859,-5.83
 NSW,125,Hume,1266,Cootamundra South,284,41.46,401,58.54,685,-6.04
 NSW,125,Hume,1265,Cootamundra West,377,39.94,567,60.06,944,-0.2
 NSW,125,Hume,912,Cowra,859,46.66,982,53.34,1841,2
@@ -1691,8 +1691,8 @@ NSW,131,Macarthur,2922,Leumeah,864,60.89,555,39.11,1419,-4.83
 NSW,131,Macarthur,33668,Leumeah North (Macarthur),322,54.21,272,45.79,594,-3.43
 NSW,131,Macarthur,883,Luddenham,153,30.54,348,69.46,501,-4.99
 NSW,131,Macarthur,1686,Menangle Park,125,30.34,287,69.66,412,-5.5
-NSW,131,Macarthur,11991,Mount Annan,927,45.04,1131,54.96,2058,1.98
-NSW,131,Macarthur,36407,Mount Annan Central,1078,47.07,1212,52.93,2290,-2.83
+NSW,131,Macarthur,11991,Mount Annan,927,45.13,1127,54.87,2054,2.07
+NSW,131,Macarthur,36407,Mount Annan Central,1072,47,1209,53,2281,-2.9
 NSW,131,Macarthur,1690,Narellan,958,44.91,1175,55.09,2133,0.35
 NSW,131,Macarthur,11992,Narellan Vale,1728,46.73,1970,53.27,3698,-1.83
 NSW,131,Macarthur,2930,Rosemeadow,1726,60.14,1144,39.86,2870,-5.19
@@ -1716,7 +1716,7 @@ NSW,132,Mackellar,1720,Collaroy,611,34.72,1149,65.28,1760,-1.66
 NSW,132,Mackellar,1721,Collaroy Plateau,811,32.2,1708,67.8,2519,-3.75
 NSW,132,Mackellar,1724,Cromer,874,32.18,1842,67.82,2716,-3.52
 NSW,132,Mackellar,1722,Cromer East,357,32.48,742,67.52,1099,-5.81
-NSW,132,Mackellar,1725,Dee Why,1258,42.91,1674,57.09,2932,-6.54
+NSW,132,Mackellar,1725,Dee Why,1256,42.88,1673,57.12,2929,-6.57
 NSW,132,Mackellar,1726,Dee Why Central (Mackellar),579,45.41,696,54.59,1275,-5.33
 NSW,132,Mackellar,11965,Dee Why East (Mackellar),453,43.94,578,56.06,1031,-1.19
 NSW,132,Mackellar,30123,Divisional Office (PREPOLL),191,31.57,414,68.43,605,-4.5
@@ -1732,13 +1732,13 @@ NSW,132,Mackellar,1730,Mona Vale Beach,521,34.62,984,65.38,1505,-0.18
 NSW,132,Mackellar,1731,Mona Vale Hospital,278,44.69,344,55.31,622,-0.68
 NSW,132,Mackellar,33074,Mona Vale North,603,29.84,1418,70.16,2021,-1.77
 NSW,132,Mackellar,33701,Mona Vale PPVC,1370,31.71,2950,68.29,4320,-4.38
-NSW,132,Mackellar,1732,Narrabeen,656,38.48,1049,61.52,1705,-1.4
-NSW,132,Mackellar,1728,Narrabeen East,545,35.12,1007,64.88,1552,-2.49
+NSW,132,Mackellar,1732,Narrabeen,656,38.5,1048,61.5,1704,-1.38
+NSW,132,Mackellar,1728,Narrabeen East,546,35.11,1009,64.89,1555,-2.5
 NSW,132,Mackellar,1733,Narrabeen North,821,34.82,1537,65.18,2358,-4.75
 NSW,132,Mackellar,1734,Narraweena,1196,38,1951,62,3147,-3.21
 NSW,132,Mackellar,1735,Newport,798,33.5,1584,66.5,2382,-3.04
 NSW,132,Mackellar,1736,Newport Beach,630,35.31,1154,64.69,1784,-2.76
-NSW,132,Mackellar,1737,Palm Beach,348,32.28,730,67.72,1078,-0.77
+NSW,132,Mackellar,1737,Palm Beach,349,32.34,730,67.66,1079,-0.71
 NSW,132,Mackellar,1740,RSL Retirement Village,141,24.87,426,75.13,567,-3.16
 NSW,132,Mackellar,1738,Scotland Island,169,64.02,95,35.98,264,-4.04
 NSW,132,Mackellar,33602,Special Hospital Team 1,38,29.92,89,70.08,127,3.5
@@ -2109,7 +2109,7 @@ NSW,137,North Sydney,2034,Waverton,541,42.6,729,57.4,1270,-7.7
 NSW,137,North Sydney,2035,Willoughby,1196,34.27,2294,65.73,3490,-11
 NSW,137,North Sydney,2036,Willoughby North,847,35.68,1527,64.32,2374,-9.01
 NSW,137,North Sydney,2037,Wollstonecraft,884,39.52,1353,60.48,2237,-9.43
-NSW,137,North Sydney,109,Woolwich,228,27.98,587,72.02,815,-5.88
+NSW,137,North Sydney,109,Woolwich,228,27.94,588,72.06,816,-5.92
 NSW,138,Page,2043,Alstonville,1390,51.56,1306,48.44,2696,5.88
 NSW,138,Page,2044,Ballina,1701,61.14,1081,38.86,2782,4.46
 NSW,138,Page,2045,Ballina East,1254,57.52,926,42.48,2180,7.85
@@ -2609,11 +2609,11 @@ NSW,250,Riverina,1274,Ganmain,97,19.48,401,80.52,498,-4.56
 NSW,250,Riverina,32486,Glenfield Park,761,34.05,1474,65.95,2235,0.64
 NSW,250,Riverina,2506,Goolgowi,34,17.44,161,82.56,195,-4.22
 NSW,250,Riverina,2508,Griffith,610,30.7,1377,69.3,1987,-8.84
-NSW,250,Riverina,58769,Griffith Central PPVC,36,72,14,28,50,38.67
+NSW,250,Riverina,58769,Griffith Central PPVC,35,70,15,30,50,36.67
 NSW,250,Riverina,2502,Griffith Driver,444,27.19,1189,72.81,1633,-6.07
 NSW,250,Riverina,2509,Griffith East,191,26.31,535,73.69,726,-5.81
 NSW,250,Riverina,2511,Griffith North,291,26.29,816,73.71,1107,-7.68
-NSW,250,Riverina,33855,Griffith PPVC,603,27.78,1568,72.22,2171,-6.11
+NSW,250,Riverina,33855,Griffith PPVC,611,27.96,1574,72.04,2185,-5.93
 NSW,250,Riverina,2512,Griffith West,477,35.54,865,64.46,1342,-9.85
 NSW,250,Riverina,1277,Grong Grong,40,27.97,103,72.03,143,-4.8
 NSW,250,Riverina,1279,Gundagai,424,40.73,617,59.27,1041,-2.9
@@ -2625,7 +2625,7 @@ NSW,250,Riverina,1283,Illabo,33,14.8,190,85.2,223,-2.05
 NSW,250,Riverina,799,Jingellic,13,24.53,40,75.47,53,-8.16
 NSW,250,Riverina,1285,Junee,875,41.47,1235,58.53,2110,-0.07
 NSW,250,Riverina,1288,Kapooka,19,21.84,68,78.16,87,-8.69
-NSW,250,Riverina,33857,Kapooka PPVC,32,19.63,131,80.37,163,-13.7
+NSW,250,Riverina,33857,Kapooka PPVC,33,20.25,130,79.75,163,-13.08
 NSW,250,Riverina,800,Khancoban,79,43.89,101,56.11,180,-5.18
 NSW,250,Riverina,1289,Kooringal,841,34.38,1605,65.62,2446,4.05
 NSW,250,Riverina,1315,Kooringal North,655,33.99,1272,66.01,1927,-3.63
@@ -2647,7 +2647,7 @@ NSW,250,Riverina,2533,Murrami,20,18.52,88,81.48,108,3.89
 NSW,250,Riverina,1304,Nangus,46,30.67,104,69.33,150,0.83
 NSW,250,Riverina,2536,Narrandera,293,32.66,604,67.34,897,-2.16
 NSW,250,Riverina,2537,Narrandera East,180,30.15,417,69.85,597,-6.41
-NSW,250,Riverina,33858,Narrandera PPVC,207,26.95,561,73.05,768,-6.89
+NSW,250,Riverina,33858,Narrandera PPVC,208,27.08,560,72.92,768,-6.76
 NSW,250,Riverina,2538,Narrandera West,148,33.56,293,66.44,441,-5.18
 NSW,250,Riverina,2545,Rankins Springs,35,23.03,117,76.97,152,-7.23
 NSW,250,Riverina,829,Rosewood,35,22.73,119,77.27,154,-15.96
@@ -2655,8 +2655,8 @@ NSW,250,Riverina,1312,San Isidore,75,33.33,150,66.67,225,-5.99
 NSW,250,Riverina,33626,Special Hospital Team 1,29,31.52,63,68.48,92,2.95
 NSW,250,Riverina,33825,Special Hospital Team 2,16,22.22,56,77.78,72,-6.23
 NSW,250,Riverina,33829,Special Hospital Team 3,26,44.83,32,55.17,58,16.53
-NSW,250,Riverina,33830,Special Hospital Team 4,56,32.75,115,67.25,171,4.49
-NSW,250,Riverina,33833,Special Hospital Team 5,14,21.21,52,78.79,66,-7.56
+NSW,250,Riverina,33830,Special Hospital Team 4,60,35.09,111,64.91,171,6.83
+NSW,250,Riverina,33833,Special Hospital Team 5,14,21.88,50,78.13,64,-6.89
 NSW,250,Riverina,45928,Special Hospital Team 6,13,38.24,21,61.76,34,9.21
 NSW,250,Riverina,14153,Sydney (Riverina),6,33.33,12,66.67,18,-8.34
 NSW,250,Riverina,1316,Talbingo,73,47.4,81,52.6,154,-7.73
@@ -2680,7 +2680,7 @@ NSW,250,Riverina,1328,Wagga Wagga,607,38.1,986,61.9,1593,3.48
 NSW,250,Riverina,1278,Wagga Wagga East,104,35.99,185,64.01,289,-2.27
 NSW,250,Riverina,1330,Wagga Wagga Hospital,83,41.71,116,58.29,199,3.82
 NSW,250,Riverina,1331,Wagga Wagga North,489,31.47,1065,68.53,1554,-1.27
-NSW,250,Riverina,33860,Wagga Wagga PPVC,1588,31.32,3483,68.68,5071,-2.56
+NSW,250,Riverina,33860,Wagga Wagga PPVC,1588,31.27,3491,68.73,5079,-2.61
 NSW,250,Riverina,1340,Wagga Wagga South,359,34.99,667,65.01,1026,-1.56
 NSW,250,Riverina,1332,Wagga Wagga West,626,35.17,1154,64.83,1780,-2.22
 NSW,250,Riverina,2554,Wamoon,57,27.01,154,72.99,211,-4.97
@@ -2873,8 +2873,8 @@ NSW,150,Throsby,550,Lake Heights,914,72.6,345,27.4,1259,-8.09
 NSW,150,Throsby,2793,Lake Illawarra,1081,70.15,460,29.85,1541,-3.29
 NSW,150,Throsby,2794,Lakelands,1036,67.14,507,32.86,1543,-10.92
 NSW,150,Throsby,2798,Mittagong (Throsby),1027,46.68,1173,53.32,2200,-0.83
-NSW,150,Throsby,2799,Mittagong South,443,46.53,509,53.47,952,4.57
-NSW,150,Throsby,2800,Moss Vale,781,51.45,737,48.55,1518,-1.61
+NSW,150,Throsby,2799,Mittagong South,444,46.59,509,53.41,953,4.63
+NSW,150,Throsby,2800,Moss Vale,781,51.55,734,48.45,1515,-1.51
 NSW,150,Throsby,2801,Moss Vale Central,987,48.84,1034,51.16,2021,6.06
 NSW,150,Throsby,2802,Mount Brown,1237,62.13,754,37.87,1991,-8.02
 NSW,150,Throsby,32671,Mount Terry,1857,65.66,971,34.34,2828,-4.04
@@ -2885,12 +2885,12 @@ NSW,150,Throsby,31451,Oak Flats East,987,68.97,444,31.03,1431,-3.64
 NSW,150,Throsby,556,Port Kembla,731,74.14,255,25.86,986,-5.29
 NSW,150,Throsby,557,Port Kembla Central,1003,78.54,274,21.46,1277,-5.93
 NSW,150,Throsby,559,Primbee,610,67.25,297,32.75,907,-9.98
-NSW,150,Throsby,2805,Robertson,518,49.24,534,50.76,1052,-3.37
+NSW,150,Throsby,2805,Robertson,517,49.1,536,50.9,1053,-3.51
 NSW,150,Throsby,33615,Special Hospital Team 1,67,59.29,46,40.71,113,10.31
 NSW,150,Throsby,58273,Special Hospital Team 2,46,25.56,134,74.44,180,-23.26
 NSW,150,Throsby,966,Sutton Forest,82,31.42,179,68.58,261,-6.04
-NSW,150,Throsby,14170,Sydney (Throsby),31,68.89,14,31.11,45,9.43
-NSW,150,Throsby,58280,Warilla (Throsby),293,81.39,67,18.61,360,0.31
+NSW,150,Throsby,14170,Sydney (Throsby),31,70.45,13,29.55,44,10.99
+NSW,150,Throsby,58280,Warilla (Throsby),290,79.02,77,20.98,367,-2.06
 NSW,150,Throsby,11500,Warilla East,897,67.9,424,32.1,1321,-4
 NSW,150,Throsby,2810,Warilla North,803,81.52,182,18.48,985,-4.38
 NSW,150,Throsby,58798,Warilla THROSBY PPVC,1673,68.43,772,31.57,2445,5.4
@@ -8426,9 +8426,9 @@ WA,239,Forrest,34212,Special Hospital Team 4,7,36.84,12,63.16,19,0.17
 WA,239,Forrest,34213,Special Hospital Team 5,24,61.54,15,38.46,39,26.06
 WA,239,Forrest,7732,Vasse,514,35.28,943,64.72,1457,5.26
 WA,239,Forrest,7738,Witchcliffe,318,51.88,295,48.12,613,0.13
-WA,239,Forrest,7739,Withers,803,49.78,810,50.22,1613,-4.8
-WA,239,Forrest,7740,Wollaston,404,43.21,531,56.79,935,0.73
-WA,239,Forrest,7742,Yallingup,182,32.91,371,67.09,553,-12.61
+WA,239,Forrest,7739,Withers,808,49.94,810,50.06,1618,-4.64
+WA,239,Forrest,7740,Wollaston,403,43.15,531,56.85,934,0.67
+WA,239,Forrest,7742,Yallingup,234,42.31,319,57.69,553,-3.21
 WA,239,Forrest,7514,Yarloop,148,39.78,224,60.22,372,-8.57
 WA,239,Forrest,7744,Yoongarillup,61,20.82,232,79.18,293,0.41
 WA,240,Fremantle,32965,Atwell,1443,46.88,1635,53.12,3078,-1.88
@@ -8734,9 +8734,9 @@ WA,244,Pearce,7947,Lower Chittering,178,36.33,312,63.67,490,1.44
 WA,244,Pearce,7948,Mahogany Creek,267,40.76,388,59.24,655,-4.76
 WA,244,Pearce,31963,Merriwa,1476,49.32,1517,50.68,2993,-0.04
 WA,244,Pearce,58749,Midland PEARCE PPVC,1399,39.87,2110,60.13,3509,-2.31
-WA,244,Pearce,7953,Mount Helena,552,46.62,632,53.38,1184,-1.31
+WA,244,Pearce,7953,Mount Helena,554,46.91,627,53.09,1181,-1.02
 WA,244,Pearce,7954,Muchea,155,32.16,327,67.84,482,-0.17
-WA,244,Pearce,7956,Mundaring,848,44.84,1043,55.16,1891,0.09
+WA,244,Pearce,7956,Mundaring,902,47.83,984,52.17,1886,3.08
 WA,244,Pearce,8077,Northam,593,38.66,941,61.34,1534,-1.82
 WA,244,Pearce,8078,Northam East,357,35.56,647,64.44,1004,-4.44
 WA,244,Pearce,8079,Northam North,257,46.06,301,53.94,558,-7.83

@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T15:26:28 Cycle:cae5eb07-a36f-4cc9-a703-2304f95354f1 Created:2010-09-03T15:04:02 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T15:41:41 Cycle:af178c0b-aa79-4a98-8ce8-7fd5ed503d7b Created:2010-09-03T15:34:02 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 ACT,101,Canberra,8829,Barton,20863,JONES,Giulia,1,N,N,LP,Liberal,793,-2.61
 ACT,101,Canberra,8829,Barton,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1397,2.61
@@ -386,24 +386,24 @@ NSW,104,Barton,2641,Turrella,21158,McCLELLAND,Robert,1,N,Y,ALP,Labor,595,-16.14
 NSW,104,Barton,2641,Turrella,21616,La MELA,John,3,N,N,LP,Liberal,387,16.14
 NSW,104,Barton,2673,Undercliffe,21158,McCLELLAND,Robert,1,N,Y,ALP,Labor,1002,-7.84
 NSW,104,Barton,2673,Undercliffe,21616,La MELA,John,3,N,N,LP,Liberal,731,7.84
-NSW,105,Bennelong,75,Balaclava,21132,McKEW,Maxine,8,N,Y,ALP,Labor,1241,-4.94
-NSW,105,Bennelong,75,Balaclava,21648,ALEXANDER,John,10,N,N,LP,Liberal,1303,4.94
+NSW,105,Bennelong,75,Balaclava,21132,McKEW,Maxine,8,N,Y,ALP,Labor,1229,-5.1
+NSW,105,Bennelong,75,Balaclava,21648,ALEXANDER,John,10,N,N,LP,Liberal,1299,5.1
 NSW,105,Bennelong,33945,Bennelong PPVC,21132,McKEW,Maxine,8,N,Y,ALP,Labor,1633,-9.28
 NSW,105,Bennelong,33945,Bennelong PPVC,21648,ALEXANDER,John,10,N,N,LP,Liberal,2052,9.28
-NSW,105,Bennelong,33930,Boronia Park (Bennelong),21132,McKEW,Maxine,8,N,Y,ALP,Labor,358,-0.91
-NSW,105,Bennelong,33930,Boronia Park (Bennelong),21648,ALEXANDER,John,10,N,N,LP,Liberal,362,0.91
-NSW,105,Bennelong,634,Carlingford (Bennelong),21132,McKEW,Maxine,8,N,Y,ALP,Labor,559,-4.72
-NSW,105,Bennelong,634,Carlingford (Bennelong),21648,ALEXANDER,John,10,N,N,LP,Liberal,687,4.72
-NSW,105,Bennelong,638,Denistone,21132,McKEW,Maxine,8,N,Y,ALP,Labor,472,-10.43
-NSW,105,Bennelong,638,Denistone,21648,ALEXANDER,John,10,N,N,LP,Liberal,542,10.43
+NSW,105,Bennelong,33930,Boronia Park (Bennelong),21132,McKEW,Maxine,8,N,Y,ALP,Labor,364,-0.84
+NSW,105,Bennelong,33930,Boronia Park (Bennelong),21648,ALEXANDER,John,10,N,N,LP,Liberal,367,0.84
+NSW,105,Bennelong,634,Carlingford (Bennelong),21132,McKEW,Maxine,8,N,Y,ALP,Labor,558,-4.4
+NSW,105,Bennelong,634,Carlingford (Bennelong),21648,ALEXANDER,John,10,N,N,LP,Liberal,677,4.4
+NSW,105,Bennelong,638,Denistone,21132,McKEW,Maxine,8,N,Y,ALP,Labor,466,-10.38
+NSW,105,Bennelong,638,Denistone,21648,ALEXANDER,John,10,N,N,LP,Liberal,534,10.38
 NSW,105,Bennelong,639,Denistone East,21132,McKEW,Maxine,8,N,Y,ALP,Labor,1132,-6.66
 NSW,105,Bennelong,639,Denistone East,21648,ALEXANDER,John,10,N,N,LP,Liberal,1347,6.66
 NSW,105,Bennelong,647,Denistone West,21132,McKEW,Maxine,8,N,Y,ALP,Labor,645,-5.88
 NSW,105,Bennelong,647,Denistone West,21648,ALEXANDER,John,10,N,N,LP,Liberal,753,5.88
 NSW,105,Bennelong,30096,Divisional Office (PREPOLL),21132,McKEW,Maxine,8,N,Y,ALP,Labor,0,-53.49
 NSW,105,Bennelong,30096,Divisional Office (PREPOLL),21648,ALEXANDER,John,10,N,N,LP,Liberal,0,-46.51
-NSW,105,Bennelong,79,Eastview,21132,McKEW,Maxine,8,N,Y,ALP,Labor,440,-5.11
-NSW,105,Bennelong,79,Eastview,21648,ALEXANDER,John,10,N,N,LP,Liberal,640,5.11
+NSW,105,Bennelong,79,Eastview,21132,McKEW,Maxine,8,N,Y,ALP,Labor,444,-4.89
+NSW,105,Bennelong,79,Eastview,21648,ALEXANDER,John,10,N,N,LP,Liberal,640,4.89
 NSW,105,Bennelong,642,Eastwood,21132,McKEW,Maxine,8,N,Y,ALP,Labor,1689,-6.33
 NSW,105,Bennelong,642,Eastwood,21648,ALEXANDER,John,10,N,N,LP,Liberal,1571,6.33
 NSW,105,Bennelong,80,Eastwood Heights,21132,McKEW,Maxine,8,N,Y,ALP,Labor,714,-3.84
@@ -2410,8 +2410,8 @@ NSW,122,Greenway,57174,Blacktown South (Greenway),21246,ROWLAND,Michelle,1,N,N,A
 NSW,122,Greenway,57174,Blacktown South (Greenway),21609,DIAZ,Jaymes,2,N,N,LP,Liberal,403,5.63
 NSW,122,Greenway,57243,Darcy Road (Greenway),21246,ROWLAND,Michelle,1,N,N,ALP,Labor,127,-8.61
 NSW,122,Greenway,57243,Darcy Road (Greenway),21609,DIAZ,Jaymes,2,N,N,LP,Liberal,106,8.61
-NSW,122,Greenway,30113,Divisional Office (PREPOLL),21246,ROWLAND,Michelle,1,N,N,ALP,Labor,22,-26.04
-NSW,122,Greenway,30113,Divisional Office (PREPOLL),21609,DIAZ,Jaymes,2,N,N,LP,Liberal,64,26.04
+NSW,122,Greenway,30113,Divisional Office (PREPOLL),21246,ROWLAND,Michelle,1,N,N,ALP,Labor,23,-25.48
+NSW,122,Greenway,30113,Divisional Office (PREPOLL),21609,DIAZ,Jaymes,2,N,N,LP,Liberal,65,25.48
 NSW,122,Greenway,2254,Girraween,21246,ROWLAND,Michelle,1,N,N,ALP,Labor,1218,-8.19
 NSW,122,Greenway,2254,Girraween,21609,DIAZ,Jaymes,2,N,N,LP,Liberal,863,8.19
 NSW,122,Greenway,1043,Glenwood,21246,ROWLAND,Michelle,1,N,N,ALP,Labor,1231,-3.41
@@ -2622,8 +2622,8 @@ NSW,125,Hume,11962,Colo Vale,21245,SAVILLE,Robin,3,N,N,ALP,Labor,316,-5.38
 NSW,125,Hume,11962,Colo Vale,21647,SCHULTZ,Alby,7,N,Y,LP,Liberal,437,5.38
 NSW,125,Hume,1263,Cootamundra,21245,SAVILLE,Robin,3,N,N,ALP,Labor,623,-3.03
 NSW,125,Hume,1263,Cootamundra,21647,SCHULTZ,Alby,7,N,Y,LP,Liberal,925,3.03
-NSW,125,Hume,58572,Cootamundra PPVC,21245,SAVILLE,Robin,3,N,N,ALP,Labor,330,-5.73
-NSW,125,Hume,58572,Cootamundra PPVC,21647,SCHULTZ,Alby,7,N,Y,LP,Liberal,532,5.73
+NSW,125,Hume,58572,Cootamundra PPVC,21245,SAVILLE,Robin,3,N,N,ALP,Labor,328,-5.83
+NSW,125,Hume,58572,Cootamundra PPVC,21647,SCHULTZ,Alby,7,N,Y,LP,Liberal,531,5.83
 NSW,125,Hume,1266,Cootamundra South,21245,SAVILLE,Robin,3,N,N,ALP,Labor,284,-6.04
 NSW,125,Hume,1266,Cootamundra South,21647,SCHULTZ,Alby,7,N,Y,LP,Liberal,401,6.04
 NSW,125,Hume,1265,Cootamundra West,21245,SAVILLE,Robin,3,N,N,ALP,Labor,377,-0.2
@@ -3382,10 +3382,10 @@ NSW,131,Macarthur,883,Luddenham,21596,BLEASDALE,Nick,2,N,N,ALP,Labor,153,-4.99
 NSW,131,Macarthur,883,Luddenham,21649,MATHESON,Russell,4,N,N,LP,Liberal,348,4.99
 NSW,131,Macarthur,1686,Menangle Park,21596,BLEASDALE,Nick,2,N,N,ALP,Labor,125,-5.5
 NSW,131,Macarthur,1686,Menangle Park,21649,MATHESON,Russell,4,N,N,LP,Liberal,287,5.5
-NSW,131,Macarthur,11991,Mount Annan,21596,BLEASDALE,Nick,2,N,N,ALP,Labor,927,1.98
-NSW,131,Macarthur,11991,Mount Annan,21649,MATHESON,Russell,4,N,N,LP,Liberal,1131,-1.98
-NSW,131,Macarthur,36407,Mount Annan Central,21596,BLEASDALE,Nick,2,N,N,ALP,Labor,1078,-2.83
-NSW,131,Macarthur,36407,Mount Annan Central,21649,MATHESON,Russell,4,N,N,LP,Liberal,1212,2.83
+NSW,131,Macarthur,11991,Mount Annan,21596,BLEASDALE,Nick,2,N,N,ALP,Labor,927,2.07
+NSW,131,Macarthur,11991,Mount Annan,21649,MATHESON,Russell,4,N,N,LP,Liberal,1127,-2.07
+NSW,131,Macarthur,36407,Mount Annan Central,21596,BLEASDALE,Nick,2,N,N,ALP,Labor,1072,-2.9
+NSW,131,Macarthur,36407,Mount Annan Central,21649,MATHESON,Russell,4,N,N,LP,Liberal,1209,2.9
 NSW,131,Macarthur,1690,Narellan,21596,BLEASDALE,Nick,2,N,N,ALP,Labor,958,0.35
 NSW,131,Macarthur,1690,Narellan,21649,MATHESON,Russell,4,N,N,LP,Liberal,1175,-0.35
 NSW,131,Macarthur,11992,Narellan Vale,21596,BLEASDALE,Nick,2,N,N,ALP,Labor,1728,-1.83
@@ -3432,8 +3432,8 @@ NSW,132,Mackellar,1724,Cromer,21419,BEATTIE,Linda,2,N,N,ALP,Labor,874,-3.52
 NSW,132,Mackellar,1724,Cromer,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1842,3.52
 NSW,132,Mackellar,1722,Cromer East,21419,BEATTIE,Linda,2,N,N,ALP,Labor,357,-5.81
 NSW,132,Mackellar,1722,Cromer East,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,742,5.81
-NSW,132,Mackellar,1725,Dee Why,21419,BEATTIE,Linda,2,N,N,ALP,Labor,1258,-6.54
-NSW,132,Mackellar,1725,Dee Why,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1674,6.54
+NSW,132,Mackellar,1725,Dee Why,21419,BEATTIE,Linda,2,N,N,ALP,Labor,1256,-6.57
+NSW,132,Mackellar,1725,Dee Why,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1673,6.57
 NSW,132,Mackellar,1726,Dee Why Central (Mackellar),21419,BEATTIE,Linda,2,N,N,ALP,Labor,579,-5.33
 NSW,132,Mackellar,1726,Dee Why Central (Mackellar),21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,696,5.33
 NSW,132,Mackellar,11965,Dee Why East (Mackellar),21419,BEATTIE,Linda,2,N,N,ALP,Labor,453,-1.19
@@ -3464,10 +3464,10 @@ NSW,132,Mackellar,33074,Mona Vale North,21419,BEATTIE,Linda,2,N,N,ALP,Labor,603,
 NSW,132,Mackellar,33074,Mona Vale North,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1418,1.77
 NSW,132,Mackellar,33701,Mona Vale PPVC,21419,BEATTIE,Linda,2,N,N,ALP,Labor,1370,-4.38
 NSW,132,Mackellar,33701,Mona Vale PPVC,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,2950,4.38
-NSW,132,Mackellar,1732,Narrabeen,21419,BEATTIE,Linda,2,N,N,ALP,Labor,656,-1.4
-NSW,132,Mackellar,1732,Narrabeen,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1049,1.4
-NSW,132,Mackellar,1728,Narrabeen East,21419,BEATTIE,Linda,2,N,N,ALP,Labor,545,-2.49
-NSW,132,Mackellar,1728,Narrabeen East,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1007,2.49
+NSW,132,Mackellar,1732,Narrabeen,21419,BEATTIE,Linda,2,N,N,ALP,Labor,656,-1.38
+NSW,132,Mackellar,1732,Narrabeen,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1048,1.38
+NSW,132,Mackellar,1728,Narrabeen East,21419,BEATTIE,Linda,2,N,N,ALP,Labor,546,-2.5
+NSW,132,Mackellar,1728,Narrabeen East,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1009,2.5
 NSW,132,Mackellar,1733,Narrabeen North,21419,BEATTIE,Linda,2,N,N,ALP,Labor,821,-4.75
 NSW,132,Mackellar,1733,Narrabeen North,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1537,4.75
 NSW,132,Mackellar,1734,Narraweena,21419,BEATTIE,Linda,2,N,N,ALP,Labor,1196,-3.21
@@ -3476,8 +3476,8 @@ NSW,132,Mackellar,1735,Newport,21419,BEATTIE,Linda,2,N,N,ALP,Labor,798,-3.04
 NSW,132,Mackellar,1735,Newport,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1584,3.04
 NSW,132,Mackellar,1736,Newport Beach,21419,BEATTIE,Linda,2,N,N,ALP,Labor,630,-2.76
 NSW,132,Mackellar,1736,Newport Beach,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,1154,2.76
-NSW,132,Mackellar,1737,Palm Beach,21419,BEATTIE,Linda,2,N,N,ALP,Labor,348,-0.77
-NSW,132,Mackellar,1737,Palm Beach,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,730,0.77
+NSW,132,Mackellar,1737,Palm Beach,21419,BEATTIE,Linda,2,N,N,ALP,Labor,349,-0.71
+NSW,132,Mackellar,1737,Palm Beach,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,730,0.71
 NSW,132,Mackellar,1740,RSL Retirement Village,21419,BEATTIE,Linda,2,N,N,ALP,Labor,141,-3.16
 NSW,132,Mackellar,1740,RSL Retirement Village,21550,BISHOP,Bronwyn,3,N,Y,LP,Liberal,426,3.16
 NSW,132,Mackellar,1738,Scotland Island,21419,BEATTIE,Linda,2,N,N,ALP,Labor,169,-4.04
@@ -4218,8 +4218,8 @@ NSW,137,North Sydney,2036,Willoughby North,21692,HOCKEY,Joe,1,N,Y,LP,Liberal,152
 NSW,137,North Sydney,2036,Willoughby North,21705,WEBB,Leta,2,N,N,ALP,Labor,847,-9.01
 NSW,137,North Sydney,2037,Wollstonecraft,21692,HOCKEY,Joe,1,N,Y,LP,Liberal,1353,9.43
 NSW,137,North Sydney,2037,Wollstonecraft,21705,WEBB,Leta,2,N,N,ALP,Labor,884,-9.43
-NSW,137,North Sydney,109,Woolwich,21692,HOCKEY,Joe,1,N,Y,LP,Liberal,587,5.88
-NSW,137,North Sydney,109,Woolwich,21705,WEBB,Leta,2,N,N,ALP,Labor,228,-5.88
+NSW,137,North Sydney,109,Woolwich,21692,HOCKEY,Joe,1,N,Y,LP,Liberal,588,5.92
+NSW,137,North Sydney,109,Woolwich,21705,WEBB,Leta,2,N,N,ALP,Labor,228,-5.92
 NSW,138,Page,2043,Alstonville,21495,SAFFIN,Janelle,2,N,Y,ALP,Labor,1390,5.88
 NSW,138,Page,2043,Alstonville,21484,HOGAN,Kevin,3,N,N,NP,The Nationals,1306,-5.88
 NSW,138,Page,2044,Ballina,21495,SAFFIN,Janelle,2,N,Y,ALP,Labor,1701,4.46
@@ -5218,16 +5218,16 @@ NSW,250,Riverina,2506,Goolgowi,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,16
 NSW,250,Riverina,2506,Goolgowi,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,34,-4.22
 NSW,250,Riverina,2508,Griffith,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,1377,8.84
 NSW,250,Riverina,2508,Griffith,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,610,-8.84
-NSW,250,Riverina,58769,Griffith Central PPVC,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,14,-38.67
-NSW,250,Riverina,58769,Griffith Central PPVC,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,36,38.67
+NSW,250,Riverina,58769,Griffith Central PPVC,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,15,-36.67
+NSW,250,Riverina,58769,Griffith Central PPVC,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,35,36.67
 NSW,250,Riverina,2502,Griffith Driver,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,1189,6.07
 NSW,250,Riverina,2502,Griffith Driver,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,444,-6.07
 NSW,250,Riverina,2509,Griffith East,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,535,5.81
 NSW,250,Riverina,2509,Griffith East,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,191,-5.81
 NSW,250,Riverina,2511,Griffith North,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,816,7.68
 NSW,250,Riverina,2511,Griffith North,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,291,-7.68
-NSW,250,Riverina,33855,Griffith PPVC,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,1568,6.11
-NSW,250,Riverina,33855,Griffith PPVC,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,603,-6.11
+NSW,250,Riverina,33855,Griffith PPVC,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,1574,5.93
+NSW,250,Riverina,33855,Griffith PPVC,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,611,-5.93
 NSW,250,Riverina,2512,Griffith West,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,865,9.85
 NSW,250,Riverina,2512,Griffith West,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,477,-9.85
 NSW,250,Riverina,1277,Grong Grong,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,103,4.8
@@ -5250,8 +5250,8 @@ NSW,250,Riverina,1285,Junee,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,1235,
 NSW,250,Riverina,1285,Junee,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,875,-0.07
 NSW,250,Riverina,1288,Kapooka,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,68,8.69
 NSW,250,Riverina,1288,Kapooka,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,19,-8.69
-NSW,250,Riverina,33857,Kapooka PPVC,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,131,13.7
-NSW,250,Riverina,33857,Kapooka PPVC,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,32,-13.7
+NSW,250,Riverina,33857,Kapooka PPVC,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,130,13.08
+NSW,250,Riverina,33857,Kapooka PPVC,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,33,-13.08
 NSW,250,Riverina,800,Khancoban,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,101,5.18
 NSW,250,Riverina,800,Khancoban,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,79,-5.18
 NSW,250,Riverina,1289,Kooringal,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,1605,-4.05
@@ -5294,8 +5294,8 @@ NSW,250,Riverina,2536,Narrandera,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,
 NSW,250,Riverina,2536,Narrandera,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,293,-2.16
 NSW,250,Riverina,2537,Narrandera East,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,417,6.41
 NSW,250,Riverina,2537,Narrandera East,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,180,-6.41
-NSW,250,Riverina,33858,Narrandera PPVC,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,561,6.89
-NSW,250,Riverina,33858,Narrandera PPVC,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,207,-6.89
+NSW,250,Riverina,33858,Narrandera PPVC,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,560,6.76
+NSW,250,Riverina,33858,Narrandera PPVC,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,208,-6.76
 NSW,250,Riverina,2538,Narrandera West,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,293,5.18
 NSW,250,Riverina,2538,Narrandera West,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,148,-5.18
 NSW,250,Riverina,2545,Rankins Springs,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,117,7.23
@@ -5310,10 +5310,10 @@ NSW,250,Riverina,33825,Special Hospital Team 2,21095,McCORMACK,Michael,4,N,N,NP,
 NSW,250,Riverina,33825,Special Hospital Team 2,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,16,-6.23
 NSW,250,Riverina,33829,Special Hospital Team 3,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,32,-16.53
 NSW,250,Riverina,33829,Special Hospital Team 3,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,26,16.53
-NSW,250,Riverina,33830,Special Hospital Team 4,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,115,-4.49
-NSW,250,Riverina,33830,Special Hospital Team 4,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,56,4.49
-NSW,250,Riverina,33833,Special Hospital Team 5,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,52,7.56
-NSW,250,Riverina,33833,Special Hospital Team 5,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,14,-7.56
+NSW,250,Riverina,33830,Special Hospital Team 4,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,111,-6.83
+NSW,250,Riverina,33830,Special Hospital Team 4,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,60,6.83
+NSW,250,Riverina,33833,Special Hospital Team 5,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,50,6.9
+NSW,250,Riverina,33833,Special Hospital Team 5,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,14,-6.89
 NSW,250,Riverina,45928,Special Hospital Team 6,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,21,-9.21
 NSW,250,Riverina,45928,Special Hospital Team 6,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,13,9.21
 NSW,250,Riverina,14153,Sydney (Riverina),21095,McCORMACK,Michael,4,N,N,NP,The Nationals,12,8.34
@@ -5360,8 +5360,8 @@ NSW,250,Riverina,1330,Wagga Wagga Hospital,21095,McCORMACK,Michael,4,N,N,NP,The 
 NSW,250,Riverina,1330,Wagga Wagga Hospital,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,83,3.82
 NSW,250,Riverina,1331,Wagga Wagga North,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,1065,1.27
 NSW,250,Riverina,1331,Wagga Wagga North,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,489,-1.27
-NSW,250,Riverina,33860,Wagga Wagga PPVC,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,3483,2.56
-NSW,250,Riverina,33860,Wagga Wagga PPVC,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,1588,-2.56
+NSW,250,Riverina,33860,Wagga Wagga PPVC,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,3491,2.61
+NSW,250,Riverina,33860,Wagga Wagga PPVC,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,1588,-2.61
 NSW,250,Riverina,1340,Wagga Wagga South,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,667,1.56
 NSW,250,Riverina,1340,Wagga Wagga South,21128,HAKELIS,Robyn,6,N,N,ALP,Country Labor,359,-1.56
 NSW,250,Riverina,1332,Wagga Wagga West,21095,McCORMACK,Michael,4,N,N,NP,The Nationals,1154,2.22
@@ -5746,10 +5746,10 @@ NSW,150,Throsby,2794,Lakelands,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,507,10.92
 NSW,150,Throsby,2794,Lakelands,21431,JONES,Stephen,2,N,N,ALP,Labor,1036,-10.92
 NSW,150,Throsby,2798,Mittagong (Throsby),21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,1173,0.83
 NSW,150,Throsby,2798,Mittagong (Throsby),21431,JONES,Stephen,2,N,N,ALP,Labor,1027,-0.83
-NSW,150,Throsby,2799,Mittagong South,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,509,-4.57
-NSW,150,Throsby,2799,Mittagong South,21431,JONES,Stephen,2,N,N,ALP,Labor,443,4.57
-NSW,150,Throsby,2800,Moss Vale,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,737,1.61
-NSW,150,Throsby,2800,Moss Vale,21431,JONES,Stephen,2,N,N,ALP,Labor,781,-1.61
+NSW,150,Throsby,2799,Mittagong South,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,509,-4.63
+NSW,150,Throsby,2799,Mittagong South,21431,JONES,Stephen,2,N,N,ALP,Labor,444,4.63
+NSW,150,Throsby,2800,Moss Vale,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,734,1.51
+NSW,150,Throsby,2800,Moss Vale,21431,JONES,Stephen,2,N,N,ALP,Labor,781,-1.51
 NSW,150,Throsby,2801,Moss Vale Central,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,1034,-6.06
 NSW,150,Throsby,2801,Moss Vale Central,21431,JONES,Stephen,2,N,N,ALP,Labor,987,6.06
 NSW,150,Throsby,2802,Mount Brown,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,754,8.02
@@ -5770,18 +5770,18 @@ NSW,150,Throsby,557,Port Kembla Central,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,
 NSW,150,Throsby,557,Port Kembla Central,21431,JONES,Stephen,2,N,N,ALP,Labor,1003,-5.93
 NSW,150,Throsby,559,Primbee,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,297,9.98
 NSW,150,Throsby,559,Primbee,21431,JONES,Stephen,2,N,N,ALP,Labor,610,-9.98
-NSW,150,Throsby,2805,Robertson,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,534,3.37
-NSW,150,Throsby,2805,Robertson,21431,JONES,Stephen,2,N,N,ALP,Labor,518,-3.37
+NSW,150,Throsby,2805,Robertson,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,536,3.51
+NSW,150,Throsby,2805,Robertson,21431,JONES,Stephen,2,N,N,ALP,Labor,517,-3.51
 NSW,150,Throsby,33615,Special Hospital Team 1,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,46,-10.31
 NSW,150,Throsby,33615,Special Hospital Team 1,21431,JONES,Stephen,2,N,N,ALP,Labor,67,10.31
 NSW,150,Throsby,58273,Special Hospital Team 2,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,134,23.26
 NSW,150,Throsby,58273,Special Hospital Team 2,21431,JONES,Stephen,2,N,N,ALP,Labor,46,-23.26
 NSW,150,Throsby,966,Sutton Forest,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,179,6.04
 NSW,150,Throsby,966,Sutton Forest,21431,JONES,Stephen,2,N,N,ALP,Labor,82,-6.04
-NSW,150,Throsby,14170,Sydney (Throsby),21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,14,-9.43
-NSW,150,Throsby,14170,Sydney (Throsby),21431,JONES,Stephen,2,N,N,ALP,Labor,31,9.43
-NSW,150,Throsby,58280,Warilla (Throsby),21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,67,-0.31
-NSW,150,Throsby,58280,Warilla (Throsby),21431,JONES,Stephen,2,N,N,ALP,Labor,293,0.31
+NSW,150,Throsby,14170,Sydney (Throsby),21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,13,-10.99
+NSW,150,Throsby,14170,Sydney (Throsby),21431,JONES,Stephen,2,N,N,ALP,Labor,31,10.99
+NSW,150,Throsby,58280,Warilla (Throsby),21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,77,2.06
+NSW,150,Throsby,58280,Warilla (Throsby),21431,JONES,Stephen,2,N,N,ALP,Labor,290,-2.06
 NSW,150,Throsby,11500,Warilla East,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,424,4
 NSW,150,Throsby,11500,Warilla East,21431,JONES,Stephen,2,N,N,ALP,Labor,897,-4
 NSW,150,Throsby,2810,Warilla North,21448,ARKWRIGHT,Juliet,1,N,N,LP,Liberal,182,4.38
@@ -16852,12 +16852,12 @@ WA,239,Forrest,7732,Vasse,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,5
 WA,239,Forrest,7732,Vasse,20855,MARINO,Nola,3,N,Y,LP,Liberal,943,-5.26
 WA,239,Forrest,7738,Witchcliffe,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,318,0.13
 WA,239,Forrest,7738,Witchcliffe,20855,MARINO,Nola,3,N,Y,LP,Liberal,295,-0.13
-WA,239,Forrest,7739,Withers,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,803,-4.8
-WA,239,Forrest,7739,Withers,20855,MARINO,Nola,3,N,Y,LP,Liberal,810,4.8
-WA,239,Forrest,7740,Wollaston,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,404,0.73
-WA,239,Forrest,7740,Wollaston,20855,MARINO,Nola,3,N,Y,LP,Liberal,531,-0.73
-WA,239,Forrest,7742,Yallingup,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,182,-12.61
-WA,239,Forrest,7742,Yallingup,20855,MARINO,Nola,3,N,Y,LP,Liberal,371,12.61
+WA,239,Forrest,7739,Withers,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,808,-4.64
+WA,239,Forrest,7739,Withers,20855,MARINO,Nola,3,N,Y,LP,Liberal,810,4.64
+WA,239,Forrest,7740,Wollaston,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,403,0.67
+WA,239,Forrest,7740,Wollaston,20855,MARINO,Nola,3,N,Y,LP,Liberal,531,-0.67
+WA,239,Forrest,7742,Yallingup,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,234,-3.21
+WA,239,Forrest,7742,Yallingup,20855,MARINO,Nola,3,N,Y,LP,Liberal,319,3.21
 WA,239,Forrest,7514,Yarloop,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,148,-8.57
 WA,239,Forrest,7514,Yarloop,20855,MARINO,Nola,3,N,Y,LP,Liberal,224,8.57
 WA,239,Forrest,7744,Yoongarillup,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,61,0.41
@@ -17468,12 +17468,12 @@ WA,244,Pearce,31963,Merriwa,20894,LEADBETTER,Bill,1,N,N,ALP,Australian Labor Par
 WA,244,Pearce,31963,Merriwa,20861,MOYLAN,Judi,2,N,Y,LP,Liberal,1517,0.04
 WA,244,Pearce,58749,Midland PEARCE PPVC,20894,LEADBETTER,Bill,1,N,N,ALP,Australian Labor Party,1399,-2.31
 WA,244,Pearce,58749,Midland PEARCE PPVC,20861,MOYLAN,Judi,2,N,Y,LP,Liberal,2110,2.31
-WA,244,Pearce,7953,Mount Helena,20894,LEADBETTER,Bill,1,N,N,ALP,Australian Labor Party,552,-1.31
-WA,244,Pearce,7953,Mount Helena,20861,MOYLAN,Judi,2,N,Y,LP,Liberal,632,1.31
+WA,244,Pearce,7953,Mount Helena,20894,LEADBETTER,Bill,1,N,N,ALP,Australian Labor Party,554,-1.02
+WA,244,Pearce,7953,Mount Helena,20861,MOYLAN,Judi,2,N,Y,LP,Liberal,627,1.02
 WA,244,Pearce,7954,Muchea,20894,LEADBETTER,Bill,1,N,N,ALP,Australian Labor Party,155,-0.17
 WA,244,Pearce,7954,Muchea,20861,MOYLAN,Judi,2,N,Y,LP,Liberal,327,0.17
-WA,244,Pearce,7956,Mundaring,20894,LEADBETTER,Bill,1,N,N,ALP,Australian Labor Party,848,0.09
-WA,244,Pearce,7956,Mundaring,20861,MOYLAN,Judi,2,N,Y,LP,Liberal,1043,-0.09
+WA,244,Pearce,7956,Mundaring,20894,LEADBETTER,Bill,1,N,N,ALP,Australian Labor Party,902,3.08
+WA,244,Pearce,7956,Mundaring,20861,MOYLAN,Judi,2,N,Y,LP,Liberal,984,-3.08
 WA,244,Pearce,8077,Northam,20894,LEADBETTER,Bill,1,N,N,ALP,Australian Labor Party,593,-1.82
 WA,244,Pearce,8077,Northam,20861,MOYLAN,Judi,2,N,Y,LP,Liberal,941,1.82
 WA,244,Pearce,8078,Northam East,20894,LEADBETTER,Bill,1,N,N,ALP,Australian Labor Party,357,-4.44
