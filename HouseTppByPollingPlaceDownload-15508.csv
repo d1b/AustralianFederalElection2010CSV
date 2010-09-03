@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T12:39:35 Cycle:1ca26f77-898a-47ec-8d7d-aa763fab8c53 Created:2010-09-03T12:18:50 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T12:54:38 Cycle:90359047-0757-4518-9dbb-e574aaec0e47 Created:2010-09-03T12:33:50 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -336,7 +336,7 @@ NSW,107,Blaxland,2358,Villawood,1145,70.9,470,29.1,1615,-2.12
 NSW,107,Blaxland,2396,Villawood East,949,73.11,349,26.89,1298,-3.51
 NSW,107,Blaxland,2359,Villawood North,1013,71.29,408,28.71,1421,-6.41
 NSW,107,Blaxland,180,Yagoona,1427,67.95,673,32.05,2100,-3.91
-NSW,107,Blaxland,182,Yagoona West,795,61.01,508,38.99,1303,-4.75
+NSW,107,Blaxland,182,Yagoona West,781,60.87,502,39.13,1283,-4.89
 NSW,107,Blaxland,2362,Yennora,553,64.91,299,35.09,852,-0.43
 NSW,108,Bradfield,115,Asquith (Bradfield),628,46.52,722,53.48,1350,-3.41
 NSW,108,Bradfield,119,Bowden Brae,142,30.67,321,69.33,463,-0.35
@@ -763,7 +763,7 @@ NSW,114,Cunningham,554,Mount Kembla,319,60.99,204,39.01,523,-4.3
 NSW,114,Cunningham,1689,Mount Ousley,926,56.12,724,43.88,1650,-3.6
 NSW,114,Cunningham,555,Mount Saint Thomas,996,62.41,600,37.59,1596,-3.86
 NSW,114,Cunningham,1224,Otford,127,61.95,78,38.05,205,-13.19
-NSW,114,Cunningham,1696,Russell Vale,958,70.6,399,29.4,1357,-6.22
+NSW,114,Cunningham,1696,Russell Vale,946,70.23,401,29.77,1347,-6.59
 NSW,114,Cunningham,1228,Scarborough,149,70.95,61,29.05,210,-3.42
 NSW,114,Cunningham,568,Smith's Hill,1597,58.84,1117,41.16,2714,-2.5
 NSW,114,Cunningham,33614,Special Hospital Team 1,31,48.44,33,51.56,64,-3.41
@@ -772,7 +772,7 @@ NSW,114,Cunningham,56993,Special Hospital Team 3,66,54.55,55,45.45,121,2.55
 NSW,114,Cunningham,1229,Stanwell Park,415,62.03,254,37.97,669,-1.92
 NSW,114,Cunningham,14046,Sydney (Cunningham),41,66.13,21,33.87,62,2.91
 NSW,114,Cunningham,1699,Tarrawanna,1195,68.25,556,31.75,1751,-2.77
-NSW,114,Cunningham,1703,Thirroul,1180,70.83,486,29.17,1666,-2.42
+NSW,114,Cunningham,1703,Thirroul,1179,70.73,488,29.27,1667,-2.52
 NSW,114,Cunningham,1704,Thirroul East,833,64.18,465,35.82,1298,-6.75
 NSW,114,Cunningham,1705,Towradgi,1119,69.25,497,30.75,1616,-5.56
 NSW,114,Cunningham,1706,Towradgi East,240,66.85,119,33.15,359,4.39
@@ -780,10 +780,10 @@ NSW,114,Cunningham,11923,Unanderra,1555,67.84,737,32.16,2292,-5.46
 NSW,114,Cunningham,561,Unanderra South,1936,69.82,837,30.18,2773,-2.78
 NSW,114,Cunningham,1234,Waterfall,133,50.19,132,49.81,265,-1.23
 NSW,114,Cunningham,565,Wollongong,1069,64.98,576,35.02,1645,-4.46
-NSW,114,Cunningham,566,Wollongong Central,541,64.79,294,35.21,835,-6.68
+NSW,114,Cunningham,566,Wollongong Central,542,64.99,292,35.01,834,-6.48
 NSW,114,Cunningham,34033,Wollongong CUNNINGHAM PPVC,4275,60.9,2745,39.1,7020,-5.16
-NSW,114,Cunningham,567,Wollongong Hospital,201,67.68,96,32.32,297,-7.8
-NSW,114,Cunningham,569,Wollongong West,719,62.74,427,37.26,1146,-3.78
+NSW,114,Cunningham,567,Wollongong Hospital,198,67.12,97,32.88,295,-8.36
+NSW,114,Cunningham,569,Wollongong West,720,63.1,421,36.9,1141,-3.42
 NSW,114,Cunningham,1235,Wombarra,164,64.82,89,35.18,253,-9.4
 NSW,114,Cunningham,1709,Woonona,1251,64.09,701,35.91,1952,-6.58
 NSW,114,Cunningham,1710,Woonona Central,768,67.02,378,32.98,1146,-1.48
@@ -934,14 +934,14 @@ NSW,117,Eden-Monaro,731,Tuross Head,726,55.55,581,44.45,1307,0.62
 NSW,117,Eden-Monaro,31666,Wallaga Lake Koori Village,32,88.89,4,11.11,36,-8.78
 NSW,117,Eden-Monaro,734,Wolumla,264,54.43,221,45.57,485,2.44
 NSW,117,Eden-Monaro,735,Wyndham,212,66.46,107,33.54,319,-2.7
-NSW,118,Farrer,746,Albury,843,41.65,1181,58.35,2024,0.72
-NSW,118,Farrer,748,Albury Central,718,37.79,1182,62.21,1900,-3.22
+NSW,118,Farrer,746,Albury,844,41.68,1181,58.32,2025,0.75
+NSW,118,Farrer,748,Albury Central,725,38.04,1181,61.96,1906,-2.97
 NSW,118,Farrer,747,Albury East,271,36.72,467,63.28,738,-1.37
 NSW,118,Farrer,751,Albury North,632,39.75,958,60.25,1590,-1.69
 NSW,118,Farrer,831,Albury North Central,458,40.97,660,59.03,1118,-3.6
 NSW,118,Farrer,34273,Albury PPVC,1364,32.1,2885,67.9,4249,-12.43
 NSW,118,Farrer,749,Albury South,496,40.33,734,59.67,1230,-0.31
-NSW,118,Farrer,752,Albury West,603,37.08,1023,62.92,1626,-1.02
+NSW,118,Farrer,752,Albury West,602,37.05,1023,62.95,1625,-1.05
 NSW,118,Farrer,2493,Alma,897,66.35,455,33.65,1352,-6.21
 NSW,118,Farrer,754,Balldale,24,22.86,81,77.14,105,6.56
 NSW,118,Farrer,755,Balranald,168,26.58,464,73.42,632,-7.36
@@ -952,7 +952,7 @@ NSW,118,Farrer,759,Blighty,10,7.09,131,92.91,141,2.69
 NSW,118,Farrer,760,Boree Creek,28,32.18,59,67.82,87,-0.61
 NSW,118,Farrer,761,Brocklesby,22,19.13,93,80.87,115,-5.43
 NSW,118,Farrer,2489,Broken Hill,478,50.96,460,49.04,938,-11.77
-NSW,118,Farrer,2490,Broken Hill Hospital,318,60.34,209,39.66,527,-8.36
+NSW,118,Farrer,2490,Broken Hill Hospital,326,62.1,199,37.9,525,-6.6
 NSW,118,Farrer,2491,Broken Hill North,984,59.6,667,40.4,1651,-8.02
 NSW,118,Farrer,33950,Broken Hill PPVC,1718,59.06,1191,40.94,2909,14.53
 NSW,118,Farrer,763,Bunnaloo,9,10.71,75,89.29,84,-2.17
@@ -1254,7 +1254,7 @@ NSW,124,Hughes,1193,Engadine South,785,46.1,918,53.9,1703,-1.93
 NSW,124,Hughes,1205,Engadine West,1407,46.33,1630,53.67,3037,0.19
 NSW,124,Hughes,1208,Hammondville,833,45.84,984,54.16,1817,-6.81
 NSW,124,Hughes,1214,Holsworthy,730,48.89,763,51.11,1493,-3.74
-NSW,124,Hughes,1215,Illawong,1046,33.87,2042,66.13,3088,-2.76
+NSW,124,Hughes,1215,Illawong,1047,33.93,2039,66.07,3086,-2.7
 NSW,124,Hughes,1217,Jannali West (Hughes),323,52.86,288,47.14,611,-3.21
 NSW,124,Hughes,879,Liverpool (Hughes),714,62.09,436,37.91,1150,-9.25
 NSW,124,Hughes,33907,Liverpool HUGHES PPVC,519,49.1,538,50.9,1057,-2.08
@@ -1265,7 +1265,7 @@ NSW,124,Hughes,1222,Menai,943,43.2,1240,56.8,2183,-3.36
 NSW,124,Hughes,32901,Menai Central,994,37.61,1649,62.39,2643,-4.27
 NSW,124,Hughes,1191,Menai North,511,38.11,830,61.89,1341,-4.73
 NSW,124,Hughes,174,Milperra,994,45.1,1210,54.9,2204,-5.45
-NSW,124,Hughes,1223,Moorebank,1454,44.86,1787,55.14,3241,-4.37
+NSW,124,Hughes,1223,Moorebank,1454,44.97,1779,55.03,3233,-4.26
 NSW,124,Hughes,890,Newbridge Heights,828,44.73,1023,55.27,1851,-1.25
 NSW,124,Hughes,11,Panania,634,56.11,496,43.89,1130,-6.02
 NSW,124,Hughes,12,Panania Central,609,54.28,513,45.72,1122,-6.63
@@ -7789,7 +7789,7 @@ VIC,231,Murray,4735,Dhurringile,38,20.54,147,79.46,185,3.59
 VIC,231,Murray,4736,Dingee,31,15.58,168,84.42,199,-1.16
 VIC,231,Murray,30222,Divisional Office (PREPOLL),259,26.95,702,73.05,961,-4.75
 VIC,231,Murray,4738,Dookie,62,24.31,193,75.69,255,-4.21
-VIC,231,Murray,4741,Echuca,646,31.03,1436,68.97,2082,0.09
+VIC,231,Murray,4741,Echuca,643,31.24,1415,68.76,2058,0.3
 VIC,231,Murray,8903,Echuca Central,140,24.6,429,75.4,569,-6.8
 VIC,231,Murray,4742,Echuca East,568,34.42,1082,65.58,1650,-1.03
 VIC,231,Murray,32033,Echuca PPVC,708,24.88,2138,75.12,2846,-6.77
