@@ -1,4 +1,4 @@
-2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T18:36:04 Cycle:afacae5c-9889-403c-ba3b-e315869949c0 Created:2010-09-03T18:19:24 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-03T18:51:42 Cycle:2d4d03dc-bd22-420a-b3ff-06b7a4c33684 Created:2010-09-03T18:34:29 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 179,Adelaide,SA,98526,74727,75.84
 197,Aston,VIC,93448,84396,90.31
@@ -67,7 +67,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 183,Grey,SA,99817,76627,76.77
 163,Griffith,QLD,92588,67424,72.82
 164,Groom,QLD,93374,74726,80.03
-305,Hasluck,WA,93892,87343,93.02
+305,Hasluck,WA,93892,87508,93.02
 165,Herbert,QLD,91044,66305,72.83
 215,Higgins,VIC,90398,64700,71.57
 185,Hindmarsh,SA,100245,80123,79.93
@@ -87,14 +87,14 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 223,La Trobe,VIC,97960,84515,86.28
 222,Lalor,VIC,117023,100690,86.04
 168,Leichhardt,QLD,93140,84380,90.59
-169,Lilley,QLD,97415,82974,77.62
+169,Lilley,QLD,97415,84755,85.18
 128,Lindsay,NSW,95975,87822,91.51
 306,Lingiari,NT,61126,45926,75.13
 302,Longman,QLD,87062,79434,91.24
 130,Lyne,NSW,92565,86583,93.54
 196,Lyons,TAS,72865,68783,94.4
 131,Macarthur,NSW,90059,75954,84.34
-132,Mackellar,NSW,98556,91880,90.34
+132,Mackellar,NSW,98556,91962,93.23
 133,Macquarie,NSW,97560,86999,89.17
 187,Makin,SA,96263,90795,94.32
 224,Mallee,VIC,89840,83755,93.23
@@ -131,7 +131,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 145,Richmond,NSW,92384,79653,86.22
 250,Riverina,NSW,98594,89705,90.98
 146,Robertson,NSW,96593,76665,79.37
-177,Ryan,QLD,98224,75393,76.76
+177,Ryan,QLD,98224,75364,76.76
 232,Scullin,VIC,90822,80647,88.8
 148,Shortland,NSW,94245,83960,89.09
 307,Solomon,NT,59879,53214,88.87
@@ -149,4 +149,4 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage
 153,Werriwa,NSW,90994,73677,80.97
 178,Wide Bay,QLD,92636,80130,86.5
 234,Wills,VIC,98599,84406,85.61
-316,Wright,QLD,85304,73583,88.9
+316,Wright,QLD,85304,72031,86.26
