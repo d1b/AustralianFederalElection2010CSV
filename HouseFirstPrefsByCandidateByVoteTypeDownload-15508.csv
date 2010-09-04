@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives First Preferences By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-04T13:20:38 Cycle:06e8b954-9fb3-4d47-8da3-eca3276e5f33 Created:2010-09-04T13:04:47 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives First Preferences By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-04T13:35:50 Cycle:0d84b41c-b840-4a73-92b7-687b21212055 Created:2010-09-04T13:19:52 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,Swing
 ACT,101,Canberra,20863,JONES,Giulia,1,N,N,LP,Liberal,37205,440,0,1958,449,40052,1.95
 ACT,101,Canberra,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,18142,444,0,1308,134,20028,5.59
@@ -50,14 +50,14 @@ NSW,108,Bradfield,21039,GEMMELL,Susie,1,N,N,GRN,The Greens,11588,890,0,919,611,1
 NSW,108,Bradfield,21112,GALLARD,Sarah,2,N,N,ALP,Labor,13710,1005,0,1074,693,16482,-7
 NSW,108,Bradfield,21644,FLETCHER,Paul,3,N,Y,LP,Liberal,47166,2357,0,2638,3313,55474,5.14
 NSW,108,Bradfield,999,Informal,Informal,999,N,N,,Informal,3133,221,0,200,102,3656,0.11
-NSW,109,Calare,21130,NORSWORTHY,Jessyka,1,N,N,CDP,Christian Democratic Party (Fred Nile Group),1669,120,7,64,71,1931,1.64
-NSW,109,Calare,20959,BLANCH,Paul,2,N,N,IND,Independent,3776,152,9,107,68,4112,4.64
-NSW,109,Calare,21140,DUFFY,Kevin,3,N,N,ALP,Country Labor,23673,858,57,572,593,25753,-4.41
-NSW,109,Calare,21806,ROMANO,Karen,4,N,N,IND,Independent,3001,119,14,56,66,3256,3.67
-NSW,109,Calare,21936,BUCKINGHAM,Jeremy,5,N,N,GRN,The Greens,4539,398,7,252,105,5301,1.8
-NSW,109,Calare,21115,COBB,John,6,N,Y,NP,The Nationals,42371,1605,83,1069,1324,46452,25.92
-NSW,109,Calare,21725,ROSS,Macgregor,7,N,N,IND,Independent,1568,110,7,70,51,1806,2.04
-NSW,109,Calare,999,Informal,Informal,999,N,N,,Informal,4274,195,12,78,49,4608,1.32
+NSW,109,Calare,21130,NORSWORTHY,Jessyka,1,N,N,CDP,Christian Democratic Party (Fred Nile Group),1669,120,7,64,95,1955,1.65
+NSW,109,Calare,20959,BLANCH,Paul,2,N,N,IND,Independent,3776,152,9,107,86,4130,4.64
+NSW,109,Calare,21140,DUFFY,Kevin,3,N,N,ALP,Country Labor,23673,858,57,572,725,25885,-4.42
+NSW,109,Calare,21806,ROMANO,Karen,4,N,N,IND,Independent,3001,119,14,56,86,3276,3.68
+NSW,109,Calare,21936,BUCKINGHAM,Jeremy,5,N,N,GRN,The Greens,4539,398,7,252,135,5331,1.8
+NSW,109,Calare,21115,COBB,John,6,N,Y,NP,The Nationals,42371,1605,83,1069,1580,46708,25.92
+NSW,109,Calare,21725,ROSS,Macgregor,7,N,N,IND,Independent,1568,110,7,70,62,1817,2.04
+NSW,109,Calare,999,Informal,Informal,999,N,N,,Informal,4274,195,12,78,58,4617,1.31
 NSW,110,Charlton,21259,COMBET,Greg,1,N,Y,ALP,Labor,38029,1866,93,1138,2009,43135,0.38
 NSW,110,Charlton,21630,LAWLER,Ann,2,N,N,CEC,Citizens Electoral Council of Australia,709,54,5,31,34,833,0.68
 NSW,110,Charlton,21621,McDONALD,John Andrew,3,N,N,LP,Liberal,21474,1039,33,747,1368,24661,-1.05
@@ -923,13 +923,13 @@ WA,312,Durack,21390,FORSYTH,Mac,4,N,N,CDP,Christian Democratic Party,973,72,0,20
 WA,312,Durack,20800,MATHESON,Julie,5,N,N,GRN,The Greens,5565,520,0,284,165,6534,3.28
 WA,312,Durack,21374,FOREMAN,Jane,6,N,N,FFP,Family First,1482,122,0,51,65,1720,1.12
 WA,312,Durack,999,Informal,Informal,999,N,N,,Informal,3313,174,0,76,54,3617,0.43
-WA,239,Forrest,20790,PETERSEN,Luke,1,N,N,GRN,The Greens,9161,1021,29,360,273,10844,5.07
+WA,239,Forrest,20790,PETERSEN,Luke,1,N,N,GRN,The Greens,9161,1022,29,360,273,10845,5.07
 WA,239,Forrest,20916,JARVIS,Jackie,2,N,N,ALP,Australian Labor Party,19981,1324,37,642,699,22683,-2.43
-WA,239,Forrest,20855,MARINO,Nola,3,N,Y,LP,Liberal,33711,2687,68,1405,1512,39383,3.8
+WA,239,Forrest,20855,MARINO,Nola,3,N,Y,LP,Liberal,33711,2686,68,1405,1512,39382,3.8
 WA,239,Forrest,21249,HERRIDGE,Lee,4,N,N,CDP,Christian Democratic Party,989,107,2,22,35,1155,-0.45
 WA,239,Forrest,21288,CUSTERS,Bev,5,N,N,FFP,Family First,1385,104,4,29,49,1571,0.57
 WA,239,Forrest,21090,HILL,Cale John,6,N,N,NP,The Nationals,4033,417,10,142,213,4815,5.99
-WA,239,Forrest,999,Informal,Informal,999,N,N,,Informal,3466,209,13,84,52,3824,1.26
+WA,239,Forrest,999,Informal,Informal,999,N,N,,Informal,3466,208,13,84,52,3823,1.26
 WA,240,Fremantle,20856,TAYLOR,Matt,1,N,N,LP,Liberal,26132,2160,56,1553,1850,31751,3.45
 WA,240,Fremantle,20786,DAVIS,Kate,2,N,N,GRN,The Greens,11912,1327,52,695,551,14537,3.07
 WA,240,Fremantle,21263,PARSONS,Larry,3,N,N,FFP,Family First,1107,149,10,78,76,1420,0.29
