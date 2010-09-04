@@ -1,4 +1,4 @@
-2010 Federal Election Senate First Preferences By Division By Candidate By Vote Type  [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-04T18:36:10 Cycle:d08c623d-b5c8-4670-bf1e-4a15b49e1934 Created:2010-09-04T18:21:10 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate First Preferences By Division By Candidate By Vote Type  [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-04T18:51:35 Cycle:e889e812-6cc5-4eef-8181-02261b10fdb1 Created:2010-09-04T18:36:15 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,Ticket,BallotPosition,CandidateID,CandidateDetails,PartyName,PartyAb,Elected,HistoricElected,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes
 ACT,101,Canberra,A,0,22049,A Ticket Votes,Australian Labor Party,ALP,N,N,34554,469,0,1780,299,37102
 ACT,101,Canberra,A,1,21065,"LUNDY, Kate Alexandra",Australian Labor Party,ALP,N,Y,4155,0,0,0,0,4155
@@ -7298,11 +7298,11 @@ QLD,304,Blair,UG,3,22012,"SMITH, Mark Leslie Chapman",Independent,IND,N,N,5,0,0,
 QLD,304,Blair,UG,4,21905,"WIRTH, Jarrod John",Independent,IND,N,N,3,0,0,0,0,3
 QLD,304,Blair,UG,5,22013,"PYKE, Peter",,,N,N,2,0,0,0,0,2
 QLD,304,Blair,UG,6,21906,"CARROLL, Maurie",Independent,IND,N,N,9,0,0,0,0,9
-QLD,310,Bonner,A,0,22073,A Ticket Votes,Senator On-Line,SOL,N,N,211,0,0,0,6,217
+QLD,310,Bonner,A,0,22073,A Ticket Votes,Senator On-Line,SOL,N,N,211,2,0,0,6,219
 QLD,310,Bonner,A,1,21867,"READING, Scott",Senator On-Line,SOL,N,N,39,3,0,0,0,42
 QLD,310,Bonner,A,2,21868,"EMBREY, Joh",Senator On-Line,SOL,N,N,3,0,0,0,0,3
 QLD,310,Bonner,A,9998,0,Unapportioned,Senator On-Line,SOL,N,N,0,0,0,0,0,0
-QLD,310,Bonner,B,0,22083,B Ticket Votes,Carers Alliance,CA,N,N,113,0,0,0,13,126
+QLD,310,Bonner,B,0,22083,B Ticket Votes,Carers Alliance,CA,N,N,113,5,0,0,13,131
 QLD,310,Bonner,B,1,22007,"VETTER, Anne",Carers Alliance,CA,N,N,18,0,0,0,3,21
 QLD,310,Bonner,B,2,22009,"HORNE, Vicki",Carers Alliance,CA,N,N,1,0,0,0,0,1
 QLD,310,Bonner,B,9998,0,Unapportioned,Carers Alliance,CA,N,N,0,0,0,0,0,0
@@ -7310,12 +7310,12 @@ QLD,310,Bonner,C,0,22080,C Ticket Votes,,,N,N,19,0,0,0,1,20
 QLD,310,Bonner,C,1,21897,"SPENCER, Paul",,,N,N,5,0,0,0,0,5
 QLD,310,Bonner,C,2,21898,"SPENCER, Mary",,,N,N,1,0,0,0,0,1
 QLD,310,Bonner,C,9998,0,Unapportioned,,,N,N,0,0,0,0,0,0
-QLD,310,Bonner,D,0,22070,D Ticket Votes,Family First,FFP,N,N,1988,0,0,0,57,2045
+QLD,310,Bonner,D,0,22070,D Ticket Votes,Family First,FFP,N,N,1988,35,0,0,57,2080
 QLD,310,Bonner,D,1,21522,"FRANCIS, Wendy",Family First,FFP,N,N,196,3,0,0,3,202
 QLD,310,Bonner,D,2,21523,"FINDLAY, Peter",Family First,FFP,N,N,12,0,0,0,0,12
 QLD,310,Bonner,D,3,21524,"NICKSON, Amanda",Family First,FFP,N,N,5,0,0,0,0,5
 QLD,310,Bonner,D,9998,0,Unapportioned,Family First,FFP,N,N,1,0,0,0,0,1
-QLD,310,Bonner,E,0,22077,E Ticket Votes,Shooters and Fishers,ASP,N,N,615,0,0,0,31,646
+QLD,310,Bonner,E,0,22077,E Ticket Votes,Shooters and Fishers,ASP,N,N,615,15,0,0,31,661
 QLD,310,Bonner,E,1,21884,"PETER, Andrew Mark",Shooters and Fishers,ASP,N,N,78,1,0,0,4,83
 QLD,310,Bonner,E,2,21886,"HUGGETT, Chris",Shooters and Fishers,ASP,N,N,4,0,0,0,0,4
 QLD,310,Bonner,E,9998,0,Unapportioned,Shooters and Fishers,ASP,N,N,0,0,0,0,0,0
@@ -7323,78 +7323,78 @@ QLD,310,Bonner,F,0,22082,F Ticket Votes,,,N,N,17,0,0,0,1,18
 QLD,310,Bonner,F,1,22002,"PYKE, John Richard",,,N,N,6,0,0,0,1,7
 QLD,310,Bonner,F,2,22003,"TOOLEY, Christopher Ronald",,,N,N,0,0,0,0,0,0
 QLD,310,Bonner,F,9998,0,Unapportioned,,,N,N,0,0,0,0,0,0
-QLD,310,Bonner,G,0,22067,G Ticket Votes,,,N,N,16,0,0,0,0,16
+QLD,310,Bonner,G,0,22067,G Ticket Votes,,,N,N,16,1,0,0,0,17
 QLD,310,Bonner,G,1,20985,"LINDSAY-PARK, E-Jay",,,N,N,2,0,0,0,0,2
 QLD,310,Bonner,G,2,20986,"GUERIN, Lachlan",,,N,N,0,0,0,0,0,0
 QLD,310,Bonner,G,9998,0,Unapportioned,,,N,N,0,0,0,0,0,0
-QLD,310,Bonner,H,0,22079,H Ticket Votes,One Nation,ON,N,N,299,0,0,0,17,316
+QLD,310,Bonner,H,0,22079,H Ticket Votes,One Nation,ON,N,N,299,7,0,0,17,323
 QLD,310,Bonner,H,1,21895,"EVANS, Rod",One Nation,ON,N,N,28,0,0,0,0,28
 QLD,310,Bonner,H,2,21896,"NELSON, Ian J",One Nation,ON,N,N,0,0,0,0,0,0
 QLD,310,Bonner,H,9998,0,Unapportioned,One Nation,ON,N,N,1,0,0,0,0,1
-QLD,310,Bonner,I,0,22072,I Ticket Votes,,,N,N,52,0,0,0,0,52
+QLD,310,Bonner,I,0,22072,I Ticket Votes,,,N,N,52,2,0,0,0,54
 QLD,310,Bonner,I,1,21528,"WATTIE, Russell",,,N,N,5,0,0,0,0,5
 QLD,310,Bonner,I,2,21529,"DOWELL, John",,,N,N,1,0,0,0,0,1
 QLD,310,Bonner,I,9998,0,Unapportioned,,,N,N,0,0,0,0,0,0
-QLD,310,Bonner,J,0,22075,J Ticket Votes,Australian Democrats,DEM,N,N,469,0,0,0,26,495
+QLD,310,Bonner,J,0,22075,J Ticket Votes,Australian Democrats,DEM,N,N,469,13,0,0,26,508
 QLD,310,Bonner,J,1,21874,"STEVENSON, Paul Joseph",Australian Democrats,DEM,N,N,53,2,0,0,2,57
 QLD,310,Bonner,J,2,21876,"CLUSE, Jennifer",Australian Democrats,DEM,N,N,4,0,0,0,0,4
 QLD,310,Bonner,J,9998,0,Unapportioned,Australian Democrats,DEM,N,N,1,0,0,0,0,1
-QLD,310,Bonner,K,0,22076,K Ticket Votes,Australia First Party,FST,N,N,208,0,0,0,7,215
+QLD,310,Bonner,K,0,22076,K Ticket Votes,Australia First Party,FST,N,N,208,6,0,0,7,221
 QLD,310,Bonner,K,1,21881,"SCHUBACK, Peter",Australia First Party,AFN,N,N,7,0,0,0,0,7
 QLD,310,Bonner,K,2,21882,"MAINE, Nick",Australia First Party,AFN,N,N,2,0,0,0,0,2
 QLD,310,Bonner,K,9998,0,Unapportioned,Australia First Party,FST,N,N,0,0,0,0,0,0
-QLD,310,Bonner,L,0,22078,L Ticket Votes,Secular Party of Australia,SPA,N,N,45,0,0,0,1,46
+QLD,310,Bonner,L,0,22078,L Ticket Votes,Secular Party of Australia,SPA,N,N,45,3,0,0,1,49
 QLD,310,Bonner,L,1,21888,"ALBERTS, Kat",Secular Party of Australia,SPA,N,N,8,2,0,0,0,10
 QLD,310,Bonner,L,2,21891,"SHELTON, Peter",Secular Party of Australia,SPA,N,N,1,0,0,0,0,1
 QLD,310,Bonner,L,9998,0,Unapportioned,Secular Party of Australia,SPA,N,N,0,0,0,0,0,0
-QLD,310,Bonner,M,0,22065,M Ticket Votes,The Climate Sceptics,TCS,N,N,128,0,0,0,8,136
+QLD,310,Bonner,M,0,22065,M Ticket Votes,The Climate Sceptics,TCS,N,N,128,5,0,0,8,141
 QLD,310,Bonner,M,1,21863,"CARDWELL, Terence Leonard",The Climate Sceptics,TCS,N,N,13,0,0,0,0,13
 QLD,310,Bonner,M,2,21864,"JONES, Lance Herbert",The Climate Sceptics,TCS,N,N,1,0,0,0,0,1
 QLD,310,Bonner,M,9998,0,Unapportioned,The Climate Sceptics,TCS,N,N,0,0,0,0,0,0
-QLD,310,Bonner,N,0,22063,N Ticket Votes,Citizens Electoral Council,CEC,N,N,63,0,0,0,1,64
+QLD,310,Bonner,N,0,22063,N Ticket Votes,Citizens Electoral Council,CEC,N,N,63,1,0,0,1,65
 QLD,310,Bonner,N,1,20773,"THIES, Robert",Citizens Electoral Council,CEC,N,N,4,0,0,0,0,4
 QLD,310,Bonner,N,2,20776,"HETHERINGTON, Maurice Verney",Citizens Electoral Council,CEC,N,N,0,0,0,0,0,0
 QLD,310,Bonner,N,9998,0,Unapportioned,Citizens Electoral Council,CEC,N,N,0,0,0,0,0,0
-QLD,310,Bonner,O,0,22062,O Ticket Votes,Liberal National Party of Queensland,LNQ,N,N,26481,0,0,0,1086,27567
+QLD,310,Bonner,O,0,22062,O Ticket Votes,Liberal National Party of Queensland,LNQ,N,N,26481,574,0,0,1086,28141
 QLD,310,Bonner,O,1,20761,"BRANDIS, George Henry",Liberal National Party of Queensland,LNQ,N,Y,258,6,0,0,16,280
 QLD,310,Bonner,O,2,20764,"JOYCE, Barnaby",Liberal National Party of Queensland,LNQ,N,Y,224,4,0,0,15,243
 QLD,310,Bonner,O,3,20766,"MASON, Brett",Liberal National Party of Queensland,LNQ,N,Y,21,0,0,0,1,22
 QLD,310,Bonner,O,4,20768,"TROOD, Russell",Liberal National Party of Queensland,LNQ,N,Y,10,0,0,0,0,10
 QLD,310,Bonner,O,5,20769,"BOYD, Julie",Liberal National Party of Queensland,LNQ,N,N,29,2,0,0,2,33
 QLD,310,Bonner,O,9998,0,Unapportioned,Liberal National Party of Queensland,LNQ,N,N,2,0,0,0,0,2
-QLD,310,Bonner,P,0,22064,P Ticket Votes,Australian Fishing and Lifestyle Party,AFLP,N,N,780,0,0,0,40,820
+QLD,310,Bonner,P,0,22064,P Ticket Votes,Australian Fishing and Lifestyle Party,AFLP,N,N,780,22,0,0,40,842
 QLD,310,Bonner,P,1,20810,"DOUGLAS, Keith",Australian Fishing and Lifestyle Party,AFLP,N,N,39,1,0,0,1,41
 QLD,310,Bonner,P,2,20811,"MANSFIELD, Michael",Australian Fishing and Lifestyle Party,AFLP,N,N,7,0,0,0,0,7
 QLD,310,Bonner,P,9998,0,Unapportioned,Australian Fishing and Lifestyle Party,AFLP,N,N,0,0,0,0,0,0
-QLD,310,Bonner,Q,0,22074,Q Ticket Votes,Australian Sex Party,ASXP,N,N,1339,0,0,0,18,1357
+QLD,310,Bonner,Q,0,22074,Q Ticket Votes,Australian Sex Party,ASXP,N,N,1339,60,0,0,18,1417
 QLD,310,Bonner,Q,1,21871,"GIBSON, Desiree Lee",Australian Sex Party,ASXP,N,N,104,3,0,0,3,110
 QLD,310,Bonner,Q,2,21873,"SHEEN, Tim",Australian Sex Party,ASXP,N,N,7,0,0,0,0,7
 QLD,310,Bonner,Q,9998,0,Unapportioned,Australian Sex Party,ASXP,N,N,0,0,0,0,0,0
-QLD,310,Bonner,R,0,22068,R Ticket Votes,The Greens,GRN,N,N,9287,0,0,0,272,9559
+QLD,310,Bonner,R,0,22068,R Ticket Votes,The Greens,GRN,N,N,9287,346,0,0,272,9905
 QLD,310,Bonner,R,1,21515,"WATERS, Larissa",The Greens,GRN,N,N,709,27,0,0,12,748
 QLD,310,Bonner,R,2,21518,"CONNORS, Elizabeth Louise Alice",The Greens,GRN,N,N,21,2,0,0,0,23
 QLD,310,Bonner,R,3,21519,"STIRLING, Jenny",The Greens,GRN,N,N,27,0,0,0,3,30
 QLD,310,Bonner,R,9998,0,Unapportioned,The Greens,GRN,N,N,0,0,0,0,0,0
-QLD,310,Bonner,S,0,22081,S Ticket Votes,Socialist Alliance,SAL,N,N,61,0,0,0,0,61
+QLD,310,Bonner,S,0,22081,S Ticket Votes,Socialist Alliance,SAL,N,N,61,4,0,0,0,65
 QLD,310,Bonner,S,1,21899,"WATSON, Sam",Socialist Alliance,SAL,N,N,9,0,0,0,0,9
 QLD,310,Bonner,S,2,21900,"LOWE, David",Socialist Alliance,SAL,N,N,0,0,0,0,0,0
 QLD,310,Bonner,S,9998,0,Unapportioned,Socialist Alliance,SAL,N,N,0,0,0,0,0,0
-QLD,310,Bonner,T,0,22066,T Ticket Votes,Australian Labor Party,ALP,N,N,20598,0,0,0,963,21561
+QLD,310,Bonner,T,0,22066,T Ticket Votes,Australian Labor Party,ALP,N,N,20598,478,0,0,963,22039
 QLD,310,Bonner,T,1,20979,"LUDWIG, Joe",Australian Labor Party,ALP,N,Y,224,4,0,0,18,246
 QLD,310,Bonner,T,2,20980,"McLUCAS, Jan",Australian Labor Party,ALP,N,Y,41,0,0,0,1,42
 QLD,310,Bonner,T,3,20982,"SMITH, David",Australian Labor Party,ALP,N,N,20,3,0,0,2,25
 QLD,310,Bonner,T,4,20983,"FENTIMAN, Shannon",Australian Labor Party,ALP,N,N,31,0,0,0,2,33
 QLD,310,Bonner,T,9998,0,Unapportioned,Australian Labor Party,ALP,N,N,2,0,0,0,0,2
-QLD,310,Bonner,U,0,22069,U Ticket Votes,Liberal Democrats (LDP),LDP,N,N,1114,0,0,0,58,1172
+QLD,310,Bonner,U,0,22069,U Ticket Votes,Liberal Democrats (LDP),LDP,N,N,1114,44,0,0,58,1216
 QLD,310,Bonner,U,1,21520,"FRYAR, Jim",Liberal Democrats (LDP),LDP,N,N,15,0,0,0,0,15
 QLD,310,Bonner,U,2,21521,"FULTON, Robert",Liberal Democrats (LDP),LDP,N,N,1,0,0,0,0,1
 QLD,310,Bonner,U,9998,0,Unapportioned,Liberal Democrats (LDP),LDP,N,N,0,0,0,0,0,0
-QLD,310,Bonner,V,0,22071,V Ticket Votes,D.L.P. - Democratic Labor Party,DLP,N,N,280,0,0,0,7,287
+QLD,310,Bonner,V,0,22071,V Ticket Votes,D.L.P. - Democratic Labor Party,DLP,N,N,280,7,0,0,7,294
 QLD,310,Bonner,V,1,21525,"ZEGENHAGEN, Tony",D.L.P. - Democratic Labor Party,DLP,N,N,15,0,0,0,0,15
 QLD,310,Bonner,V,2,21526,"BARR, Angelique Maree",D.L.P. - Democratic Labor Party,DLP,N,N,0,0,0,0,0,0
 QLD,310,Bonner,V,3,21527,"JACKSON, Noel W",D.L.P. - Democratic Labor Party,DLP,N,N,0,1,0,0,0,1
 QLD,310,Bonner,V,9998,0,Unapportioned,D.L.P. - Democratic Labor Party,DLP,N,N,0,0,0,0,0,0
-QLD,310,Bonner,W,0,22061,W Ticket Votes,Christian Democratic Party,CDP,N,N,262,0,0,0,12,274
+QLD,310,Bonner,W,0,22061,W Ticket Votes,Christian Democratic Party,CDP,N,N,262,14,0,0,12,288
 QLD,310,Bonner,W,1,20719,"BRICE, Malcolm",Christian Democratic Party,CDP,N,N,32,0,0,0,1,33
 QLD,310,Bonner,W,2,20720,"VOGEL, Tony",Christian Democratic Party,CDP,N,N,2,0,0,0,0,2
 QLD,310,Bonner,W,9998,0,Unapportioned,Christian Democratic Party,CDP,N,N,0,0,0,0,0,0
