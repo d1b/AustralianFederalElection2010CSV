@@ -1,4 +1,4 @@
-2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T09:07:35 Cycle:50f68038-de80-4b9e-b6f6-7e42a0ab0786 Created:2010-09-06T08:48:53 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T09:23:20 Cycle:a107c1e2-e634-4375-b161-d9c055d5c813 Created:2010-09-06T09:03:58 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent
 251,Watson,NSW,75373,8124,83497,9.73
 119,Fowler,NSW,72527,7736,80263,9.64
@@ -25,12 +25,12 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 158,Dawson,QLD,63537,3527,67064,5.26
 245,Perth,WA,64568,3588,68156,5.26
 122,Greenway,NSW,81815,4529,86344,5.25
+144,Reid,NSW,82662,4504,87166,5.17
 131,Macarthur,NSW,72034,3920,75954,5.16
 176,Rankin,QLD,80520,4385,84905,5.16
-144,Reid,NSW,82814,4508,87322,5.16
 231,Murray,VIC,74516,3991,78507,5.08
 150,Throsby,NSW,83950,4435,88385,5.02
-304,Blair,QLD,73498,3838,77336,4.96
+304,Blair,QLD,73572,3841,77413,4.96
 217,Hotham,VIC,71511,3671,75182,4.88
 216,Holt,VIC,96714,4836,101550,4.76
 121,Grayndler,NSW,71607,3573,75180,4.75
@@ -42,7 +42,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 302,Longman,QLD,76787,3637,80424,4.52
 139,Parkes,NSW,85623,4038,89661,4.5
 250,Riverina,NSW,85680,4025,89705,4.49
-165,Herbert,QLD,65641,3080,68721,4.48
+165,Herbert,QLD,65677,3064,68741,4.46
 189,Port Adelaide,SA,93625,4316,97941,4.41
 162,Forde,QLD,71828,3298,75126,4.39
 118,Farrer,NSW,79322,3593,82915,4.33
@@ -84,7 +84,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 125,Hume,NSW,86003,3232,89235,3.62
 198,Ballarat,VIC,85373,3196,88569,3.61
 218,Indi,VIC,81348,3050,84398,3.61
-130,Lyne,NSW,83458,3125,86583,3.61
+130,Lyne,NSW,85447,3173,88620,3.58
 109,Calare,NSW,87537,3242,90779,3.57
 113,Cowper,NSW,86583,3193,89776,3.56
 312,Durack,WA,70159,2590,72749,3.56
@@ -133,8 +133,8 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 230,Melbourne Ports,VIC,76589,2250,78839,2.85
 221,Kooyong,VIC,60215,1752,61967,2.83
 188,Mayo,SA,74408,2166,76574,2.83
-190,Sturt,SA,81161,2362,83523,2.83
 152,Wentworth,NSW,70485,2056,72541,2.83
+190,Sturt,SA,82178,2371,84549,2.8
 163,Griffith,QLD,73664,2099,75763,2.77
 214,Goldstein,VIC,82896,2352,85248,2.76
 101,Canberra,ACT,107615,3012,110627,2.72
