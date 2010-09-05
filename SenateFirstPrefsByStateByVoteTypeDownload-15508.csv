@@ -1,4 +1,4 @@
-2010 Federal Election Senate First Preferences By State By Vote Type  [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-05T15:17:25 Cycle:c55ee8be-66c4-455d-842f-3fe469594670 Created:2010-09-05T15:05:33 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate First Preferences By State By Vote Type  [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-05T15:32:27 Cycle:68af5dd5-afbb-431f-88d2-2b0165130fa6 Created:2010-09-05T15:20:34 Environment:PROD Site:CDC Server:DB01 Version:6.0.9.8314]
 StateAb,Ticket,CandidateID,BallotPosition,CandidateDetails,PartyName,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes
 ACT,A,22049,0,A Ticket Votes,Australian Labor Party,67823,1043,0,3668,1267,73801
 ACT,A,21065,1,"LUNDY, Kate Alexandra",Australian Labor Party,9107,0,0,0,0,9107
@@ -192,7 +192,7 @@ NT,F,0,9998,Unapportioned,The Greens,63,0,0,0,0,63
 NT,UG,21533,1,"LEE, Ian",Independent,288,2,0,13,5,308
 NT,UG,21822,2,"RYAN, Maurie Japarta",Independent,107,4,0,6,2,119
 NT,UG,21752,3,"DEAN, Duncan",Australian Democrats,148,1,0,8,9,166
-QLD,A,22073,0,A Ticket Votes,Senator On-Line,5611,206,13,92,144,6066
+QLD,A,22073,0,A Ticket Votes,Senator On-Line,5611,206,13,95,144,6069
 QLD,A,21867,1,"READING, Scott",Senator On-Line,625,27,0,8,37,697
 QLD,A,21868,2,"EMBREY, Joh",Senator On-Line,57,2,0,0,3,62
 QLD,A,0,9998,Unapportioned,Senator On-Line,1157,0,0,0,0,1157
@@ -204,16 +204,16 @@ QLD,C,22080,0,C Ticket Votes,,691,30,5,19,38,783
 QLD,C,21897,1,"SPENCER, Paul",,82,2,0,0,3,87
 QLD,C,21898,2,"SPENCER, Mary",,17,2,0,0,1,20
 QLD,C,0,9998,Unapportioned,,199,0,0,0,0,199
-QLD,D,22070,0,D Ticket Votes,Family First,52421,2791,142,1159,2509,59022
+QLD,D,22070,0,D Ticket Votes,Family First,52421,2791,142,1173,2509,59036
 QLD,D,21522,1,"FRANCIS, Wendy",Family First,3665,98,0,17,137,3917
 QLD,D,21523,2,"FINDLAY, Peter",Family First,218,8,0,2,6,234
 QLD,D,21524,3,"NICKSON, Amanda",Family First,127,3,1,2,8,141
 QLD,D,0,9998,Unapportioned,Family First,13548,0,0,0,0,13548
-QLD,E,22077,0,E Ticket Votes,Shooters and Fishers,23619,1781,58,935,1693,28086
+QLD,E,22077,0,E Ticket Votes,Shooters and Fishers,23619,1781,58,947,1693,28098
 QLD,E,21884,1,"PETER, Andrew Mark",Shooters and Fishers,1857,46,0,20,129,2052
 QLD,E,21886,2,"HUGGETT, Chris",Shooters and Fishers,82,3,0,0,5,90
 QLD,E,0,9998,Unapportioned,Shooters and Fishers,7912,0,0,0,0,7912
-QLD,F,22082,0,F Ticket Votes,,414,26,0,19,30,489
+QLD,F,22082,0,F Ticket Votes,,414,26,0,20,30,490
 QLD,F,22002,1,"PYKE, John Richard",,75,3,0,2,1,81
 QLD,F,22003,2,"TOOLEY, Christopher Ronald",,9,0,0,0,1,10
 QLD,F,0,9998,Unapportioned,,239,0,0,0,0,239
@@ -221,7 +221,7 @@ QLD,G,22067,0,G Ticket Votes,,650,36,2,9,22,719
 QLD,G,20985,1,"LINDSAY-PARK, E-Jay",,68,0,0,0,2,70
 QLD,G,20986,2,"GUERIN, Lachlan",,4,0,0,0,1,5
 QLD,G,0,9998,Unapportioned,,132,0,0,0,0,132
-QLD,H,22079,0,H Ticket Votes,One Nation,13353,864,25,459,1108,15809
+QLD,H,22079,0,H Ticket Votes,One Nation,13353,864,25,463,1108,15813
 QLD,H,21895,1,"EVANS, Rod",One Nation,682,15,0,6,62,765
 QLD,H,21896,2,"NELSON, Ian J",One Nation,42,3,0,0,4,49
 QLD,H,0,9998,Unapportioned,One Nation,3654,0,0,0,0,3654
@@ -229,7 +229,7 @@ QLD,I,22072,0,I Ticket Votes,,1488,68,4,41,76,1677
 QLD,I,21528,1,"WATTIE, Russell",,98,1,0,2,8,109
 QLD,I,21529,2,"DOWELL, John",,16,0,0,0,0,16
 QLD,I,0,9998,Unapportioned,,323,0,0,0,0,323
-QLD,J,22075,0,J Ticket Votes,Australian Democrats,11515,502,14,329,826,13186
+QLD,J,22075,0,J Ticket Votes,Australian Democrats,11515,502,14,330,826,13187
 QLD,J,21874,1,"STEVENSON, Paul Joseph",Australian Democrats,1010,28,0,13,48,1099
 QLD,J,21876,2,"CLUSE, Jennifer",Australian Democrats,148,3,0,3,6,160
 QLD,J,0,9998,Unapportioned,Australian Democrats,2632,0,0,0,0,2632
@@ -245,26 +245,26 @@ QLD,M,22065,0,M Ticket Votes,The Climate Sceptics,2682,145,7,79,233,3146
 QLD,M,21863,1,"CARDWELL, Terence Leonard",The Climate Sceptics,358,4,0,2,12,376
 QLD,M,21864,2,"JONES, Lance Herbert",The Climate Sceptics,31,0,0,1,6,38
 QLD,M,0,9998,Unapportioned,The Climate Sceptics,606,0,0,0,0,606
-QLD,N,22063,0,N Ticket Votes,Citizens Electoral Council,1784,75,4,40,152,2055
+QLD,N,22063,0,N Ticket Votes,Citizens Electoral Council,1784,75,4,41,152,2056
 QLD,N,20773,1,"THIES, Robert",Citizens Electoral Council,123,6,0,0,5,134
 QLD,N,20776,2,"HETHERINGTON, Maurice Verney",Citizens Electoral Council,27,0,0,0,4,31
 QLD,N,0,9998,Unapportioned,Citizens Electoral Council,1177,0,0,0,0,1177
-QLD,O,22062,0,O Ticket Votes,Liberal National Party of Queensland,667674,28405,761,19237,57684,773761
+QLD,O,22062,0,O Ticket Votes,Liberal National Party of Queensland,667674,28405,761,19442,57684,773966
 QLD,O,20761,1,"BRANDIS, George Henry",Liberal National Party of Queensland,5471,162,0,62,323,6018
 QLD,O,20764,2,"JOYCE, Barnaby",Liberal National Party of Queensland,5442,155,1,55,660,6313
 QLD,O,20766,3,"MASON, Brett",Liberal National Party of Queensland,286,18,0,10,23,337
 QLD,O,20768,4,"TROOD, Russell",Liberal National Party of Queensland,247,12,0,4,7,270
 QLD,O,20769,5,"BOYD, Julie",Liberal National Party of Queensland,649,23,0,10,61,743
 QLD,O,0,9998,Unapportioned,Liberal National Party of Queensland,139187,0,0,0,0,139187
-QLD,P,22064,0,P Ticket Votes,Australian Fishing and Lifestyle Party,28357,1781,43,875,1711,32767
+QLD,P,22064,0,P Ticket Votes,Australian Fishing and Lifestyle Party,28357,1781,43,879,1711,32771
 QLD,P,20810,1,"DOUGLAS, Keith",Australian Fishing and Lifestyle Party,1125,28,0,12,56,1221
 QLD,P,20811,2,"MANSFIELD, Michael",Australian Fishing and Lifestyle Party,272,4,0,2,21,299
 QLD,P,0,9998,Unapportioned,Australian Fishing and Lifestyle Party,9890,0,0,0,0,9890
-QLD,Q,22074,0,Q Ticket Votes,Australian Sex Party,39632,2977,104,1175,1466,45354
+QLD,Q,22074,0,Q Ticket Votes,Australian Sex Party,39632,2977,104,1186,1466,45365
 QLD,Q,21871,1,"GIBSON, Desiree Lee",Australian Sex Party,2025,96,0,15,80,2216
 QLD,Q,21873,2,"SHEEN, Tim",Australian Sex Party,214,10,0,2,7,233
 QLD,Q,0,9998,Unapportioned,Australian Sex Party,9583,0,0,0,0,9583
-QLD,R,22068,0,R Ticket Votes,The Greens,207082,11111,308,5603,9536,233640
+QLD,R,22068,0,R Ticket Votes,The Greens,207082,11111,308,5668,9536,233705
 QLD,R,21515,1,"WATERS, Larissa",The Greens,14373,582,1,153,479,15588
 QLD,R,21518,2,"CONNORS, Elizabeth Louise Alice",The Greens,410,20,0,5,21,456
 QLD,R,21519,3,"STIRLING, Jenny",The Greens,700,27,0,18,36,781
@@ -273,22 +273,22 @@ QLD,S,22081,0,S Ticket Votes,Socialist Alliance,2479,117,5,42,48,2691
 QLD,S,21899,1,"WATSON, Sam",Socialist Alliance,324,15,0,4,7,350
 QLD,S,21900,2,"LOWE, David",Socialist Alliance,25,0,0,0,0,25
 QLD,S,0,9998,Unapportioned,Socialist Alliance,592,0,0,0,0,592
-QLD,T,22066,0,T Ticket Votes,Australian Labor Party,466852,21614,740,12546,31615,533367
+QLD,T,22066,0,T Ticket Votes,Australian Labor Party,466852,21614,740,12672,31615,533493
 QLD,T,20979,1,"LUDWIG, Joe",Australian Labor Party,4702,154,0,54,293,5203
 QLD,T,20980,2,"McLUCAS, Jan",Australian Labor Party,923,31,1,18,66,1039
 QLD,T,20982,3,"SMITH, David",Australian Labor Party,366,17,0,11,24,418
 QLD,T,20983,4,"FENTIMAN, Shannon",Australian Labor Party,501,13,0,10,42,566
 QLD,T,0,9998,Unapportioned,Australian Labor Party,114826,0,0,0,0,114826
-QLD,U,22069,0,U Ticket Votes,Liberal Democrats (LDP),34633,2476,85,1818,2255,41267
+QLD,U,22069,0,U Ticket Votes,Liberal Democrats (LDP),34633,2476,85,1835,2255,41284
 QLD,U,21520,1,"FRYAR, Jim",Liberal Democrats (LDP),412,16,0,6,22,456
 QLD,U,21521,2,"FULTON, Robert",Liberal Democrats (LDP),64,4,0,1,5,74
 QLD,U,0,9998,Unapportioned,Liberal Democrats (LDP),7118,0,0,0,0,7118
-QLD,V,22071,0,V Ticket Votes,D.L.P. - Democratic Labor Party,7022,466,25,241,316,8070
+QLD,V,22071,0,V Ticket Votes,D.L.P. - Democratic Labor Party,7022,466,25,242,316,8071
 QLD,V,21525,1,"ZEGENHAGEN, Tony",D.L.P. - Democratic Labor Party,196,11,0,0,9,216
 QLD,V,21526,2,"BARR, Angelique Maree",D.L.P. - Democratic Labor Party,16,1,0,1,2,20
 QLD,V,21527,3,"JACKSON, Noel W",D.L.P. - Democratic Labor Party,21,1,0,1,2,25
 QLD,V,0,9998,Unapportioned,D.L.P. - Democratic Labor Party,1789,0,0,0,0,1789
-QLD,W,22061,0,W Ticket Votes,Christian Democratic Party,6122,420,16,217,519,7294
+QLD,W,22061,0,W Ticket Votes,Christian Democratic Party,6122,420,16,220,519,7297
 QLD,W,20719,1,"BRICE, Malcolm",Christian Democratic Party,514,21,0,7,28,570
 QLD,W,20720,2,"VOGEL, Tony",Christian Democratic Party,48,1,0,2,4,55
 QLD,W,0,9998,Unapportioned,Christian Democratic Party,1340,0,0,0,0,1340
