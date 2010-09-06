@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T13:20:35 Cycle:17d33358-ff17-493a-98d7-5c00088eb8a8 Created:2010-09-06T13:04:41 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T13:36:40 Cycle:84b19ba2-cb47-4816-809e-a18c4d7d60aa Created:2010-09-06T13:19:41 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -1078,9 +1078,9 @@ NSW,119,Fowler,894,Wakeley,1580,57.75,1156,42.25,2736,-14.45
 NSW,120,Gilmore,11921,Barrack Heights,668,70.84,275,29.16,943,-10.24
 NSW,120,Gilmore,11943,Basin View,492,47.77,538,52.23,1030,-5.49
 NSW,120,Gilmore,671,Bawley Point,274,54.26,231,45.74,505,-4.53
-NSW,120,Gilmore,2776,Berry,744,40.17,1108,59.83,1852,-0.97
+NSW,120,Gilmore,2776,Berry,743,40.14,1108,59.86,1851,-1
 NSW,120,Gilmore,57151,Blackbutt (Gilmore),213,56.05,167,43.95,380,-16.36
-NSW,120,Gilmore,2777,Bomaderry,879,39.17,1365,60.83,2244,-2.87
+NSW,120,Gilmore,2777,Bomaderry,878,39.16,1364,60.84,2242,-2.88
 NSW,120,Gilmore,2778,Bomaderry South,219,38.62,348,61.38,567,-1.18
 NSW,120,Gilmore,686,Burrill Lake,326,43.52,423,56.48,749,-10.91
 NSW,120,Gilmore,32478,Callala Bay,470,42,649,58,1119,-5.88
@@ -1090,7 +1090,7 @@ NSW,120,Gilmore,916,Cudmirrah,177,40.41,261,59.59,438,-2.01
 NSW,120,Gilmore,917,Culburra,577,46.35,668,53.65,1245,-2.43
 NSW,120,Gilmore,918,Currarong,129,48.31,138,51.69,267,0.43
 NSW,120,Gilmore,30111,Divisional Office (PREPOLL),100,34.01,194,65.99,294,-12.55
-NSW,120,Gilmore,920,Erowal Bay,202,52.47,183,47.53,385,-5.55
+NSW,120,Gilmore,920,Erowal Bay,201,52.34,183,47.66,384,-5.68
 NSW,120,Gilmore,922,Falls Creek,209,42.05,288,57.95,497,-5.12
 NSW,120,Gilmore,46420,Flinders Central,1112,62.97,654,37.03,1766,-8.43
 NSW,120,Gilmore,2783,Gerringong,501,48.41,534,51.59,1035,-1.95
@@ -3994,7 +3994,7 @@ QLD,166,Hinkler,5752,Givelda,92,42.79,123,57.21,215,-5.34
 QLD,166,Hinkler,5758,Goodwood,97,42.36,132,57.64,229,-10.87
 QLD,166,Hinkler,32692,Hervey Bay PPVC,1353,33.69,2663,66.31,4016,-20.26
 QLD,166,Hinkler,6580,Howard,492,42.49,666,57.51,1158,-9.91
-QLD,166,Hinkler,5761,Kalkie,353,32.62,729,67.38,1082,-8.07
+QLD,166,Hinkler,5761,Kalkie,352,32.56,729,67.44,1081,-8.13
 QLD,166,Hinkler,31547,Kawungan,1195,37.09,2027,62.91,3222,-8.24
 QLD,166,Hinkler,31560,Kepnock,622,43.53,807,56.47,1429,-10.52
 QLD,166,Hinkler,5766,Millbank,664,44.27,836,55.73,1500,-6.28
@@ -5296,7 +5296,7 @@ SA,185,Hindmarsh,7065,Henley South,858,57.24,641,42.76,1499,0.7
 SA,185,Hindmarsh,7068,Kidman Park,236,60.2,156,39.8,392,0.3
 SA,185,Hindmarsh,7069,Kidman Park South,1410,55.56,1128,44.44,2538,2.34
 SA,185,Hindmarsh,7070,Kurralta Park,914,59.97,610,40.03,1524,1.21
-SA,185,Hindmarsh,7071,Lockleys,729,48.8,765,51.2,1494,2.29
+SA,185,Hindmarsh,7071,Lockleys,730,48.76,767,51.24,1497,2.25
 SA,185,Hindmarsh,7072,Lockleys North,716,51.88,664,48.12,1380,-1.48
 SA,185,Hindmarsh,34117,Mile End (Hindmarsh),447,74.01,157,25.99,604,3.7
 SA,185,Hindmarsh,7026,Morphettville,783,59.63,530,40.37,1313,4.41
@@ -5474,7 +5474,7 @@ SA,188,Mayo,7214,Myponga,168,38.53,268,61.47,436,1.6
 SA,188,Mayo,7215,Nairne,886,45.02,1082,54.98,1968,-3.29
 SA,188,Mayo,7216,Norton Summit,264,49.25,272,50.75,536,-2.74
 SA,188,Mayo,7160,Oakbank,563,37.28,947,62.72,1510,-0.83
-SA,188,Mayo,7400,Paracombe,101,34.12,195,65.88,296,-1.02
+SA,188,Mayo,7400,Paracombe,102,34.46,194,65.54,296,-0.68
 SA,188,Mayo,7219,Parawa,23,25,69,75,92,-2.43
 SA,188,Mayo,7220,Parndana,56,21.71,202,78.29,258,-7.63
 SA,188,Mayo,7221,Penneshaw,129,40.31,191,59.69,320,3.95
@@ -5881,7 +5881,7 @@ TAS,195,Franklin,8499,Bligh,739,75.87,235,24.13,974,4.61
 TAS,195,Franklin,8501,Cambridge,675,54.88,555,45.12,1230,8.3
 TAS,195,Franklin,8503,Clarendon Vale,488,80.4,119,19.6,607,9.04
 TAS,195,Franklin,8504,Cradoc,232,54.72,192,45.28,424,5.17
-TAS,195,Franklin,8505,Cygnet,1119,68.32,519,31.68,1638,8.88
+TAS,195,Franklin,8505,Cygnet,1117,68.19,521,31.81,1638,8.75
 TAS,195,Franklin,30186,Divisional Office (PREPOLL),1,33.33,2,66.67,3,-20.79
 TAS,195,Franklin,8506,Dover,326,56.7,249,43.3,575,3.55
 TAS,195,Franklin,8508,Franklin,322,65.71,168,34.29,490,9.7
@@ -6299,7 +6299,7 @@ VIC,203,Calwell,4334,Kalkallo,43,57.33,32,42.67,75,-2.67
 VIC,203,Calwell,33101,Killara,985,64.34,546,35.66,1531,8.75
 VIC,203,Calwell,31047,Meadow Heights,2544,78.3,705,21.7,3249,-7.66
 VIC,203,Calwell,3307,Meadows,1088,82.24,235,17.76,1323,1.44
-VIC,203,Calwell,32027,Melbourne (Calwell),50,67.57,24,32.43,74,4.67
+VIC,203,Calwell,32027,Melbourne (Calwell),49,67.12,24,32.88,73,4.22
 VIC,203,Calwell,11631,Melbourne Airport,111,79.86,28,20.14,139,8.71
 VIC,203,Calwell,31610,Melbourne Airport PPVC,313,67.9,148,32.1,461,3.34
 VIC,203,Calwell,4343,Mickleham,614,54.63,510,45.37,1124,6.4
@@ -8336,7 +8336,7 @@ WA,312,Durack,7881,Roebourne,142,45.81,168,54.19,310,-19.99
 WA,312,Durack,58812,Roebuck Bay,307,40.03,460,59.97,767,1.04
 WA,312,Durack,32176,Rottnest (Durack),0,0,0,0,0,-70
 WA,312,Durack,7883,Sandstone,14,35.9,25,64.1,39,-20.35
-WA,312,Durack,7886,South Hedland,330,44.41,413,55.59,743,-15.05
+WA,312,Durack,7886,South Hedland,327,44.07,415,55.93,742,-15.39
 WA,312,Durack,7887,South Hedland Baler,665,50.69,647,49.31,1312,-13.63
 WA,312,Durack,38316,South Hedland PPVC,207,40.12,309,59.88,516,-3.97
 WA,312,Durack,47096,Special Hospital Team 1,27,50.94,26,49.06,53,50.94
@@ -8735,13 +8735,13 @@ WA,244,Pearce,7948,Mahogany Creek,267,40.76,388,59.24,655,-4.76
 WA,244,Pearce,31963,Merriwa,1476,49.32,1517,50.68,2993,-0.04
 WA,244,Pearce,58749,Midland PEARCE PPVC,1399,39.87,2110,60.13,3509,-2.31
 WA,244,Pearce,7953,Mount Helena,554,46.91,627,53.09,1181,-1.02
-WA,244,Pearce,7954,Muchea,155,32.16,327,67.84,482,-0.17
+WA,244,Pearce,7954,Muchea,154,32.15,325,67.85,479,-0.18
 WA,244,Pearce,7956,Mundaring,902,47.83,984,52.17,1886,3.08
 WA,244,Pearce,8077,Northam,582,38.21,941,61.79,1523,-2.27
 WA,244,Pearce,8078,Northam East,357,35.56,647,64.44,1004,-4.44
 WA,244,Pearce,8079,Northam North,253,45.67,301,54.33,554,-8.22
 WA,244,Pearce,58476,Northam PPVC,172,31.79,369,68.21,541,-10.38
-WA,244,Pearce,7958,Parkerville,498,40.72,725,59.28,1223,-1.54
+WA,244,Pearce,7958,Parkerville,497,40.74,723,59.26,1220,-1.52
 WA,244,Pearce,13985,Perth (Pearce),30,42.86,40,57.14,70,-14.59
 WA,244,Pearce,7551,Pickering Brook,91,26.69,250,73.31,341,-0.67
 WA,244,Pearce,34204,Prison Mobile Team 1,11,50,11,50,22,-20
