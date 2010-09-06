@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T09:54:37 Cycle:819330bb-3ff9-4f68-bb4b-03b1b81657f6 Created:2010-09-06T09:34:08 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T10:10:38 Cycle:ff1f8b81-2a52-4ec8-8377-6490f2430383 Created:2010-09-06T09:49:18 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 179,Adelaide,SA,98526,86127,87.42,-7.17
 197,Aston,VIC,93448,88297,94.49,-1.9
@@ -11,7 +11,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 200,Bendigo,VIC,100701,94725,94.07,-1.96
 105,Bennelong,NSW,98900,90175,91.18,-3.82
 106,Berowra,NSW,95115,88855,93.42,-1.93
-304,Blair,QLD,83071,77653,93.48,-1.51
+304,Blair,QLD,83071,77858,93.72,-1.27
 107,Blaxland,NSW,95354,84477,88.59,-4.16
 310,Bonner,QLD,92684,84984,91.69,-3.64
 182,Boothby,SA,97898,89471,91.39,-4.29
@@ -25,7 +25,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 203,Calwell,VIC,101314,92915,91.71,-3.13
 101,Canberra,ACT,124215,116337,93.66,-2.35
 236,Canning,WA,90107,83151,92.28,-0.84
-157,Capricornia,QLD,91962,85412,92.88,-2.52
+157,Capricornia,QLD,91962,85526,93,-2.4
 204,Casey,VIC,92357,86714,93.89,-2.33
 110,Charlton,NSW,94480,86788,91.86,-4.14
 111,Chifley,NSW,97605,89922,92.13,-1.54
@@ -58,7 +58,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 102,Fraser,ACT,123444,114922,93.1,-2.57
 240,Fremantle,WA,93341,87059,93.27,-0.51
 212,Gellibrand,VIC,95611,84910,88.81,-5.35
-120,Gilmore,NSW,96317,89424,92.84,-2.97
+120,Gilmore,NSW,96317,90453,93.91,-1.9
 213,Gippsland,VIC,97543,89427,91.68,-3.99
 214,Goldstein,VIC,93945,85163,90.65,-4.31
 309,Gorton,VIC,113656,100092,88.07,-6.85
@@ -70,13 +70,13 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 305,Hasluck,WA,93892,87234,92.91,-0.76
 165,Herbert,QLD,91044,84169,92.45,-1.21
 215,Higgins,VIC,90398,79880,88.36,-5.41
-185,Hindmarsh,SA,100245,93346,93.12,-2.25
+185,Hindmarsh,SA,100245,94047,93.82,-1.55
 166,Hinkler,QLD,91397,85313,93.34,-1.13
 216,Holt,VIC,108893,101309,93.04,-2.39
 217,Hotham,VIC,89581,79302,88.53,-6.26
 124,Hughes,NSW,97995,91901,93.78,-2.27
 125,Hume,NSW,97698,90415,92.55,-3.25
-126,Hunter,NSW,91516,84441,92.27,-3.69
+126,Hunter,NSW,91516,85344,93.26,-2.7
 218,Indi,VIC,92956,87291,93.91,-1.89
 219,Isaacs,VIC,102790,90429,87.97,-7.21
 220,Jagajaga,VIC,95202,88903,93.38,-2.34
@@ -84,17 +84,17 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 127,Kingsford Smith,NSW,97747,85977,87.96,-6.31
 186,Kingston,SA,102296,96369,94.21,-1.76
 221,Kooyong,VIC,89659,82046,91.51,-3.29
-223,La Trobe,VIC,97960,91575,93.48,-2.36
+223,La Trobe,VIC,97960,91574,93.48,-2.36
 222,Lalor,VIC,117023,108761,92.94,-2.48
-168,Leichhardt,QLD,93140,84167,90.37,-2.09
-169,Lilley,QLD,97415,90369,92.77,-3.08
+168,Leichhardt,QLD,93140,84341,90.55,-1.91
+169,Lilley,QLD,97415,90453,92.85,-3
 128,Lindsay,NSW,95975,89920,93.69,-2.19
 306,Lingiari,NT,61126,45852,75.01,-6.25
 302,Longman,QLD,87062,80238,92.16,-1.12
 130,Lyne,NSW,92565,88260,95.35,-0.24
 196,Lyons,TAS,72865,69071,94.79,-0.05
 131,Macarthur,NSW,90059,82871,92.02,-2.94
-132,Mackellar,NSW,98556,91848,93.19,-2.09
+132,Mackellar,NSW,98556,91849,93.19,-2.09
 133,Macquarie,NSW,97560,90286,92.54,-3.37
 187,Makin,SA,96263,90751,94.27,-1.4
 224,Mallee,VIC,89840,83626,93.08,-2.81
@@ -111,7 +111,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 134,Mitchell,NSW,93588,88314,94.36,-0.61
 172,Moncrieff,QLD,89087,80038,89.84,-4.73
 242,Moore,WA,92295,85567,92.71,-1.05
-173,Moreton,QLD,92733,82993,89.5,-5.52
+173,Moreton,QLD,92733,83732,90.29,-4.73
 231,Murray,VIC,90218,82505,91.45,-4.27
 135,New England,NSW,99677,94073,94.38,-1.72
 136,Newcastle,NSW,92896,85865,92.43,-2.82
