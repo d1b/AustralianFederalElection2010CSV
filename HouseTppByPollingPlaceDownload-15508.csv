@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T18:04:31 Cycle:3f948970-86b8-4ec2-92f9-cb9506504b0a Created:2010-09-06T17:50:29 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T18:19:40 Cycle:5f64d2aa-b253-405d-849d-9ec2aa596f23 Created:2010-09-06T18:05:39 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -211,16 +211,16 @@ NSW,105,Bennelong,645,Epping Heights,792,46.18,923,53.82,1715,-4.23
 NSW,105,Bennelong,82,Epping North,1109,45.03,1354,54.97,2463,-1.24
 NSW,105,Bennelong,11927,Epping West,1339,48.83,1403,51.17,2742,-3.83
 NSW,105,Bennelong,33783,Ermington,246,50,246,50,492,-9.11
-NSW,105,Bennelong,2252,Ermington Central,568,51.17,542,48.83,1110,-8.43
-NSW,105,Bennelong,2253,Ermington West (Bennelong),844,53.08,746,46.92,1590,-7.09
-NSW,105,Bennelong,84,Gladesville (Bennelong),819,49.52,835,50.48,1654,-1.07
-NSW,105,Bennelong,85,Gladesville Central,270,49.18,279,50.82,549,-5.03
+NSW,105,Bennelong,2252,Ermington Central,560,51.38,530,48.62,1090,-8.22
+NSW,105,Bennelong,2253,Ermington West (Bennelong),846,53.65,731,46.35,1577,-6.52
+NSW,105,Bennelong,84,Gladesville (Bennelong),798,49.08,828,50.92,1626,-1.51
+NSW,105,Bennelong,85,Gladesville Central,275,50.09,274,49.91,549,-4.12
 NSW,105,Bennelong,86,Gladesville East,198,48.89,207,51.11,405,-7.62
 NSW,105,Bennelong,87,Gladesville North,688,43.11,908,56.89,1596,-6.22
 NSW,105,Bennelong,88,Gladesville West,192,37.43,321,62.57,513,-0.87
 NSW,105,Bennelong,33877,Holy Cross Ryde,190,52.05,175,47.95,365,-6.28
 NSW,105,Bennelong,92,Kent Road,740,45.74,878,54.26,1618,-6.88
-NSW,105,Bennelong,93,Kittys Creek,173,44.47,216,55.53,389,-1.22
+NSW,105,Bennelong,93,Kittys Creek,172,44.33,216,55.67,388,-1.36
 NSW,105,Bennelong,98,Lyon Park,661,53.18,582,46.82,1243,-7.03
 NSW,105,Bennelong,99,Marsfield,826,40.89,1194,59.11,2020,-6.19
 NSW,105,Bennelong,650,Meadowbank,600,52.26,548,47.74,1148,-9.61
@@ -228,7 +228,7 @@ NSW,105,Bennelong,33928,Melrose Park,620,46.58,711,53.42,1331,-3.79
 NSW,105,Bennelong,8869,Parkes Street,717,49.11,743,50.89,1460,-4.36
 NSW,105,Bennelong,102,Putney,1031,39.14,1603,60.86,2634,-3.77
 NSW,105,Bennelong,33926,Roselea,966,41.04,1388,58.96,2354,-4.54
-NSW,105,Bennelong,653,Royal Ryde Homes,177,45.62,211,54.38,388,-1.38
+NSW,105,Bennelong,653,Royal Ryde Homes,178,46.48,205,53.52,383,-0.52
 NSW,105,Bennelong,654,Ryde,711,52.59,641,47.41,1352,-5.18
 NSW,105,Bennelong,104,Ryde Central,357,43.22,469,56.78,826,-2.6
 NSW,105,Bennelong,105,Ryde East,1209,43.74,1555,56.26,2764,-3.57
@@ -1767,7 +1767,7 @@ NSW,133,Macquarie,1768,Hazelbrook,1367,67.44,660,32.56,2027,1.47
 NSW,133,Macquarie,1769,Hobartville,799,42.59,1077,57.41,1876,-3.26
 NSW,133,Macquarie,1771,Katoomba,662,74.55,226,25.45,888,1.37
 NSW,133,Macquarie,1775,Katoomba Central,928,74.36,320,25.64,1248,-2.41
-NSW,133,Macquarie,1773,Katoomba Hospital,78,72.9,29,27.1,107,10.72
+NSW,133,Macquarie,1773,Katoomba Hospital,0,0,0,0,0,-62.18
 NSW,133,Macquarie,1774,Katoomba North,830,72.17,320,27.83,1150,4.62
 NSW,133,Macquarie,34037,Katoomba PPVC,1340,63.48,771,36.52,2111,12.68
 NSW,133,Macquarie,1772,Katoomba South,255,62.81,151,37.19,406,-1.22
@@ -4793,7 +4793,7 @@ QLD,178,Wide Bay,6570,Gundiah,15,11.9,111,88.1,126,-13.31
 QLD,178,Wide Bay,6572,Gympie Central,621,34.4,1184,65.6,1805,-7.51
 QLD,178,Wide Bay,6573,Gympie East,485,33.75,952,66.25,1437,-7.93
 QLD,178,Wide Bay,6575,Gympie North,510,33.46,1014,66.54,1524,-3.84
-QLD,178,Wide Bay,32767,Gympie PPVC,610,29.76,1440,70.24,2050,-13.01
+QLD,178,Wide Bay,32767,Gympie PPVC,612,29.9,1435,70.1,2047,-12.87
 QLD,178,Wide Bay,6577,Gympie South,816,30.33,1874,69.67,2690,-9.41
 QLD,178,Wide Bay,6578,Gympie West,444,33.04,900,66.96,1344,-4.55
 QLD,178,Wide Bay,6581,Imbil,325,36.48,566,63.52,891,-0.77
@@ -4827,7 +4827,7 @@ QLD,178,Wide Bay,32757,Tewantin PPVC,763,32.18,1608,67.82,2371,-10.61
 QLD,178,Wide Bay,31445,Tewantin South,500,36.63,865,63.37,1365,-1.01
 QLD,178,Wide Bay,6627,Tiaro,176,31.21,388,68.79,564,-8.17
 QLD,178,Wide Bay,6629,Tin Can Bay,406,32.53,842,67.47,1248,-13.32
-QLD,178,Wide Bay,6628,Tinana,732,30.53,1666,69.47,2398,-11.57
+QLD,178,Wide Bay,6628,Tinana,733,30.55,1666,69.45,2399,-11.55
 QLD,178,Wide Bay,34128,Tinbeerwah,266,33.8,521,66.2,787,-7.07
 QLD,178,Wide Bay,6637,Veteran,95,28.7,236,71.3,331,-5.24
 QLD,178,Wide Bay,6639,Widgee,99,27.12,266,72.88,365,-5.21
@@ -8062,7 +8062,7 @@ WA,235,Brand,7488,Hillman,925,63.62,529,36.38,1454,-1.53
 WA,235,Brand,47748,Lakelands,254,44.8,313,55.2,567,-1.95
 WA,235,Brand,11896,Leda,1185,62.5,711,37.5,1896,-5.67
 WA,235,Brand,7490,Madora Bay,293,46.29,340,53.71,633,-1.56
-WA,235,Brand,11897,Meadow Springs,870,46.93,984,53.07,1854,-0.2
+WA,235,Brand,11897,Meadow Springs,882,47.32,982,52.68,1864,0.19
 WA,235,Brand,33073,Meadow Springs North,365,36.98,622,63.02,987,-2.85
 WA,235,Brand,7496,Medina,1254,66.6,629,33.4,1883,-3.93
 WA,235,Brand,7501,Parmelia,1207,63.16,704,36.84,1911,-5.81
@@ -8477,7 +8477,7 @@ WA,240,Fremantle,7790,White Gum Valley,1101,72.43,419,27.57,1520,0.13
 WA,240,Fremantle,7791,Willagee,975,56.1,763,43.9,1738,-7.38
 WA,240,Fremantle,7792,Willagee East,672,51.53,632,48.47,1304,-4.8
 WA,240,Fremantle,7793,Yangebup,1337,62.04,818,37.96,2155,-0.86
-WA,240,Fremantle,31975,Yangebup South,346,51.95,320,48.05,666,-7.22
+WA,240,Fremantle,31975,Yangebup South,346,52.03,319,47.97,665,-7.14
 WA,305,Hasluck,8207,Bellevue,401,57.53,296,42.47,697,-0.3
 WA,305,Hasluck,7925,Caversham,455,54.49,380,45.51,835,-1.99
 WA,305,Hasluck,34091,Divisional Office (PREPOLL),0,0,0,0,0,-48.84
