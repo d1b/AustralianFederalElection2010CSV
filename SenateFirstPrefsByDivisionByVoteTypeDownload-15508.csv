@@ -1,18 +1,18 @@
-2010 Federal Election Senate First Preferences By Division By Candidate By Vote Type  [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T10:42:37 Cycle:f51aca36-8a88-4c61-8284-8b0740d25836 Created:2010-09-06T10:19:24 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate First Preferences By Division By Candidate By Vote Type  [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T10:58:18 Cycle:3a02cae4-ff7c-40df-89a1-222c323e99b4 Created:2010-09-06T10:49:29 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,Ticket,BallotPosition,CandidateID,CandidateDetails,PartyName,PartyAb,Elected,HistoricElected,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes
-ACT,101,Canberra,A,0,22049,A Ticket Votes,Australian Labor Party,ALP,N,N,34554,469,0,1780,299,37102
+ACT,101,Canberra,A,0,22049,A Ticket Votes,Australian Labor Party,ALP,N,N,34554,469,0,1780,1086,37889
 ACT,101,Canberra,A,1,21065,"LUNDY, Kate Alexandra",Australian Labor Party,ALP,N,Y,4155,0,0,0,0,4155
 ACT,101,Canberra,A,2,21072,"MATHEWS, David",Australian Labor Party,ALP,N,N,304,0,0,0,0,304
 ACT,101,Canberra,A,9998,0,Unapportioned,Australian Labor Party,ALP,N,N,2917,0,0,0,0,2917
-ACT,101,Canberra,B,0,22050,B Ticket Votes,Australian Democrats,DEM,N,N,1072,17,0,83,8,1180
+ACT,101,Canberra,B,0,22050,B Ticket Votes,Australian Democrats,DEM,N,N,1072,17,0,83,35,1207
 ACT,101,Canberra,B,1,21758,"CHURCHILL, Darren Mark",Australian Democrats,DEM,N,N,296,0,0,0,0,296
 ACT,101,Canberra,B,2,21760,"DAVID, Anthony John",Australian Democrats,DEM,N,N,61,0,0,0,0,61
 ACT,101,Canberra,B,9998,0,Unapportioned,Australian Democrats,DEM,N,N,240,0,0,0,0,240
-ACT,101,Canberra,C,0,22048,C Ticket Votes,The Greens,GRN,N,N,13244,304,0,804,94,14446
+ACT,101,Canberra,C,0,22048,C Ticket Votes,The Greens,GRN,N,N,13244,304,0,804,397,14749
 ACT,101,Canberra,C,1,20838,"HATFIELD DODDS, Lin",The Greens,GRN,N,N,4405,0,0,0,0,4405
 ACT,101,Canberra,C,2,20840,"PARRIS, Hannah",The Greens,GRN,N,N,412,0,0,0,0,412
 ACT,101,Canberra,C,9998,0,Unapportioned,The Greens,GRN,N,N,2928,0,0,0,0,2928
-ACT,101,Canberra,D,0,22047,D Ticket Votes,Liberal,LP,N,N,30223,368,0,1595,344,32530
+ACT,101,Canberra,D,0,22047,D Ticket Votes,Liberal,LP,N,N,30223,368,0,1595,1287,33473
 ACT,101,Canberra,D,1,20813,"HUMPHRIES, Gary",Liberal,LP,N,Y,3259,0,0,0,0,3259
 ACT,101,Canberra,D,2,20814,"WATTS, Matthew",Liberal,LP,N,N,184,0,0,0,0,184
 ACT,101,Canberra,D,9998,0,Unapportioned,Liberal,LP,N,N,2055,0,0,0,0,2055
@@ -182,11 +182,11 @@ NSW,103,Banks,UG,2,22014,"HOOPER, Norman H Joseph",Independent,IND,N,N,0,0,0,0,0
 NSW,103,Banks,UG,3,21903,"SCOTT-IRVING, Stewart",Independent,IND,N,N,0,0,0,0,0,0
 NSW,103,Banks,UG,4,21268,"PAPE, Bryan",Independent,IND,N,N,4,0,0,0,0,4
 NSW,103,Banks,UG,5,21937,"WHALAN, Andrew",Independent,IND,N,N,5,0,0,0,0,5
-NSW,104,Barton,A,0,22214,A Ticket Votes,Socialist Alliance,SAL,N,N,554,8,0,18,5,585
+NSW,104,Barton,A,0,22214,A Ticket Votes,Socialist Alliance,SAL,N,N,554,8,8,18,5,593
 NSW,104,Barton,A,1,21446,"EVANS, Rachel",Socialist Alliance,SAL,N,N,9,0,0,0,0,9
 NSW,104,Barton,A,2,21449,"ISKANDER, Soubhi",Socialist Alliance,SAL,N,N,1,0,0,0,0,1
 NSW,104,Barton,A,9998,0,Unapportioned,Socialist Alliance,SAL,N,N,1,0,0,0,0,1
-NSW,104,Barton,B,0,22230,B Ticket Votes,,,N,N,36,1,0,1,1,39
+NSW,104,Barton,B,0,22230,B Ticket Votes,,,N,N,36,1,4,1,1,43
 NSW,104,Barton,B,1,22023,"HODGES, Robert",,,N,N,2,0,0,0,0,2
 NSW,104,Barton,B,2,22024,"FRIER, Bob",,,N,N,0,0,0,0,0,0
 NSW,104,Barton,B,9998,0,Unapportioned,,,N,N,0,0,0,0,0,0
@@ -194,11 +194,11 @@ NSW,104,Barton,C,0,22224,C Ticket Votes,,,N,N,15,0,0,0,0,15
 NSW,104,Barton,C,1,21904,"ROBINSON, Tony",,,N,N,1,0,0,0,0,1
 NSW,104,Barton,C,2,21907,"SELBY, Noel",,,N,N,0,0,0,0,0,0
 NSW,104,Barton,C,9998,0,Unapportioned,,,N,N,0,0,0,0,0,0
-NSW,104,Barton,D,0,22215,D Ticket Votes,,,N,N,66,0,0,0,1,67
+NSW,104,Barton,D,0,22215,D Ticket Votes,,,N,N,66,0,1,0,1,68
 NSW,104,Barton,D,1,21429,"HODGES, Darrin",,,N,N,0,0,0,0,0,0
 NSW,104,Barton,D,2,21430,"FOLKES, Nick",,,N,N,0,0,0,0,0,0
 NSW,104,Barton,D,9998,0,Unapportioned,,,N,N,0,0,0,0,0,0
-NSW,104,Barton,E,0,22220,E Ticket Votes,Building Australia,BAP,N,N,195,5,0,7,9,216
+NSW,104,Barton,E,0,22220,E Ticket Votes,Building Australia,BAP,N,N,195,5,4,7,9,220
 NSW,104,Barton,E,1,21798,"BROWN, Ray",Building Australia,BAP,N,N,4,0,0,0,0,4
 NSW,104,Barton,E,2,21799,"O'DONNELL, Michael",Building Australia,BAP,N,N,0,0,0,0,0,0
 NSW,104,Barton,E,9998,0,Unapportioned,Building Australia,BAP,N,N,0,0,0,0,0,0
@@ -206,7 +206,7 @@ NSW,104,Barton,F,0,22212,F Ticket Votes,Senator On-Line,SOL,N,N,54,1,0,1,1,57
 NSW,104,Barton,F,1,21465,"BAS, Wes",Senator On-Line,SOL,N,N,2,0,0,0,0,2
 NSW,104,Barton,F,2,21470,"ROACH, Brianna",Senator On-Line,SOL,N,N,0,0,0,0,0,0
 NSW,104,Barton,F,9998,0,Unapportioned,Senator On-Line,SOL,N,N,1,0,0,0,0,1
-NSW,104,Barton,G,0,22222,G Ticket Votes,Communist,CAL,N,N,192,5,0,2,5,204
+NSW,104,Barton,G,0,22222,G Ticket Votes,Communist,CAL,N,N,192,5,1,2,5,205
 NSW,104,Barton,G,1,21787,"LAWLER, Geoff",Communist,CAL,N,N,5,0,0,0,0,5
 NSW,104,Barton,G,2,21789,"KELLAWAY, Brenda Anne",Communist,CAL,N,N,3,0,0,0,0,3
 NSW,104,Barton,G,9998,0,Unapportioned,Communist,CAL,N,N,0,0,0,0,0,0
@@ -214,39 +214,39 @@ NSW,104,Barton,H,0,22233,H Ticket Votes,,,N,N,12,1,0,1,0,14
 NSW,104,Barton,H,1,22021,"BLOOM, Nadia",,,N,N,0,0,0,0,0,0
 NSW,104,Barton,H,2,22022,"IRELAND, Bede",,,N,N,0,0,0,0,0,0
 NSW,104,Barton,H,9998,0,Unapportioned,,,N,N,0,0,0,0,0,0
-NSW,104,Barton,I,0,22211,I Ticket Votes,Citizens Electoral Council of Australia,CEC,N,N,139,4,0,6,1,150
+NSW,104,Barton,I,0,22211,I Ticket Votes,Citizens Electoral Council of Australia,CEC,N,N,139,4,4,6,1,154
 NSW,104,Barton,I,1,21031,"BUTLER, Robert H",Citizens Electoral Council of Australia,CEC,N,N,2,0,0,0,0,2
 NSW,104,Barton,I,2,21037,"McCAFFREY, Ian David",Citizens Electoral Council of Australia,CEC,N,N,1,0,0,0,0,1
 NSW,104,Barton,I,9998,0,Unapportioned,Citizens Electoral Council of Australia,CEC,N,N,0,0,0,0,0,0
-NSW,104,Barton,J,0,22219,J Ticket Votes,Australian Democrats,DEM,N,N,342,11,0,19,23,395
+NSW,104,Barton,J,0,22219,J Ticket Votes,Australian Democrats,DEM,N,N,342,11,2,19,23,397
 NSW,104,Barton,J,1,21733,"CLANCY, Fiona",Australian Democrats,DEM,N,N,36,0,0,0,0,36
 NSW,104,Barton,J,2,21736,"MITCHELL, Jen",Australian Democrats,DEM,N,N,2,0,0,0,0,2
 NSW,104,Barton,J,9998,0,Unapportioned,Australian Democrats,DEM,N,N,4,0,0,0,0,4
-NSW,104,Barton,K,0,22218,K Ticket Votes,,,N,N,13,1,0,0,0,14
+NSW,104,Barton,K,0,22218,K Ticket Votes,,,N,N,13,1,1,0,0,15
 NSW,104,Barton,K,1,21714,"SAMPSON, Meg",,,N,N,0,0,0,0,0,0
 NSW,104,Barton,K,2,21718,"HINCHCLIFFE, J",,,N,N,0,0,0,0,0,0
 NSW,104,Barton,K,9998,0,Unapportioned,,,N,N,0,0,0,0,0,0
-NSW,104,Barton,L,0,22232,L Ticket Votes,,,N,N,36,1,0,1,0,38
+NSW,104,Barton,L,0,22232,L Ticket Votes,,,N,N,36,1,1,1,0,39
 NSW,104,Barton,L,1,22019,"BELGRAVE, Leon Adrian",,,N,N,0,0,0,0,0,0
 NSW,104,Barton,L,2,22020,"BEREGSZASZI, Janos",,,N,N,0,0,0,0,0,0
 NSW,104,Barton,L,9998,0,Unapportioned,,,N,N,0,0,0,0,0,0
-NSW,104,Barton,M,0,22207,M Ticket Votes,The Climate Sceptics,TCS,N,N,134,3,0,5,4,146
+NSW,104,Barton,M,0,22207,M Ticket Votes,The Climate Sceptics,TCS,N,N,134,3,1,5,4,147
 NSW,104,Barton,M,1,21127,"KOUTALIANOS, Bill",The Climate Sceptics,TCS,N,N,12,0,0,0,0,12
 NSW,104,Barton,M,2,21134,"BROWN, Geoffrey",The Climate Sceptics,TCS,N,N,0,0,0,0,0,0
 NSW,104,Barton,M,9998,0,Unapportioned,The Climate Sceptics,TCS,N,N,0,0,0,0,0,0
-NSW,104,Barton,N,0,22213,N Ticket Votes,Secular Party of Australia,SPA,N,N,49,1,0,3,2,55
+NSW,104,Barton,N,0,22213,N Ticket Votes,Secular Party of Australia,SPA,N,N,49,1,1,3,2,56
 NSW,104,Barton,N,1,21229,"BRYCE, Ian",Secular Party of Australia,SPA,N,N,5,0,0,0,0,5
 NSW,104,Barton,N,2,21233,"WARREN, Lyle Richard",Secular Party of Australia,SPA,N,N,0,0,0,0,0,0
 NSW,104,Barton,N,9998,0,Unapportioned,Secular Party of Australia,SPA,N,N,0,0,0,0,0,0
-NSW,104,Barton,O,0,22216,O Ticket Votes,Shooters and Fishers,ASP,N,N,899,26,0,31,31,987
+NSW,104,Barton,O,0,22216,O Ticket Votes,Shooters and Fishers,ASP,N,N,899,26,15,31,31,1002
 NSW,104,Barton,O,1,21451,"MUIRHEAD, Jim Gerard",Shooters and Fishers,ASP,N,N,44,0,0,0,0,44
 NSW,104,Barton,O,2,21455,"McGLASHAN, Alistair David",Shooters and Fishers,ASP,N,N,4,0,0,0,0,4
 NSW,104,Barton,O,9998,0,Unapportioned,Shooters and Fishers,ASP,N,N,4,0,0,0,0,4
-NSW,104,Barton,P,0,22226,P Ticket Votes,Democratic Labor Party (DLP) of Australia,DLP,N,N,545,10,0,30,23,608
+NSW,104,Barton,P,0,22226,P Ticket Votes,Democratic Labor Party (DLP) of Australia,DLP,N,N,545,10,9,30,23,617
 NSW,104,Barton,P,1,22015,"McCAFFREY, Simon Thomas",Democratic Labor Party (DLP) of Australia,DLP,N,N,10,0,0,0,0,10
 NSW,104,Barton,P,2,22016,"CULLEN, Martin",Democratic Labor Party (DLP) of Australia,DLP,N,N,0,0,0,0,0,0
 NSW,104,Barton,P,9998,0,Unapportioned,Democratic Labor Party (DLP) of Australia,DLP,N,N,0,0,0,0,0,0
-NSW,104,Barton,Q,0,22203,Q Ticket Votes,Australian Sex Party,ASXP,N,N,888,34,0,32,29,983
+NSW,104,Barton,Q,0,22203,Q Ticket Votes,Australian Sex Party,ASXP,N,N,888,34,11,32,29,994
 NSW,104,Barton,Q,1,20841,"LEISHMAN, Marianne",Australian Sex Party,ASXP,N,N,42,0,0,0,0,42
 NSW,104,Barton,Q,2,20947,"CAMPBELL, Huw",Australian Sex Party,ASXP,N,N,2,0,0,0,0,2
 NSW,104,Barton,Q,3,20949,"ZIMMERMAN, Larissa",Australian Sex Party,ASXP,N,N,5,0,0,0,0,5
@@ -255,23 +255,23 @@ NSW,104,Barton,R,0,22227,R Ticket Votes,,,N,N,9,0,0,1,0,10
 NSW,104,Barton,R,1,21993,"BARKER, David",,,N,N,0,0,0,0,0,0
 NSW,104,Barton,R,2,21994,"ZUREIK, S G",,,N,N,0,0,0,0,0,0
 NSW,104,Barton,R,9998,0,Unapportioned,,,N,N,1,0,0,0,0,1
-NSW,104,Barton,S,0,22204,S Ticket Votes,Socialist Equality Party,SEP,N,N,62,0,0,5,1,68
+NSW,104,Barton,S,0,22204,S Ticket Votes,Socialist Equality Party,SEP,N,N,62,0,3,5,1,71
 NSW,104,Barton,S,1,20978,"BEAMS, Nick",Socialist Equality Party,SEP,N,N,0,0,0,0,0,0
 NSW,104,Barton,S,2,20981,"ZABALA, Gabriela",Socialist Equality Party,SEP,N,N,1,0,0,0,0,1
 NSW,104,Barton,S,9998,0,Unapportioned,Socialist Equality Party,SEP,N,N,1,0,0,0,0,1
-NSW,104,Barton,T,0,22223,T Ticket Votes,,,N,N,31,0,0,0,0,31
+NSW,104,Barton,T,0,22223,T Ticket Votes,,,N,N,31,0,1,0,0,32
 NSW,104,Barton,T,1,21908,"BOURKE, William",,,N,N,6,0,0,0,0,6
 NSW,104,Barton,T,2,21910,"O'CONNOR, Mark",,,N,N,0,0,0,0,0,0
 NSW,104,Barton,T,9998,0,Unapportioned,,,N,N,0,0,0,0,0,0
-NSW,104,Barton,U,0,22217,U Ticket Votes,Non-Custodial Parents Party (Equal Parenting),NCP,N,N,57,1,0,4,0,62
+NSW,104,Barton,U,0,22217,U Ticket Votes,Non-Custodial Parents Party (Equal Parenting),NCP,N,N,57,1,4,4,0,66
 NSW,104,Barton,U,1,21413,"THOMPSON, Andy",Non-Custodial Parents Party (Equal Parenting),NCP,N,N,1,0,0,0,0,1
 NSW,104,Barton,U,2,21420,"FOSTER, Roland",Non-Custodial Parents Party (Equal Parenting),NCP,N,N,0,0,0,0,0,0
 NSW,104,Barton,U,9998,0,Unapportioned,Non-Custodial Parents Party (Equal Parenting),NCP,N,N,0,0,0,0,0,0
-NSW,104,Barton,V,0,22209,V Ticket Votes,Family First,FFP,N,N,534,14,0,26,32,606
+NSW,104,Barton,V,0,22209,V Ticket Votes,Family First,FFP,N,N,534,14,7,26,32,613
 NSW,104,Barton,V,1,21178,"SWANE, Greg",Family First,FFP,N,N,21,0,0,0,0,21
 NSW,104,Barton,V,2,21182,"LAMB, Phil",Family First,FFP,N,N,3,0,0,0,0,3
 NSW,104,Barton,V,9998,0,Unapportioned,Family First,FFP,N,N,6,0,0,0,0,6
-NSW,104,Barton,W,0,22206,W Ticket Votes,Labor,ALP,N,N,29731,481,0,1120,1653,32985
+NSW,104,Barton,W,0,22206,W Ticket Votes,Labor,ALP,N,N,29731,481,321,1120,1653,33306
 NSW,104,Barton,W,1,21012,"FAULKNER, John",Labor,ALP,N,Y,162,0,0,0,0,162
 NSW,104,Barton,W,2,21016,"THISTLETHWAITE, Matthew",Labor,ALP,N,N,4,0,0,0,0,4
 NSW,104,Barton,W,3,21018,"HUTCHINS, Steve",Labor,ALP,N,Y,6,0,0,0,0,6
@@ -279,20 +279,20 @@ NSW,104,Barton,W,4,21020,"MURNAIN, Anne",Labor,ALP,N,N,9,0,0,0,0,9
 NSW,104,Barton,W,5,21022,"SEATON, Fiona",Labor,ALP,N,N,2,0,0,0,0,2
 NSW,104,Barton,W,6,21025,"McDERMOTT, Hugh",Labor,ALP,N,N,5,0,0,0,0,5
 NSW,104,Barton,W,9998,0,Unapportioned,Labor,ALP,N,N,13,0,0,0,0,13
-NSW,104,Barton,X,0,22231,X Ticket Votes,,,N,N,19,0,0,2,1,22
+NSW,104,Barton,X,0,22231,X Ticket Votes,,,N,N,19,0,1,2,1,23
 NSW,104,Barton,X,1,21995,"STEFANAC, Jennifer",,,N,N,0,0,0,0,0,0
 NSW,104,Barton,X,2,21997,"COOLEY, Tucky Tania",,,N,N,1,0,0,0,0,1
 NSW,104,Barton,X,9998,0,Unapportioned,,,N,N,0,0,0,0,0,0
-NSW,104,Barton,Y,0,22228,Y Ticket Votes,Carers Alliance,CA,N,N,141,2,0,7,9,159
+NSW,104,Barton,Y,0,22228,Y Ticket Votes,Carers Alliance,CA,N,N,141,2,3,7,9,162
 NSW,104,Barton,Y,1,21984,"CARTER, Marylou",Carers Alliance,CA,N,N,17,0,0,0,0,17
 NSW,104,Barton,Y,2,21986,"BUCKWALTER, Maree",Carers Alliance,CA,N,N,0,0,0,0,0,0
 NSW,104,Barton,Y,9998,0,Unapportioned,Carers Alliance,CA,N,N,0,0,0,0,0,0
-NSW,104,Barton,Z,0,22205,Z Ticket Votes,Christian Democratic Party (Fred Nile Group),CDP,N,N,1139,25,0,40,90,1294
+NSW,104,Barton,Z,0,22205,Z Ticket Votes,Christian Democratic Party (Fred Nile Group),CDP,N,N,1139,25,15,40,90,1309
 NSW,104,Barton,Z,1,20990,"GREEN, Paul",Christian Democratic Party (Fred Nile Group),CDP,N,N,50,0,0,0,0,50
 NSW,104,Barton,Z,2,20992,"PEEBLES, Robyn",Christian Democratic Party (Fred Nile Group),CDP,N,N,2,0,0,0,0,2
 NSW,104,Barton,Z,3,20994,"NILE, Elaine",Christian Democratic Party (Fred Nile Group),CDP,N,N,9,0,0,0,0,9
 NSW,104,Barton,Z,9998,0,Unapportioned,Christian Democratic Party (Fred Nile Group),CDP,N,N,9,0,0,0,0,9
-NSW,104,Barton,AA,0,22210,AA Ticket Votes,Liberal/Nationals,LNP,N,N,23950,415,0,764,1544,26673
+NSW,104,Barton,AA,0,22210,AA Ticket Votes,Liberal/Nationals,LNP,N,N,23950,415,229,764,1544,26902
 NSW,104,Barton,AA,1,21762,"FIERRAVANTI-WELLS, Concetta",Liberal,LP,N,Y,169,0,0,0,0,169
 NSW,104,Barton,AA,2,21766,"HEFFERNAN, William",Liberal,LP,N,Y,40,0,0,0,0,40
 NSW,104,Barton,AA,3,21768,"NASH, Fiona",The Nationals,NP,N,Y,12,0,0,0,0,12
@@ -300,7 +300,7 @@ NSW,104,Barton,AA,4,21771,"HUGHES, Hollie",Liberal,LP,N,N,6,0,0,0,0,6
 NSW,104,Barton,AA,5,21774,"DENNIS, Joe",The Nationals,NP,N,N,2,0,0,0,0,2
 NSW,104,Barton,AA,6,21776,"BILIC, George",Liberal,LP,N,N,12,0,0,0,0,12
 NSW,104,Barton,AA,9998,0,Unapportioned,Liberal/Nationals,LNP,N,N,14,0,0,0,0,14
-NSW,104,Barton,AB,0,22221,AB Ticket Votes,,,N,N,41,0,0,1,4,46
+NSW,104,Barton,AB,0,22221,AB Ticket Votes,,,N,N,41,0,2,1,4,48
 NSW,104,Barton,AB,1,21901,"ECKFORD, Michael",,,N,N,0,0,0,0,0,0
 NSW,104,Barton,AB,2,21902,"STEVENS, Criselee",,,N,N,0,0,0,0,0,0
 NSW,104,Barton,AB,9998,0,Unapportioned,,,N,N,0,0,0,0,0,0
@@ -308,7 +308,7 @@ NSW,104,Barton,AC,0,22225,AC Ticket Votes,One Nation,ON,N,N,222,4,0,15,30,271
 NSW,104,Barton,AC,1,21824,"WEBBER, Andrew",One Nation,ON,N,N,17,0,0,0,0,17
 NSW,104,Barton,AC,2,21827,"BRETT, John",One Nation,ON,N,N,4,0,0,0,0,4
 NSW,104,Barton,AC,9998,0,Unapportioned,One Nation,ON,N,N,7,0,0,0,0,7
-NSW,104,Barton,AD,0,22208,AD Ticket Votes,The Greens,GRN,N,N,5723,165,0,258,239,6385
+NSW,104,Barton,AD,0,22208,AD Ticket Votes,The Greens,GRN,N,N,5723,165,77,258,239,6462
 NSW,104,Barton,AD,1,21147,"RHIANNON, Lee",The Greens,GRN,N,N,233,0,0,0,0,233
 NSW,104,Barton,AD,2,21677,"McILROY, Keith",The Greens,GRN,N,N,18,0,0,0,0,18
 NSW,104,Barton,AD,3,21152,"JEGATHEESWARAN, Brami",The Greens,GRN,N,N,3,0,0,0,0,3
@@ -316,11 +316,11 @@ NSW,104,Barton,AD,4,21160,"SWIFT, Harriett",The Greens,GRN,N,N,2,0,0,0,0,2
 NSW,104,Barton,AD,5,21163,"MORRISSEY, Simone",The Greens,GRN,N,N,12,0,0,0,0,12
 NSW,104,Barton,AD,6,21169,"KANAK, Dominic Wy",The Greens,GRN,N,N,7,0,0,0,0,7
 NSW,104,Barton,AD,9998,0,Unapportioned,The Greens,GRN,N,N,13,0,0,0,0,13
-NSW,104,Barton,AE,0,22234,AE Ticket Votes,,,N,N,56,1,0,2,10,69
+NSW,104,Barton,AE,0,22234,AE Ticket Votes,,,N,N,56,1,13,2,10,82
 NSW,104,Barton,AE,1,22202,"KERNOT, Cheryl",,,N,N,44,0,0,0,0,44
 NSW,104,Barton,AE,2,22201,"CANT, Simon",,,N,N,0,0,0,0,0,0
 NSW,104,Barton,AE,9998,0,Unapportioned,,,N,N,2,0,0,0,0,2
-NSW,104,Barton,AF,0,22229,AF Ticket Votes,Liberal Democrats (LDP),LDP,N,N,1961,54,0,127,189,2331
+NSW,104,Barton,AF,0,22229,AF Ticket Votes,Liberal Democrats (LDP),LDP,N,N,1961,54,15,127,189,2346
 NSW,104,Barton,AF,1,22006,"DRUERY, Glenn",Liberal Democrats (LDP),LDP,N,N,12,0,0,0,0,12
 NSW,104,Barton,AF,2,22008,"GABB, Lucy",Liberal Democrats (LDP),LDP,N,N,0,0,0,0,0,0
 NSW,104,Barton,AF,3,22010,"STITT, Peter",Liberal Democrats (LDP),LDP,N,N,2,0,0,0,0,2
@@ -3142,7 +3142,7 @@ NSW,125,Hume,UG,2,22014,"HOOPER, Norman H Joseph",Independent,IND,N,N,1,0,0,0,0,
 NSW,125,Hume,UG,3,21903,"SCOTT-IRVING, Stewart",Independent,IND,N,N,2,0,0,0,0,2
 NSW,125,Hume,UG,4,21268,"PAPE, Bryan",Independent,IND,N,N,3,0,0,0,0,3
 NSW,125,Hume,UG,5,21937,"WHALAN, Andrew",Independent,IND,N,N,3,0,0,0,0,3
-NSW,126,Hunter,A,0,22214,A Ticket Votes,Socialist Alliance,SAL,N,N,248,10,0,0,4,262
+NSW,126,Hunter,A,0,22214,A Ticket Votes,Socialist Alliance,SAL,N,N,248,10,0,0,5,263
 NSW,126,Hunter,A,1,21446,"EVANS, Rachel",Socialist Alliance,SAL,N,N,8,0,0,0,0,8
 NSW,126,Hunter,A,2,21449,"ISKANDER, Soubhi",Socialist Alliance,SAL,N,N,0,0,0,0,0,0
 NSW,126,Hunter,A,9998,0,Unapportioned,Socialist Alliance,SAL,N,N,7,0,0,0,0,7
@@ -3158,7 +3158,7 @@ NSW,126,Hunter,D,0,22215,D Ticket Votes,,,N,N,38,0,0,0,0,38
 NSW,126,Hunter,D,1,21429,"HODGES, Darrin",,,N,N,0,0,0,0,0,0
 NSW,126,Hunter,D,2,21430,"FOLKES, Nick",,,N,N,1,0,0,0,0,1
 NSW,126,Hunter,D,9998,0,Unapportioned,,,N,N,2,0,0,0,0,2
-NSW,126,Hunter,E,0,22220,E Ticket Votes,Building Australia,BAP,N,N,198,6,0,4,6,214
+NSW,126,Hunter,E,0,22220,E Ticket Votes,Building Australia,BAP,N,N,198,6,0,5,6,215
 NSW,126,Hunter,E,1,21798,"BROWN, Ray",Building Australia,BAP,N,N,4,0,0,0,0,4
 NSW,126,Hunter,E,2,21799,"O'DONNELL, Michael",Building Australia,BAP,N,N,0,0,0,0,0,0
 NSW,126,Hunter,E,9998,0,Unapportioned,Building Australia,BAP,N,N,8,0,0,0,0,8
@@ -3178,7 +3178,7 @@ NSW,126,Hunter,I,0,22211,I Ticket Votes,Citizens Electoral Council of Australia,
 NSW,126,Hunter,I,1,21031,"BUTLER, Robert H",Citizens Electoral Council of Australia,CEC,N,N,2,0,0,0,0,2
 NSW,126,Hunter,I,2,21037,"McCAFFREY, Ian David",Citizens Electoral Council of Australia,CEC,N,N,0,0,0,0,0,0
 NSW,126,Hunter,I,9998,0,Unapportioned,Citizens Electoral Council of Australia,CEC,N,N,6,0,0,0,0,6
-NSW,126,Hunter,J,0,22219,J Ticket Votes,Australian Democrats,DEM,N,N,500,17,2,8,11,538
+NSW,126,Hunter,J,0,22219,J Ticket Votes,Australian Democrats,DEM,N,N,500,17,2,9,14,542
 NSW,126,Hunter,J,1,21733,"CLANCY, Fiona",Australian Democrats,DEM,N,N,24,0,0,0,0,24
 NSW,126,Hunter,J,2,21736,"MITCHELL, Jen",Australian Democrats,DEM,N,N,0,0,0,0,0,0
 NSW,126,Hunter,J,9998,0,Unapportioned,Australian Democrats,DEM,N,N,22,0,0,0,0,22
@@ -3190,7 +3190,7 @@ NSW,126,Hunter,L,0,22232,L Ticket Votes,,,N,N,30,0,1,1,1,33
 NSW,126,Hunter,L,1,22019,"BELGRAVE, Leon Adrian",,,N,N,0,0,0,0,0,0
 NSW,126,Hunter,L,2,22020,"BEREGSZASZI, Janos",,,N,N,1,0,0,0,0,1
 NSW,126,Hunter,L,9998,0,Unapportioned,,,N,N,1,0,0,0,0,1
-NSW,126,Hunter,M,0,22207,M Ticket Votes,The Climate Sceptics,TCS,N,N,164,3,1,2,8,178
+NSW,126,Hunter,M,0,22207,M Ticket Votes,The Climate Sceptics,TCS,N,N,164,3,1,2,9,179
 NSW,126,Hunter,M,1,21127,"KOUTALIANOS, Bill",The Climate Sceptics,TCS,N,N,15,0,0,0,0,15
 NSW,126,Hunter,M,2,21134,"BROWN, Geoffrey",The Climate Sceptics,TCS,N,N,1,0,0,0,0,1
 NSW,126,Hunter,M,9998,0,Unapportioned,The Climate Sceptics,TCS,N,N,9,0,0,0,0,9
@@ -3198,15 +3198,15 @@ NSW,126,Hunter,N,0,22213,N Ticket Votes,Secular Party of Australia,SPA,N,N,33,2,
 NSW,126,Hunter,N,1,21229,"BRYCE, Ian",Secular Party of Australia,SPA,N,N,7,0,0,0,0,7
 NSW,126,Hunter,N,2,21233,"WARREN, Lyle Richard",Secular Party of Australia,SPA,N,N,0,0,0,0,0,0
 NSW,126,Hunter,N,9998,0,Unapportioned,Secular Party of Australia,SPA,N,N,2,0,0,0,0,2
-NSW,126,Hunter,O,0,22216,O Ticket Votes,Shooters and Fishers,ASP,N,N,3508,143,11,86,99,3847
+NSW,126,Hunter,O,0,22216,O Ticket Votes,Shooters and Fishers,ASP,N,N,3508,143,11,93,119,3874
 NSW,126,Hunter,O,1,21451,"MUIRHEAD, Jim Gerard",Shooters and Fishers,ASP,N,N,106,0,0,0,0,106
 NSW,126,Hunter,O,2,21455,"McGLASHAN, Alistair David",Shooters and Fishers,ASP,N,N,9,0,0,0,0,9
 NSW,126,Hunter,O,9998,0,Unapportioned,Shooters and Fishers,ASP,N,N,226,0,0,0,0,226
-NSW,126,Hunter,P,0,22226,P Ticket Votes,Democratic Labor Party (DLP) of Australia,DLP,N,N,782,34,2,18,26,862
+NSW,126,Hunter,P,0,22226,P Ticket Votes,Democratic Labor Party (DLP) of Australia,DLP,N,N,782,34,2,20,29,867
 NSW,126,Hunter,P,1,22015,"McCAFFREY, Simon Thomas",Democratic Labor Party (DLP) of Australia,DLP,N,N,4,0,0,0,0,4
 NSW,126,Hunter,P,2,22016,"CULLEN, Martin",Democratic Labor Party (DLP) of Australia,DLP,N,N,1,0,0,0,0,1
 NSW,126,Hunter,P,9998,0,Unapportioned,Democratic Labor Party (DLP) of Australia,DLP,N,N,50,0,0,0,0,50
-NSW,126,Hunter,Q,0,22203,Q Ticket Votes,Australian Sex Party,ASXP,N,N,1804,91,4,29,23,1951
+NSW,126,Hunter,Q,0,22203,Q Ticket Votes,Australian Sex Party,ASXP,N,N,1804,91,4,35,33,1967
 NSW,126,Hunter,Q,1,20841,"LEISHMAN, Marianne",Australian Sex Party,ASXP,N,N,30,0,0,0,0,30
 NSW,126,Hunter,Q,2,20947,"CAMPBELL, Huw",Australian Sex Party,ASXP,N,N,1,0,0,0,0,1
 NSW,126,Hunter,Q,3,20949,"ZIMMERMAN, Larissa",Australian Sex Party,ASXP,N,N,5,0,0,0,0,5
@@ -3227,11 +3227,11 @@ NSW,126,Hunter,U,0,22217,U Ticket Votes,Non-Custodial Parents Party (Equal Paren
 NSW,126,Hunter,U,1,21413,"THOMPSON, Andy",Non-Custodial Parents Party (Equal Parenting),NCP,N,N,0,0,0,0,0,0
 NSW,126,Hunter,U,2,21420,"FOSTER, Roland",Non-Custodial Parents Party (Equal Parenting),NCP,N,N,0,0,0,0,0,0
 NSW,126,Hunter,U,9998,0,Unapportioned,Non-Custodial Parents Party (Equal Parenting),NCP,N,N,6,0,0,0,0,6
-NSW,126,Hunter,V,0,22209,V Ticket Votes,Family First,FFP,N,N,710,34,1,12,26,783
+NSW,126,Hunter,V,0,22209,V Ticket Votes,Family First,FFP,N,N,710,34,1,15,33,793
 NSW,126,Hunter,V,1,21178,"SWANE, Greg",Family First,FFP,N,N,15,0,0,0,0,15
 NSW,126,Hunter,V,2,21182,"LAMB, Phil",Family First,FFP,N,N,0,0,0,0,0,0
 NSW,126,Hunter,V,9998,0,Unapportioned,Family First,FFP,N,N,45,0,0,0,0,45
-NSW,126,Hunter,W,0,22206,W Ticket Votes,Labor,ALP,N,N,34707,975,111,423,1281,37497
+NSW,126,Hunter,W,0,22206,W Ticket Votes,Labor,ALP,N,N,34707,975,111,513,1465,37771
 NSW,126,Hunter,W,1,21012,"FAULKNER, John",Labor,ALP,N,Y,114,0,0,0,0,114
 NSW,126,Hunter,W,2,21016,"THISTLETHWAITE, Matthew",Labor,ALP,N,N,1,0,0,0,0,1
 NSW,126,Hunter,W,3,21018,"HUTCHINS, Steve",Labor,ALP,N,Y,4,0,0,0,0,4
@@ -3243,16 +3243,16 @@ NSW,126,Hunter,X,0,22231,X Ticket Votes,,,N,N,73,0,0,0,0,73
 NSW,126,Hunter,X,1,21995,"STEFANAC, Jennifer",,,N,N,0,0,0,0,0,0
 NSW,126,Hunter,X,2,21997,"COOLEY, Tucky Tania",,,N,N,0,0,0,0,0,0
 NSW,126,Hunter,X,9998,0,Unapportioned,,,N,N,1,0,0,0,0,1
-NSW,126,Hunter,Y,0,22228,Y Ticket Votes,Carers Alliance,CA,N,N,120,4,0,2,14,140
+NSW,126,Hunter,Y,0,22228,Y Ticket Votes,Carers Alliance,CA,N,N,120,4,0,3,16,143
 NSW,126,Hunter,Y,1,21984,"CARTER, Marylou",Carers Alliance,CA,N,N,17,0,0,0,0,17
 NSW,126,Hunter,Y,2,21986,"BUCKWALTER, Maree",Carers Alliance,CA,N,N,0,0,0,0,0,0
 NSW,126,Hunter,Y,9998,0,Unapportioned,Carers Alliance,CA,N,N,3,0,0,0,0,3
-NSW,126,Hunter,Z,0,22205,Z Ticket Votes,Christian Democratic Party (Fred Nile Group),CDP,N,N,973,26,1,14,43,1057
+NSW,126,Hunter,Z,0,22205,Z Ticket Votes,Christian Democratic Party (Fred Nile Group),CDP,N,N,973,26,1,15,53,1068
 NSW,126,Hunter,Z,1,20990,"GREEN, Paul",Christian Democratic Party (Fred Nile Group),CDP,N,N,37,0,0,0,0,37
 NSW,126,Hunter,Z,2,20992,"PEEBLES, Robyn",Christian Democratic Party (Fred Nile Group),CDP,N,N,2,0,0,0,0,2
 NSW,126,Hunter,Z,3,20994,"NILE, Elaine",Christian Democratic Party (Fred Nile Group),CDP,N,N,9,0,0,0,0,9
 NSW,126,Hunter,Z,9998,0,Unapportioned,Christian Democratic Party (Fred Nile Group),CDP,N,N,71,0,0,0,0,71
-NSW,126,Hunter,AA,0,22210,AA Ticket Votes,Liberal/Nationals,LNP,N,N,18843,767,35,451,867,20963
+NSW,126,Hunter,AA,0,22210,AA Ticket Votes,Liberal/Nationals,LNP,N,N,18843,767,35,508,1045,21198
 NSW,126,Hunter,AA,1,21762,"FIERRAVANTI-WELLS, Concetta",Liberal,LP,N,Y,130,0,0,0,0,130
 NSW,126,Hunter,AA,2,21766,"HEFFERNAN, William",Liberal,LP,N,Y,26,0,0,0,0,26
 NSW,126,Hunter,AA,3,21768,"NASH, Fiona",The Nationals,NP,N,Y,31,0,0,0,0,31
@@ -3264,11 +3264,11 @@ NSW,126,Hunter,AB,0,22221,AB Ticket Votes,,,N,N,19,1,0,0,1,21
 NSW,126,Hunter,AB,1,21901,"ECKFORD, Michael",,,N,N,1,0,0,0,0,1
 NSW,126,Hunter,AB,2,21902,"STEVENS, Criselee",,,N,N,0,0,0,0,0,0
 NSW,126,Hunter,AB,9998,0,Unapportioned,,,N,N,2,0,0,0,0,2
-NSW,126,Hunter,AC,0,22225,AC Ticket Votes,One Nation,ON,N,N,669,23,2,14,26,734
+NSW,126,Hunter,AC,0,22225,AC Ticket Votes,One Nation,ON,N,N,669,23,2,17,32,743
 NSW,126,Hunter,AC,1,21824,"WEBBER, Andrew",One Nation,ON,N,N,23,0,0,0,0,23
 NSW,126,Hunter,AC,2,21827,"BRETT, John",One Nation,ON,N,N,0,0,0,0,0,0
 NSW,126,Hunter,AC,9998,0,Unapportioned,One Nation,ON,N,N,63,0,0,0,0,63
-NSW,126,Hunter,AD,0,22208,AD Ticket Votes,The Greens,GRN,N,N,4417,266,16,91,148,4938
+NSW,126,Hunter,AD,0,22208,AD Ticket Votes,The Greens,GRN,N,N,4417,266,16,109,189,4997
 NSW,126,Hunter,AD,1,21147,"RHIANNON, Lee",The Greens,GRN,N,N,182,0,0,0,0,182
 NSW,126,Hunter,AD,2,21677,"McILROY, Keith",The Greens,GRN,N,N,5,0,0,0,0,5
 NSW,126,Hunter,AD,3,21152,"JEGATHEESWARAN, Brami",The Greens,GRN,N,N,0,0,0,0,0,0
@@ -3276,11 +3276,11 @@ NSW,126,Hunter,AD,4,21160,"SWIFT, Harriett",The Greens,GRN,N,N,6,0,0,0,0,6
 NSW,126,Hunter,AD,5,21163,"MORRISSEY, Simone",The Greens,GRN,N,N,11,0,0,0,0,11
 NSW,126,Hunter,AD,6,21169,"KANAK, Dominic Wy",The Greens,GRN,N,N,5,0,0,0,0,5
 NSW,126,Hunter,AD,9998,0,Unapportioned,The Greens,GRN,N,N,230,0,0,0,0,230
-NSW,126,Hunter,AE,0,22234,AE Ticket Votes,,,N,N,79,2,0,2,5,88
+NSW,126,Hunter,AE,0,22234,AE Ticket Votes,,,N,N,79,2,0,3,6,90
 NSW,126,Hunter,AE,1,22202,"KERNOT, Cheryl",,,N,N,27,0,0,0,0,27
 NSW,126,Hunter,AE,2,22201,"CANT, Simon",,,N,N,1,0,0,0,0,1
 NSW,126,Hunter,AE,9998,0,Unapportioned,,,N,N,1,0,0,0,0,1
-NSW,126,Hunter,AF,0,22229,AF Ticket Votes,Liberal Democrats (LDP),LDP,N,N,1132,66,3,32,54,1287
+NSW,126,Hunter,AF,0,22229,AF Ticket Votes,Liberal Democrats (LDP),LDP,N,N,1132,66,3,36,66,1303
 NSW,126,Hunter,AF,1,22006,"DRUERY, Glenn",Liberal Democrats (LDP),LDP,N,N,6,0,0,0,0,6
 NSW,126,Hunter,AF,2,22008,"GABB, Lucy",Liberal Democrats (LDP),LDP,N,N,2,0,0,0,0,2
 NSW,126,Hunter,AF,3,22010,"STITT, Peter",Liberal Democrats (LDP),LDP,N,N,1,0,0,0,0,1
@@ -7196,7 +7196,7 @@ QLD,304,Blair,A,0,22073,A Ticket Votes,Senator On-Line,SOL,N,N,221,6,0,5,5,237
 QLD,304,Blair,A,1,21867,"READING, Scott",Senator On-Line,SOL,N,N,8,0,0,0,1,9
 QLD,304,Blair,A,2,21868,"EMBREY, Joh",Senator On-Line,SOL,N,N,3,0,0,0,0,3
 QLD,304,Blair,A,9998,0,Unapportioned,Senator On-Line,SOL,N,N,19,0,0,0,0,19
-QLD,304,Blair,B,0,22083,B Ticket Votes,Carers Alliance,CA,N,N,206,8,0,7,45,266
+QLD,304,Blair,B,0,22083,B Ticket Votes,Carers Alliance,CA,N,N,206,9,0,7,45,267
 QLD,304,Blair,B,1,22007,"VETTER, Anne",Carers Alliance,CA,N,N,2,0,0,0,0,2
 QLD,304,Blair,B,2,22009,"HORNE, Vicki",Carers Alliance,CA,N,N,1,0,0,0,0,1
 QLD,304,Blair,B,9998,0,Unapportioned,Carers Alliance,CA,N,N,10,0,0,0,0,10
@@ -7204,12 +7204,12 @@ QLD,304,Blair,C,0,22080,C Ticket Votes,,,N,N,24,5,0,1,2,32
 QLD,304,Blair,C,1,21897,"SPENCER, Paul",,,N,N,0,0,0,0,0,0
 QLD,304,Blair,C,2,21898,"SPENCER, Mary",,,N,N,1,1,0,0,0,2
 QLD,304,Blair,C,9998,0,Unapportioned,,,N,N,4,0,0,0,0,4
-QLD,304,Blair,D,0,22070,D Ticket Votes,Family First,FFP,N,N,2704,170,12,33,141,3060
+QLD,304,Blair,D,0,22070,D Ticket Votes,Family First,FFP,N,N,2704,175,12,33,141,3065
 QLD,304,Blair,D,1,21522,"FRANCIS, Wendy",Family First,FFP,N,N,107,1,0,0,4,112
 QLD,304,Blair,D,2,21523,"FINDLAY, Peter",Family First,FFP,N,N,2,1,0,0,0,3
 QLD,304,Blair,D,3,21524,"NICKSON, Amanda",Family First,FFP,N,N,3,0,0,0,0,3
 QLD,304,Blair,D,9998,0,Unapportioned,Family First,FFP,N,N,121,0,0,0,0,121
-QLD,304,Blair,E,0,22077,E Ticket Votes,Shooters and Fishers,ASP,N,N,1433,103,3,33,101,1673
+QLD,304,Blair,E,0,22077,E Ticket Votes,Shooters and Fishers,ASP,N,N,1433,112,3,33,101,1682
 QLD,304,Blair,E,1,21884,"PETER, Andrew Mark",Shooters and Fishers,ASP,N,N,60,2,0,0,12,74
 QLD,304,Blair,E,2,21886,"HUGGETT, Chris",Shooters and Fishers,ASP,N,N,7,0,0,0,0,7
 QLD,304,Blair,E,9998,0,Unapportioned,Shooters and Fishers,ASP,N,N,59,0,0,0,0,59
@@ -7221,11 +7221,11 @@ QLD,304,Blair,G,0,22067,G Ticket Votes,,,N,N,21,1,0,0,1,23
 QLD,304,Blair,G,1,20985,"LINDSAY-PARK, E-Jay",,,N,N,0,0,0,0,0,0
 QLD,304,Blair,G,2,20986,"GUERIN, Lachlan",,,N,N,0,0,0,0,0,0
 QLD,304,Blair,G,9998,0,Unapportioned,,,N,N,0,0,0,0,0,0
-QLD,304,Blair,H,0,22079,H Ticket Votes,One Nation,ON,N,N,797,58,3,25,74,957
+QLD,304,Blair,H,0,22079,H Ticket Votes,One Nation,ON,N,N,797,63,3,25,74,962
 QLD,304,Blair,H,1,21895,"EVANS, Rod",One Nation,ON,N,N,28,0,0,0,5,33
 QLD,304,Blair,H,2,21896,"NELSON, Ian J",One Nation,ON,N,N,3,0,0,0,0,3
 QLD,304,Blair,H,9998,0,Unapportioned,One Nation,ON,N,N,17,0,0,0,0,17
-QLD,304,Blair,I,0,22072,I Ticket Votes,,,N,N,77,2,0,1,0,80
+QLD,304,Blair,I,0,22072,I Ticket Votes,,,N,N,77,3,0,1,0,81
 QLD,304,Blair,I,1,21528,"WATTIE, Russell",,,N,N,5,0,0,0,0,5
 QLD,304,Blair,I,2,21529,"DOWELL, John",,,N,N,0,0,0,0,0,0
 QLD,304,Blair,I,9998,0,Unapportioned,,,N,N,4,0,0,0,0,4
@@ -7249,22 +7249,22 @@ QLD,304,Blair,N,0,22063,N Ticket Votes,Citizens Electoral Council,CEC,N,N,57,1,0
 QLD,304,Blair,N,1,20773,"THIES, Robert",Citizens Electoral Council,CEC,N,N,6,0,0,0,0,6
 QLD,304,Blair,N,2,20776,"HETHERINGTON, Maurice Verney",Citizens Electoral Council,CEC,N,N,0,0,0,0,0,0
 QLD,304,Blair,N,9998,0,Unapportioned,Citizens Electoral Council,CEC,N,N,2,0,0,0,0,2
-QLD,304,Blair,O,0,22062,O Ticket Votes,Liberal National Party of Queensland,LNQ,N,N,19850,1107,41,501,1892,23391
+QLD,304,Blair,O,0,22062,O Ticket Votes,Liberal National Party of Queensland,LNQ,N,N,19850,1155,41,501,1892,23439
 QLD,304,Blair,O,1,20761,"BRANDIS, George Henry",Liberal National Party of Queensland,LNQ,N,Y,137,1,0,0,8,146
 QLD,304,Blair,O,2,20764,"JOYCE, Barnaby",Liberal National Party of Queensland,LNQ,N,Y,140,2,0,0,25,167
 QLD,304,Blair,O,3,20766,"MASON, Brett",Liberal National Party of Queensland,LNQ,N,Y,4,0,0,0,1,5
 QLD,304,Blair,O,4,20768,"TROOD, Russell",Liberal National Party of Queensland,LNQ,N,Y,4,0,0,0,1,5
 QLD,304,Blair,O,5,20769,"BOYD, Julie",Liberal National Party of Queensland,LNQ,N,N,7,1,0,0,2,10
 QLD,304,Blair,O,9998,0,Unapportioned,Liberal National Party of Queensland,LNQ,N,N,221,0,0,0,0,221
-QLD,304,Blair,P,0,22064,P Ticket Votes,Australian Fishing and Lifestyle Party,AFLP,N,N,947,83,3,21,70,1124
+QLD,304,Blair,P,0,22064,P Ticket Votes,Australian Fishing and Lifestyle Party,AFLP,N,N,947,86,3,21,70,1127
 QLD,304,Blair,P,1,20810,"DOUGLAS, Keith",Australian Fishing and Lifestyle Party,AFLP,N,N,19,0,0,0,1,20
 QLD,304,Blair,P,2,20811,"MANSFIELD, Michael",Australian Fishing and Lifestyle Party,AFLP,N,N,1,0,0,0,0,1
 QLD,304,Blair,P,9998,0,Unapportioned,Australian Fishing and Lifestyle Party,AFLP,N,N,26,0,0,0,0,26
-QLD,304,Blair,Q,0,22074,Q Ticket Votes,Australian Sex Party,ASXP,N,N,2055,161,12,55,99,2382
+QLD,304,Blair,Q,0,22074,Q Ticket Votes,Australian Sex Party,ASXP,N,N,2055,175,12,55,99,2396
 QLD,304,Blair,Q,1,21871,"GIBSON, Desiree Lee",Australian Sex Party,ASXP,N,N,49,0,0,0,1,50
 QLD,304,Blair,Q,2,21873,"SHEEN, Tim",Australian Sex Party,ASXP,N,N,2,0,0,0,0,2
 QLD,304,Blair,Q,9998,0,Unapportioned,Australian Sex Party,ASXP,N,N,47,0,0,0,0,47
-QLD,304,Blair,R,0,22068,R Ticket Votes,The Greens,GRN,N,N,7584,546,25,187,500,8842
+QLD,304,Blair,R,0,22068,R Ticket Votes,The Greens,GRN,N,N,7584,573,25,187,500,8869
 QLD,304,Blair,R,1,21515,"WATERS, Larissa",The Greens,GRN,N,N,220,3,0,0,9,232
 QLD,304,Blair,R,2,21518,"CONNORS, Elizabeth Louise Alice",The Greens,GRN,N,N,10,0,0,0,0,10
 QLD,304,Blair,R,3,21519,"STIRLING, Jenny",The Greens,GRN,N,N,16,3,0,0,1,20
@@ -7273,22 +7273,22 @@ QLD,304,Blair,S,0,22081,S Ticket Votes,Socialist Alliance,SAL,N,N,65,7,1,3,1,77
 QLD,304,Blair,S,1,21899,"WATSON, Sam",Socialist Alliance,SAL,N,N,3,0,0,0,0,3
 QLD,304,Blair,S,2,21900,"LOWE, David",Socialist Alliance,SAL,N,N,0,0,0,0,0,0
 QLD,304,Blair,S,9998,0,Unapportioned,Socialist Alliance,SAL,N,N,5,0,0,0,0,5
-QLD,304,Blair,T,0,22066,T Ticket Votes,Australian Labor Party,ALP,N,N,22322,1142,76,413,2144,26097
+QLD,304,Blair,T,0,22066,T Ticket Votes,Australian Labor Party,ALP,N,N,22322,1209,76,413,2144,26164
 QLD,304,Blair,T,1,20979,"LUDWIG, Joe",Australian Labor Party,ALP,N,Y,110,0,0,0,6,116
 QLD,304,Blair,T,2,20980,"McLUCAS, Jan",Australian Labor Party,ALP,N,Y,16,1,0,0,2,19
 QLD,304,Blair,T,3,20982,"SMITH, David",Australian Labor Party,ALP,N,N,8,0,0,0,2,10
 QLD,304,Blair,T,4,20983,"FENTIMAN, Shannon",Australian Labor Party,ALP,N,N,13,0,0,0,0,13
 QLD,304,Blair,T,9998,0,Unapportioned,Australian Labor Party,ALP,N,N,132,0,0,0,0,132
-QLD,304,Blair,U,0,22069,U Ticket Votes,Liberal Democrats (LDP),LDP,N,N,1192,84,5,35,101,1417
+QLD,304,Blair,U,0,22069,U Ticket Votes,Liberal Democrats (LDP),LDP,N,N,1192,95,5,35,101,1428
 QLD,304,Blair,U,1,21520,"FRYAR, Jim",Liberal Democrats (LDP),LDP,N,N,12,2,0,0,1,15
 QLD,304,Blair,U,2,21521,"FULTON, Robert",Liberal Democrats (LDP),LDP,N,N,2,0,0,0,0,2
 QLD,304,Blair,U,9998,0,Unapportioned,Liberal Democrats (LDP),LDP,N,N,3,0,0,0,0,3
-QLD,304,Blair,V,0,22071,V Ticket Votes,D.L.P. - Democratic Labor Party,DLP,N,N,335,31,1,10,16,393
+QLD,304,Blair,V,0,22071,V Ticket Votes,D.L.P. - Democratic Labor Party,DLP,N,N,335,32,1,10,16,394
 QLD,304,Blair,V,1,21525,"ZEGENHAGEN, Tony",D.L.P. - Democratic Labor Party,DLP,N,N,3,0,0,0,0,3
 QLD,304,Blair,V,2,21526,"BARR, Angelique Maree",D.L.P. - Democratic Labor Party,DLP,N,N,0,0,0,0,1,1
 QLD,304,Blair,V,3,21527,"JACKSON, Noel W",D.L.P. - Democratic Labor Party,DLP,N,N,0,0,0,0,0,0
 QLD,304,Blair,V,9998,0,Unapportioned,D.L.P. - Democratic Labor Party,DLP,N,N,1,0,0,0,0,1
-QLD,304,Blair,W,0,22061,W Ticket Votes,Christian Democratic Party,CDP,N,N,256,21,1,8,30,316
+QLD,304,Blair,W,0,22061,W Ticket Votes,Christian Democratic Party,CDP,N,N,256,23,1,8,30,318
 QLD,304,Blair,W,1,20719,"BRICE, Malcolm",Christian Democratic Party,CDP,N,N,10,1,0,0,1,12
 QLD,304,Blair,W,2,20720,"VOGEL, Tony",Christian Democratic Party,CDP,N,N,0,0,0,0,1,1
 QLD,304,Blair,W,9998,0,Unapportioned,Christian Democratic Party,CDP,N,N,9,0,0,0,0,9
@@ -8888,106 +8888,106 @@ QLD,166,Hinkler,UG,3,22012,"SMITH, Mark Leslie Chapman",Independent,IND,N,N,1,0,
 QLD,166,Hinkler,UG,4,21905,"WIRTH, Jarrod John",Independent,IND,N,N,1,0,0,0,0,1
 QLD,166,Hinkler,UG,5,22013,"PYKE, Peter",,,N,N,0,0,0,0,0,0
 QLD,166,Hinkler,UG,6,21906,"CARROLL, Maurie",Independent,IND,N,N,1,0,0,0,0,1
-QLD,167,Kennedy,A,0,22073,A Ticket Votes,Senator On-Line,SOL,N,N,153,9,0,5,3,170
+QLD,167,Kennedy,A,0,22073,A Ticket Votes,Senator On-Line,SOL,N,N,232,9,0,5,3,249
 QLD,167,Kennedy,A,1,21867,"READING, Scott",Senator On-Line,SOL,N,N,13,0,0,0,0,13
 QLD,167,Kennedy,A,2,21868,"EMBREY, Joh",Senator On-Line,SOL,N,N,0,0,0,0,0,0
-QLD,167,Kennedy,A,9998,0,Unapportioned,Senator On-Line,SOL,N,N,176,0,0,0,0,176
-QLD,167,Kennedy,B,0,22083,B Ticket Votes,Carers Alliance,CA,N,N,70,8,0,4,22,104
+QLD,167,Kennedy,A,9998,0,Unapportioned,Senator On-Line,SOL,N,N,119,0,0,0,0,119
+QLD,167,Kennedy,B,0,22083,B Ticket Votes,Carers Alliance,CA,N,N,110,8,0,4,22,144
 QLD,167,Kennedy,B,1,22007,"VETTER, Anne",Carers Alliance,CA,N,N,3,0,0,0,0,3
 QLD,167,Kennedy,B,2,22009,"HORNE, Vicki",Carers Alliance,CA,N,N,0,0,0,0,0,0
-QLD,167,Kennedy,B,9998,0,Unapportioned,Carers Alliance,CA,N,N,112,0,0,0,0,112
-QLD,167,Kennedy,C,0,22080,C Ticket Votes,,,N,N,21,3,0,1,1,26
+QLD,167,Kennedy,B,9998,0,Unapportioned,Carers Alliance,CA,N,N,75,0,0,0,0,75
+QLD,167,Kennedy,C,0,22080,C Ticket Votes,,,N,N,27,3,0,1,1,32
 QLD,167,Kennedy,C,1,21897,"SPENCER, Paul",,,N,N,2,0,0,0,0,2
 QLD,167,Kennedy,C,2,21898,"SPENCER, Mary",,,N,N,0,0,0,0,0,0
-QLD,167,Kennedy,C,9998,0,Unapportioned,,,N,N,25,0,0,0,0,25
-QLD,167,Kennedy,D,0,22070,D Ticket Votes,Family First,FFP,N,N,1062,96,0,60,87,1305
+QLD,167,Kennedy,C,9998,0,Unapportioned,,,N,N,20,0,0,0,0,20
+QLD,167,Kennedy,D,0,22070,D Ticket Votes,Family First,FFP,N,N,1452,96,0,60,87,1695
 QLD,167,Kennedy,D,1,21522,"FRANCIS, Wendy",Family First,FFP,N,N,69,0,0,0,0,69
 QLD,167,Kennedy,D,2,21523,"FINDLAY, Peter",Family First,FFP,N,N,7,0,0,0,0,7
 QLD,167,Kennedy,D,3,21524,"NICKSON, Amanda",Family First,FFP,N,N,4,0,0,0,0,4
-QLD,167,Kennedy,D,9998,0,Unapportioned,Family First,FFP,N,N,1255,0,0,0,0,1255
-QLD,167,Kennedy,E,0,22077,E Ticket Votes,Shooters and Fishers,ASP,N,N,1326,131,0,105,137,1699
+QLD,167,Kennedy,D,9998,0,Unapportioned,Family First,FFP,N,N,917,0,0,0,0,917
+QLD,167,Kennedy,E,0,22077,E Ticket Votes,Shooters and Fishers,ASP,N,N,1715,131,0,105,137,2088
 QLD,167,Kennedy,E,1,21884,"PETER, Andrew Mark",Shooters and Fishers,ASP,N,N,76,0,0,0,0,76
 QLD,167,Kennedy,E,2,21886,"HUGGETT, Chris",Shooters and Fishers,ASP,N,N,2,0,0,0,0,2
-QLD,167,Kennedy,E,9998,0,Unapportioned,Shooters and Fishers,ASP,N,N,1415,0,0,0,0,1415
-QLD,167,Kennedy,F,0,22082,F Ticket Votes,,,N,N,12,2,0,1,2,17
+QLD,167,Kennedy,E,9998,0,Unapportioned,Shooters and Fishers,ASP,N,N,1051,0,0,0,0,1051
+QLD,167,Kennedy,F,0,22082,F Ticket Votes,,,N,N,18,2,0,1,2,23
 QLD,167,Kennedy,F,1,22002,"PYKE, John Richard",,,N,N,2,0,0,0,0,2
 QLD,167,Kennedy,F,2,22003,"TOOLEY, Christopher Ronald",,,N,N,0,0,0,0,0,0
-QLD,167,Kennedy,F,9998,0,Unapportioned,,,N,N,18,0,0,0,0,18
-QLD,167,Kennedy,G,0,22067,G Ticket Votes,,,N,N,11,4,0,0,1,16
+QLD,167,Kennedy,F,9998,0,Unapportioned,,,N,N,15,0,0,0,0,15
+QLD,167,Kennedy,G,0,22067,G Ticket Votes,,,N,N,21,4,0,0,1,26
 QLD,167,Kennedy,G,1,20985,"LINDSAY-PARK, E-Jay",,,N,N,2,0,0,0,0,2
 QLD,167,Kennedy,G,2,20986,"GUERIN, Lachlan",,,N,N,0,0,0,0,0,0
-QLD,167,Kennedy,G,9998,0,Unapportioned,,,N,N,21,0,0,0,0,21
-QLD,167,Kennedy,H,0,22079,H Ticket Votes,One Nation,ON,N,N,698,60,0,39,102,899
+QLD,167,Kennedy,G,9998,0,Unapportioned,,,N,N,12,0,0,0,0,12
+QLD,167,Kennedy,H,0,22079,H Ticket Votes,One Nation,ON,N,N,877,60,0,39,102,1078
 QLD,167,Kennedy,H,1,21895,"EVANS, Rod",One Nation,ON,N,N,26,0,0,0,0,26
 QLD,167,Kennedy,H,2,21896,"NELSON, Ian J",One Nation,ON,N,N,2,0,0,0,0,2
-QLD,167,Kennedy,H,9998,0,Unapportioned,One Nation,ON,N,N,677,0,0,0,0,677
-QLD,167,Kennedy,I,0,22072,I Ticket Votes,,,N,N,41,4,0,0,0,45
+QLD,167,Kennedy,H,9998,0,Unapportioned,One Nation,ON,N,N,514,0,0,0,0,514
+QLD,167,Kennedy,I,0,22072,I Ticket Votes,,,N,N,58,4,0,0,0,62
 QLD,167,Kennedy,I,1,21528,"WATTIE, Russell",,,N,N,5,0,0,0,0,5
 QLD,167,Kennedy,I,2,21529,"DOWELL, John",,,N,N,0,0,0,0,0,0
-QLD,167,Kennedy,I,9998,0,Unapportioned,,,N,N,40,0,0,0,0,40
-QLD,167,Kennedy,J,0,22075,J Ticket Votes,Australian Democrats,DEM,N,N,257,23,0,13,32,325
+QLD,167,Kennedy,I,9998,0,Unapportioned,,,N,N,27,0,0,0,0,27
+QLD,167,Kennedy,J,0,22075,J Ticket Votes,Australian Democrats,DEM,N,N,334,23,0,13,32,402
 QLD,167,Kennedy,J,1,21874,"STEVENSON, Paul Joseph",Australian Democrats,DEM,N,N,12,0,0,0,0,12
 QLD,167,Kennedy,J,2,21876,"CLUSE, Jennifer",Australian Democrats,DEM,N,N,1,0,0,0,0,1
-QLD,167,Kennedy,J,9998,0,Unapportioned,Australian Democrats,DEM,N,N,277,0,0,0,0,277
-QLD,167,Kennedy,K,0,22076,K Ticket Votes,Australia First Party,FST,N,N,203,19,0,15,16,253
+QLD,167,Kennedy,J,9998,0,Unapportioned,Australian Democrats,DEM,N,N,203,0,0,0,0,203
+QLD,167,Kennedy,K,0,22076,K Ticket Votes,Australia First Party,FST,N,N,290,19,0,15,16,340
 QLD,167,Kennedy,K,1,21881,"SCHUBACK, Peter",Australia First Party,AFN,N,N,4,0,0,0,0,4
 QLD,167,Kennedy,K,2,21882,"MAINE, Nick",Australia First Party,AFN,N,N,1,0,0,0,0,1
-QLD,167,Kennedy,K,9998,0,Unapportioned,Australia First Party,FST,N,N,248,0,0,0,0,248
-QLD,167,Kennedy,L,0,22078,L Ticket Votes,Secular Party of Australia,SPA,N,N,19,3,0,2,0,24
+QLD,167,Kennedy,K,9998,0,Unapportioned,Australia First Party,FST,N,N,170,0,0,0,0,170
+QLD,167,Kennedy,L,0,22078,L Ticket Votes,Secular Party of Australia,SPA,N,N,33,3,0,2,0,38
 QLD,167,Kennedy,L,1,21888,"ALBERTS, Kat",Secular Party of Australia,SPA,N,N,4,0,0,0,0,4
 QLD,167,Kennedy,L,2,21891,"SHELTON, Peter",Secular Party of Australia,SPA,N,N,0,0,0,0,0,0
-QLD,167,Kennedy,L,9998,0,Unapportioned,Secular Party of Australia,SPA,N,N,33,0,0,0,0,33
-QLD,167,Kennedy,M,0,22065,M Ticket Votes,The Climate Sceptics,TCS,N,N,76,8,0,5,10,99
+QLD,167,Kennedy,L,9998,0,Unapportioned,Secular Party of Australia,SPA,N,N,22,0,0,0,0,22
+QLD,167,Kennedy,M,0,22065,M Ticket Votes,The Climate Sceptics,TCS,N,N,94,8,0,5,10,117
 QLD,167,Kennedy,M,1,21863,"CARDWELL, Terence Leonard",The Climate Sceptics,TCS,N,N,8,0,0,0,0,8
 QLD,167,Kennedy,M,2,21864,"JONES, Lance Herbert",The Climate Sceptics,TCS,N,N,3,0,0,0,0,3
-QLD,167,Kennedy,M,9998,0,Unapportioned,The Climate Sceptics,TCS,N,N,57,0,0,0,0,57
-QLD,167,Kennedy,N,0,22063,N Ticket Votes,Citizens Electoral Council,CEC,N,N,44,4,0,3,10,61
+QLD,167,Kennedy,M,9998,0,Unapportioned,The Climate Sceptics,TCS,N,N,42,0,0,0,0,42
+QLD,167,Kennedy,N,0,22063,N Ticket Votes,Citizens Electoral Council,CEC,N,N,56,4,0,3,10,73
 QLD,167,Kennedy,N,1,20773,"THIES, Robert",Citizens Electoral Council,CEC,N,N,6,0,0,0,0,6
 QLD,167,Kennedy,N,2,20776,"HETHERINGTON, Maurice Verney",Citizens Electoral Council,CEC,N,N,0,0,0,0,0,0
-QLD,167,Kennedy,N,9998,0,Unapportioned,Citizens Electoral Council,CEC,N,N,45,0,0,0,0,45
-QLD,167,Kennedy,O,0,22062,O Ticket Votes,Liberal National Party of Queensland,LNQ,N,N,13022,1211,0,914,2920,18067
+QLD,167,Kennedy,N,9998,0,Unapportioned,Citizens Electoral Council,CEC,N,N,35,0,0,0,0,35
+QLD,167,Kennedy,O,0,22062,O Ticket Votes,Liberal National Party of Queensland,LNQ,N,N,17465,1211,0,914,2920,22510
 QLD,167,Kennedy,O,1,20761,"BRANDIS, George Henry",Liberal National Party of Queensland,LNQ,N,Y,101,0,0,0,0,101
 QLD,167,Kennedy,O,2,20764,"JOYCE, Barnaby",Liberal National Party of Queensland,LNQ,N,Y,176,0,0,0,0,176
 QLD,167,Kennedy,O,3,20766,"MASON, Brett",Liberal National Party of Queensland,LNQ,N,Y,2,0,0,0,0,2
 QLD,167,Kennedy,O,4,20768,"TROOD, Russell",Liberal National Party of Queensland,LNQ,N,Y,0,0,0,0,0,0
 QLD,167,Kennedy,O,5,20769,"BOYD, Julie",Liberal National Party of Queensland,LNQ,N,N,16,0,0,0,0,16
-QLD,167,Kennedy,O,9998,0,Unapportioned,Liberal National Party of Queensland,LNQ,N,N,14040,0,0,0,0,14040
-QLD,167,Kennedy,P,0,22064,P Ticket Votes,Australian Fishing and Lifestyle Party,AFLP,N,N,2267,163,0,136,150,2716
+QLD,167,Kennedy,O,9998,0,Unapportioned,Liberal National Party of Queensland,LNQ,N,N,9844,0,0,0,0,9844
+QLD,167,Kennedy,P,0,22064,P Ticket Votes,Australian Fishing and Lifestyle Party,AFLP,N,N,3004,163,0,136,150,3453
 QLD,167,Kennedy,P,1,20810,"DOUGLAS, Keith",Australian Fishing and Lifestyle Party,AFLP,N,N,61,0,0,0,0,61
 QLD,167,Kennedy,P,2,20811,"MANSFIELD, Michael",Australian Fishing and Lifestyle Party,AFLP,N,N,47,0,0,0,0,47
-QLD,167,Kennedy,P,9998,0,Unapportioned,Australian Fishing and Lifestyle Party,AFLP,N,N,2197,0,0,0,0,2197
-QLD,167,Kennedy,Q,0,22074,Q Ticket Votes,Australian Sex Party,ASXP,N,N,612,106,0,36,45,799
+QLD,167,Kennedy,P,9998,0,Unapportioned,Australian Fishing and Lifestyle Party,AFLP,N,N,1567,0,0,0,0,1567
+QLD,167,Kennedy,Q,0,22074,Q Ticket Votes,Australian Sex Party,ASXP,N,N,852,106,0,36,45,1039
 QLD,167,Kennedy,Q,1,21871,"GIBSON, Desiree Lee",Australian Sex Party,ASXP,N,N,32,0,0,0,0,32
 QLD,167,Kennedy,Q,2,21873,"SHEEN, Tim",Australian Sex Party,ASXP,N,N,5,0,0,0,0,5
-QLD,167,Kennedy,Q,9998,0,Unapportioned,Australian Sex Party,ASXP,N,N,795,0,0,0,0,795
-QLD,167,Kennedy,R,0,22068,R Ticket Votes,The Greens,GRN,N,N,1893,300,0,203,139,2535
+QLD,167,Kennedy,Q,9998,0,Unapportioned,Australian Sex Party,ASXP,N,N,567,0,0,0,0,567
+QLD,167,Kennedy,R,0,22068,R Ticket Votes,The Greens,GRN,N,N,2396,300,0,203,139,3038
 QLD,167,Kennedy,R,1,21515,"WATERS, Larissa",The Greens,GRN,N,N,140,0,0,0,0,140
 QLD,167,Kennedy,R,2,21518,"CONNORS, Elizabeth Louise Alice",The Greens,GRN,N,N,4,0,0,0,0,4
 QLD,167,Kennedy,R,3,21519,"STIRLING, Jenny",The Greens,GRN,N,N,10,0,0,0,0,10
-QLD,167,Kennedy,R,9998,0,Unapportioned,The Greens,GRN,N,N,2004,0,0,0,0,2004
-QLD,167,Kennedy,S,0,22081,S Ticket Votes,Socialist Alliance,SAL,N,N,30,10,0,0,1,41
+QLD,167,Kennedy,R,9998,0,Unapportioned,The Greens,GRN,N,N,1544,0,0,0,0,1544
+QLD,167,Kennedy,S,0,22081,S Ticket Votes,Socialist Alliance,SAL,N,N,38,10,0,0,1,49
 QLD,167,Kennedy,S,1,21899,"WATSON, Sam",Socialist Alliance,SAL,N,N,3,0,0,0,0,3
 QLD,167,Kennedy,S,2,21900,"LOWE, David",Socialist Alliance,SAL,N,N,0,0,0,0,0,0
-QLD,167,Kennedy,S,9998,0,Unapportioned,Socialist Alliance,SAL,N,N,30,0,0,0,0,30
-QLD,167,Kennedy,T,0,22066,T Ticket Votes,Australian Labor Party,ALP,N,N,8226,867,0,602,839,10534
+QLD,167,Kennedy,S,9998,0,Unapportioned,Socialist Alliance,SAL,N,N,22,0,0,0,0,22
+QLD,167,Kennedy,T,0,22066,T Ticket Votes,Australian Labor Party,ALP,N,N,11486,867,0,602,839,13794
 QLD,167,Kennedy,T,1,20979,"LUDWIG, Joe",Australian Labor Party,ALP,N,Y,77,0,0,0,0,77
 QLD,167,Kennedy,T,2,20980,"McLUCAS, Jan",Australian Labor Party,ALP,N,Y,46,0,0,0,0,46
 QLD,167,Kennedy,T,3,20982,"SMITH, David",Australian Labor Party,ALP,N,N,6,0,0,0,0,6
 QLD,167,Kennedy,T,4,20983,"FENTIMAN, Shannon",Australian Labor Party,ALP,N,N,2,0,0,0,0,2
-QLD,167,Kennedy,T,9998,0,Unapportioned,Australian Labor Party,ALP,N,N,9702,0,0,0,0,9702
-QLD,167,Kennedy,U,0,22069,U Ticket Votes,Liberal Democrats (LDP),LDP,N,N,808,109,0,63,76,1056
+QLD,167,Kennedy,T,9998,0,Unapportioned,Australian Labor Party,ALP,N,N,6614,0,0,0,0,6614
+QLD,167,Kennedy,U,0,22069,U Ticket Votes,Liberal Democrats (LDP),LDP,N,N,1135,109,0,63,76,1383
 QLD,167,Kennedy,U,1,21520,"FRYAR, Jim",Liberal Democrats (LDP),LDP,N,N,10,0,0,0,0,10
 QLD,167,Kennedy,U,2,21521,"FULTON, Robert",Liberal Democrats (LDP),LDP,N,N,2,0,0,0,0,2
-QLD,167,Kennedy,U,9998,0,Unapportioned,Liberal Democrats (LDP),LDP,N,N,1058,0,0,0,0,1058
-QLD,167,Kennedy,V,0,22071,V Ticket Votes,D.L.P. - Democratic Labor Party,DLP,N,N,196,22,0,15,7,240
+QLD,167,Kennedy,U,9998,0,Unapportioned,Liberal Democrats (LDP),LDP,N,N,799,0,0,0,0,799
+QLD,167,Kennedy,V,0,22071,V Ticket Votes,D.L.P. - Democratic Labor Party,DLP,N,N,290,22,0,15,7,334
 QLD,167,Kennedy,V,1,21525,"ZEGENHAGEN, Tony",D.L.P. - Democratic Labor Party,DLP,N,N,2,0,0,0,0,2
 QLD,167,Kennedy,V,2,21526,"BARR, Angelique Maree",D.L.P. - Democratic Labor Party,DLP,N,N,0,0,0,0,0,0
 QLD,167,Kennedy,V,3,21527,"JACKSON, Noel W",D.L.P. - Democratic Labor Party,DLP,N,N,0,0,0,0,0,0
-QLD,167,Kennedy,V,9998,0,Unapportioned,D.L.P. - Democratic Labor Party,DLP,N,N,227,0,0,0,0,227
-QLD,167,Kennedy,W,0,22061,W Ticket Votes,Christian Democratic Party,CDP,N,N,133,21,0,9,30,193
+QLD,167,Kennedy,V,9998,0,Unapportioned,D.L.P. - Democratic Labor Party,DLP,N,N,144,0,0,0,0,144
+QLD,167,Kennedy,W,0,22061,W Ticket Votes,Christian Democratic Party,CDP,N,N,195,21,0,9,30,255
 QLD,167,Kennedy,W,1,20719,"BRICE, Malcolm",Christian Democratic Party,CDP,N,N,8,0,0,0,0,8
 QLD,167,Kennedy,W,2,20720,"VOGEL, Tony",Christian Democratic Party,CDP,N,N,0,0,0,0,0,0
-QLD,167,Kennedy,W,9998,0,Unapportioned,Christian Democratic Party,CDP,N,N,198,0,0,0,0,198
+QLD,167,Kennedy,W,9998,0,Unapportioned,Christian Democratic Party,CDP,N,N,139,0,0,0,0,139
 QLD,167,Kennedy,UG,1,21909,"WHITE, Mark",Independent,IND,N,N,28,0,0,0,0,28
 QLD,167,Kennedy,UG,2,21620,"BAMBRICK, Don",Independent,IND,N,N,3,0,0,0,0,3
 QLD,167,Kennedy,UG,3,22012,"SMITH, Mark Leslie Chapman",Independent,IND,N,N,0,0,0,0,0,0
@@ -9312,106 +9312,106 @@ QLD,302,Longman,UG,3,22012,"SMITH, Mark Leslie Chapman",Independent,IND,N,N,3,1,
 QLD,302,Longman,UG,4,21905,"WIRTH, Jarrod John",Independent,IND,N,N,4,0,0,0,0,4
 QLD,302,Longman,UG,5,22013,"PYKE, Peter",,,N,N,2,1,0,0,0,3
 QLD,302,Longman,UG,6,21906,"CARROLL, Maurie",Independent,IND,N,N,8,1,0,0,0,9
-QLD,170,Maranoa,A,0,22073,A Ticket Votes,Senator On-Line,SOL,N,N,292,15,0,2,17,326
+QLD,170,Maranoa,A,0,22073,A Ticket Votes,Senator On-Line,SOL,N,N,299,15,0,2,17,333
 QLD,170,Maranoa,A,1,21867,"READING, Scott",Senator On-Line,SOL,N,N,15,1,0,0,5,21
 QLD,170,Maranoa,A,2,21868,"EMBREY, Joh",Senator On-Line,SOL,N,N,1,1,0,0,0,2
-QLD,170,Maranoa,A,9998,0,Unapportioned,Senator On-Line,SOL,N,N,46,0,0,0,0,46
-QLD,170,Maranoa,B,0,22083,B Ticket Votes,Carers Alliance,CA,N,N,157,12,0,6,47,222
+QLD,170,Maranoa,A,9998,0,Unapportioned,Senator On-Line,SOL,N,N,40,0,0,0,0,40
+QLD,170,Maranoa,B,0,22083,B Ticket Votes,Carers Alliance,CA,N,N,161,12,0,6,47,226
 QLD,170,Maranoa,B,1,22007,"VETTER, Anne",Carers Alliance,CA,N,N,5,1,0,0,1,7
 QLD,170,Maranoa,B,2,22009,"HORNE, Vicki",Carers Alliance,CA,N,N,2,0,0,0,0,2
-QLD,170,Maranoa,B,9998,0,Unapportioned,Carers Alliance,CA,N,N,33,0,0,0,0,33
+QLD,170,Maranoa,B,9998,0,Unapportioned,Carers Alliance,CA,N,N,30,0,0,0,0,30
 QLD,170,Maranoa,C,0,22080,C Ticket Votes,,,N,N,24,2,0,1,1,28
 QLD,170,Maranoa,C,1,21897,"SPENCER, Paul",,,N,N,1,0,0,0,0,1
 QLD,170,Maranoa,C,2,21898,"SPENCER, Mary",,,N,N,0,0,0,0,0,0
 QLD,170,Maranoa,C,9998,0,Unapportioned,,,N,N,90,0,0,0,0,90
-QLD,170,Maranoa,D,0,22070,D Ticket Votes,Family First,FFP,N,N,2213,185,0,48,173,2619
+QLD,170,Maranoa,D,0,22070,D Ticket Votes,Family First,FFP,N,N,2292,185,0,48,173,2698
 QLD,170,Maranoa,D,1,21522,"FRANCIS, Wendy",Family First,FFP,N,N,66,1,0,0,28,95
 QLD,170,Maranoa,D,2,21523,"FINDLAY, Peter",Family First,FFP,N,N,2,0,0,0,3,5
 QLD,170,Maranoa,D,3,21524,"NICKSON, Amanda",Family First,FFP,N,N,2,1,0,0,2,5
-QLD,170,Maranoa,D,9998,0,Unapportioned,Family First,FFP,N,N,506,0,0,0,0,506
-QLD,170,Maranoa,E,0,22077,E Ticket Votes,Shooters and Fishers,ASP,N,N,1608,200,0,61,195,2064
+QLD,170,Maranoa,D,9998,0,Unapportioned,Family First,FFP,N,N,431,0,0,0,0,431
+QLD,170,Maranoa,E,0,22077,E Ticket Votes,Shooters and Fishers,ASP,N,N,1669,200,0,61,195,2125
 QLD,170,Maranoa,E,1,21884,"PETER, Andrew Mark",Shooters and Fishers,ASP,N,N,51,1,0,0,24,76
 QLD,170,Maranoa,E,2,21886,"HUGGETT, Chris",Shooters and Fishers,ASP,N,N,2,0,0,0,0,2
-QLD,170,Maranoa,E,9998,0,Unapportioned,Shooters and Fishers,ASP,N,N,365,0,0,0,0,365
-QLD,170,Maranoa,F,0,22082,F Ticket Votes,,,N,N,21,1,0,2,2,26
+QLD,170,Maranoa,E,9998,0,Unapportioned,Shooters and Fishers,ASP,N,N,306,0,0,0,0,306
+QLD,170,Maranoa,F,0,22082,F Ticket Votes,,,N,N,22,1,0,2,2,27
 QLD,170,Maranoa,F,1,22002,"PYKE, John Richard",,,N,N,1,0,0,0,0,1
 QLD,170,Maranoa,F,2,22003,"TOOLEY, Christopher Ronald",,,N,N,0,0,0,0,1,1
-QLD,170,Maranoa,F,9998,0,Unapportioned,,,N,N,23,0,0,0,0,23
-QLD,170,Maranoa,G,0,22067,G Ticket Votes,,,N,N,208,5,0,0,12,225
+QLD,170,Maranoa,F,9998,0,Unapportioned,,,N,N,22,0,0,0,0,22
+QLD,170,Maranoa,G,0,22067,G Ticket Votes,,,N,N,212,5,0,0,12,229
 QLD,170,Maranoa,G,1,20985,"LINDSAY-PARK, E-Jay",,,N,N,11,0,0,0,2,13
 QLD,170,Maranoa,G,2,20986,"GUERIN, Lachlan",,,N,N,0,0,0,0,0,0
-QLD,170,Maranoa,G,9998,0,Unapportioned,,,N,N,37,0,0,0,0,37
-QLD,170,Maranoa,H,0,22079,H Ticket Votes,One Nation,ON,N,N,840,83,0,27,114,1064
+QLD,170,Maranoa,G,9998,0,Unapportioned,,,N,N,33,0,0,0,0,33
+QLD,170,Maranoa,H,0,22079,H Ticket Votes,One Nation,ON,N,N,879,83,0,27,114,1103
 QLD,170,Maranoa,H,1,21895,"EVANS, Rod",One Nation,ON,N,N,23,1,0,0,11,35
 QLD,170,Maranoa,H,2,21896,"NELSON, Ian J",One Nation,ON,N,N,2,0,0,0,2,4
-QLD,170,Maranoa,H,9998,0,Unapportioned,One Nation,ON,N,N,171,0,0,0,0,171
-QLD,170,Maranoa,I,0,22072,I Ticket Votes,,,N,N,76,6,0,7,1,90
+QLD,170,Maranoa,H,9998,0,Unapportioned,One Nation,ON,N,N,134,0,0,0,0,134
+QLD,170,Maranoa,I,0,22072,I Ticket Votes,,,N,N,81,6,0,7,1,95
 QLD,170,Maranoa,I,1,21528,"WATTIE, Russell",,,N,N,2,0,0,0,3,5
 QLD,170,Maranoa,I,2,21529,"DOWELL, John",,,N,N,1,0,0,0,0,1
-QLD,170,Maranoa,I,9998,0,Unapportioned,,,N,N,26,0,0,0,0,26
-QLD,170,Maranoa,J,0,22075,J Ticket Votes,Australian Democrats,DEM,N,N,367,38,0,16,32,453
+QLD,170,Maranoa,I,9998,0,Unapportioned,,,N,N,24,0,0,0,0,24
+QLD,170,Maranoa,J,0,22075,J Ticket Votes,Australian Democrats,DEM,N,N,377,38,0,16,32,463
 QLD,170,Maranoa,J,1,21874,"STEVENSON, Paul Joseph",Australian Democrats,DEM,N,N,11,1,0,0,5,17
 QLD,170,Maranoa,J,2,21876,"CLUSE, Jennifer",Australian Democrats,DEM,N,N,3,0,0,0,0,3
-QLD,170,Maranoa,J,9998,0,Unapportioned,Australian Democrats,DEM,N,N,90,0,0,0,0,90
-QLD,170,Maranoa,K,0,22076,K Ticket Votes,Australia First Party,FST,N,N,386,29,0,11,21,447
+QLD,170,Maranoa,J,9998,0,Unapportioned,Australian Democrats,DEM,N,N,80,0,0,0,0,80
+QLD,170,Maranoa,K,0,22076,K Ticket Votes,Australia First Party,FST,N,N,399,29,0,11,21,460
 QLD,170,Maranoa,K,1,21881,"SCHUBACK, Peter",Australia First Party,AFN,N,N,3,0,0,0,1,4
 QLD,170,Maranoa,K,2,21882,"MAINE, Nick",Australia First Party,AFN,N,N,0,0,0,0,0,0
-QLD,170,Maranoa,K,9998,0,Unapportioned,Australia First Party,FST,N,N,57,0,0,0,0,57
-QLD,170,Maranoa,L,0,22078,L Ticket Votes,Secular Party of Australia,SPA,N,N,48,6,0,0,1,55
+QLD,170,Maranoa,K,9998,0,Unapportioned,Australia First Party,FST,N,N,44,0,0,0,0,44
+QLD,170,Maranoa,L,0,22078,L Ticket Votes,Secular Party of Australia,SPA,N,N,50,6,0,0,1,57
 QLD,170,Maranoa,L,1,21888,"ALBERTS, Kat",Secular Party of Australia,SPA,N,N,3,0,0,0,0,3
 QLD,170,Maranoa,L,2,21891,"SHELTON, Peter",Secular Party of Australia,SPA,N,N,0,0,0,0,0,0
 QLD,170,Maranoa,L,9998,0,Unapportioned,Secular Party of Australia,SPA,N,N,9,0,0,0,0,9
-QLD,170,Maranoa,M,0,22065,M Ticket Votes,The Climate Sceptics,TCS,N,N,107,12,0,6,16,141
+QLD,170,Maranoa,M,0,22065,M Ticket Votes,The Climate Sceptics,TCS,N,N,112,12,0,6,16,146
 QLD,170,Maranoa,M,1,21863,"CARDWELL, Terence Leonard",The Climate Sceptics,TCS,N,N,12,0,0,0,3,15
 QLD,170,Maranoa,M,2,21864,"JONES, Lance Herbert",The Climate Sceptics,TCS,N,N,2,0,0,0,1,3
-QLD,170,Maranoa,M,9998,0,Unapportioned,The Climate Sceptics,TCS,N,N,23,0,0,0,0,23
-QLD,170,Maranoa,N,0,22063,N Ticket Votes,Citizens Electoral Council,CEC,N,N,101,15,0,6,25,147
+QLD,170,Maranoa,M,9998,0,Unapportioned,The Climate Sceptics,TCS,N,N,19,0,0,0,0,19
+QLD,170,Maranoa,N,0,22063,N Ticket Votes,Citizens Electoral Council,CEC,N,N,105,15,0,6,25,151
 QLD,170,Maranoa,N,1,20773,"THIES, Robert",Citizens Electoral Council,CEC,N,N,0,1,0,0,0,1
 QLD,170,Maranoa,N,2,20776,"HETHERINGTON, Maurice Verney",Citizens Electoral Council,CEC,N,N,1,0,0,0,0,1
-QLD,170,Maranoa,N,9998,0,Unapportioned,Citizens Electoral Council,CEC,N,N,651,0,0,0,0,651
-QLD,170,Maranoa,O,0,22062,O Ticket Votes,Liberal National Party of Queensland,LNQ,N,N,29325,2645,0,980,6936,39886
+QLD,170,Maranoa,N,9998,0,Unapportioned,Citizens Electoral Council,CEC,N,N,649,0,0,0,0,649
+QLD,170,Maranoa,O,0,22062,O Ticket Votes,Liberal National Party of Queensland,LNQ,N,N,30535,2645,0,980,6936,41096
 QLD,170,Maranoa,O,1,20761,"BRANDIS, George Henry",Liberal National Party of Queensland,LNQ,N,Y,114,8,0,0,50,172
 QLD,170,Maranoa,O,2,20764,"JOYCE, Barnaby",Liberal National Party of Queensland,LNQ,N,Y,182,6,0,0,177,365
 QLD,170,Maranoa,O,3,20766,"MASON, Brett",Liberal National Party of Queensland,LNQ,N,Y,2,0,0,0,2,4
 QLD,170,Maranoa,O,4,20768,"TROOD, Russell",Liberal National Party of Queensland,LNQ,N,Y,4,0,0,0,0,4
 QLD,170,Maranoa,O,5,20769,"BOYD, Julie",Liberal National Party of Queensland,LNQ,N,N,5,0,0,0,11,16
-QLD,170,Maranoa,O,9998,0,Unapportioned,Liberal National Party of Queensland,LNQ,N,N,6147,0,0,0,0,6147
-QLD,170,Maranoa,P,0,22064,P Ticket Votes,Australian Fishing and Lifestyle Party,AFLP,N,N,793,105,0,22,73,993
+QLD,170,Maranoa,O,9998,0,Unapportioned,Liberal National Party of Queensland,LNQ,N,N,4984,0,0,0,0,4984
+QLD,170,Maranoa,P,0,22064,P Ticket Votes,Australian Fishing and Lifestyle Party,AFLP,N,N,822,105,0,22,73,1022
 QLD,170,Maranoa,P,1,20810,"DOUGLAS, Keith",Australian Fishing and Lifestyle Party,AFLP,N,N,9,1,0,0,6,16
 QLD,170,Maranoa,P,2,20811,"MANSFIELD, Michael",Australian Fishing and Lifestyle Party,AFLP,N,N,0,0,0,0,0,0
-QLD,170,Maranoa,P,9998,0,Unapportioned,Australian Fishing and Lifestyle Party,AFLP,N,N,173,0,0,0,0,173
-QLD,170,Maranoa,Q,0,22074,Q Ticket Votes,Australian Sex Party,ASXP,N,N,1504,171,0,38,94,1807
+QLD,170,Maranoa,P,9998,0,Unapportioned,Australian Fishing and Lifestyle Party,AFLP,N,N,146,0,0,0,0,146
+QLD,170,Maranoa,Q,0,22074,Q Ticket Votes,Australian Sex Party,ASXP,N,N,1552,171,0,38,94,1855
 QLD,170,Maranoa,Q,1,21871,"GIBSON, Desiree Lee",Australian Sex Party,ASXP,N,N,9,2,0,0,3,14
 QLD,170,Maranoa,Q,2,21873,"SHEEN, Tim",Australian Sex Party,ASXP,N,N,1,0,0,0,1,2
-QLD,170,Maranoa,Q,9998,0,Unapportioned,Australian Sex Party,ASXP,N,N,343,0,0,0,0,343
-QLD,170,Maranoa,R,0,22068,R Ticket Votes,The Greens,GRN,N,N,3364,423,0,118,359,4264
+QLD,170,Maranoa,Q,9998,0,Unapportioned,Australian Sex Party,ASXP,N,N,295,0,0,0,0,295
+QLD,170,Maranoa,R,0,22068,R Ticket Votes,The Greens,GRN,N,N,3447,423,0,118,359,4347
 QLD,170,Maranoa,R,1,21515,"WATERS, Larissa",The Greens,GRN,N,N,117,7,0,0,28,152
 QLD,170,Maranoa,R,2,21518,"CONNORS, Elizabeth Louise Alice",The Greens,GRN,N,N,2,0,0,0,1,3
 QLD,170,Maranoa,R,3,21519,"STIRLING, Jenny",The Greens,GRN,N,N,5,0,0,0,1,6
-QLD,170,Maranoa,R,9998,0,Unapportioned,The Greens,GRN,N,N,624,0,0,0,0,624
-QLD,170,Maranoa,S,0,22081,S Ticket Votes,Socialist Alliance,SAL,N,N,40,12,0,3,6,61
+QLD,170,Maranoa,R,9998,0,Unapportioned,The Greens,GRN,N,N,546,0,0,0,0,546
+QLD,170,Maranoa,S,0,22081,S Ticket Votes,Socialist Alliance,SAL,N,N,42,12,0,3,6,63
 QLD,170,Maranoa,S,1,21899,"WATSON, Sam",Socialist Alliance,SAL,N,N,0,0,0,0,0,0
 QLD,170,Maranoa,S,2,21900,"LOWE, David",Socialist Alliance,SAL,N,N,0,0,0,0,0,0
-QLD,170,Maranoa,S,9998,0,Unapportioned,Socialist Alliance,SAL,N,N,247,0,0,0,0,247
-QLD,170,Maranoa,T,0,22066,T Ticket Votes,Australian Labor Party,ALP,N,N,12840,1143,0,403,1281,15667
+QLD,170,Maranoa,S,9998,0,Unapportioned,Socialist Alliance,SAL,N,N,245,0,0,0,0,245
+QLD,170,Maranoa,T,0,22066,T Ticket Votes,Australian Labor Party,ALP,N,N,13240,1143,0,403,1281,16067
 QLD,170,Maranoa,T,1,20979,"LUDWIG, Joe",Australian Labor Party,ALP,N,Y,78,3,0,0,32,113
 QLD,170,Maranoa,T,2,20980,"McLUCAS, Jan",Australian Labor Party,ALP,N,Y,3,0,0,0,3,6
 QLD,170,Maranoa,T,3,20982,"SMITH, David",Australian Labor Party,ALP,N,N,6,0,0,0,0,6
 QLD,170,Maranoa,T,4,20983,"FENTIMAN, Shannon",Australian Labor Party,ALP,N,N,8,0,0,0,2,10
-QLD,170,Maranoa,T,9998,0,Unapportioned,Australian Labor Party,ALP,N,N,2338,0,0,0,0,2338
-QLD,170,Maranoa,U,0,22069,U Ticket Votes,Liberal Democrats (LDP),LDP,N,N,1338,163,0,76,122,1699
+QLD,170,Maranoa,T,9998,0,Unapportioned,Australian Labor Party,ALP,N,N,1956,0,0,0,0,1956
+QLD,170,Maranoa,U,0,22069,U Ticket Votes,Liberal Democrats (LDP),LDP,N,N,1396,163,0,76,122,1757
 QLD,170,Maranoa,U,1,21520,"FRYAR, Jim",Liberal Democrats (LDP),LDP,N,N,6,0,0,0,1,7
 QLD,170,Maranoa,U,2,21521,"FULTON, Robert",Liberal Democrats (LDP),LDP,N,N,1,0,0,0,0,1
-QLD,170,Maranoa,U,9998,0,Unapportioned,Liberal Democrats (LDP),LDP,N,N,298,0,0,0,0,298
-QLD,170,Maranoa,V,0,22071,V Ticket Votes,D.L.P. - Democratic Labor Party,DLP,N,N,288,22,0,17,15,342
+QLD,170,Maranoa,U,9998,0,Unapportioned,Liberal Democrats (LDP),LDP,N,N,242,0,0,0,0,242
+QLD,170,Maranoa,V,0,22071,V Ticket Votes,D.L.P. - Democratic Labor Party,DLP,N,N,297,22,0,17,15,351
 QLD,170,Maranoa,V,1,21525,"ZEGENHAGEN, Tony",D.L.P. - Democratic Labor Party,DLP,N,N,0,1,0,0,2,3
 QLD,170,Maranoa,V,2,21526,"BARR, Angelique Maree",D.L.P. - Democratic Labor Party,DLP,N,N,0,0,0,0,0,0
 QLD,170,Maranoa,V,3,21527,"JACKSON, Noel W",D.L.P. - Democratic Labor Party,DLP,N,N,0,0,0,0,0,0
-QLD,170,Maranoa,V,9998,0,Unapportioned,D.L.P. - Democratic Labor Party,DLP,N,N,60,0,0,0,0,60
-QLD,170,Maranoa,W,0,22061,W Ticket Votes,Christian Democratic Party,CDP,N,N,240,20,0,21,23,304
+QLD,170,Maranoa,V,9998,0,Unapportioned,D.L.P. - Democratic Labor Party,DLP,N,N,51,0,0,0,0,51
+QLD,170,Maranoa,W,0,22061,W Ticket Votes,Christian Democratic Party,CDP,N,N,249,20,0,21,23,313
 QLD,170,Maranoa,W,1,20719,"BRICE, Malcolm",Christian Democratic Party,CDP,N,N,10,1,0,0,3,14
 QLD,170,Maranoa,W,2,20720,"VOGEL, Tony",Christian Democratic Party,CDP,N,N,4,0,0,0,0,4
-QLD,170,Maranoa,W,9998,0,Unapportioned,Christian Democratic Party,CDP,N,N,66,0,0,0,0,66
+QLD,170,Maranoa,W,9998,0,Unapportioned,Christian Democratic Party,CDP,N,N,58,0,0,0,0,58
 QLD,170,Maranoa,UG,1,21909,"WHITE, Mark",Independent,IND,N,N,26,1,0,0,8,35
 QLD,170,Maranoa,UG,2,21620,"BAMBRICK, Don",Independent,IND,N,N,1,0,0,0,0,1
 QLD,170,Maranoa,UG,3,22012,"SMITH, Mark Leslie Chapman",Independent,IND,N,N,2,1,0,0,1,4
@@ -9422,7 +9422,7 @@ QLD,171,McPherson,A,0,22073,A Ticket Votes,Senator On-Line,SOL,N,N,183,11,0,9,4,
 QLD,171,McPherson,A,1,21867,"READING, Scott",Senator On-Line,SOL,N,N,9,1,0,1,2,13
 QLD,171,McPherson,A,2,21868,"EMBREY, Joh",Senator On-Line,SOL,N,N,0,0,0,0,0,0
 QLD,171,McPherson,A,9998,0,Unapportioned,Senator On-Line,SOL,N,N,0,0,0,0,0,0
-QLD,171,McPherson,B,0,22083,B Ticket Votes,Carers Alliance,CA,N,N,152,3,1,4,23,183
+QLD,171,McPherson,B,0,22083,B Ticket Votes,Carers Alliance,CA,N,N,152,3,1,4,20,180
 QLD,171,McPherson,B,1,22007,"VETTER, Anne",Carers Alliance,CA,N,N,14,1,0,0,2,17
 QLD,171,McPherson,B,2,22009,"HORNE, Vicki",Carers Alliance,CA,N,N,0,1,0,0,0,1
 QLD,171,McPherson,B,9998,0,Unapportioned,Carers Alliance,CA,N,N,2,0,0,0,0,2
@@ -9430,12 +9430,12 @@ QLD,171,McPherson,C,0,22080,C Ticket Votes,,,N,N,16,0,0,2,1,19
 QLD,171,McPherson,C,1,21897,"SPENCER, Paul",,,N,N,1,0,0,0,0,1
 QLD,171,McPherson,C,2,21898,"SPENCER, Mary",,,N,N,0,0,0,0,0,0
 QLD,171,McPherson,C,9998,0,Unapportioned,,,N,N,0,0,0,0,0,0
-QLD,171,McPherson,D,0,22070,D Ticket Votes,Family First,FFP,N,N,1963,104,15,76,89,2247
+QLD,171,McPherson,D,0,22070,D Ticket Votes,Family First,FFP,N,N,1963,104,15,76,78,2236
 QLD,171,McPherson,D,1,21522,"FRANCIS, Wendy",Family First,FFP,N,N,80,1,0,1,6,88
 QLD,171,McPherson,D,2,21523,"FINDLAY, Peter",Family First,FFP,N,N,3,0,0,0,0,3
 QLD,171,McPherson,D,3,21524,"NICKSON, Amanda",Family First,FFP,N,N,3,0,0,0,0,3
 QLD,171,McPherson,D,9998,0,Unapportioned,Family First,FFP,N,N,9,0,0,0,0,9
-QLD,171,McPherson,E,0,22077,E Ticket Votes,Shooters and Fishers,ASP,N,N,556,45,5,46,33,685
+QLD,171,McPherson,E,0,22077,E Ticket Votes,Shooters and Fishers,ASP,N,N,556,45,5,46,28,680
 QLD,171,McPherson,E,1,21884,"PETER, Andrew Mark",Shooters and Fishers,ASP,N,N,30,2,0,0,1,33
 QLD,171,McPherson,E,2,21886,"HUGGETT, Chris",Shooters and Fishers,ASP,N,N,0,0,0,0,1,1
 QLD,171,McPherson,E,9998,0,Unapportioned,Shooters and Fishers,ASP,N,N,7,0,0,0,0,7
@@ -9447,7 +9447,7 @@ QLD,171,McPherson,G,0,22067,G Ticket Votes,,,N,N,17,2,0,0,0,19
 QLD,171,McPherson,G,1,20985,"LINDSAY-PARK, E-Jay",,,N,N,0,0,0,0,0,0
 QLD,171,McPherson,G,2,20986,"GUERIN, Lachlan",,,N,N,0,0,0,0,0,0
 QLD,171,McPherson,G,9998,0,Unapportioned,,,N,N,0,0,0,0,0,0
-QLD,171,McPherson,H,0,22079,H Ticket Votes,One Nation,ON,N,N,430,29,3,33,33,528
+QLD,171,McPherson,H,0,22079,H Ticket Votes,One Nation,ON,N,N,430,29,3,33,28,523
 QLD,171,McPherson,H,1,21895,"EVANS, Rod",One Nation,ON,N,N,13,1,0,0,2,16
 QLD,171,McPherson,H,2,21896,"NELSON, Ian J",One Nation,ON,N,N,0,0,0,0,0,0
 QLD,171,McPherson,H,9998,0,Unapportioned,One Nation,ON,N,N,3,0,0,0,0,3
@@ -9455,7 +9455,7 @@ QLD,171,McPherson,I,0,22072,I Ticket Votes,,,N,N,55,3,0,4,2,64
 QLD,171,McPherson,I,1,21528,"WATTIE, Russell",,,N,N,2,0,0,0,0,2
 QLD,171,McPherson,I,2,21529,"DOWELL, John",,,N,N,3,0,0,0,0,3
 QLD,171,McPherson,I,9998,0,Unapportioned,,,N,N,0,0,0,0,0,0
-QLD,171,McPherson,J,0,22075,J Ticket Votes,Australian Democrats,DEM,N,N,345,18,1,26,26,416
+QLD,171,McPherson,J,0,22075,J Ticket Votes,Australian Democrats,DEM,N,N,345,18,1,26,24,414
 QLD,171,McPherson,J,1,21874,"STEVENSON, Paul Joseph",Australian Democrats,DEM,N,N,17,0,0,0,2,19
 QLD,171,McPherson,J,2,21876,"CLUSE, Jennifer",Australian Democrats,DEM,N,N,3,0,0,0,0,3
 QLD,171,McPherson,J,9998,0,Unapportioned,Australian Democrats,DEM,N,N,3,0,0,0,0,3
@@ -9463,11 +9463,11 @@ QLD,171,McPherson,K,0,22076,K Ticket Votes,Australia First Party,FST,N,N,190,8,0
 QLD,171,McPherson,K,1,21881,"SCHUBACK, Peter",Australia First Party,AFN,N,N,2,0,0,0,0,2
 QLD,171,McPherson,K,2,21882,"MAINE, Nick",Australia First Party,AFN,N,N,0,0,0,0,1,1
 QLD,171,McPherson,K,9998,0,Unapportioned,Australia First Party,FST,N,N,0,0,0,0,0,0
-QLD,171,McPherson,L,0,22078,L Ticket Votes,Secular Party of Australia,SPA,N,N,47,3,0,1,4,55
+QLD,171,McPherson,L,0,22078,L Ticket Votes,Secular Party of Australia,SPA,N,N,47,3,0,1,3,54
 QLD,171,McPherson,L,1,21888,"ALBERTS, Kat",Secular Party of Australia,SPA,N,N,2,0,0,0,1,3
 QLD,171,McPherson,L,2,21891,"SHELTON, Peter",Secular Party of Australia,SPA,N,N,0,0,0,0,0,0
 QLD,171,McPherson,L,9998,0,Unapportioned,Secular Party of Australia,SPA,N,N,1,0,0,0,0,1
-QLD,171,McPherson,M,0,22065,M Ticket Votes,The Climate Sceptics,TCS,N,N,103,5,1,6,9,124
+QLD,171,McPherson,M,0,22065,M Ticket Votes,The Climate Sceptics,TCS,N,N,103,5,1,6,7,122
 QLD,171,McPherson,M,1,21863,"CARDWELL, Terence Leonard",The Climate Sceptics,TCS,N,N,8,0,0,0,1,9
 QLD,171,McPherson,M,2,21864,"JONES, Lance Herbert",The Climate Sceptics,TCS,N,N,0,0,0,0,0,0
 QLD,171,McPherson,M,9998,0,Unapportioned,The Climate Sceptics,TCS,N,N,1,0,0,0,0,1
@@ -9475,22 +9475,22 @@ QLD,171,McPherson,N,0,22063,N Ticket Votes,Citizens Electoral Council,CEC,N,N,71
 QLD,171,McPherson,N,1,20773,"THIES, Robert",Citizens Electoral Council,CEC,N,N,4,0,0,0,0,4
 QLD,171,McPherson,N,2,20776,"HETHERINGTON, Maurice Verney",Citizens Electoral Council,CEC,N,N,0,0,0,0,0,0
 QLD,171,McPherson,N,9998,0,Unapportioned,Citizens Electoral Council,CEC,N,N,0,0,0,0,0,0
-QLD,171,McPherson,O,0,22062,O Ticket Votes,Liberal National Party of Queensland,LNQ,N,N,31419,1281,116,1620,2459,36895
+QLD,171,McPherson,O,0,22062,O Ticket Votes,Liberal National Party of Queensland,LNQ,N,N,31419,1281,116,1620,2204,36640
 QLD,171,McPherson,O,1,20761,"BRANDIS, George Henry",Liberal National Party of Queensland,LNQ,N,Y,123,8,0,0,15,146
 QLD,171,McPherson,O,2,20764,"JOYCE, Barnaby",Liberal National Party of Queensland,LNQ,N,Y,79,4,0,1,19,103
 QLD,171,McPherson,O,3,20766,"MASON, Brett",Liberal National Party of Queensland,LNQ,N,Y,8,0,0,0,1,9
 QLD,171,McPherson,O,4,20768,"TROOD, Russell",Liberal National Party of Queensland,LNQ,N,Y,5,2,0,0,2,9
 QLD,171,McPherson,O,5,20769,"BOYD, Julie",Liberal National Party of Queensland,LNQ,N,N,13,3,0,0,1,17
 QLD,171,McPherson,O,9998,0,Unapportioned,Liberal National Party of Queensland,LNQ,N,N,22,0,0,0,0,22
-QLD,171,McPherson,P,0,22064,P Ticket Votes,Australian Fishing and Lifestyle Party,AFLP,N,N,743,54,2,46,28,873
+QLD,171,McPherson,P,0,22064,P Ticket Votes,Australian Fishing and Lifestyle Party,AFLP,N,N,743,54,2,46,26,871
 QLD,171,McPherson,P,1,20810,"DOUGLAS, Keith",Australian Fishing and Lifestyle Party,AFLP,N,N,23,1,0,1,2,27
 QLD,171,McPherson,P,2,20811,"MANSFIELD, Michael",Australian Fishing and Lifestyle Party,AFLP,N,N,1,0,0,0,0,1
 QLD,171,McPherson,P,9998,0,Unapportioned,Australian Fishing and Lifestyle Party,AFLP,N,N,5,0,0,0,0,5
-QLD,171,McPherson,Q,0,22074,Q Ticket Votes,Australian Sex Party,ASXP,N,N,1491,108,14,112,42,1767
+QLD,171,McPherson,Q,0,22074,Q Ticket Votes,Australian Sex Party,ASXP,N,N,1491,108,14,112,34,1759
 QLD,171,McPherson,Q,1,21871,"GIBSON, Desiree Lee",Australian Sex Party,ASXP,N,N,42,2,0,0,4,48
 QLD,171,McPherson,Q,2,21873,"SHEEN, Tim",Australian Sex Party,ASXP,N,N,2,0,0,0,2,4
 QLD,171,McPherson,Q,9998,0,Unapportioned,Australian Sex Party,ASXP,N,N,7,0,0,0,0,7
-QLD,171,McPherson,R,0,22068,R Ticket Votes,The Greens,GRN,N,N,8235,481,55,506,483,9760
+QLD,171,McPherson,R,0,22068,R Ticket Votes,The Greens,GRN,N,N,8235,481,55,506,414,9691
 QLD,171,McPherson,R,1,21515,"WATERS, Larissa",The Greens,GRN,N,N,289,13,0,0,19,321
 QLD,171,McPherson,R,2,21518,"CONNORS, Elizabeth Louise Alice",The Greens,GRN,N,N,17,1,0,0,2,20
 QLD,171,McPherson,R,3,21519,"STIRLING, Jenny",The Greens,GRN,N,N,23,2,0,0,0,25
@@ -9499,22 +9499,22 @@ QLD,171,McPherson,S,0,22081,S Ticket Votes,Socialist Alliance,SAL,N,N,66,2,1,4,1
 QLD,171,McPherson,S,1,21899,"WATSON, Sam",Socialist Alliance,SAL,N,N,10,0,0,0,0,10
 QLD,171,McPherson,S,2,21900,"LOWE, David",Socialist Alliance,SAL,N,N,0,0,0,0,0,0
 QLD,171,McPherson,S,9998,0,Unapportioned,Socialist Alliance,SAL,N,N,1,0,0,0,0,1
-QLD,171,McPherson,T,0,22066,T Ticket Votes,Australian Labor Party,ALP,N,N,18538,818,94,950,1171,21571
+QLD,171,McPherson,T,0,22066,T Ticket Votes,Australian Labor Party,ALP,N,N,18538,818,94,950,1045,21445
 QLD,171,McPherson,T,1,20979,"LUDWIG, Joe",Australian Labor Party,ALP,N,Y,97,9,0,0,8,114
 QLD,171,McPherson,T,2,20980,"McLUCAS, Jan",Australian Labor Party,ALP,N,Y,11,2,0,0,2,15
 QLD,171,McPherson,T,3,20982,"SMITH, David",Australian Labor Party,ALP,N,N,4,0,0,0,1,5
 QLD,171,McPherson,T,4,20983,"FENTIMAN, Shannon",Australian Labor Party,ALP,N,N,5,0,0,0,1,6
 QLD,171,McPherson,T,9998,0,Unapportioned,Australian Labor Party,ALP,N,N,7,0,0,0,0,7
-QLD,171,McPherson,U,0,22069,U Ticket Votes,Liberal Democrats (LDP),LDP,N,N,2019,135,11,199,169,2533
+QLD,171,McPherson,U,0,22069,U Ticket Votes,Liberal Democrats (LDP),LDP,N,N,2019,135,11,199,150,2514
 QLD,171,McPherson,U,1,21520,"FRYAR, Jim",Liberal Democrats (LDP),LDP,N,N,13,1,0,0,3,17
 QLD,171,McPherson,U,2,21521,"FULTON, Robert",Liberal Democrats (LDP),LDP,N,N,4,0,0,0,0,4
 QLD,171,McPherson,U,9998,0,Unapportioned,Liberal Democrats (LDP),LDP,N,N,0,0,0,0,0,0
-QLD,171,McPherson,V,0,22071,V Ticket Votes,D.L.P. - Democratic Labor Party,DLP,N,N,246,20,8,13,15,302
+QLD,171,McPherson,V,0,22071,V Ticket Votes,D.L.P. - Democratic Labor Party,DLP,N,N,246,20,8,13,12,299
 QLD,171,McPherson,V,1,21525,"ZEGENHAGEN, Tony",D.L.P. - Democratic Labor Party,DLP,N,N,1,0,0,0,0,1
 QLD,171,McPherson,V,2,21526,"BARR, Angelique Maree",D.L.P. - Democratic Labor Party,DLP,N,N,1,0,0,0,0,1
 QLD,171,McPherson,V,3,21527,"JACKSON, Noel W",D.L.P. - Democratic Labor Party,DLP,N,N,0,0,0,0,0,0
 QLD,171,McPherson,V,9998,0,Unapportioned,D.L.P. - Democratic Labor Party,DLP,N,N,6,0,0,0,0,6
-QLD,171,McPherson,W,0,22061,W Ticket Votes,Christian Democratic Party,CDP,N,N,224,13,2,18,28,285
+QLD,171,McPherson,W,0,22061,W Ticket Votes,Christian Democratic Party,CDP,N,N,224,13,2,18,22,279
 QLD,171,McPherson,W,1,20719,"BRICE, Malcolm",Christian Democratic Party,CDP,N,N,11,0,0,0,4,15
 QLD,171,McPherson,W,2,20720,"VOGEL, Tony",Christian Democratic Party,CDP,N,N,1,0,0,0,0,1
 QLD,171,McPherson,W,9998,0,Unapportioned,Christian Democratic Party,CDP,N,N,0,0,0,0,0,0
@@ -10372,79 +10372,79 @@ QLD,316,Wright,UG,3,22012,"SMITH, Mark Leslie Chapman",Independent,IND,N,N,4,0,0
 QLD,316,Wright,UG,4,21905,"WIRTH, Jarrod John",Independent,IND,N,N,2,0,0,0,0,2
 QLD,316,Wright,UG,5,22013,"PYKE, Peter",,,N,N,4,0,0,0,0,4
 QLD,316,Wright,UG,6,21906,"CARROLL, Maurie",Independent,IND,N,N,3,0,0,0,0,3
-SA,179,Adelaide,A,0,22155,A Ticket Votes,The Climate Sceptics,TCS,N,N,200,0,0,0,5,205
+SA,179,Adelaide,A,0,22155,A Ticket Votes,The Climate Sceptics,TCS,N,N,200,8,0,5,5,218
 SA,179,Adelaide,A,1,21777,"ASHBY, Leon Neville",The Climate Sceptics,TCS,N,N,73,0,0,0,0,73
 SA,179,Adelaide,A,2,21778,"ASHBY, Nathan",The Climate Sceptics,TCS,N,N,3,2,0,0,0,5
 SA,179,Adelaide,A,9998,0,Unapportioned,The Climate Sceptics,TCS,N,N,14,0,0,0,0,14
-SA,179,Adelaide,B,0,22156,B Ticket Votes,,,N,N,101,0,0,0,0,101
+SA,179,Adelaide,B,0,22156,B Ticket Votes,,,N,N,101,3,0,1,0,105
 SA,179,Adelaide,B,1,21991,"ALDRIDGE, Mark",,,N,N,29,1,0,0,0,30
 SA,179,Adelaide,B,2,21992,"COCHRANE, Christopher",,,N,N,0,0,0,0,0,0
 SA,179,Adelaide,B,9998,0,Unapportioned,,,N,N,0,0,0,0,0,0
-SA,179,Adelaide,C,0,22157,C Ticket Votes,Australian Labor Party,ALP,N,N,23891,0,0,0,431,24322
+SA,179,Adelaide,C,0,22157,C Ticket Votes,Australian Labor Party,ALP,N,N,23891,539,0,485,431,25346
 SA,179,Adelaide,C,1,21111,"GALLACHER, Alex",Australian Labor Party,ALP,N,N,900,18,0,0,12,930
 SA,179,Adelaide,C,2,21174,"McEWEN, Anne",Australian Labor Party,ALP,N,Y,137,2,0,0,3,142
 SA,179,Adelaide,C,3,21177,"WORTLEY, Dana",Australian Labor Party,ALP,N,Y,205,4,0,0,2,211
 SA,179,Adelaide,C,9998,0,Unapportioned,Australian Labor Party,ALP,N,N,938,0,0,0,0,938
-SA,179,Adelaide,D,0,22158,D Ticket Votes,Liberal,LP,N,N,25065,0,0,0,507,25572
+SA,179,Adelaide,D,0,22158,D Ticket Votes,Liberal,LP,N,N,25065,510,0,700,507,26782
 SA,179,Adelaide,D,1,20827,"FISHER, Mary Jo",Liberal,LP,N,Y,924,10,0,0,21,955
 SA,179,Adelaide,D,2,20828,"EDWARDS, Sean",Liberal,LP,N,N,63,1,0,0,0,64
 SA,179,Adelaide,D,3,20830,"FAWCETT, David",Liberal,LP,N,N,79,1,0,0,1,81
 SA,179,Adelaide,D,4,20831,"SALU, Peter",Liberal,LP,N,N,54,1,0,0,0,55
 SA,179,Adelaide,D,9998,0,Unapportioned,Liberal,LP,N,N,362,0,0,0,0,362
-SA,179,Adelaide,E,0,22159,E Ticket Votes,One Nation,ON,N,N,163,0,0,0,5,168
+SA,179,Adelaide,E,0,22159,E Ticket Votes,One Nation,ON,N,N,163,3,0,3,5,174
 SA,179,Adelaide,E,1,21719,"EDMONDS, Robert George",One Nation,ON,N,N,24,0,0,0,1,25
 SA,179,Adelaide,E,2,21723,"FITZPATRICK, Peter",One Nation,ON,N,N,1,0,0,0,0,1
 SA,179,Adelaide,E,9998,0,Unapportioned,One Nation,ON,N,N,13,0,0,0,0,13
-SA,179,Adelaide,F,0,22170,F Ticket Votes,D.L.P. - Democratic Labor Party,DLP,N,N,345,0,0,0,4,349
+SA,179,Adelaide,F,0,22170,F Ticket Votes,D.L.P. - Democratic Labor Party,DLP,N,N,345,10,0,8,4,367
 SA,179,Adelaide,F,1,21933,"RUSSELL, Paul",D.L.P. - Democratic Labor Party,DLP,N,N,25,1,0,0,1,27
 SA,179,Adelaide,F,2,21934,"McCABE, David",D.L.P. - Democratic Labor Party,DLP,N,N,2,0,0,0,0,2
 SA,179,Adelaide,F,9998,0,Unapportioned,D.L.P. - Democratic Labor Party,DLP,N,N,23,0,0,0,0,23
-SA,179,Adelaide,G,0,22161,G Ticket Votes,Christian Democratic Party,CDP,N,N,112,0,0,0,0,112
+SA,179,Adelaide,G,0,22161,G Ticket Votes,Christian Democratic Party,CDP,N,N,112,2,0,1,0,115
 SA,179,Adelaide,G,1,20819,"STEPHEN, Joseph",Christian Democratic Party,CDP,N,N,21,0,0,0,0,21
 SA,179,Adelaide,G,2,20821,"REVINK, Frank",Christian Democratic Party,CDP,N,N,0,0,0,0,0,0
 SA,179,Adelaide,G,9998,0,Unapportioned,Christian Democratic Party,CDP,N,N,3,0,0,0,0,3
-SA,179,Adelaide,H,0,22162,H Ticket Votes,Carers Alliance,CA,N,N,141,0,0,0,2,143
+SA,179,Adelaide,H,0,22162,H Ticket Votes,Carers Alliance,CA,N,N,141,7,0,5,2,155
 SA,179,Adelaide,H,1,21976,"CONNOR, Garry",Carers Alliance,CA,N,N,49,0,0,0,0,49
 SA,179,Adelaide,H,2,21978,"GROVES, Angela",Carers Alliance,CA,N,N,5,0,0,0,0,5
 SA,179,Adelaide,H,9998,0,Unapportioned,Carers Alliance,CA,N,N,6,0,0,0,0,6
-SA,179,Adelaide,I,0,22163,I Ticket Votes,Senator On-Line,SOL,N,N,66,0,0,0,2,68
+SA,179,Adelaide,I,0,22163,I Ticket Votes,Senator On-Line,SOL,N,N,66,1,0,2,2,71
 SA,179,Adelaide,I,1,21744,"LANG, Simon",Senator On-Line,SOL,N,N,19,0,0,0,0,19
 SA,179,Adelaide,I,2,21748,"DAWSON, Jamie",Senator On-Line,SOL,N,N,0,0,0,0,0,0
 SA,179,Adelaide,I,9998,0,Unapportioned,Senator On-Line,SOL,N,N,8,0,0,0,0,8
-SA,179,Adelaide,J,0,22164,J Ticket Votes,The Greens,GRN,N,N,10402,0,0,0,78,10480
+SA,179,Adelaide,J,0,22164,J Ticket Votes,The Greens,GRN,N,N,10402,325,0,224,78,11029
 SA,179,Adelaide,J,1,21785,"WRIGHT, Penny",The Greens,GRN,N,N,2426,42,0,0,25,2493
 SA,179,Adelaide,J,2,21788,"MONTGOMERY, Sandy",The Greens,GRN,N,N,47,0,0,0,1,48
 SA,179,Adelaide,J,3,21791,"MILLER, Jeremy John Scoular",The Greens,GRN,N,N,74,0,0,0,0,74
 SA,179,Adelaide,J,9998,0,Unapportioned,The Greens,GRN,N,N,218,0,0,0,0,218
-SA,179,Adelaide,K,0,22165,K Ticket Votes,Building Australia,BAP,N,N,67,0,0,0,0,67
+SA,179,Adelaide,K,0,22165,K Ticket Votes,Building Australia,BAP,N,N,67,2,0,2,0,71
 SA,179,Adelaide,K,1,21970,"ADAMS, Bill",Building Australia,BAP,N,N,9,0,0,0,0,9
 SA,179,Adelaide,K,2,21971,"JACKSON, Neil",Building Australia,BAP,N,N,5,0,0,0,0,5
 SA,179,Adelaide,K,9998,0,Unapportioned,Building Australia,BAP,N,N,5,0,0,0,0,5
-SA,179,Adelaide,L,0,22166,L Ticket Votes,Shooters and Fishers,ASP,N,N,291,0,0,0,2,293
+SA,179,Adelaide,L,0,22166,L Ticket Votes,Shooters and Fishers,ASP,N,N,291,19,0,18,2,330
 SA,179,Adelaide,L,1,21946,"LARSSON, Steve",Shooters and Fishers,ASP,N,N,49,0,0,0,0,49
 SA,179,Adelaide,L,2,21947,"BORSAK, Robert",Shooters and Fishers,ASP,N,N,4,0,0,0,0,4
 SA,179,Adelaide,L,9998,0,Unapportioned,Shooters and Fishers,ASP,N,N,14,0,0,0,0,14
-SA,179,Adelaide,M,0,22167,M Ticket Votes,Australian Democrats,DEM,N,N,334,0,0,0,5,339
+SA,179,Adelaide,M,0,22167,M Ticket Votes,Australian Democrats,DEM,N,N,334,13,0,14,5,366
 SA,179,Adelaide,M,1,22027,"WALKER, Jeanie",Australian Democrats,DEM,N,N,150,4,0,0,0,154
 SA,179,Adelaide,M,2,22028,"CASTRIQUE, Andrew",Australian Democrats,DEM,N,N,12,0,0,0,0,12
 SA,179,Adelaide,M,9998,0,Unapportioned,Australian Democrats,DEM,N,N,11,0,0,0,0,11
-SA,179,Adelaide,N,0,22168,N Ticket Votes,Socialist Alliance,SAL,N,N,102,0,0,0,0,102
+SA,179,Adelaide,N,0,22168,N Ticket Votes,Socialist Alliance,SAL,N,N,102,1,0,1,0,104
 SA,179,Adelaide,N,1,21696,"CLARKE, Renfrey",Socialist Alliance,SAL,N,N,45,0,0,0,0,45
 SA,179,Adelaide,N,2,21699,"RATCLIFFE, Ruth",Socialist Alliance,SAL,N,N,12,0,0,0,0,12
 SA,179,Adelaide,N,9998,0,Unapportioned,Socialist Alliance,SAL,N,N,6,0,0,0,0,6
-SA,179,Adelaide,O,0,22169,O Ticket Votes,Secular Party of Australia,SPA,N,N,49,0,0,0,3,52
+SA,179,Adelaide,O,0,22169,O Ticket Votes,Secular Party of Australia,SPA,N,N,49,2,0,0,3,54
 SA,179,Adelaide,O,1,21729,"SHARRAD, Scott James",Secular Party of Australia,SPA,N,N,52,0,0,0,2,54
 SA,179,Adelaide,O,2,21731,"CLARKE, Moira",Secular Party of Australia,SPA,N,N,6,0,0,0,0,6
 SA,179,Adelaide,O,9998,0,Unapportioned,Secular Party of Australia,SPA,N,N,1,0,0,0,0,1
-SA,179,Adelaide,P,0,22160,P Ticket Votes,Liberal Democrats (LDP),LDP,N,N,253,0,0,0,4,257
+SA,179,Adelaide,P,0,22160,P Ticket Votes,Liberal Democrats (LDP),LDP,N,N,253,9,0,5,4,271
 SA,179,Adelaide,P,1,21206,"KERRY, Nick",Liberal Democrats (LDP),LDP,N,N,30,0,0,0,0,30
 SA,179,Adelaide,P,2,21209,"CLARK, Megan",Liberal Democrats (LDP),LDP,N,N,3,0,0,0,0,3
 SA,179,Adelaide,P,9998,0,Unapportioned,Liberal Democrats (LDP),LDP,N,N,5,0,0,0,0,5
-SA,179,Adelaide,Q,0,22171,Q Ticket Votes,Australian Sex Party,ASXP,N,N,823,0,0,0,5,828
+SA,179,Adelaide,Q,0,22171,Q Ticket Votes,Australian Sex Party,ASXP,N,N,823,43,0,22,5,893
 SA,179,Adelaide,Q,1,21801,"REID, Ari",Australian Sex Party,ASXP,N,N,238,8,0,0,4,250
 SA,179,Adelaide,Q,2,21802,"VIRGO, Jason",Australian Sex Party,ASXP,N,N,28,1,0,0,0,29
 SA,179,Adelaide,Q,9998,0,Unapportioned,Australian Sex Party,ASXP,N,N,33,0,0,0,0,33
-SA,179,Adelaide,R,0,22172,R Ticket Votes,Family First,FFP,N,N,1211,0,0,0,25,1236
+SA,179,Adelaide,R,0,22172,R Ticket Votes,Family First,FFP,N,N,1211,37,0,35,25,1308
 SA,179,Adelaide,R,1,21186,"DAY, Bob",Family First,FFP,N,N,213,6,0,0,5,224
 SA,179,Adelaide,R,2,21189,"COLE, Andrew",Family First,FFP,N,N,9,2,0,0,0,11
 SA,179,Adelaide,R,3,21196,"HENNESSEY, Thea",Family First,FFP,N,N,7,1,0,0,0,8
@@ -11152,7 +11152,7 @@ SA,190,Sturt,R,2,21189,"COLE, Andrew",Family First,FFP,N,N,1,0,0,0,0,1
 SA,190,Sturt,R,3,21196,"HENNESSEY, Thea",Family First,FFP,N,N,9,0,0,0,0,9
 SA,190,Sturt,R,9998,0,Unapportioned,Family First,FFP,N,N,0,0,0,0,0,0
 SA,190,Sturt,UG,1,21803,"DRUMMOND, Michelle",Independent,IND,N,N,51,0,1,0,0,52
-SA,191,Wakefield,A,0,22155,A Ticket Votes,The Climate Sceptics,TCS,N,N,0,2,5,4,2,13
+SA,191,Wakefield,A,0,22155,A Ticket Votes,The Climate Sceptics,TCS,N,N,0,2,5,4,1,12
 SA,191,Wakefield,A,1,21777,"ASHBY, Leon Neville",The Climate Sceptics,TCS,N,N,51,2,0,0,5,58
 SA,191,Wakefield,A,2,21778,"ASHBY, Nathan",The Climate Sceptics,TCS,N,N,1,0,0,0,0,1
 SA,191,Wakefield,A,9998,0,Unapportioned,The Climate Sceptics,TCS,N,N,295,0,0,0,0,295
@@ -11160,12 +11160,12 @@ SA,191,Wakefield,B,0,22156,B Ticket Votes,,,N,N,0,0,3,3,3,9
 SA,191,Wakefield,B,1,21991,"ALDRIDGE, Mark",,,N,N,15,0,0,0,4,19
 SA,191,Wakefield,B,2,21992,"COCHRANE, Christopher",,,N,N,1,0,0,0,0,1
 SA,191,Wakefield,B,9998,0,Unapportioned,,,N,N,134,0,0,0,0,134
-SA,191,Wakefield,C,0,22157,C Ticket Votes,Australian Labor Party,ALP,N,N,0,200,391,621,136,1348
+SA,191,Wakefield,C,0,22157,C Ticket Votes,Australian Labor Party,ALP,N,N,0,200,391,621,125,1337
 SA,191,Wakefield,C,1,21111,"GALLACHER, Alex",Australian Labor Party,ALP,N,N,369,5,0,0,33,407
 SA,191,Wakefield,C,2,21174,"McEWEN, Anne",Australian Labor Party,ALP,N,Y,65,1,0,0,9,75
 SA,191,Wakefield,C,3,21177,"WORTLEY, Dana",Australian Labor Party,ALP,N,Y,61,0,0,0,4,65
 SA,191,Wakefield,C,9998,0,Unapportioned,Australian Labor Party,ALP,N,N,34390,0,0,0,0,34390
-SA,191,Wakefield,D,0,22158,D Ticket Votes,Liberal,LP,N,N,0,119,131,716,167,1133
+SA,191,Wakefield,D,0,22158,D Ticket Votes,Liberal,LP,N,N,0,119,131,716,160,1126
 SA,191,Wakefield,D,1,20827,"FISHER, Mary Jo",Liberal,LP,N,Y,316,2,0,0,22,340
 SA,191,Wakefield,D,2,20828,"EDWARDS, Sean",Liberal,LP,N,N,11,0,0,0,2,13
 SA,191,Wakefield,D,3,20830,"FAWCETT, David",Liberal,LP,N,N,341,0,0,0,32,373
@@ -11191,7 +11191,7 @@ SA,191,Wakefield,I,0,22163,I Ticket Votes,Senator On-Line,SOL,N,N,0,0,0,3,0,3
 SA,191,Wakefield,I,1,21744,"LANG, Simon",Senator On-Line,SOL,N,N,3,0,0,0,0,3
 SA,191,Wakefield,I,2,21748,"DAWSON, Jamie",Senator On-Line,SOL,N,N,2,0,0,0,0,2
 SA,191,Wakefield,I,9998,0,Unapportioned,Senator On-Line,SOL,N,N,81,0,0,0,0,81
-SA,191,Wakefield,J,0,22164,J Ticket Votes,The Greens,GRN,N,N,0,62,92,160,35,349
+SA,191,Wakefield,J,0,22164,J Ticket Votes,The Greens,GRN,N,N,0,62,92,160,33,347
 SA,191,Wakefield,J,1,21785,"WRIGHT, Penny",The Greens,GRN,N,N,485,7,0,0,36,528
 SA,191,Wakefield,J,2,21788,"MONTGOMERY, Sandy",The Greens,GRN,N,N,18,1,0,0,1,20
 SA,191,Wakefield,J,3,21791,"MILLER, Jeremy John Scoular",The Greens,GRN,N,N,15,1,0,0,2,18
@@ -11200,11 +11200,11 @@ SA,191,Wakefield,K,0,22165,K Ticket Votes,Building Australia,BAP,N,N,0,1,3,1,1,6
 SA,191,Wakefield,K,1,21970,"ADAMS, Bill",Building Australia,BAP,N,N,4,0,0,0,0,4
 SA,191,Wakefield,K,2,21971,"JACKSON, Neil",Building Australia,BAP,N,N,1,0,0,0,1,2
 SA,191,Wakefield,K,9998,0,Unapportioned,Building Australia,BAP,N,N,125,0,0,0,0,125
-SA,191,Wakefield,L,0,22166,L Ticket Votes,Shooters and Fishers,ASP,N,N,0,10,12,31,5,58
+SA,191,Wakefield,L,0,22166,L Ticket Votes,Shooters and Fishers,ASP,N,N,0,10,12,31,4,57
 SA,191,Wakefield,L,1,21946,"LARSSON, Steve",Shooters and Fishers,ASP,N,N,68,1,0,0,6,75
 SA,191,Wakefield,L,2,21947,"BORSAK, Robert",Shooters and Fishers,ASP,N,N,3,0,0,0,1,4
 SA,191,Wakefield,L,9998,0,Unapportioned,Shooters and Fishers,ASP,N,N,950,0,0,0,0,950
-SA,191,Wakefield,M,0,22167,M Ticket Votes,Australian Democrats,DEM,N,N,0,5,3,9,6,23
+SA,191,Wakefield,M,0,22167,M Ticket Votes,Australian Democrats,DEM,N,N,0,5,3,9,4,21
 SA,191,Wakefield,M,1,22027,"WALKER, Jeanie",Australian Democrats,DEM,N,N,56,2,0,0,1,59
 SA,191,Wakefield,M,2,22028,"CASTRIQUE, Andrew",Australian Democrats,DEM,N,N,2,0,0,0,0,2
 SA,191,Wakefield,M,9998,0,Unapportioned,Australian Democrats,DEM,N,N,452,0,0,0,0,452
@@ -11224,7 +11224,7 @@ SA,191,Wakefield,Q,0,22171,Q Ticket Votes,Australian Sex Party,ASXP,N,N,0,15,13,
 SA,191,Wakefield,Q,1,21801,"REID, Ari",Australian Sex Party,ASXP,N,N,74,0,0,0,3,77
 SA,191,Wakefield,Q,2,21802,"VIRGO, Jason",Australian Sex Party,ASXP,N,N,10,0,0,0,0,10
 SA,191,Wakefield,Q,9998,0,Unapportioned,Australian Sex Party,ASXP,N,N,1341,0,0,0,0,1341
-SA,191,Wakefield,R,0,22172,R Ticket Votes,Family First,FFP,N,N,0,30,54,60,21,165
+SA,191,Wakefield,R,0,22172,R Ticket Votes,Family First,FFP,N,N,0,30,54,60,20,164
 SA,191,Wakefield,R,1,21186,"DAY, Bob",Family First,FFP,N,N,214,3,0,0,18,235
 SA,191,Wakefield,R,2,21189,"COLE, Andrew",Family First,FFP,N,N,9,0,0,0,0,9
 SA,191,Wakefield,R,3,21196,"HENNESSEY, Thea",Family First,FFP,N,N,6,0,0,0,0,6
@@ -11654,23 +11654,23 @@ VIC,198,Ballarat,U,2,21914,"PICCININI, Paula",,,N,N,0,0,0,0,0,0
 VIC,198,Ballarat,U,9998,0,Unapportioned,,,N,N,39,0,0,0,0,39
 VIC,198,Ballarat,UG,1,20887,"BEALE, Grant",Independent,IND,N,N,13,0,0,0,0,13
 VIC,198,Ballarat,UG,2,21428,"SHEA, Glenn",Independent,IND,N,N,1,0,0,0,0,1
-VIC,199,Batman,A,0,22119,A Ticket Votes,Socialist Equality Party,SEP,N,N,300,0,0,0,3,303
+VIC,199,Batman,A,0,22119,A Ticket Votes,Socialist Equality Party,SEP,N,N,300,0,0,1,4,305
 VIC,199,Batman,A,1,20946,"O'CONNOR, Patrick",Socialist Equality Party,SEP,N,N,26,0,0,0,3,29
 VIC,199,Batman,A,2,20951,"VONGVIXAY, Keo",Socialist Equality Party,SEP,N,N,1,0,0,0,0,1
 VIC,199,Batman,A,9998,0,Unapportioned,Socialist Equality Party,SEP,N,N,3,0,0,0,0,3
-VIC,199,Batman,B,0,22126,B Ticket Votes,,,N,N,74,1,0,2,4,81
+VIC,199,Batman,B,0,22126,B Ticket Votes,,,N,N,74,1,0,3,5,83
 VIC,199,Batman,B,1,21509,"TOSCANO, Joseph",,,N,N,17,0,0,0,1,18
 VIC,199,Batman,B,2,21512,"WARFE, Jenny",,,N,N,1,0,0,0,0,1
 VIC,199,Batman,B,3,21514,"SADAUSKAS, Andrew",,,N,N,1,0,0,0,0,1
 VIC,199,Batman,B,9998,0,Unapportioned,,,N,N,5,0,0,0,0,5
-VIC,199,Batman,C,0,22129,C Ticket Votes,Family First,FFP,N,N,1034,12,0,17,108,1171
+VIC,199,Batman,C,0,22129,C Ticket Votes,Family First,FFP,N,N,1034,12,0,27,121,1194
 VIC,199,Batman,C,1,21716,"FIELDING, Steven",Family First,FFP,N,Y,25,0,0,0,6,31
 VIC,199,Batman,C,2,21728,"PLUMRIDGE, Gary",Family First,FFP,N,N,1,0,0,0,0,1
 VIC,199,Batman,C,3,21732,"BOWN SEELEY, Ann Edith",Family First,FFP,N,N,1,0,0,0,0,1
 VIC,199,Batman,C,4,21735,"GOH, Yuli",Family First,FFP,N,N,0,0,0,0,0,0
 VIC,199,Batman,C,5,21737,"KHOO, Joyce",Family First,FFP,N,N,1,0,0,0,0,1
 VIC,199,Batman,C,9998,0,Unapportioned,Family First,FFP,N,N,2,0,0,0,0,2
-VIC,199,Batman,D,0,22131,D Ticket Votes,Australian Greens,GRN,N,N,13950,167,0,168,667,14952
+VIC,199,Batman,D,0,22131,D Ticket Votes,Australian Greens,GRN,N,N,13950,167,0,542,793,15452
 VIC,199,Batman,D,1,21875,"DI NATALE, Richard",Australian Greens,GRN,N,N,1383,0,0,0,69,1452
 VIC,199,Batman,D,2,21877,"RICE, Janet",Australian Greens,GRN,N,N,72,0,0,0,2,74
 VIC,199,Batman,D,3,21878,"BUI, Nam",Australian Greens,GRN,N,N,9,0,0,0,1,10
@@ -11678,33 +11678,33 @@ VIC,199,Batman,D,4,21883,"HARGRAVE, Jen",Australian Greens,GRN,N,N,25,0,0,0,1,26
 VIC,199,Batman,D,5,21885,"RIVENDELL, Julie",Australian Greens,GRN,N,N,24,0,0,0,0,24
 VIC,199,Batman,D,6,21887,"SHNOOKAL, Liezl",Australian Greens,GRN,N,N,32,0,0,0,2,34
 VIC,199,Batman,D,9998,0,Unapportioned,Australian Greens,GRN,N,N,392,0,0,0,0,392
-VIC,199,Batman,E,0,22123,E Ticket Votes,Senator On-Line,SOL,N,N,60,0,0,0,0,60
+VIC,199,Batman,E,0,22123,E Ticket Votes,Senator On-Line,SOL,N,N,60,0,0,1,0,61
 VIC,199,Batman,E,1,21434,"SARGENT, Glenn R",Senator On-Line,SOL,N,N,6,0,0,0,1,7
 VIC,199,Batman,E,2,21437,"WARDLE, Emma Louise",Senator On-Line,SOL,N,N,0,0,0,0,0,0
 VIC,199,Batman,E,9998,0,Unapportioned,Senator On-Line,SOL,N,N,1,0,0,0,0,1
-VIC,199,Batman,F,0,22136,F Ticket Votes,Democratic Labor Party (DLP) of Australia,DLP,N,N,1612,19,0,23,127,1781
+VIC,199,Batman,F,0,22136,F Ticket Votes,Democratic Labor Party (DLP) of Australia,DLP,N,N,1612,19,0,38,146,1815
 VIC,199,Batman,F,1,21985,"MADIGAN, John",Democratic Labor Party (DLP) of Australia,DLP,N,N,19,0,0,0,4,23
 VIC,199,Batman,F,2,21987,"GONSALVEZ, Geraldine",Democratic Labor Party (DLP) of Australia,DLP,N,N,2,0,0,0,0,2
 VIC,199,Batman,F,3,21989,"KAVANAGH, John",Democratic Labor Party (DLP) of Australia,DLP,N,N,2,0,0,0,0,2
 VIC,199,Batman,F,9998,0,Unapportioned,Democratic Labor Party (DLP) of Australia,DLP,N,N,3,0,0,0,0,3
-VIC,199,Batman,G,0,22128,G Ticket Votes,Australian Democrats,DEM,N,N,323,4,0,11,33,371
+VIC,199,Batman,G,0,22128,G Ticket Votes,Australian Democrats,DEM,N,N,323,4,0,18,41,386
 VIC,199,Batman,G,1,21708,"HOWE, Roger",Australian Democrats,DEM,N,N,33,0,0,0,3,36
 VIC,199,Batman,G,2,21711,"WESTGARTH, Rick",Australian Democrats,DEM,N,N,4,0,0,0,0,4
 VIC,199,Batman,G,9998,0,Unapportioned,Australian Democrats,DEM,N,N,16,0,0,0,0,16
-VIC,199,Batman,H,0,22125,H Ticket Votes,Shooters and Fishers,ASP,N,N,365,7,0,13,21,406
+VIC,199,Batman,H,0,22125,H Ticket Votes,Shooters and Fishers,ASP,N,N,365,7,0,16,36,424
 VIC,199,Batman,H,1,21443,"KELLY, Peter Maxwell",Shooters and Fishers,ASP,N,N,29,0,0,0,8,37
 VIC,199,Batman,H,2,21445,"KRSTIC, Alex",Shooters and Fishers,ASP,N,N,1,0,0,0,0,1
 VIC,199,Batman,H,9998,0,Unapportioned,Shooters and Fishers,ASP,N,N,8,0,0,0,0,8
-VIC,199,Batman,I,0,22117,I Ticket Votes,Australian Sex Party,ASXP,N,N,1127,17,0,22,53,1219
+VIC,199,Batman,I,0,22117,I Ticket Votes,Australian Sex Party,ASXP,N,N,1127,17,0,46,68,1258
 VIC,199,Batman,I,1,20835,"PATTEN, Fiona",Australian Sex Party,ASXP,N,N,121,0,0,0,3,124
 VIC,199,Batman,I,2,20836,"WILSON, Emma",Australian Sex Party,ASXP,N,N,6,0,0,0,0,6
 VIC,199,Batman,I,3,20837,"BLAKEY, Katie",Australian Sex Party,ASXP,N,N,7,0,0,0,0,7
 VIC,199,Batman,I,9998,0,Unapportioned,Australian Sex Party,ASXP,N,N,24,0,0,0,0,24
-VIC,199,Batman,J,0,22130,J Ticket Votes,The Climate Sceptics,TCS,N,N,78,0,0,0,11,89
+VIC,199,Batman,J,0,22130,J Ticket Votes,The Climate Sceptics,TCS,N,N,78,0,0,3,14,95
 VIC,199,Batman,J,1,21869,"DAWSON, Chris",The Climate Sceptics,TCS,N,N,9,0,0,0,0,9
 VIC,199,Batman,J,2,21872,"HOLMES, Lee",The Climate Sceptics,TCS,N,N,1,0,0,0,0,1
 VIC,199,Batman,J,9998,0,Unapportioned,The Climate Sceptics,TCS,N,N,1,0,0,0,0,1
-VIC,199,Batman,K,0,22121,K Ticket Votes,Socialist Alliance,SAL,N,N,109,0,0,2,4,115
+VIC,199,Batman,K,0,22121,K Ticket Votes,Socialist Alliance,SAL,N,N,109,0,0,4,4,117
 VIC,199,Batman,K,1,21108,"WINDISCH, Margarita",Socialist Alliance,SAL,N,N,24,0,0,0,0,24
 VIC,199,Batman,K,2,21114,"FIREBRACE, Sharon",Socialist Alliance,SAL,N,N,2,0,0,0,0,2
 VIC,199,Batman,K,3,21116,"GUY, Ron",Socialist Alliance,SAL,N,N,2,0,0,0,0,2
@@ -11717,40 +11717,40 @@ VIC,199,Batman,M,0,22135,M Ticket Votes,Building Australia,BAP,N,N,78,2,0,1,6,87
 VIC,199,Batman,M,1,21982,"EVANS, Darren",Building Australia,BAP,N,N,0,0,0,0,2,2
 VIC,199,Batman,M,2,21983,"WHITE, Sam",Building Australia,BAP,N,N,0,0,0,0,0,0
 VIC,199,Batman,M,9998,0,Unapportioned,Building Australia,BAP,N,N,0,0,0,0,0,0
-VIC,199,Batman,N,0,22127,N Ticket Votes,One Nation,ON,N,N,140,1,0,7,12,160
+VIC,199,Batman,N,0,22127,N Ticket Votes,One Nation,ON,N,N,140,1,0,9,15,165
 VIC,199,Batman,N,1,21700,"TOWNSEND, Rosalyn",One Nation,ON,N,N,2,0,0,0,1,3
 VIC,199,Batman,N,2,21704,"TOWNSEND, Phillip",One Nation,ON,N,N,0,0,0,0,1,1
 VIC,199,Batman,N,9998,0,Unapportioned,One Nation,ON,N,N,5,0,0,0,0,5
-VIC,199,Batman,O,0,22118,O Ticket Votes,Liberal/The Nationals,LNP,N,N,11080,129,0,239,1012,12460
+VIC,199,Batman,O,0,22118,O Ticket Votes,Liberal/The Nationals,LNP,N,N,11080,129,0,405,1319,12933
 VIC,199,Batman,O,1,21950,"RONALDSON, Michael",Liberal,LP,N,Y,82,0,0,0,14,96
 VIC,199,Batman,O,2,21952,"McKENZIE, Bridget",The Nationals,NP,N,N,8,0,0,0,0,8
 VIC,199,Batman,O,3,21954,"McGAURAN, Julian",Liberal,LP,N,Y,9,0,0,0,3,12
 VIC,199,Batman,O,4,21956,"JENNISON, Susan",Liberal,LP,N,N,9,0,0,0,3,12
 VIC,199,Batman,O,9998,0,Unapportioned,Liberal/The Nationals,LNP,N,N,18,0,0,0,0,18
-VIC,199,Batman,P,0,22132,P Ticket Votes,Christian Democratic Party,CDP,N,N,156,0,0,6,6,168
+VIC,199,Batman,P,0,22132,P Ticket Votes,Christian Democratic Party,CDP,N,N,156,0,0,8,9,173
 VIC,199,Batman,P,1,21894,"JANSON, Vickie",Christian Democratic Party,CDP,N,N,12,0,0,0,1,13
 VIC,199,Batman,P,2,21911,"EDDY-VEITZ, BEN",Christian Democratic Party,CDP,N,N,1,0,0,0,1,2
 VIC,199,Batman,P,9998,0,Unapportioned,Christian Democratic Party,CDP,N,N,6,0,0,0,0,6
-VIC,199,Batman,Q,0,22124,Q Ticket Votes,Australian Labor Party,ALP,N,N,28677,268,0,396,2443,31784
+VIC,199,Batman,Q,0,22124,Q Ticket Votes,Australian Labor Party,ALP,N,N,28677,268,0,738,2807,32490
 VIC,199,Batman,Q,1,21330,"CARR, Kim John",Australian Labor Party,ALP,N,Y,243,0,0,0,29,272
 VIC,199,Batman,Q,2,21337,"CONROY, Stephen Michael",Australian Labor Party,ALP,N,Y,34,0,0,0,2,36
 VIC,199,Batman,Q,3,21344,"THOW, Antony",Australian Labor Party,ALP,N,N,14,0,0,0,1,15
 VIC,199,Batman,Q,4,21347,"LEWIS, Marg",Australian Labor Party,ALP,N,N,12,0,0,0,2,14
 VIC,199,Batman,Q,5,21358,"FREEMAN, Shelly",Australian Labor Party,ALP,N,N,34,0,0,0,8,42
 VIC,199,Batman,Q,9998,0,Unapportioned,Australian Labor Party,ALP,N,N,46,0,0,0,0,46
-VIC,199,Batman,R,0,22120,R Ticket Votes,Secular Party of Australia,SPA,N,N,76,1,0,2,6,85
+VIC,199,Batman,R,0,22120,R Ticket Votes,Secular Party of Australia,SPA,N,N,76,1,0,3,6,86
 VIC,199,Batman,R,1,20874,"PERKINS, John Leslie",Secular Party of Australia,SPA,N,N,17,0,0,0,0,17
 VIC,199,Batman,R,2,20877,"SCEATS, Rosemary Elizabeth",Secular Party of Australia,SPA,N,N,8,0,0,0,0,8
 VIC,199,Batman,R,9998,0,Unapportioned,Secular Party of Australia,SPA,N,N,4,0,0,0,0,4
-VIC,199,Batman,S,0,22134,S Ticket Votes,Carers Alliance,CA,N,N,62,2,0,2,27,93
+VIC,199,Batman,S,0,22134,S Ticket Votes,Carers Alliance,CA,N,N,62,2,0,2,30,96
 VIC,199,Batman,S,1,21941,"MONTEAGLE, Christopher",Carers Alliance,CA,N,N,8,0,0,0,3,11
 VIC,199,Batman,S,2,21942,"PEACOCK, Wendy",Carers Alliance,CA,N,N,1,0,0,0,1,2
 VIC,199,Batman,S,9998,0,Unapportioned,Carers Alliance,CA,N,N,0,0,0,0,0,0
-VIC,199,Batman,T,0,22122,T Ticket Votes,Liberal Democrats (LDP),LDP,N,N,856,8,0,25,70,959
+VIC,199,Batman,T,0,22122,T Ticket Votes,Liberal Democrats (LDP),LDP,N,N,856,8,0,38,84,986
 VIC,199,Batman,T,1,21251,"CURRIE, Ross",Liberal Democrats (LDP),LDP,N,N,6,0,0,0,1,7
 VIC,199,Batman,T,2,21310,"KLASS, Graeme Michael",Liberal Democrats (LDP),LDP,N,N,1,0,0,0,0,1
 VIC,199,Batman,T,9998,0,Unapportioned,Liberal Democrats (LDP),LDP,N,N,9,0,0,0,0,9
-VIC,199,Batman,U,0,22133,U Ticket Votes,,,N,N,86,2,0,0,9,97
+VIC,199,Batman,U,0,22133,U Ticket Votes,,,N,N,86,2,0,0,10,98
 VIC,199,Batman,U,1,21913,"MAYNE, Stephen",,,N,N,55,0,0,0,7,62
 VIC,199,Batman,U,2,21914,"PICCININI, Paula",,,N,N,0,0,0,0,0,0
 VIC,199,Batman,U,9998,0,Unapportioned,,,N,N,9,0,0,0,0,9
@@ -13082,103 +13082,103 @@ VIC,214,Goldstein,U,2,21914,"PICCININI, Paula",,,N,N,2,0,0,0,0,2
 VIC,214,Goldstein,U,9998,0,Unapportioned,,,N,N,0,0,0,0,0,0
 VIC,214,Goldstein,UG,1,20887,"BEALE, Grant",Independent,IND,N,N,11,0,0,0,1,12
 VIC,214,Goldstein,UG,2,21428,"SHEA, Glenn",Independent,IND,N,N,2,0,0,0,0,2
-VIC,309,Gorton,A,0,22119,A Ticket Votes,Socialist Equality Party,SEP,N,N,451,23,0,4,9,487
+VIC,309,Gorton,A,0,22119,A Ticket Votes,Socialist Equality Party,SEP,N,N,454,23,0,4,9,490
 VIC,309,Gorton,A,1,20946,"O'CONNOR, Patrick",Socialist Equality Party,SEP,N,N,36,0,0,0,5,41
 VIC,309,Gorton,A,2,20951,"VONGVIXAY, Keo",Socialist Equality Party,SEP,N,N,3,0,0,0,0,3
-VIC,309,Gorton,A,9998,0,Unapportioned,Socialist Equality Party,SEP,N,N,7,0,0,0,0,7
-VIC,309,Gorton,B,0,22126,B Ticket Votes,,,N,N,115,5,0,2,7,129
+VIC,309,Gorton,A,9998,0,Unapportioned,Socialist Equality Party,SEP,N,N,5,0,0,0,0,5
+VIC,309,Gorton,B,0,22126,B Ticket Votes,,,N,N,116,5,0,2,7,130
 VIC,309,Gorton,B,1,21509,"TOSCANO, Joseph",,,N,N,4,0,0,0,0,4
 VIC,309,Gorton,B,2,21512,"WARFE, Jenny",,,N,N,0,0,0,0,0,0
 VIC,309,Gorton,B,3,21514,"SADAUSKAS, Andrew",,,N,N,0,0,0,0,0,0
-VIC,309,Gorton,B,9998,0,Unapportioned,,,N,N,3,0,0,0,0,3
-VIC,309,Gorton,C,0,22129,C Ticket Votes,Family First,FFP,N,N,2931,164,0,53,117,3265
+VIC,309,Gorton,B,9998,0,Unapportioned,,,N,N,2,0,0,0,0,2
+VIC,309,Gorton,C,0,22129,C Ticket Votes,Family First,FFP,N,N,2977,164,0,53,117,3311
 VIC,309,Gorton,C,1,21716,"FIELDING, Steven",Family First,FFP,N,Y,33,0,0,0,2,35
 VIC,309,Gorton,C,2,21728,"PLUMRIDGE, Gary",Family First,FFP,N,N,3,0,0,0,1,4
 VIC,309,Gorton,C,3,21732,"BOWN SEELEY, Ann Edith",Family First,FFP,N,N,0,0,0,0,0,0
 VIC,309,Gorton,C,4,21735,"GOH, Yuli",Family First,FFP,N,N,0,0,0,0,0,0
 VIC,309,Gorton,C,5,21737,"KHOO, Joyce",Family First,FFP,N,N,0,0,0,0,0,0
-VIC,309,Gorton,C,9998,0,Unapportioned,Family First,FFP,N,N,55,0,0,0,0,55
-VIC,309,Gorton,D,0,22131,D Ticket Votes,Australian Greens,GRN,N,N,7905,506,0,215,318,8944
+VIC,309,Gorton,C,9998,0,Unapportioned,Family First,FFP,N,N,9,0,0,0,0,9
+VIC,309,Gorton,D,0,22131,D Ticket Votes,Australian Greens,GRN,N,N,8061,506,0,215,318,9100
 VIC,309,Gorton,D,1,21875,"DI NATALE, Richard",Australian Greens,GRN,N,N,116,0,0,0,6,122
 VIC,309,Gorton,D,2,21877,"RICE, Janet",Australian Greens,GRN,N,N,4,0,0,0,1,5
 VIC,309,Gorton,D,3,21878,"BUI, Nam",Australian Greens,GRN,N,N,7,0,0,0,0,7
 VIC,309,Gorton,D,4,21883,"HARGRAVE, Jen",Australian Greens,GRN,N,N,4,0,0,0,0,4
 VIC,309,Gorton,D,5,21885,"RIVENDELL, Julie",Australian Greens,GRN,N,N,1,0,0,0,0,1
 VIC,309,Gorton,D,6,21887,"SHNOOKAL, Liezl",Australian Greens,GRN,N,N,4,0,0,0,0,4
-VIC,309,Gorton,D,9998,0,Unapportioned,Australian Greens,GRN,N,N,224,0,0,0,0,224
-VIC,309,Gorton,E,0,22123,E Ticket Votes,Senator On-Line,SOL,N,N,83,0,0,2,2,87
+VIC,309,Gorton,D,9998,0,Unapportioned,Australian Greens,GRN,N,N,68,0,0,0,0,68
+VIC,309,Gorton,E,0,22123,E Ticket Votes,Senator On-Line,SOL,N,N,84,0,0,2,2,88
 VIC,309,Gorton,E,1,21434,"SARGENT, Glenn R",Senator On-Line,SOL,N,N,1,0,0,0,0,1
 VIC,309,Gorton,E,2,21437,"WARDLE, Emma Louise",Senator On-Line,SOL,N,N,0,0,0,0,0,0
-VIC,309,Gorton,E,9998,0,Unapportioned,Senator On-Line,SOL,N,N,1,0,0,0,0,1
-VIC,309,Gorton,F,0,22136,F Ticket Votes,Democratic Labor Party (DLP) of Australia,DLP,N,N,3540,200,0,84,148,3972
+VIC,309,Gorton,E,9998,0,Unapportioned,Senator On-Line,SOL,N,N,0,0,0,0,0,0
+VIC,309,Gorton,F,0,22136,F Ticket Votes,Democratic Labor Party (DLP) of Australia,DLP,N,N,3627,200,0,84,148,4059
 VIC,309,Gorton,F,1,21985,"MADIGAN, John",Democratic Labor Party (DLP) of Australia,DLP,N,N,22,0,0,0,4,26
 VIC,309,Gorton,F,2,21987,"GONSALVEZ, Geraldine",Democratic Labor Party (DLP) of Australia,DLP,N,N,2,0,0,0,1,3
 VIC,309,Gorton,F,3,21989,"KAVANAGH, John",Democratic Labor Party (DLP) of Australia,DLP,N,N,6,0,0,0,0,6
-VIC,309,Gorton,F,9998,0,Unapportioned,Democratic Labor Party (DLP) of Australia,DLP,N,N,88,0,0,0,0,88
-VIC,309,Gorton,G,0,22128,G Ticket Votes,Australian Democrats,DEM,N,N,305,7,0,5,18,335
+VIC,309,Gorton,F,9998,0,Unapportioned,Democratic Labor Party (DLP) of Australia,DLP,N,N,8,0,0,0,0,8
+VIC,309,Gorton,G,0,22128,G Ticket Votes,Australian Democrats,DEM,N,N,312,7,0,5,18,342
 VIC,309,Gorton,G,1,21708,"HOWE, Roger",Australian Democrats,DEM,N,N,6,0,0,0,1,7
 VIC,309,Gorton,G,2,21711,"WESTGARTH, Rick",Australian Democrats,DEM,N,N,0,0,0,0,0,0
-VIC,309,Gorton,G,9998,0,Unapportioned,Australian Democrats,DEM,N,N,18,0,0,0,0,18
-VIC,309,Gorton,H,0,22125,H Ticket Votes,Shooters and Fishers,ASP,N,N,903,74,0,14,76,1067
+VIC,309,Gorton,G,9998,0,Unapportioned,Australian Democrats,DEM,N,N,12,0,0,0,0,12
+VIC,309,Gorton,H,0,22125,H Ticket Votes,Shooters and Fishers,ASP,N,N,921,74,0,14,76,1085
 VIC,309,Gorton,H,1,21443,"KELLY, Peter Maxwell",Shooters and Fishers,ASP,N,N,16,0,0,0,0,16
 VIC,309,Gorton,H,2,21445,"KRSTIC, Alex",Shooters and Fishers,ASP,N,N,1,0,0,0,0,1
-VIC,309,Gorton,H,9998,0,Unapportioned,Shooters and Fishers,ASP,N,N,22,0,0,0,0,22
-VIC,309,Gorton,I,0,22117,I Ticket Votes,Australian Sex Party,ASXP,N,N,1756,134,0,43,53,1986
+VIC,309,Gorton,H,9998,0,Unapportioned,Shooters and Fishers,ASP,N,N,6,0,0,0,0,6
+VIC,309,Gorton,I,0,22117,I Ticket Votes,Australian Sex Party,ASXP,N,N,1798,134,0,43,53,2028
 VIC,309,Gorton,I,1,20835,"PATTEN, Fiona",Australian Sex Party,ASXP,N,N,30,0,0,0,3,33
 VIC,309,Gorton,I,2,20836,"WILSON, Emma",Australian Sex Party,ASXP,N,N,3,0,0,0,0,3
 VIC,309,Gorton,I,3,20837,"BLAKEY, Katie",Australian Sex Party,ASXP,N,N,0,0,0,0,0,0
-VIC,309,Gorton,I,9998,0,Unapportioned,Australian Sex Party,ASXP,N,N,45,0,0,0,0,45
-VIC,309,Gorton,J,0,22130,J Ticket Votes,The Climate Sceptics,TCS,N,N,107,5,0,2,6,120
+VIC,309,Gorton,I,9998,0,Unapportioned,Australian Sex Party,ASXP,N,N,8,0,0,0,0,8
+VIC,309,Gorton,J,0,22130,J Ticket Votes,The Climate Sceptics,TCS,N,N,110,5,0,2,6,123
 VIC,309,Gorton,J,1,21869,"DAWSON, Chris",The Climate Sceptics,TCS,N,N,5,0,0,0,0,5
 VIC,309,Gorton,J,2,21872,"HOLMES, Lee",The Climate Sceptics,TCS,N,N,0,0,0,0,0,0
-VIC,309,Gorton,J,9998,0,Unapportioned,The Climate Sceptics,TCS,N,N,3,0,0,0,0,3
-VIC,309,Gorton,K,0,22121,K Ticket Votes,Socialist Alliance,SAL,N,N,77,13,0,2,4,96
+VIC,309,Gorton,J,9998,0,Unapportioned,The Climate Sceptics,TCS,N,N,0,0,0,0,0,0
+VIC,309,Gorton,K,0,22121,K Ticket Votes,Socialist Alliance,SAL,N,N,81,13,0,2,4,100
 VIC,309,Gorton,K,1,21108,"WINDISCH, Margarita",Socialist Alliance,SAL,N,N,3,0,0,0,0,3
 VIC,309,Gorton,K,2,21114,"FIREBRACE, Sharon",Socialist Alliance,SAL,N,N,2,0,0,0,0,2
 VIC,309,Gorton,K,3,21116,"GUY, Ron",Socialist Alliance,SAL,N,N,0,0,0,0,0,0
-VIC,309,Gorton,K,9998,0,Unapportioned,Socialist Alliance,SAL,N,N,4,0,0,0,0,4
-VIC,309,Gorton,L,0,22116,L Ticket Votes,Citizens Electoral Council,CEC,N,N,92,6,0,2,7,107
+VIC,309,Gorton,K,9998,0,Unapportioned,Socialist Alliance,SAL,N,N,0,0,0,0,0,0
+VIC,309,Gorton,L,0,22116,L Ticket Votes,Citizens Electoral Council,CEC,N,N,95,6,0,2,7,110
 VIC,309,Gorton,L,1,20771,"MITCHELL, Doug",Citizens Electoral Council,CEC,N,N,0,0,0,0,0,0
 VIC,309,Gorton,L,2,20775,"ISHERWOOD, Katherine",Citizens Electoral Council,CEC,N,N,0,0,0,0,0,0
-VIC,309,Gorton,L,9998,0,Unapportioned,Citizens Electoral Council,CEC,N,N,5,0,0,0,0,5
-VIC,309,Gorton,M,0,22135,M Ticket Votes,Building Australia,BAP,N,N,175,11,0,0,9,195
+VIC,309,Gorton,L,9998,0,Unapportioned,Citizens Electoral Council,CEC,N,N,3,0,0,0,0,3
+VIC,309,Gorton,M,0,22135,M Ticket Votes,Building Australia,BAP,N,N,180,11,0,0,9,200
 VIC,309,Gorton,M,1,21982,"EVANS, Darren",Building Australia,BAP,N,N,1,0,0,0,0,1
 VIC,309,Gorton,M,2,21983,"WHITE, Sam",Building Australia,BAP,N,N,0,0,0,0,0,0
-VIC,309,Gorton,M,9998,0,Unapportioned,Building Australia,BAP,N,N,5,0,0,0,0,5
-VIC,309,Gorton,N,0,22127,N Ticket Votes,One Nation,ON,N,N,258,10,0,5,15,288
+VIC,309,Gorton,M,9998,0,Unapportioned,Building Australia,BAP,N,N,0,0,0,0,0,0
+VIC,309,Gorton,N,0,22127,N Ticket Votes,One Nation,ON,N,N,260,10,0,5,15,290
 VIC,309,Gorton,N,1,21700,"TOWNSEND, Rosalyn",One Nation,ON,N,N,1,0,0,0,0,1
 VIC,309,Gorton,N,2,21704,"TOWNSEND, Phillip",One Nation,ON,N,N,1,0,0,0,0,1
-VIC,309,Gorton,N,9998,0,Unapportioned,One Nation,ON,N,N,6,0,0,0,0,6
-VIC,309,Gorton,O,0,22118,O Ticket Votes,Liberal/The Nationals,LNP,N,N,16078,718,0,519,923,18238
+VIC,309,Gorton,N,9998,0,Unapportioned,One Nation,ON,N,N,4,0,0,0,0,4
+VIC,309,Gorton,O,0,22118,O Ticket Votes,Liberal/The Nationals,LNP,N,N,16513,718,0,519,923,18673
 VIC,309,Gorton,O,1,21950,"RONALDSON, Michael",Liberal,LP,N,Y,74,0,0,0,10,84
 VIC,309,Gorton,O,2,21952,"McKENZIE, Bridget",The Nationals,NP,N,N,4,0,0,0,0,4
 VIC,309,Gorton,O,3,21954,"McGAURAN, Julian",Liberal,LP,N,Y,6,0,0,0,2,8
 VIC,309,Gorton,O,4,21956,"JENNISON, Susan",Liberal,LP,N,N,22,0,0,0,0,22
-VIC,309,Gorton,O,9998,0,Unapportioned,Liberal/The Nationals,LNP,N,N,464,0,0,0,0,464
-VIC,309,Gorton,P,0,22132,P Ticket Votes,Christian Democratic Party,CDP,N,N,380,23,0,8,23,434
+VIC,309,Gorton,O,9998,0,Unapportioned,Liberal/The Nationals,LNP,N,N,54,0,0,0,0,54
+VIC,309,Gorton,P,0,22132,P Ticket Votes,Christian Democratic Party,CDP,N,N,388,23,0,8,23,442
 VIC,309,Gorton,P,1,21894,"JANSON, Vickie",Christian Democratic Party,CDP,N,N,8,0,0,0,1,9
 VIC,309,Gorton,P,2,21911,"EDDY-VEITZ, BEN",Christian Democratic Party,CDP,N,N,0,0,0,0,0,0
-VIC,309,Gorton,P,9998,0,Unapportioned,Christian Democratic Party,CDP,N,N,16,0,0,0,0,16
-VIC,309,Gorton,Q,0,22124,Q Ticket Votes,Australian Labor Party,ALP,N,N,42889,1934,0,770,2172,47765
+VIC,309,Gorton,P,9998,0,Unapportioned,Christian Democratic Party,CDP,N,N,8,0,0,0,0,8
+VIC,309,Gorton,Q,0,22124,Q Ticket Votes,Australian Labor Party,ALP,N,N,43999,1934,0,770,2172,48875
 VIC,309,Gorton,Q,1,21330,"CARR, Kim John",Australian Labor Party,ALP,N,Y,69,0,0,0,8,77
 VIC,309,Gorton,Q,2,21337,"CONROY, Stephen Michael",Australian Labor Party,ALP,N,Y,19,0,0,0,0,19
 VIC,309,Gorton,Q,3,21344,"THOW, Antony",Australian Labor Party,ALP,N,N,6,0,0,0,0,6
 VIC,309,Gorton,Q,4,21347,"LEWIS, Marg",Australian Labor Party,ALP,N,N,6,0,0,0,0,6
 VIC,309,Gorton,Q,5,21358,"FREEMAN, Shelly",Australian Labor Party,ALP,N,N,14,0,0,0,0,14
-VIC,309,Gorton,Q,9998,0,Unapportioned,Australian Labor Party,ALP,N,N,1200,0,0,0,0,1200
-VIC,309,Gorton,R,0,22120,R Ticket Votes,Secular Party of Australia,SPA,N,N,79,2,0,4,4,89
+VIC,309,Gorton,Q,9998,0,Unapportioned,Australian Labor Party,ALP,N,N,127,0,0,0,0,127
+VIC,309,Gorton,R,0,22120,R Ticket Votes,Secular Party of Australia,SPA,N,N,81,2,0,4,4,91
 VIC,309,Gorton,R,1,20874,"PERKINS, John Leslie",Secular Party of Australia,SPA,N,N,3,0,0,0,0,3
 VIC,309,Gorton,R,2,20877,"SCEATS, Rosemary Elizabeth",Secular Party of Australia,SPA,N,N,0,0,0,0,0,0
-VIC,309,Gorton,R,9998,0,Unapportioned,Secular Party of Australia,SPA,N,N,5,0,0,0,0,5
-VIC,309,Gorton,S,0,22134,S Ticket Votes,Carers Alliance,CA,N,N,179,3,0,1,17,200
+VIC,309,Gorton,R,9998,0,Unapportioned,Secular Party of Australia,SPA,N,N,3,0,0,0,0,3
+VIC,309,Gorton,S,0,22134,S Ticket Votes,Carers Alliance,CA,N,N,183,3,0,1,17,204
 VIC,309,Gorton,S,1,21941,"MONTEAGLE, Christopher",Carers Alliance,CA,N,N,2,0,0,0,0,2
 VIC,309,Gorton,S,2,21942,"PEACOCK, Wendy",Carers Alliance,CA,N,N,0,0,0,0,0,0
-VIC,309,Gorton,S,9998,0,Unapportioned,Carers Alliance,CA,N,N,9,0,0,0,0,9
-VIC,309,Gorton,T,0,22122,T Ticket Votes,Liberal Democrats (LDP),LDP,N,N,1633,95,0,48,77,1853
+VIC,309,Gorton,S,9998,0,Unapportioned,Carers Alliance,CA,N,N,5,0,0,0,0,5
+VIC,309,Gorton,T,0,22122,T Ticket Votes,Liberal Democrats (LDP),LDP,N,N,1676,95,0,48,77,1896
 VIC,309,Gorton,T,1,21251,"CURRIE, Ross",Liberal Democrats (LDP),LDP,N,N,9,0,0,0,4,13
 VIC,309,Gorton,T,2,21310,"KLASS, Graeme Michael",Liberal Democrats (LDP),LDP,N,N,2,0,0,0,0,2
-VIC,309,Gorton,T,9998,0,Unapportioned,Liberal Democrats (LDP),LDP,N,N,41,0,0,0,0,41
-VIC,309,Gorton,U,0,22133,U Ticket Votes,,,N,N,84,3,0,3,9,99
+VIC,309,Gorton,T,9998,0,Unapportioned,Liberal Democrats (LDP),LDP,N,N,0,0,0,0,0,0
+VIC,309,Gorton,U,0,22133,U Ticket Votes,,,N,N,85,3,0,3,9,100
 VIC,309,Gorton,U,1,21913,"MAYNE, Stephen",,,N,N,6,0,0,0,0,6
 VIC,309,Gorton,U,2,21914,"PICCININI, Paula",,,N,N,1,0,0,0,0,1
 VIC,309,Gorton,U,9998,0,Unapportioned,,,N,N,4,0,0,0,0,4
@@ -14612,106 +14612,106 @@ VIC,228,Melbourne,U,2,21914,"PICCININI, Paula",,,N,N,3,0,0,0,0,3
 VIC,228,Melbourne,U,9998,0,Unapportioned,,,N,N,44,0,0,0,0,44
 VIC,228,Melbourne,UG,1,20887,"BEALE, Grant",Independent,IND,N,N,9,0,0,0,0,9
 VIC,228,Melbourne,UG,2,21428,"SHEA, Glenn",Independent,IND,N,N,8,0,0,0,0,8
-VIC,230,Melbourne Ports,A,0,22119,A Ticket Votes,Socialist Equality Party,SEP,N,N,119,10,0,4,2,135
+VIC,230,Melbourne Ports,A,0,22119,A Ticket Votes,Socialist Equality Party,SEP,N,N,129,10,0,2,2,143
 VIC,230,Melbourne Ports,A,1,20946,"O'CONNOR, Patrick",Socialist Equality Party,SEP,N,N,5,0,0,0,0,5
 VIC,230,Melbourne Ports,A,2,20951,"VONGVIXAY, Keo",Socialist Equality Party,SEP,N,N,2,0,0,0,0,2
-VIC,230,Melbourne Ports,A,9998,0,Unapportioned,Socialist Equality Party,SEP,N,N,11,0,0,0,0,11
-VIC,230,Melbourne Ports,B,0,22126,B Ticket Votes,,,N,N,38,8,0,4,3,53
+VIC,230,Melbourne Ports,A,9998,0,Unapportioned,Socialist Equality Party,SEP,N,N,7,0,0,0,0,7
+VIC,230,Melbourne Ports,B,0,22126,B Ticket Votes,,,N,N,45,8,0,3,3,59
 VIC,230,Melbourne Ports,B,1,21509,"TOSCANO, Joseph",,,N,N,9,0,0,0,0,9
 VIC,230,Melbourne Ports,B,2,21512,"WARFE, Jenny",,,N,N,3,0,0,0,0,3
 VIC,230,Melbourne Ports,B,3,21514,"SADAUSKAS, Andrew",,,N,N,2,0,0,0,0,2
-VIC,230,Melbourne Ports,B,9998,0,Unapportioned,,,N,N,8,0,0,0,0,8
-VIC,230,Melbourne Ports,C,0,22129,C Ticket Votes,Family First,FFP,N,N,353,58,0,26,36,473
+VIC,230,Melbourne Ports,B,9998,0,Unapportioned,,,N,N,6,0,0,0,0,6
+VIC,230,Melbourne Ports,C,0,22129,C Ticket Votes,Family First,FFP,N,N,393,58,0,9,36,496
 VIC,230,Melbourne Ports,C,1,21716,"FIELDING, Steven",Family First,FFP,N,Y,22,0,0,0,0,22
 VIC,230,Melbourne Ports,C,2,21728,"PLUMRIDGE, Gary",Family First,FFP,N,N,0,0,0,0,0,0
 VIC,230,Melbourne Ports,C,3,21732,"BOWN SEELEY, Ann Edith",Family First,FFP,N,N,2,0,0,0,0,2
 VIC,230,Melbourne Ports,C,4,21735,"GOH, Yuli",Family First,FFP,N,N,0,0,0,0,0,0
 VIC,230,Melbourne Ports,C,5,21737,"KHOO, Joyce",Family First,FFP,N,N,0,0,0,0,0,0
-VIC,230,Melbourne Ports,C,9998,0,Unapportioned,Family First,FFP,N,N,37,0,0,0,0,37
-VIC,230,Melbourne Ports,D,0,22131,D Ticket Votes,Australian Greens,GRN,N,N,13955,1720,0,1168,563,17406
+VIC,230,Melbourne Ports,C,9998,0,Unapportioned,Family First,FFP,N,N,12,0,0,0,0,12
+VIC,230,Melbourne Ports,D,0,22131,D Ticket Votes,Australian Greens,GRN,N,N,14887,1720,0,724,563,17894
 VIC,230,Melbourne Ports,D,1,21875,"DI NATALE, Richard",Australian Greens,GRN,N,N,766,0,0,0,0,766
 VIC,230,Melbourne Ports,D,2,21877,"RICE, Janet",Australian Greens,GRN,N,N,28,0,0,0,0,28
 VIC,230,Melbourne Ports,D,3,21878,"BUI, Nam",Australian Greens,GRN,N,N,8,0,0,0,0,8
 VIC,230,Melbourne Ports,D,4,21883,"HARGRAVE, Jen",Australian Greens,GRN,N,N,13,0,0,0,0,13
 VIC,230,Melbourne Ports,D,5,21885,"RIVENDELL, Julie",Australian Greens,GRN,N,N,6,0,0,0,0,6
 VIC,230,Melbourne Ports,D,6,21887,"SHNOOKAL, Liezl",Australian Greens,GRN,N,N,24,0,0,0,0,24
-VIC,230,Melbourne Ports,D,9998,0,Unapportioned,Australian Greens,GRN,N,N,1199,0,0,0,0,1199
-VIC,230,Melbourne Ports,E,0,22123,E Ticket Votes,Senator On-Line,SOL,N,N,21,3,0,7,0,31
+VIC,230,Melbourne Ports,D,9998,0,Unapportioned,Australian Greens,GRN,N,N,713,0,0,0,0,713
+VIC,230,Melbourne Ports,E,0,22123,E Ticket Votes,Senator On-Line,SOL,N,N,21,3,0,3,0,27
 VIC,230,Melbourne Ports,E,1,21434,"SARGENT, Glenn R",Senator On-Line,SOL,N,N,1,0,0,0,0,1
 VIC,230,Melbourne Ports,E,2,21437,"WARDLE, Emma Louise",Senator On-Line,SOL,N,N,0,0,0,0,0,0
 VIC,230,Melbourne Ports,E,9998,0,Unapportioned,Senator On-Line,SOL,N,N,4,0,0,0,0,4
-VIC,230,Melbourne Ports,F,0,22136,F Ticket Votes,Democratic Labor Party (DLP) of Australia,DLP,N,N,797,131,0,53,51,1032
+VIC,230,Melbourne Ports,F,0,22136,F Ticket Votes,Democratic Labor Party (DLP) of Australia,DLP,N,N,865,131,0,27,51,1074
 VIC,230,Melbourne Ports,F,1,21985,"MADIGAN, John",Democratic Labor Party (DLP) of Australia,DLP,N,N,11,0,0,0,0,11
 VIC,230,Melbourne Ports,F,2,21987,"GONSALVEZ, Geraldine",Democratic Labor Party (DLP) of Australia,DLP,N,N,1,0,0,0,0,1
 VIC,230,Melbourne Ports,F,3,21989,"KAVANAGH, John",Democratic Labor Party (DLP) of Australia,DLP,N,N,0,0,0,0,0,0
-VIC,230,Melbourne Ports,F,9998,0,Unapportioned,Democratic Labor Party (DLP) of Australia,DLP,N,N,41,0,0,0,0,41
-VIC,230,Melbourne Ports,G,0,22128,G Ticket Votes,Australian Democrats,DEM,N,N,208,27,0,42,21,298
+VIC,230,Melbourne Ports,F,9998,0,Unapportioned,Democratic Labor Party (DLP) of Australia,DLP,N,N,4,0,0,0,0,4
+VIC,230,Melbourne Ports,G,0,22128,G Ticket Votes,Australian Democrats,DEM,N,N,226,27,0,30,21,304
 VIC,230,Melbourne Ports,G,1,21708,"HOWE, Roger",Australian Democrats,DEM,N,N,37,0,0,0,0,37
 VIC,230,Melbourne Ports,G,2,21711,"WESTGARTH, Rick",Australian Democrats,DEM,N,N,2,0,0,0,0,2
-VIC,230,Melbourne Ports,G,9998,0,Unapportioned,Australian Democrats,DEM,N,N,39,0,0,0,0,39
-VIC,230,Melbourne Ports,H,0,22125,H Ticket Votes,Shooters and Fishers,ASP,N,N,132,29,0,16,9,186
+VIC,230,Melbourne Ports,G,9998,0,Unapportioned,Australian Democrats,DEM,N,N,27,0,0,0,0,27
+VIC,230,Melbourne Ports,H,0,22125,H Ticket Votes,Shooters and Fishers,ASP,N,N,144,29,0,7,9,189
 VIC,230,Melbourne Ports,H,1,21443,"KELLY, Peter Maxwell",Shooters and Fishers,ASP,N,N,10,0,0,0,0,10
 VIC,230,Melbourne Ports,H,2,21445,"KRSTIC, Alex",Shooters and Fishers,ASP,N,N,0,0,0,0,0,0
-VIC,230,Melbourne Ports,H,9998,0,Unapportioned,Shooters and Fishers,ASP,N,N,16,0,0,0,0,16
-VIC,230,Melbourne Ports,I,0,22117,I Ticket Votes,Australian Sex Party,ASXP,N,N,995,135,0,76,43,1249
+VIC,230,Melbourne Ports,H,9998,0,Unapportioned,Shooters and Fishers,ASP,N,N,7,0,0,0,0,7
+VIC,230,Melbourne Ports,I,0,22117,I Ticket Votes,Australian Sex Party,ASXP,N,N,1079,135,0,55,43,1312
 VIC,230,Melbourne Ports,I,1,20835,"PATTEN, Fiona",Australian Sex Party,ASXP,N,N,93,0,0,0,0,93
 VIC,230,Melbourne Ports,I,2,20836,"WILSON, Emma",Australian Sex Party,ASXP,N,N,2,0,0,0,0,2
 VIC,230,Melbourne Ports,I,3,20837,"BLAKEY, Katie",Australian Sex Party,ASXP,N,N,4,0,0,0,0,4
-VIC,230,Melbourne Ports,I,9998,0,Unapportioned,Australian Sex Party,ASXP,N,N,169,0,0,0,0,169
-VIC,230,Melbourne Ports,J,0,22130,J Ticket Votes,The Climate Sceptics,TCS,N,N,53,8,0,2,3,66
+VIC,230,Melbourne Ports,I,9998,0,Unapportioned,Australian Sex Party,ASXP,N,N,116,0,0,0,0,116
+VIC,230,Melbourne Ports,J,0,22130,J Ticket Votes,The Climate Sceptics,TCS,N,N,62,8,0,1,3,74
 VIC,230,Melbourne Ports,J,1,21869,"DAWSON, Chris",The Climate Sceptics,TCS,N,N,9,0,0,0,0,9
 VIC,230,Melbourne Ports,J,2,21872,"HOLMES, Lee",The Climate Sceptics,TCS,N,N,0,0,0,0,0,0
-VIC,230,Melbourne Ports,J,9998,0,Unapportioned,The Climate Sceptics,TCS,N,N,11,0,0,0,0,11
-VIC,230,Melbourne Ports,K,0,22121,K Ticket Votes,Socialist Alliance,SAL,N,N,49,5,0,4,1,59
+VIC,230,Melbourne Ports,J,9998,0,Unapportioned,The Climate Sceptics,TCS,N,N,8,0,0,0,0,8
+VIC,230,Melbourne Ports,K,0,22121,K Ticket Votes,Socialist Alliance,SAL,N,N,53,5,0,3,1,62
 VIC,230,Melbourne Ports,K,1,21108,"WINDISCH, Margarita",Socialist Alliance,SAL,N,N,7,0,0,0,0,7
 VIC,230,Melbourne Ports,K,2,21114,"FIREBRACE, Sharon",Socialist Alliance,SAL,N,N,0,0,0,0,0,0
 VIC,230,Melbourne Ports,K,3,21116,"GUY, Ron",Socialist Alliance,SAL,N,N,0,0,0,0,0,0
-VIC,230,Melbourne Ports,K,9998,0,Unapportioned,Socialist Alliance,SAL,N,N,9,0,0,0,0,9
-VIC,230,Melbourne Ports,L,0,22116,L Ticket Votes,Citizens Electoral Council,CEC,N,N,17,2,0,2,1,22
+VIC,230,Melbourne Ports,K,9998,0,Unapportioned,Socialist Alliance,SAL,N,N,8,0,0,0,0,8
+VIC,230,Melbourne Ports,L,0,22116,L Ticket Votes,Citizens Electoral Council,CEC,N,N,18,2,0,1,1,22
 VIC,230,Melbourne Ports,L,1,20771,"MITCHELL, Doug",Citizens Electoral Council,CEC,N,N,1,0,0,0,0,1
 VIC,230,Melbourne Ports,L,2,20775,"ISHERWOOD, Katherine",Citizens Electoral Council,CEC,N,N,0,0,0,0,0,0
-VIC,230,Melbourne Ports,L,9998,0,Unapportioned,Citizens Electoral Council,CEC,N,N,2,0,0,0,0,2
-VIC,230,Melbourne Ports,M,0,22135,M Ticket Votes,Building Australia,BAP,N,N,44,5,0,3,3,55
+VIC,230,Melbourne Ports,L,9998,0,Unapportioned,Citizens Electoral Council,CEC,N,N,1,0,0,0,0,1
+VIC,230,Melbourne Ports,M,0,22135,M Ticket Votes,Building Australia,BAP,N,N,47,5,0,2,3,57
 VIC,230,Melbourne Ports,M,1,21982,"EVANS, Darren",Building Australia,BAP,N,N,1,0,0,0,0,1
 VIC,230,Melbourne Ports,M,2,21983,"WHITE, Sam",Building Australia,BAP,N,N,0,0,0,0,0,0
-VIC,230,Melbourne Ports,M,9998,0,Unapportioned,Building Australia,BAP,N,N,3,0,0,0,0,3
-VIC,230,Melbourne Ports,N,0,22127,N Ticket Votes,One Nation,ON,N,N,87,18,0,9,4,118
+VIC,230,Melbourne Ports,M,9998,0,Unapportioned,Building Australia,BAP,N,N,0,0,0,0,0,0
+VIC,230,Melbourne Ports,N,0,22127,N Ticket Votes,One Nation,ON,N,N,99,18,0,4,4,125
 VIC,230,Melbourne Ports,N,1,21700,"TOWNSEND, Rosalyn",One Nation,ON,N,N,5,0,0,0,0,5
 VIC,230,Melbourne Ports,N,2,21704,"TOWNSEND, Phillip",One Nation,ON,N,N,0,0,0,0,0,0
-VIC,230,Melbourne Ports,N,9998,0,Unapportioned,One Nation,ON,N,N,8,0,0,0,0,8
-VIC,230,Melbourne Ports,O,0,22118,O Ticket Votes,Liberal/The Nationals,LNP,N,N,19377,2074,0,1823,2190,25464
+VIC,230,Melbourne Ports,N,9998,0,Unapportioned,One Nation,ON,N,N,4,0,0,0,0,4
+VIC,230,Melbourne Ports,O,0,22118,O Ticket Votes,Liberal/The Nationals,LNP,N,N,21672,2074,0,953,2190,26889
 VIC,230,Melbourne Ports,O,1,21950,"RONALDSON, Michael",Liberal,LP,N,Y,187,0,0,0,0,187
 VIC,230,Melbourne Ports,O,2,21952,"McKENZIE, Bridget",The Nationals,NP,N,N,7,0,0,0,0,7
 VIC,230,Melbourne Ports,O,3,21954,"McGAURAN, Julian",Liberal,LP,N,Y,29,0,0,0,0,29
 VIC,230,Melbourne Ports,O,4,21956,"JENNISON, Susan",Liberal,LP,N,N,21,0,0,0,0,21
-VIC,230,Melbourne Ports,O,9998,0,Unapportioned,Liberal/The Nationals,LNP,N,N,1682,0,0,0,0,1682
-VIC,230,Melbourne Ports,P,0,22132,P Ticket Votes,Christian Democratic Party,CDP,N,N,93,10,0,8,5,116
+VIC,230,Melbourne Ports,O,9998,0,Unapportioned,Liberal/The Nationals,LNP,N,N,133,0,0,0,0,133
+VIC,230,Melbourne Ports,P,0,22132,P Ticket Votes,Christian Democratic Party,CDP,N,N,101,10,0,5,5,121
 VIC,230,Melbourne Ports,P,1,21894,"JANSON, Vickie",Christian Democratic Party,CDP,N,N,3,0,0,0,0,3
 VIC,230,Melbourne Ports,P,2,21911,"EDDY-VEITZ, BEN",Christian Democratic Party,CDP,N,N,1,0,0,0,0,1
-VIC,230,Melbourne Ports,P,9998,0,Unapportioned,Christian Democratic Party,CDP,N,N,5,0,0,0,0,5
-VIC,230,Melbourne Ports,Q,0,22124,Q Ticket Votes,Australian Labor Party,ALP,N,N,17859,1796,0,1178,1225,22058
+VIC,230,Melbourne Ports,P,9998,0,Unapportioned,Christian Democratic Party,CDP,N,N,1,0,0,0,0,1
+VIC,230,Melbourne Ports,Q,0,22124,Q Ticket Votes,Australian Labor Party,ALP,N,N,19249,1796,0,687,1225,22957
 VIC,230,Melbourne Ports,Q,1,21330,"CARR, Kim John",Australian Labor Party,ALP,N,Y,191,0,0,0,0,191
 VIC,230,Melbourne Ports,Q,2,21337,"CONROY, Stephen Michael",Australian Labor Party,ALP,N,Y,34,0,0,0,0,34
 VIC,230,Melbourne Ports,Q,3,21344,"THOW, Antony",Australian Labor Party,ALP,N,N,4,0,0,0,0,4
 VIC,230,Melbourne Ports,Q,4,21347,"LEWIS, Marg",Australian Labor Party,ALP,N,N,10,0,0,0,0,10
 VIC,230,Melbourne Ports,Q,5,21358,"FREEMAN, Shelly",Australian Labor Party,ALP,N,N,32,0,0,0,0,32
-VIC,230,Melbourne Ports,Q,9998,0,Unapportioned,Australian Labor Party,ALP,N,N,1053,0,0,0,0,1053
-VIC,230,Melbourne Ports,R,0,22120,R Ticket Votes,Secular Party of Australia,SPA,N,N,121,8,0,5,8,142
+VIC,230,Melbourne Ports,Q,9998,0,Unapportioned,Australian Labor Party,ALP,N,N,122,0,0,0,0,122
+VIC,230,Melbourne Ports,R,0,22120,R Ticket Votes,Secular Party of Australia,SPA,N,N,130,8,0,4,8,150
 VIC,230,Melbourne Ports,R,1,20874,"PERKINS, John Leslie",Secular Party of Australia,SPA,N,N,24,0,0,0,0,24
 VIC,230,Melbourne Ports,R,2,20877,"SCEATS, Rosemary Elizabeth",Secular Party of Australia,SPA,N,N,2,0,0,0,0,2
-VIC,230,Melbourne Ports,R,9998,0,Unapportioned,Secular Party of Australia,SPA,N,N,33,0,0,0,0,33
-VIC,230,Melbourne Ports,S,0,22134,S Ticket Votes,Carers Alliance,CA,N,N,38,8,0,7,9,62
+VIC,230,Melbourne Ports,R,9998,0,Unapportioned,Secular Party of Australia,SPA,N,N,31,0,0,0,0,31
+VIC,230,Melbourne Ports,S,0,22134,S Ticket Votes,Carers Alliance,CA,N,N,45,8,0,5,9,67
 VIC,230,Melbourne Ports,S,1,21941,"MONTEAGLE, Christopher",Carers Alliance,CA,N,N,7,0,0,0,0,7
 VIC,230,Melbourne Ports,S,2,21942,"PEACOCK, Wendy",Carers Alliance,CA,N,N,0,0,0,0,0,0
-VIC,230,Melbourne Ports,S,9998,0,Unapportioned,Carers Alliance,CA,N,N,8,0,0,0,0,8
-VIC,230,Melbourne Ports,T,0,22122,T Ticket Votes,Liberal Democrats (LDP),LDP,N,N,912,144,0,135,123,1314
+VIC,230,Melbourne Ports,S,9998,0,Unapportioned,Carers Alliance,CA,N,N,4,0,0,0,0,4
+VIC,230,Melbourne Ports,T,0,22122,T Ticket Votes,Liberal Democrats (LDP),LDP,N,N,1017,144,0,89,123,1373
 VIC,230,Melbourne Ports,T,1,21251,"CURRIE, Ross",Liberal Democrats (LDP),LDP,N,N,13,0,0,0,0,13
 VIC,230,Melbourne Ports,T,2,21310,"KLASS, Graeme Michael",Liberal Democrats (LDP),LDP,N,N,1,0,0,0,0,1
-VIC,230,Melbourne Ports,T,9998,0,Unapportioned,Liberal Democrats (LDP),LDP,N,N,74,0,0,0,0,74
-VIC,230,Melbourne Ports,U,0,22133,U Ticket Votes,,,N,N,56,7,0,12,8,83
+VIC,230,Melbourne Ports,T,9998,0,Unapportioned,Liberal Democrats (LDP),LDP,N,N,3,0,0,0,0,3
+VIC,230,Melbourne Ports,U,0,22133,U Ticket Votes,,,N,N,59,7,0,8,8,82
 VIC,230,Melbourne Ports,U,1,21913,"MAYNE, Stephen",,,N,N,46,0,0,0,0,46
 VIC,230,Melbourne Ports,U,2,21914,"PICCININI, Paula",,,N,N,2,0,0,0,0,2
-VIC,230,Melbourne Ports,U,9998,0,Unapportioned,,,N,N,53,0,0,0,0,53
+VIC,230,Melbourne Ports,U,9998,0,Unapportioned,,,N,N,52,0,0,0,0,52
 VIC,230,Melbourne Ports,UG,1,20887,"BEALE, Grant",Independent,IND,N,N,10,0,0,0,0,10
 VIC,230,Melbourne Ports,UG,2,21428,"SHEA, Glenn",Independent,IND,N,N,4,0,0,0,0,4
 VIC,229,Menzies,A,0,22119,A Ticket Votes,Socialist Equality Party,SEP,N,N,172,2,0,0,4,178
@@ -15020,7 +15020,7 @@ VIC,232,Scullin,U,2,21914,"PICCININI, Paula",,,N,N,2,0,0,0,0,2
 VIC,232,Scullin,U,9998,0,Unapportioned,,,N,N,2,0,0,0,0,2
 VIC,232,Scullin,UG,1,20887,"BEALE, Grant",Independent,IND,N,N,7,0,0,0,3,10
 VIC,232,Scullin,UG,2,21428,"SHEA, Glenn",Independent,IND,N,N,1,0,0,0,2,3
-VIC,233,Wannon,A,0,22119,A Ticket Votes,Socialist Equality Party,SEP,N,N,163,0,0,0,0,163
+VIC,233,Wannon,A,0,22119,A Ticket Votes,Socialist Equality Party,SEP,N,N,163,0,0,2,0,165
 VIC,233,Wannon,A,1,20946,"O'CONNOR, Patrick",Socialist Equality Party,SEP,N,N,15,0,0,0,0,15
 VIC,233,Wannon,A,2,20951,"VONGVIXAY, Keo",Socialist Equality Party,SEP,N,N,1,0,0,0,0,1
 VIC,233,Wannon,A,9998,0,Unapportioned,Socialist Equality Party,SEP,N,N,6,0,0,0,0,6
@@ -15029,14 +15029,14 @@ VIC,233,Wannon,B,1,21509,"TOSCANO, Joseph",,,N,N,6,0,0,0,0,6
 VIC,233,Wannon,B,2,21512,"WARFE, Jenny",,,N,N,1,0,0,0,0,1
 VIC,233,Wannon,B,3,21514,"SADAUSKAS, Andrew",,,N,N,1,0,0,0,0,1
 VIC,233,Wannon,B,9998,0,Unapportioned,,,N,N,5,0,0,0,0,5
-VIC,233,Wannon,C,0,22129,C Ticket Votes,Family First,FFP,N,N,2158,7,0,0,1,2166
+VIC,233,Wannon,C,0,22129,C Ticket Votes,Family First,FFP,N,N,2158,7,0,2,1,2168
 VIC,233,Wannon,C,1,21716,"FIELDING, Steven",Family First,FFP,N,Y,63,0,0,0,0,63
 VIC,233,Wannon,C,2,21728,"PLUMRIDGE, Gary",Family First,FFP,N,N,1,0,0,0,0,1
 VIC,233,Wannon,C,3,21732,"BOWN SEELEY, Ann Edith",Family First,FFP,N,N,2,0,0,0,0,2
 VIC,233,Wannon,C,4,21735,"GOH, Yuli",Family First,FFP,N,N,0,0,0,0,0,0
 VIC,233,Wannon,C,5,21737,"KHOO, Joyce",Family First,FFP,N,N,2,0,0,0,0,2
 VIC,233,Wannon,C,9998,0,Unapportioned,Family First,FFP,N,N,57,0,0,0,0,57
-VIC,233,Wannon,D,0,22131,D Ticket Votes,Australian Greens,GRN,N,N,5702,40,0,0,12,5754
+VIC,233,Wannon,D,0,22131,D Ticket Votes,Australian Greens,GRN,N,N,5702,40,0,19,12,5773
 VIC,233,Wannon,D,1,21875,"DI NATALE, Richard",Australian Greens,GRN,N,N,177,0,0,0,0,177
 VIC,233,Wannon,D,2,21877,"RICE, Janet",Australian Greens,GRN,N,N,12,0,0,0,0,12
 VIC,233,Wannon,D,3,21878,"BUI, Nam",Australian Greens,GRN,N,N,2,0,0,0,0,2
@@ -15048,7 +15048,7 @@ VIC,233,Wannon,E,0,22123,E Ticket Votes,Senator On-Line,SOL,N,N,58,0,0,0,0,58
 VIC,233,Wannon,E,1,21434,"SARGENT, Glenn R",Senator On-Line,SOL,N,N,3,0,0,0,0,3
 VIC,233,Wannon,E,2,21437,"WARDLE, Emma Louise",Senator On-Line,SOL,N,N,0,0,0,0,0,0
 VIC,233,Wannon,E,9998,0,Unapportioned,Senator On-Line,SOL,N,N,4,0,0,0,0,4
-VIC,233,Wannon,F,0,22136,F Ticket Votes,Democratic Labor Party (DLP) of Australia,DLP,N,N,1655,6,0,0,0,1661
+VIC,233,Wannon,F,0,22136,F Ticket Votes,Democratic Labor Party (DLP) of Australia,DLP,N,N,1655,6,0,1,0,1662
 VIC,233,Wannon,F,1,21985,"MADIGAN, John",Democratic Labor Party (DLP) of Australia,DLP,N,N,13,0,0,0,0,13
 VIC,233,Wannon,F,2,21987,"GONSALVEZ, Geraldine",Democratic Labor Party (DLP) of Australia,DLP,N,N,0,0,0,0,0,0
 VIC,233,Wannon,F,3,21989,"KAVANAGH, John",Democratic Labor Party (DLP) of Australia,DLP,N,N,3,0,0,0,0,3
@@ -15057,11 +15057,11 @@ VIC,233,Wannon,G,0,22128,G Ticket Votes,Australian Democrats,DEM,N,N,342,1,0,0,0
 VIC,233,Wannon,G,1,21708,"HOWE, Roger",Australian Democrats,DEM,N,N,10,0,0,0,0,10
 VIC,233,Wannon,G,2,21711,"WESTGARTH, Rick",Australian Democrats,DEM,N,N,0,0,0,0,0,0
 VIC,233,Wannon,G,9998,0,Unapportioned,Australian Democrats,DEM,N,N,45,0,0,0,0,45
-VIC,233,Wannon,H,0,22125,H Ticket Votes,Shooters and Fishers,ASP,N,N,1819,9,0,0,2,1830
+VIC,233,Wannon,H,0,22125,H Ticket Votes,Shooters and Fishers,ASP,N,N,1819,9,0,1,2,1831
 VIC,233,Wannon,H,1,21443,"KELLY, Peter Maxwell",Shooters and Fishers,ASP,N,N,45,0,0,0,0,45
 VIC,233,Wannon,H,2,21445,"KRSTIC, Alex",Shooters and Fishers,ASP,N,N,1,0,0,0,0,1
 VIC,233,Wannon,H,9998,0,Unapportioned,Shooters and Fishers,ASP,N,N,48,0,0,0,0,48
-VIC,233,Wannon,I,0,22117,I Ticket Votes,Australian Sex Party,ASXP,N,N,1786,9,0,0,1,1796
+VIC,233,Wannon,I,0,22117,I Ticket Votes,Australian Sex Party,ASXP,N,N,1786,9,0,12,1,1808
 VIC,233,Wannon,I,1,20835,"PATTEN, Fiona",Australian Sex Party,ASXP,N,N,28,0,0,0,0,28
 VIC,233,Wannon,I,2,20836,"WILSON, Emma",Australian Sex Party,ASXP,N,N,2,0,0,0,0,2
 VIC,233,Wannon,I,3,20837,"BLAKEY, Katie",Australian Sex Party,ASXP,N,N,7,0,0,0,0,7
@@ -15070,7 +15070,7 @@ VIC,233,Wannon,J,0,22130,J Ticket Votes,The Climate Sceptics,TCS,N,N,139,1,0,0,0
 VIC,233,Wannon,J,1,21869,"DAWSON, Chris",The Climate Sceptics,TCS,N,N,4,0,0,0,0,4
 VIC,233,Wannon,J,2,21872,"HOLMES, Lee",The Climate Sceptics,TCS,N,N,1,0,0,0,0,1
 VIC,233,Wannon,J,9998,0,Unapportioned,The Climate Sceptics,TCS,N,N,9,0,0,0,0,9
-VIC,233,Wannon,K,0,22121,K Ticket Votes,Socialist Alliance,SAL,N,N,37,0,0,0,0,37
+VIC,233,Wannon,K,0,22121,K Ticket Votes,Socialist Alliance,SAL,N,N,37,0,0,1,0,38
 VIC,233,Wannon,K,1,21108,"WINDISCH, Margarita",Socialist Alliance,SAL,N,N,3,0,0,0,0,3
 VIC,233,Wannon,K,2,21114,"FIREBRACE, Sharon",Socialist Alliance,SAL,N,N,0,0,0,0,0,0
 VIC,233,Wannon,K,3,21116,"GUY, Ron",Socialist Alliance,SAL,N,N,2,0,0,0,0,2
@@ -15087,24 +15087,24 @@ VIC,233,Wannon,N,0,22127,N Ticket Votes,One Nation,ON,N,N,365,1,0,0,0,366
 VIC,233,Wannon,N,1,21700,"TOWNSEND, Rosalyn",One Nation,ON,N,N,7,0,0,0,0,7
 VIC,233,Wannon,N,2,21704,"TOWNSEND, Phillip",One Nation,ON,N,N,0,0,0,0,0,0
 VIC,233,Wannon,N,9998,0,Unapportioned,One Nation,ON,N,N,16,0,0,0,0,16
-VIC,233,Wannon,O,0,22118,O Ticket Votes,Liberal/The Nationals,LNP,N,N,29996,50,0,0,50,30096
+VIC,233,Wannon,O,0,22118,O Ticket Votes,Liberal/The Nationals,LNP,N,N,29996,50,0,34,50,30130
 VIC,233,Wannon,O,1,21950,"RONALDSON, Michael",Liberal,LP,N,Y,107,0,0,0,0,107
 VIC,233,Wannon,O,2,21952,"McKENZIE, Bridget",The Nationals,NP,N,N,19,0,0,0,0,19
 VIC,233,Wannon,O,3,21954,"McGAURAN, Julian",Liberal,LP,N,Y,26,0,0,0,0,26
 VIC,233,Wannon,O,4,21956,"JENNISON, Susan",Liberal,LP,N,N,10,0,0,0,0,10
 VIC,233,Wannon,O,9998,0,Unapportioned,Liberal/The Nationals,LNP,N,N,565,0,0,0,0,565
-VIC,233,Wannon,P,0,22132,P Ticket Votes,Christian Democratic Party,CDP,N,N,227,1,0,0,0,228
+VIC,233,Wannon,P,0,22132,P Ticket Votes,Christian Democratic Party,CDP,N,N,227,1,0,1,0,229
 VIC,233,Wannon,P,1,21894,"JANSON, Vickie",Christian Democratic Party,CDP,N,N,6,0,0,0,0,6
 VIC,233,Wannon,P,2,21911,"EDDY-VEITZ, BEN",Christian Democratic Party,CDP,N,N,1,0,0,0,0,1
 VIC,233,Wannon,P,9998,0,Unapportioned,Christian Democratic Party,CDP,N,N,13,0,0,0,0,13
-VIC,233,Wannon,Q,0,22124,Q Ticket Votes,Australian Labor Party,ALP,N,N,24324,53,0,0,27,24404
+VIC,233,Wannon,Q,0,22124,Q Ticket Votes,Australian Labor Party,ALP,N,N,24324,53,0,39,27,24443
 VIC,233,Wannon,Q,1,21330,"CARR, Kim John",Australian Labor Party,ALP,N,Y,93,0,0,0,0,93
 VIC,233,Wannon,Q,2,21337,"CONROY, Stephen Michael",Australian Labor Party,ALP,N,Y,11,0,0,0,0,11
 VIC,233,Wannon,Q,3,21344,"THOW, Antony",Australian Labor Party,ALP,N,N,4,0,0,0,0,4
 VIC,233,Wannon,Q,4,21347,"LEWIS, Marg",Australian Labor Party,ALP,N,N,7,0,0,0,0,7
 VIC,233,Wannon,Q,5,21358,"FREEMAN, Shelly",Australian Labor Party,ALP,N,N,12,0,0,0,0,12
 VIC,233,Wannon,Q,9998,0,Unapportioned,Australian Labor Party,ALP,N,N,184,0,0,0,0,184
-VIC,233,Wannon,R,0,22120,R Ticket Votes,Secular Party of Australia,SPA,N,N,36,1,0,0,0,37
+VIC,233,Wannon,R,0,22120,R Ticket Votes,Secular Party of Australia,SPA,N,N,36,1,0,1,0,38
 VIC,233,Wannon,R,1,20874,"PERKINS, John Leslie",Secular Party of Australia,SPA,N,N,4,0,0,0,0,4
 VIC,233,Wannon,R,2,20877,"SCEATS, Rosemary Elizabeth",Secular Party of Australia,SPA,N,N,0,0,0,0,0,0
 VIC,233,Wannon,R,9998,0,Unapportioned,Secular Party of Australia,SPA,N,N,1,0,0,0,0,1
@@ -15112,7 +15112,7 @@ VIC,233,Wannon,S,0,22134,S Ticket Votes,Carers Alliance,CA,N,N,137,0,0,0,0,137
 VIC,233,Wannon,S,1,21941,"MONTEAGLE, Christopher",Carers Alliance,CA,N,N,4,0,0,0,0,4
 VIC,233,Wannon,S,2,21942,"PEACOCK, Wendy",Carers Alliance,CA,N,N,1,0,0,0,0,1
 VIC,233,Wannon,S,9998,0,Unapportioned,Carers Alliance,CA,N,N,4,0,0,0,0,4
-VIC,233,Wannon,T,0,22122,T Ticket Votes,Liberal Democrats (LDP),LDP,N,N,1412,4,0,0,0,1416
+VIC,233,Wannon,T,0,22122,T Ticket Votes,Liberal Democrats (LDP),LDP,N,N,1412,4,0,3,0,1419
 VIC,233,Wannon,T,1,21251,"CURRIE, Ross",Liberal Democrats (LDP),LDP,N,N,6,0,0,0,0,6
 VIC,233,Wannon,T,2,21310,"KLASS, Graeme Michael",Liberal Democrats (LDP),LDP,N,N,0,0,0,0,0,0
 VIC,233,Wannon,T,9998,0,Unapportioned,Liberal Democrats (LDP),LDP,N,N,32,0,0,0,0,32
