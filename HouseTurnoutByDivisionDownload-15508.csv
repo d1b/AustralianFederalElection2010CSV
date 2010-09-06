@@ -1,9 +1,9 @@
-2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T13:52:39 Cycle:b8c919d7-2920-489b-8479-7031a2f14ac6 Created:2010-09-06T13:34:41 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T14:08:16 Cycle:4cd541e9-275a-4bdb-b1c9-d754cad8028d Created:2010-09-06T13:49:46 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 179,Adelaide,SA,98526,86128,87.42,-7.17
 197,Aston,VIC,93448,88526,94.73,-1.66
 198,Ballarat,VIC,97802,92036,94.1,-1.99
-103,Banks,NSW,98762,90710,91.85,-2.63
+103,Banks,NSW,98762,91439,92.59,-1.89
 180,Barker,SA,104888,96396,91.9,-4.07
 104,Barton,NSW,95243,85827,90.11,-4.94
 192,Bass,TAS,71689,68216,95.16,-1.14
@@ -26,9 +26,9 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 101,Canberra,ACT,124215,116337,93.66,-2.35
 236,Canning,WA,90107,83151,92.28,-0.84
 157,Capricornia,QLD,91962,85531,93.01,-2.39
-204,Casey,VIC,92357,87504,94.75,-1.47
+204,Casey,VIC,92357,87592,94.84,-1.38
 110,Charlton,NSW,94480,88174,93.33,-2.67
-111,Chifley,NSW,97605,89879,92.08,-1.59
+111,Chifley,NSW,97605,89876,92.08,-1.59
 205,Chisholm,VIC,86275,79753,92.44,-2.83
 112,Cook,NSW,100748,92735,92.05,-4.38
 207,Corangamite,VIC,101569,96900,95.4,-1.07
@@ -38,7 +38,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 114,Cunningham,NSW,100698,94050,93.4,-2.73
 238,Curtin,WA,90400,83456,92.32,-1.56
 158,Dawson,QLD,94553,87875,92.94,-2.47
-209,Deakin,VIC,87744,82296,93.79,-2.1
+209,Deakin,VIC,87744,82442,93.96,-1.93
 194,Denison,TAS,71349,67294,94.32,-1.21
 252,Dickson,QLD,90111,85206,94.56,-0.81
 115,Dobell,NSW,93661,87914,93.86,-0.98
@@ -66,7 +66,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 122,Greenway,NSW,93828,86994,92.72,-1.38
 183,Grey,SA,99817,93485,93.66,-1.29
 163,Griffith,QLD,92588,82851,89.48,-4.14
-164,Groom,QLD,93374,87702,93.93,-1.53
+164,Groom,QLD,93374,87919,94.16,-1.3
 305,Hasluck,WA,93892,87423,93.11,-0.56
 165,Herbert,QLD,91044,84299,92.59,-1.07
 215,Higgins,VIC,90398,79880,88.36,-5.41
@@ -90,7 +90,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 169,Lilley,QLD,97415,90617,93.02,-2.83
 128,Lindsay,NSW,95975,90310,94.1,-1.78
 306,Lingiari,NT,61126,45852,75.01,-6.25
-302,Longman,QLD,87062,80238,92.16,-1.12
+302,Longman,QLD,87062,80949,92.98,-0.3
 130,Lyne,NSW,92565,88260,95.35,-0.24
 196,Lyons,TAS,72865,69071,94.79,-0.05
 131,Macarthur,NSW,90059,82871,92.02,-2.94
@@ -110,7 +110,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 229,Menzies,VIC,90966,84478,92.87,-3.28
 134,Mitchell,NSW,93588,88314,94.36,-0.61
 172,Moncrieff,QLD,89087,80689,90.57,-4
-242,Moore,WA,92295,85567,92.71,-1.05
+242,Moore,WA,92295,85577,92.72,-1.04
 173,Moreton,QLD,92733,83935,90.51,-4.51
 231,Murray,VIC,90218,82505,91.45,-4.27
 135,New England,NSW,99677,94073,94.38,-1.72
@@ -133,7 +133,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 146,Robertson,NSW,96593,91135,94.35,-1.76
 177,Ryan,QLD,98224,90858,92.5,-3.25
 232,Scullin,VIC,90822,80606,88.75,-6.95
-148,Shortland,NSW,94245,87182,92.51,-3.77
+148,Shortland,NSW,94245,87688,93.04,-3.24
 307,Solomon,NT,59879,53672,89.63,-2.43
 246,Stirling,WA,91728,84454,92.07,-1.53
 190,Sturt,SA,99061,89160,90.01,-5.57
@@ -145,7 +145,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 233,Wannon,VIC,92264,87916,95.29,-1.11
 151,Warringah,NSW,96706,86640,89.59,-5.24
 251,Watson,NSW,97765,85437,87.39,-4.85
-152,Wentworth,NSW,101464,86876,85.62,-6.91
+152,Wentworth,NSW,101464,86896,85.64,-6.89
 153,Werriwa,NSW,90994,82809,91,-2.9
 178,Wide Bay,QLD,92636,85846,92.67,-1.86
 234,Wills,VIC,98599,88844,90.11,-3.56
