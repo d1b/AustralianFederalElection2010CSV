@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T10:57:45 Cycle:3a02cae4-ff7c-40df-89a1-222c323e99b4 Created:2010-09-06T10:49:29 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T11:14:09 Cycle:7402272a-d895-4799-aae3-59b6c30cd559 Created:2010-09-06T11:04:29 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent,InformalSwing
 107,Blaxland,NSW,72686,11791,84477,13.96,5.07
 119,Fowler,NSW,73441,10953,84394,12.98,4.5
@@ -27,7 +27,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 203,Calwell,VIC,87195,6007,93202,6.45,1.6
 124,Hughes,NSW,85974,5927,91901,6.45,2.01
 146,Robertson,NSW,85355,5784,91139,6.35,2.91
-148,Shortland,NSW,79818,5374,85192,6.31,2.15
+148,Shortland,NSW,79817,5376,85193,6.31,2.15
 105,Bennelong,NSW,84505,5670,90175,6.29,0.07
 165,Herbert,QLD,78896,5273,84169,6.26,2.04
 117,Eden-Monaro,NSW,85353,5690,91043,6.25,2.52
@@ -38,7 +38,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 172,Moncrieff,QLD,75715,4974,80689,6.16,2.35
 157,Capricornia,QLD,80284,5247,85531,6.13,2.81
 187,Makin,SA,85220,5531,90751,6.09,2.02
-115,Dobell,NSW,82558,5316,87874,6.05,1.73
+115,Dobell,NSW,82598,5316,87914,6.05,1.73
 159,Fadden,QLD,73321,4720,78041,6.05,1.74
 234,Wills,VIC,83509,5335,88844,6,1.67
 232,Scullin,VIC,75838,4768,80606,5.92,1.86
@@ -63,7 +63,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 180,Barker,SA,91098,5298,96396,5.5,1.65
 133,Macquarie,NSW,85350,4936,90286,5.47,1.82
 190,Sturt,SA,84294,4866,89160,5.46,2
-155,Bowman,QLD,81424,4644,86068,5.4,2.02
+155,Bowman,QLD,81532,4654,86186,5.4,2.02
 240,Fremantle,WA,82375,4684,87059,5.38,1.13
 167,Kennedy,QLD,81721,4648,86369,5.38,1.44
 311,Flynn,QLD,78806,4454,83260,5.35,1.4
@@ -78,7 +78,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 199,Batman,VIC,74794,4088,78882,5.18,1.36
 185,Hindmarsh,SA,89176,4871,94047,5.18,1.34
 245,Perth,WA,79319,4335,83654,5.18,0.59
-132,Mackellar,NSW,87104,4740,91844,5.16,0.49
+132,Mackellar,NSW,87100,4744,91844,5.17,0.5
 201,Bruce,VIC,76011,4129,80140,5.15,1.44
 125,Hume,NSW,85759,4656,90415,5.15,1.58
 310,Bonner,QLD,80633,4351,84984,5.12,2.15
@@ -98,7 +98,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 101,Canberra,ACT,110699,5638,116337,4.85,2.59
 312,Durack,WA,70916,3617,74533,4.85,0.43
 173,Moreton,QLD,79697,4035,83732,4.82,1.66
-196,Lyons,TAS,65759,3312,69071,4.8,1.74
+196,Lyons,TAS,65758,3313,69071,4.8,1.74
 219,Isaacs,VIC,86222,4207,90429,4.65,1.34
 182,Boothby,SA,85326,4145,89471,4.63,1.76
 151,Warringah,NSW,82632,4008,86640,4.63,1.19
@@ -107,10 +107,10 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 188,Mayo,SA,91929,4388,96317,4.56,1.8
 169,Lilley,QLD,86333,4120,90453,4.55,1.6
 236,Canning,WA,79385,3766,83151,4.53,1.08
-208,Corio,VIC,82074,3873,85947,4.51,0.78
+208,Corio,VIC,82160,3883,86043,4.51,0.78
 217,Hotham,VIC,75767,3535,79302,4.46,1.16
 152,Wentworth,NSW,81096,3787,84883,4.46,-0.44
-137,North Sydney,NSW,84448,3920,88368,4.44,0.72
+137,North Sydney,NSW,84447,3923,88370,4.44,0.72
 102,Fraser,ACT,109928,5099,115027,4.43,2.07
 252,Dickson,QLD,80824,3722,84546,4.4,1.61
 226,McEwen,VIC,100746,4624,105370,4.39,0.43
@@ -119,8 +119,8 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 193,Braddon,TAS,65497,2970,68467,4.34,1.16
 113,Cowper,NSW,84479,3829,88308,4.34,0.37
 242,Moore,WA,81857,3710,85567,4.34,1.25
+224,Mallee,VIC,80090,3536,83626,4.23,0.64
 204,Casey,VIC,83055,3659,86714,4.22,1.44
-224,Mallee,VIC,80094,3532,83626,4.22,0.63
 164,Groom,QLD,83354,3599,86953,4.14,1.08
 229,Menzies,VIC,78202,3367,81569,4.13,1.37
 211,Flinders,VIC,89360,3828,93188,4.11,1.33
