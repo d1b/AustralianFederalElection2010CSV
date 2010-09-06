@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T09:38:40 Cycle:4db55421-e1c0-4d63-b797-fbe69f3127d3 Created:2010-09-06T09:19:03 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T09:54:58 Cycle:819330bb-3ff9-4f68-bb4b-03b1b81657f6 Created:2010-09-06T09:34:08 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 ACT,101,Canberra,8829,Barton,20863,JONES,Giulia,1,N,N,LP,Liberal,793,-2.61
 ACT,101,Canberra,8829,Barton,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1397,2.61
@@ -208,8 +208,8 @@ NSW,103,Banks,65,Carlton West (Banks),21087,MELHAM,Daryl,3,N,Y,ALP,Labor,719,-10
 NSW,103,Banks,65,Carlton West (Banks),21561,DELEZIO,Ron,4,N,N,LP,Liberal,643,10.12
 NSW,103,Banks,42,Connells Point,21087,MELHAM,Daryl,3,N,Y,ALP,Labor,802,-10.35
 NSW,103,Banks,42,Connells Point,21561,DELEZIO,Ron,4,N,N,LP,Liberal,1756,10.35
-NSW,103,Banks,30094,Divisional Office (PREPOLL),21087,MELHAM,Daryl,3,N,Y,ALP,Labor,0,-36.31
-NSW,103,Banks,30094,Divisional Office (PREPOLL),21561,DELEZIO,Ron,4,N,N,LP,Liberal,0,-63.69
+NSW,103,Banks,30094,Divisional Office (PREPOLL),21087,MELHAM,Daryl,3,N,Y,ALP,Labor,4,43.69
+NSW,103,Banks,30094,Divisional Office (PREPOLL),21561,DELEZIO,Ron,4,N,N,LP,Liberal,1,-43.69
 NSW,103,Banks,2663,Hurstville,21087,MELHAM,Daryl,3,N,Y,ALP,Labor,1205,-17.7
 NSW,103,Banks,2663,Hurstville,21561,DELEZIO,Ron,4,N,N,LP,Liberal,953,17.7
 NSW,103,Banks,44,Hurstville Central,21087,MELHAM,Daryl,3,N,Y,ALP,Labor,68,-11.34
@@ -1310,8 +1310,8 @@ NSW,113,Cowper,457,Bellingen Hospital,21230,SEKFY,Paul,1,N,N,ALP,Labor,184,-12.5
 NSW,113,Cowper,457,Bellingen Hospital,21014,HARTSUYKER,Luke,5,N,Y,NP,The Nationals,166,12.51
 NSW,113,Cowper,458,Boambee,21230,SEKFY,Paul,1,N,N,ALP,Labor,556,-7.55
 NSW,113,Cowper,458,Boambee,21014,HARTSUYKER,Luke,5,N,Y,NP,The Nationals,1123,7.55
-NSW,113,Cowper,459,Bonville,21230,SEKFY,Paul,1,N,N,ALP,Labor,351,-7.02
-NSW,113,Cowper,459,Bonville,21014,HARTSUYKER,Luke,5,N,Y,NP,The Nationals,661,7.02
+NSW,113,Cowper,459,Bonville,21230,SEKFY,Paul,1,N,N,ALP,Labor,351,-6.91
+NSW,113,Cowper,459,Bonville,21014,HARTSUYKER,Luke,5,N,Y,NP,The Nationals,658,6.91
 NSW,113,Cowper,32370,Bostobrick,21230,SEKFY,Paul,1,N,N,ALP,Labor,39,-14
 NSW,113,Cowper,32370,Bostobrick,21014,HARTSUYKER,Luke,5,N,Y,NP,The Nationals,66,14
 NSW,113,Cowper,460,Bowraville,21230,SEKFY,Paul,1,N,N,ALP,Labor,438,-9.52
@@ -14656,8 +14656,8 @@ VIC,224,Mallee,4462,Cardross,21078,FORREST,John,2,N,Y,NP,The Nationals,399,9.33
 VIC,224,Mallee,4462,Cardross,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,121,-9.33
 VIC,224,Mallee,3143,Charlton,21078,FORREST,John,2,N,Y,NP,The Nationals,587,-1.63
 VIC,224,Mallee,3143,Charlton,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,185,1.63
-VIC,224,Mallee,4730,Cohuna,21078,FORREST,John,2,N,Y,NP,The Nationals,1296,2.51
-VIC,224,Mallee,4730,Cohuna,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,320,-2.51
+VIC,224,Mallee,4730,Cohuna,21078,FORREST,John,2,N,Y,NP,The Nationals,1295,2.5
+VIC,224,Mallee,4730,Cohuna,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,320,-2.5
 VIC,224,Mallee,4467,Culgoa,21078,FORREST,John,2,N,Y,NP,The Nationals,64,-3.88
 VIC,224,Mallee,4467,Culgoa,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,21,3.88
 VIC,224,Mallee,4468,Cullulleraine,21078,FORREST,John,2,N,Y,NP,The Nationals,56,-2.89
@@ -14752,8 +14752,8 @@ VIC,224,Mallee,4515,Minyip,21078,FORREST,John,2,N,Y,NP,The Nationals,263,0.72
 VIC,224,Mallee,4515,Minyip,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,101,-0.72
 VIC,224,Mallee,4518,Murra Warra,21078,FORREST,John,2,N,Y,NP,The Nationals,71,-7.98
 VIC,224,Mallee,4518,Murra Warra,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,11,7.98
-VIC,224,Mallee,4789,Murrabit,21078,FORREST,John,2,N,Y,NP,The Nationals,180,0.04
-VIC,224,Mallee,4789,Murrabit,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,34,-0.04
+VIC,224,Mallee,4789,Murrabit,21078,FORREST,John,2,N,Y,NP,The Nationals,179,-0.43
+VIC,224,Mallee,4789,Murrabit,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,35,0.43
 VIC,224,Mallee,4519,Murrayville,21078,FORREST,John,2,N,Y,NP,The Nationals,229,4.01
 VIC,224,Mallee,4519,Murrayville,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,29,-4.01
 VIC,224,Mallee,4520,Murtoa,21078,FORREST,John,2,N,Y,NP,The Nationals,351,-1.02
@@ -14794,8 +14794,8 @@ VIC,224,Mallee,4540,Red Cliffs,21078,FORREST,John,2,N,Y,NP,The Nationals,1258,6.
 VIC,224,Mallee,4540,Red Cliffs,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,517,-6.25
 VIC,224,Mallee,4542,Riverside,21078,FORREST,John,2,N,Y,NP,The Nationals,146,-7.62
 VIC,224,Mallee,4542,Riverside,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,42,7.62
-VIC,224,Mallee,4543,Robinvale,21078,FORREST,John,2,N,Y,NP,The Nationals,991,6.54
-VIC,224,Mallee,4543,Robinvale,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,243,-6.54
+VIC,224,Mallee,4543,Robinvale,21078,FORREST,John,2,N,Y,NP,The Nationals,991,6.47
+VIC,224,Mallee,4543,Robinvale,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,244,-6.47
 VIC,224,Mallee,4545,Rupanyup,21078,FORREST,John,2,N,Y,NP,The Nationals,221,3.37
 VIC,224,Mallee,4545,Rupanyup,21097,SCATES,Bob,4,N,N,ALP,Australian Labor Party,86,-3.37
 VIC,224,Mallee,4546,Sea Lake,21078,FORREST,John,2,N,Y,NP,The Nationals,334,2.11

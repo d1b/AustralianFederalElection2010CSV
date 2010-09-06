@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T09:38:45 Cycle:4db55421-e1c0-4d63-b797-fbe69f3127d3 Created:2010-09-06T09:19:03 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T09:55:03 Cycle:819330bb-3ff9-4f68-bb4b-03b1b81657f6 Created:2010-09-06T09:34:08 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -104,7 +104,7 @@ NSW,103,Banks,33,Blakehurst South,394,27.73,1027,72.27,1421,-6.09
 NSW,103,Banks,56472,Carlton South (Banks),247,60.84,159,39.16,406,-6.75
 NSW,103,Banks,65,Carlton West (Banks),719,52.79,643,47.21,1362,-10.12
 NSW,103,Banks,42,Connells Point,802,31.35,1756,68.65,2558,-10.35
-NSW,103,Banks,30094,Divisional Office (PREPOLL),0,0,0,0,0,-36.31
+NSW,103,Banks,30094,Divisional Office (PREPOLL),4,80,1,20,5,43.69
 NSW,103,Banks,2663,Hurstville,1205,55.84,953,44.16,2158,-17.7
 NSW,103,Banks,44,Hurstville Central,68,46.58,78,53.42,146,-11.34
 NSW,103,Banks,2664,Hurstville East,1083,55.06,884,44.94,1967,-14.04
@@ -655,7 +655,7 @@ NSW,113,Cowper,454,Bellbrook,40,39.6,61,60.4,101,-14.53
 NSW,113,Cowper,456,Bellingen,1323,60.69,857,39.31,2180,-3.16
 NSW,113,Cowper,457,Bellingen Hospital,184,52.57,166,47.43,350,-12.51
 NSW,113,Cowper,458,Boambee,556,33.11,1123,66.89,1679,-7.55
-NSW,113,Cowper,459,Bonville,351,34.68,661,65.32,1012,-7.02
+NSW,113,Cowper,459,Bonville,351,34.79,658,65.21,1009,-6.91
 NSW,113,Cowper,32370,Bostobrick,39,37.14,66,62.86,105,-14
 NSW,113,Cowper,460,Bowraville,438,43.07,579,56.93,1017,-9.52
 NSW,113,Cowper,2053,Brooms Head,71,42.26,97,57.74,168,-13.16
@@ -7328,7 +7328,7 @@ VIC,224,Mallee,4457,Brim,16,13.68,101,86.32,117,-1.06
 VIC,224,Mallee,4460,Cabarita,120,19.26,503,80.74,623,-9.5
 VIC,224,Mallee,4462,Cardross,121,23.27,399,76.73,520,-9.33
 VIC,224,Mallee,3143,Charlton,185,23.96,587,76.04,772,1.63
-VIC,224,Mallee,4730,Cohuna,320,19.8,1296,80.2,1616,-2.51
+VIC,224,Mallee,4730,Cohuna,320,19.81,1295,80.19,1615,-2.5
 VIC,224,Mallee,4467,Culgoa,21,24.71,64,75.29,85,3.88
 VIC,224,Mallee,4468,Cullulleraine,18,24.32,56,75.68,74,2.89
 VIC,224,Mallee,4470,Dadswells Bridge,15,19.74,61,80.26,76,-3.34
@@ -7376,7 +7376,7 @@ VIC,224,Mallee,4513,Mildura West,545,29.96,1274,70.04,1819,0.55
 VIC,224,Mallee,4514,Minimay,11,13.1,73,86.9,84,2.99
 VIC,224,Mallee,4515,Minyip,101,27.75,263,72.25,364,-0.72
 VIC,224,Mallee,4518,Murra Warra,11,13.41,71,86.59,82,7.98
-VIC,224,Mallee,4789,Murrabit,34,15.89,180,84.11,214,-0.04
+VIC,224,Mallee,4789,Murrabit,35,16.36,179,83.64,214,0.43
 VIC,224,Mallee,4519,Murrayville,29,11.24,229,88.76,258,-4.01
 VIC,224,Mallee,4520,Murtoa,229,39.48,351,60.52,580,1.02
 VIC,224,Mallee,4522,Nangiloc,42,17.57,197,82.43,239,-13.45
@@ -7397,7 +7397,7 @@ VIC,224,Mallee,5046,Quantong,56,20.22,221,79.78,277,5.22
 VIC,224,Mallee,4539,Rainbow,93,19.75,378,80.25,471,1.17
 VIC,224,Mallee,4540,Red Cliffs,517,29.13,1258,70.87,1775,-6.25
 VIC,224,Mallee,4542,Riverside,42,22.34,146,77.66,188,7.62
-VIC,224,Mallee,4543,Robinvale,243,19.69,991,80.31,1234,-6.54
+VIC,224,Mallee,4543,Robinvale,244,19.76,991,80.24,1235,-6.47
 VIC,224,Mallee,4545,Rupanyup,86,28.01,221,71.99,307,-3.37
 VIC,224,Mallee,4546,Sea Lake,92,21.6,334,78.4,426,-2.11
 VIC,224,Mallee,4547,Serviceton,12,14.29,72,85.71,84,-1.68
