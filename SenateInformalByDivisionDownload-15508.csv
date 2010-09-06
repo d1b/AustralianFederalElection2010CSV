@@ -1,9 +1,9 @@
-2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T17:49:27 Cycle:45c1265d-36cf-4b0d-b7cd-05fe71e4b095 Created:2010-09-06T17:35:28 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election Senate Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T18:04:34 Cycle:3f948970-86b8-4ec2-92f9-cb9506504b0a Created:2010-09-06T17:50:29 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent
 251,Watson,NSW,75373,8124,83497,9.73
 119,Fowler,NSW,76776,7996,84772,9.43
 107,Blaxland,NSW,71953,7091,79044,8.97
-315,McMahon,NSW,70747,6812,77559,8.78
+315,McMahon,NSW,70900,6812,77712,8.77
 153,Werriwa,NSW,68049,5628,73677,7.64
 309,Gorton,VIC,94092,7440,101532,7.33
 203,Calwell,VIC,74882,5687,80569,7.06
@@ -13,7 +13,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 111,Chifley,NSW,85148,5869,91017,6.45
 212,Gellibrand,VIC,74379,4997,79376,6.3
 232,Scullin,VIC,77746,5040,82786,6.09
-140,Parramatta,NSW,78656,5001,83657,5.98
+140,Parramatta,NSW,78644,5012,83656,5.99
 234,Wills,VIC,76190,4725,80915,5.84
 219,Isaacs,VIC,77258,4699,81957,5.73
 127,Kingsford Smith,NSW,65161,3947,69108,5.71
@@ -39,7 +39,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 250,Riverina,NSW,85680,4025,89705,4.49
 110,Charlton,NSW,84142,3938,88080,4.47
 165,Herbert,QLD,65665,3064,68729,4.46
-139,Parkes,NSW,87689,4063,91752,4.43
+139,Parkes,NSW,88348,4075,92423,4.41
 189,Port Adelaide,SA,93632,4316,97948,4.41
 162,Forde,QLD,73082,3342,76424,4.37
 224,Mallee,VIC,76864,3485,80349,4.34
@@ -49,7 +49,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 316,Wright,QLD,74145,3269,77414,4.22
 118,Farrer,NSW,84760,3709,88469,4.19
 158,Dawson,QLD,72887,3133,76020,4.12
-191,Wakefield,SA,89784,3838,93622,4.1
+191,Wakefield,SA,89785,3837,93622,4.1
 124,Hughes,NSW,88145,3723,91868,4.05
 306,Lingiari,NT,44090,1836,45926,4
 146,Robertson,NSW,76757,3189,79946,3.99
@@ -96,7 +96,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 133,Macquarie,NSW,86104,3091,89195,3.47
 223,La Trobe,VIC,82547,2961,85508,3.46
 178,Wide Bay,QLD,83236,2976,86212,3.45
-161,Fisher,QLD,74587,2655,77242,3.44
+161,Fisher,QLD,74779,2664,77443,3.44
 168,Leichhardt,QLD,82182,2907,85089,3.42
 112,Cook,NSW,78535,2773,81308,3.41
 155,Bowman,QLD,82889,2914,85803,3.4
@@ -109,7 +109,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 185,Hindmarsh,SA,86804,2942,89746,3.28
 105,Bennelong,NSW,88058,2974,91032,3.27
 236,Canning,WA,80981,2736,83717,3.27
-164,Groom,QLD,80726,2708,83434,3.25
+164,Groom,QLD,81353,2726,84079,3.24
 187,Makin,SA,87857,2938,90795,3.24
 192,Bass,TAS,66120,2200,68320,3.22
 252,Dickson,QLD,73101,2414,75515,3.2
@@ -119,7 +119,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 145,Richmond,NSW,78864,2579,81443,3.17
 205,Chisholm,VIC,77165,2511,79676,3.15
 243,O'Connor,WA,79017,2562,81579,3.14
-186,Kingston,SA,93327,3009,96336,3.12
+186,Kingston,SA,93653,3024,96677,3.13
 132,Mackellar,NSW,89100,2864,91964,3.11
 228,Melbourne,VIC,82027,2567,84594,3.03
 209,Deakin,VIC,79794,2430,82224,2.96
@@ -136,7 +136,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 163,Griffith,QLD,73664,2099,75763,2.77
 230,Melbourne Ports,VIC,78340,2217,80557,2.75
 214,Goldstein,VIC,85063,2392,87455,2.74
-188,Mayo,SA,74911,2091,77002,2.72
+188,Mayo,SA,74919,2082,77001,2.7
 179,Adelaide,SA,77218,2088,79306,2.63
 102,Fraser,ACT,109440,2952,112392,2.63
 182,Boothby,SA,70216,1890,72106,2.62
@@ -148,5 +148,5 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 151,Warringah,NSW,76045,1919,77964,2.46
 156,Brisbane,QLD,64392,1584,65976,2.4
 248,Tangney,WA,85187,2044,87231,2.34
-177,Ryan,QLD,83408,1586,84994,1.87
+177,Ryan,QLD,83420,1577,84997,1.86
 238,Curtin,WA,81455,1470,82925,1.77

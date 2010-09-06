@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T17:49:18 Cycle:45c1265d-36cf-4b0d-b7cd-05fe71e4b095 Created:2010-09-06T17:35:28 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T18:04:26 Cycle:3f948970-86b8-4ec2-92f9-cb9506504b0a Created:2010-09-06T17:50:29 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 ACT,101,Canberra,8829,Barton,20863,JONES,Giulia,1,N,N,LP,Liberal,793,-2.61
 ACT,101,Canberra,8829,Barton,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1397,2.61
@@ -460,8 +460,8 @@ NSW,105,Bennelong,653,Royal Ryde Homes,21132,McKEW,Maxine,8,N,Y,ALP,Labor,177,-1
 NSW,105,Bennelong,653,Royal Ryde Homes,21648,ALEXANDER,John,10,N,N,LP,Liberal,211,1.38
 NSW,105,Bennelong,654,Ryde,21132,McKEW,Maxine,8,N,Y,ALP,Labor,711,-5.18
 NSW,105,Bennelong,654,Ryde,21648,ALEXANDER,John,10,N,N,LP,Liberal,641,5.18
-NSW,105,Bennelong,104,Ryde Central,21132,McKEW,Maxine,8,N,Y,ALP,Labor,361,-2.79
-NSW,105,Bennelong,104,Ryde Central,21648,ALEXANDER,John,10,N,N,LP,Liberal,478,2.79
+NSW,105,Bennelong,104,Ryde Central,21132,McKEW,Maxine,8,N,Y,ALP,Labor,357,-2.6
+NSW,105,Bennelong,104,Ryde Central,21648,ALEXANDER,John,10,N,N,LP,Liberal,469,2.6
 NSW,105,Bennelong,105,Ryde East,21132,McKEW,Maxine,8,N,Y,ALP,Labor,1209,-3.57
 NSW,105,Bennelong,105,Ryde East,21648,ALEXANDER,John,10,N,N,LP,Liberal,1555,3.57
 NSW,105,Bennelong,655,Ryde Heights,21132,McKEW,Maxine,8,N,Y,ALP,Labor,447,-7.17
@@ -2240,14 +2240,14 @@ NSW,120,Gilmore,31484,Nowra South,21253,REILLY,Neil,4,N,N,ALP,Labor,491,-6.58
 NSW,120,Gilmore,31484,Nowra South,21727,GASH,Joanna,5,N,Y,LP,Liberal,655,6.58
 NSW,120,Gilmore,955,Orient Point,21253,REILLY,Neil,4,N,N,ALP,Labor,198,-2.65
 NSW,120,Gilmore,955,Orient Point,21727,GASH,Joanna,5,N,Y,LP,Liberal,189,2.65
-NSW,120,Gilmore,962,Sanctuary Point,21253,REILLY,Neil,4,N,N,ALP,Labor,1360,-3.3
-NSW,120,Gilmore,962,Sanctuary Point,21727,GASH,Joanna,5,N,Y,LP,Liberal,1387,3.3
-NSW,120,Gilmore,34345,Shell Cove,21253,REILLY,Neil,4,N,N,ALP,Labor,746,-9.54
-NSW,120,Gilmore,34345,Shell Cove,21727,GASH,Joanna,5,N,Y,LP,Liberal,681,9.54
-NSW,120,Gilmore,2806,Shellharbour,21253,REILLY,Neil,4,N,N,ALP,Labor,1215,-10.44
-NSW,120,Gilmore,2806,Shellharbour,21727,GASH,Joanna,5,N,Y,LP,Liberal,928,10.44
-NSW,120,Gilmore,2807,Shoalhaven Heads,21253,REILLY,Neil,4,N,N,ALP,Labor,853,-2.64
-NSW,120,Gilmore,2807,Shoalhaven Heads,21727,GASH,Joanna,5,N,Y,LP,Liberal,979,2.64
+NSW,120,Gilmore,962,Sanctuary Point,21253,REILLY,Neil,4,N,N,ALP,Labor,1360,-3.28
+NSW,120,Gilmore,962,Sanctuary Point,21727,GASH,Joanna,5,N,Y,LP,Liberal,1386,3.28
+NSW,120,Gilmore,34345,Shell Cove,21253,REILLY,Neil,4,N,N,ALP,Labor,746,-9.51
+NSW,120,Gilmore,34345,Shell Cove,21727,GASH,Joanna,5,N,Y,LP,Liberal,680,9.51
+NSW,120,Gilmore,2806,Shellharbour,21253,REILLY,Neil,4,N,N,ALP,Labor,1214,-10.46
+NSW,120,Gilmore,2806,Shellharbour,21727,GASH,Joanna,5,N,Y,LP,Liberal,928,10.46
+NSW,120,Gilmore,2807,Shoalhaven Heads,21253,REILLY,Neil,4,N,N,ALP,Labor,851,-2.72
+NSW,120,Gilmore,2807,Shoalhaven Heads,21727,GASH,Joanna,5,N,Y,LP,Liberal,980,2.72
 NSW,120,Gilmore,33620,Special Hospital Team 1,21253,REILLY,Neil,4,N,N,ALP,Labor,59,-3.17
 NSW,120,Gilmore,33620,Special Hospital Team 1,21727,GASH,Joanna,5,N,Y,LP,Liberal,91,3.17
 NSW,120,Gilmore,33728,Special Hospital Team 2,21253,REILLY,Neil,4,N,N,ALP,Labor,33,1.92
@@ -2266,10 +2266,10 @@ NSW,120,Gilmore,970,Terara,21253,REILLY,Neil,4,N,N,ALP,Labor,230,1.2
 NSW,120,Gilmore,970,Terara,21727,GASH,Joanna,5,N,Y,LP,Liberal,562,-1.2
 NSW,120,Gilmore,972,Tomerong,21253,REILLY,Neil,4,N,N,ALP,Labor,333,-1.88
 NSW,120,Gilmore,972,Tomerong,21727,GASH,Joanna,5,N,Y,LP,Liberal,386,1.88
-NSW,120,Gilmore,732,Ulladulla,21253,REILLY,Neil,4,N,N,ALP,Labor,1039,-5.35
-NSW,120,Gilmore,732,Ulladulla,21727,GASH,Joanna,5,N,Y,LP,Liberal,1401,5.35
-NSW,120,Gilmore,33747,Ulladulla PPVC,21253,REILLY,Neil,4,N,N,ALP,Labor,1961,-6.65
-NSW,120,Gilmore,33747,Ulladulla PPVC,21727,GASH,Joanna,5,N,Y,LP,Liberal,2968,6.65
+NSW,120,Gilmore,732,Ulladulla,21253,REILLY,Neil,4,N,N,ALP,Labor,1038,-5.37
+NSW,120,Gilmore,732,Ulladulla,21727,GASH,Joanna,5,N,Y,LP,Liberal,1401,5.37
+NSW,120,Gilmore,33747,Ulladulla PPVC,21253,REILLY,Neil,4,N,N,ALP,Labor,1961,-6.64
+NSW,120,Gilmore,33747,Ulladulla PPVC,21727,GASH,Joanna,5,N,Y,LP,Liberal,2967,6.64
 NSW,120,Gilmore,974,Vincentia,21253,REILLY,Neil,4,N,N,ALP,Labor,755,-3.91
 NSW,120,Gilmore,974,Vincentia,21727,GASH,Joanna,5,N,Y,LP,Liberal,892,3.91
 NSW,120,Gilmore,34333,Wandandian,21253,REILLY,Neil,4,N,N,ALP,Labor,73,-11.36
@@ -10774,8 +10774,8 @@ SA,187,Makin,7138,Modbury Heights,20945,ZAPPIA,Tony,5,N,Y,ALP,Australian Labor P
 SA,187,Makin,7138,Modbury Heights,20852,DAVIES,Liz,6,N,N,LP,Liberal,1211,-6.02
 SA,187,Makin,7139,Modbury North,20945,ZAPPIA,Tony,5,N,Y,ALP,Australian Labor Party,1077,2.61
 SA,187,Makin,7139,Modbury North,20852,DAVIES,Liz,6,N,N,LP,Liberal,675,-2.61
-SA,187,Makin,38321,Modbury PPVC,20945,ZAPPIA,Tony,5,N,Y,ALP,Australian Labor Party,1853,8.37
-SA,187,Makin,38321,Modbury PPVC,20852,DAVIES,Liz,6,N,N,LP,Liberal,1304,-8.37
+SA,187,Makin,38321,Modbury PPVC,20945,ZAPPIA,Tony,5,N,Y,ALP,Australian Labor Party,1749,5.08
+SA,187,Makin,38321,Modbury PPVC,20852,DAVIES,Liz,6,N,N,LP,Liberal,1408,-5.08
 SA,187,Makin,7140,Modbury West,20945,ZAPPIA,Tony,5,N,Y,ALP,Australian Labor Party,1555,3.53
 SA,187,Makin,7140,Modbury West,20852,DAVIES,Liz,6,N,N,LP,Liberal,954,-3.53
 SA,187,Makin,7142,Para Hills,20945,ZAPPIA,Tony,5,N,Y,ALP,Australian Labor Party,1388,2.26
@@ -11644,8 +11644,8 @@ TAS,194,Denison,8443,Bowen Road,20881,WILKIE,Andrew,1,N,N,IND,Independent,575,41
 TAS,194,Denison,8443,Bowen Road,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,827,58.99
 TAS,194,Denison,8444,Brent Street,20881,WILKIE,Andrew,1,N,N,IND,Independent,160,42.9
 TAS,194,Denison,8444,Brent Street,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,213,57.1
-TAS,194,Denison,8445,Cascades,20881,WILKIE,Andrew,1,N,N,IND,Independent,570,60.45
-TAS,194,Denison,8445,Cascades,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,373,39.55
+TAS,194,Denison,8445,Cascades,20881,WILKIE,Andrew,1,N,N,IND,Independent,571,60.55
+TAS,194,Denison,8445,Cascades,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,372,39.45
 TAS,194,Denison,8446,Chigwell,20881,WILKIE,Andrew,1,N,N,IND,Independent,586,35.22
 TAS,194,Denison,8446,Chigwell,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,1078,64.78
 TAS,194,Denison,8447,Claremont,20881,WILKIE,Andrew,1,N,N,IND,Independent,578,35.48
@@ -11868,8 +11868,8 @@ TAS,196,Lyons,8559,Bothwell,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,137,0
 TAS,196,Lyons,8559,Bothwell,20926,ADAMS,Dick,3,N,Y,ALP,Australian Labor Party,219,-0.4
 TAS,196,Lyons,8560,Bracknell,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,191,0.92
 TAS,196,Lyons,8560,Bracknell,20926,ADAMS,Dick,3,N,Y,ALP,Australian Labor Party,185,-0.92
-TAS,196,Lyons,8500,Bridgewater,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,406,-12.11
-TAS,196,Lyons,8500,Bridgewater,20926,ADAMS,Dick,3,N,Y,ALP,Australian Labor Party,1496,12.11
+TAS,196,Lyons,8500,Bridgewater,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,407,-12.06
+TAS,196,Lyons,8500,Bridgewater,20926,ADAMS,Dick,3,N,Y,ALP,Australian Labor Party,1495,12.06
 TAS,196,Lyons,8562,Brighton,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,552,-4.68
 TAS,196,Lyons,8562,Brighton,20926,ADAMS,Dick,3,N,Y,ALP,Australian Labor Party,1436,4.68
 TAS,196,Lyons,8563,Broadmarsh,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,75,-7.3
@@ -11900,8 +11900,8 @@ TAS,196,Lyons,8580,Deloraine,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,837,
 TAS,196,Lyons,8580,Deloraine,20926,ADAMS,Dick,3,N,Y,ALP,Australian Labor Party,1093,6.7
 TAS,196,Lyons,30187,Divisional Office (PREPOLL),21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,6,-8.53
 TAS,196,Lyons,30187,Divisional Office (PREPOLL),20926,ADAMS,Dick,3,N,Y,ALP,Australian Labor Party,12,8.53
-TAS,196,Lyons,8582,Dodges Ferry,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,574,-3.72
-TAS,196,Lyons,8582,Dodges Ferry,20926,ADAMS,Dick,3,N,Y,ALP,Australian Labor Party,1371,3.72
+TAS,196,Lyons,8582,Dodges Ferry,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,576,-3.62
+TAS,196,Lyons,8582,Dodges Ferry,20926,ADAMS,Dick,3,N,Y,ALP,Australian Labor Party,1369,3.62
 TAS,196,Lyons,8583,Dromedary,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,103,-4.05
 TAS,196,Lyons,8583,Dromedary,20926,ADAMS,Dick,3,N,Y,ALP,Australian Labor Party,235,4.05
 TAS,196,Lyons,8584,Dunalley,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,180,-1.21
@@ -11996,8 +11996,8 @@ TAS,196,Lyons,8647,Pontville,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,178,
 TAS,196,Lyons,8647,Pontville,20926,ADAMS,Dick,3,N,Y,ALP,Australian Labor Party,398,6.55
 TAS,196,Lyons,8648,Port Arthur,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,73,2.11
 TAS,196,Lyons,8648,Port Arthur,20926,ADAMS,Dick,3,N,Y,ALP,Australian Labor Party,120,-2.11
-TAS,196,Lyons,8649,Port Sorell,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,949,-5.02
-TAS,196,Lyons,8649,Port Sorell,20926,ADAMS,Dick,3,N,Y,ALP,Australian Labor Party,994,5.02
+TAS,196,Lyons,8649,Port Sorell,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,945,-5.22
+TAS,196,Lyons,8649,Port Sorell,20926,ADAMS,Dick,3,N,Y,ALP,Australian Labor Party,998,5.22
 TAS,196,Lyons,8650,Primrose Sands,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,119,1.36
 TAS,196,Lyons,8650,Primrose Sands,20926,ADAMS,Dick,3,N,Y,ALP,Australian Labor Party,295,-1.36
 TAS,196,Lyons,8651,Pyengana,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,51,-2.85

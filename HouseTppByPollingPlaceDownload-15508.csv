@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T17:49:23 Cycle:45c1265d-36cf-4b0d-b7cd-05fe71e4b095 Created:2010-09-06T17:35:28 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T18:04:31 Cycle:3f948970-86b8-4ec2-92f9-cb9506504b0a Created:2010-09-06T17:50:29 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -230,7 +230,7 @@ NSW,105,Bennelong,102,Putney,1031,39.14,1603,60.86,2634,-3.77
 NSW,105,Bennelong,33926,Roselea,966,41.04,1388,58.96,2354,-4.54
 NSW,105,Bennelong,653,Royal Ryde Homes,177,45.62,211,54.38,388,-1.38
 NSW,105,Bennelong,654,Ryde,711,52.59,641,47.41,1352,-5.18
-NSW,105,Bennelong,104,Ryde Central,361,43.03,478,56.97,839,-2.79
+NSW,105,Bennelong,104,Ryde Central,357,43.22,469,56.78,826,-2.6
 NSW,105,Bennelong,105,Ryde East,1209,43.74,1555,56.26,2764,-3.57
 NSW,105,Bennelong,655,Ryde Heights,447,44.57,556,55.43,1003,-7.17
 NSW,105,Bennelong,656,Ryde Hospital,286,42.31,390,57.69,676,-7.55
@@ -1120,10 +1120,10 @@ NSW,120,Gilmore,33136,Nowra North,347,38.43,556,61.57,903,-6.51
 NSW,120,Gilmore,34039,Nowra PPVC,2935,37.96,4797,62.04,7732,-8.47
 NSW,120,Gilmore,31484,Nowra South,491,42.84,655,57.16,1146,-6.58
 NSW,120,Gilmore,955,Orient Point,198,51.16,189,48.84,387,-2.65
-NSW,120,Gilmore,962,Sanctuary Point,1360,49.51,1387,50.49,2747,-3.3
-NSW,120,Gilmore,34345,Shell Cove,746,52.28,681,47.72,1427,-9.54
-NSW,120,Gilmore,2806,Shellharbour,1215,56.7,928,43.3,2143,-10.44
-NSW,120,Gilmore,2807,Shoalhaven Heads,853,46.56,979,53.44,1832,-2.64
+NSW,120,Gilmore,962,Sanctuary Point,1360,49.53,1386,50.47,2746,-3.28
+NSW,120,Gilmore,34345,Shell Cove,746,52.31,680,47.69,1426,-9.51
+NSW,120,Gilmore,2806,Shellharbour,1214,56.68,928,43.32,2142,-10.46
+NSW,120,Gilmore,2807,Shoalhaven Heads,851,46.48,980,53.52,1831,-2.72
 NSW,120,Gilmore,33620,Special Hospital Team 1,59,39.33,91,60.67,150,-3.17
 NSW,120,Gilmore,33728,Special Hospital Team 2,33,44.59,41,55.41,74,1.92
 NSW,120,Gilmore,33730,Special Hospital Team 3,68,41.98,94,58.02,162,-0.05
@@ -1133,8 +1133,8 @@ NSW,120,Gilmore,964,Sussex Inlet,841,44.24,1060,55.76,1901,-4.46
 NSW,120,Gilmore,14061,Sydney (Gilmore),13,36.11,23,63.89,36,-8.63
 NSW,120,Gilmore,970,Terara,230,29.04,562,70.96,792,1.2
 NSW,120,Gilmore,972,Tomerong,333,46.31,386,53.69,719,-1.88
-NSW,120,Gilmore,732,Ulladulla,1039,42.58,1401,57.42,2440,-5.35
-NSW,120,Gilmore,33747,Ulladulla PPVC,1961,39.78,2968,60.22,4929,-6.65
+NSW,120,Gilmore,732,Ulladulla,1038,42.56,1401,57.44,2439,-5.37
+NSW,120,Gilmore,33747,Ulladulla PPVC,1961,39.79,2967,60.21,4928,-6.64
 NSW,120,Gilmore,974,Vincentia,755,45.84,892,54.16,1647,-3.91
 NSW,120,Gilmore,34333,Wandandian,73,29.2,177,70.8,250,-11.36
 NSW,120,Gilmore,2808,Warilla (Gilmore),446,70.13,190,29.87,636,-10.33
@@ -5387,7 +5387,7 @@ SA,187,Makin,7136,Ingle Farm North,579,75.29,190,24.71,769,3.69
 SA,187,Makin,7137,Modbury Central,852,60.43,558,39.57,1410,4.71
 SA,187,Makin,7138,Modbury Heights,2061,62.99,1211,37.01,3272,6.02
 SA,187,Makin,7139,Modbury North,1077,61.47,675,38.53,1752,2.61
-SA,187,Makin,38321,Modbury PPVC,1853,58.69,1304,41.31,3157,8.37
+SA,187,Makin,38321,Modbury PPVC,1749,55.4,1408,44.6,3157,5.08
 SA,187,Makin,7140,Modbury West,1555,61.98,954,38.02,2509,3.53
 SA,187,Makin,7142,Para Hills,1388,67.54,667,32.46,2055,2.26
 SA,187,Makin,7143,Para Hills East,1092,68.04,513,31.96,1605,6.09
@@ -5934,7 +5934,7 @@ TAS,196,Lyons,8556,Bicheno,356,59.23,245,40.77,601,7.87
 TAS,196,Lyons,8557,Bishopsbourne,35,37.23,59,62.77,94,4.25
 TAS,196,Lyons,8559,Bothwell,219,61.52,137,38.48,356,-0.4
 TAS,196,Lyons,8560,Bracknell,185,49.2,191,50.8,376,-0.92
-TAS,196,Lyons,8500,Bridgewater,1496,78.65,406,21.35,1902,12.11
+TAS,196,Lyons,8500,Bridgewater,1495,78.6,407,21.4,1902,12.06
 TAS,196,Lyons,8562,Brighton,1436,72.23,552,27.77,1988,4.68
 TAS,196,Lyons,8563,Broadmarsh,129,63.24,75,36.76,204,7.3
 TAS,196,Lyons,8564,Bronte,44,56.41,34,43.59,78,3.14
@@ -5950,7 +5950,7 @@ TAS,196,Lyons,8575,Copping,120,59.41,82,40.59,202,-0.11
 TAS,196,Lyons,8578,Cressy,439,64.28,244,35.72,683,7.41
 TAS,196,Lyons,8580,Deloraine,1093,56.63,837,43.37,1930,6.7
 TAS,196,Lyons,30187,Divisional Office (PREPOLL),12,66.67,6,33.33,18,8.53
-TAS,196,Lyons,8582,Dodges Ferry,1371,70.49,574,29.51,1945,3.72
+TAS,196,Lyons,8582,Dodges Ferry,1369,70.39,576,29.61,1945,3.62
 TAS,196,Lyons,8583,Dromedary,235,69.53,103,30.47,338,4.05
 TAS,196,Lyons,8584,Dunalley,268,59.82,180,40.18,448,1.21
 TAS,196,Lyons,8587,Elizabeth Town,191,53.65,165,46.35,356,9.33
@@ -5998,7 +5998,7 @@ TAS,196,Lyons,8642,Parattah,83,58.45,59,41.55,142,6.42
 TAS,196,Lyons,8644,Perth,1117,64.38,618,35.62,1735,6.1
 TAS,196,Lyons,8647,Pontville,398,69.1,178,30.9,576,6.55
 TAS,196,Lyons,8648,Port Arthur,120,62.18,73,37.82,193,-2.11
-TAS,196,Lyons,8649,Port Sorell,994,51.16,949,48.84,1943,5.02
+TAS,196,Lyons,8649,Port Sorell,998,51.36,945,48.64,1943,5.22
 TAS,196,Lyons,8650,Primrose Sands,295,71.26,119,28.74,414,-1.36
 TAS,196,Lyons,8651,Pyengana,70,57.85,51,42.15,121,2.85
 TAS,196,Lyons,8654,Railton,446,67.47,215,32.53,661,5.06
