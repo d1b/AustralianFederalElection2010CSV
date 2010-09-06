@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T17:03:27 Cycle:60f4dde2-ff08-4e89-8024-092f90a9cd11 Created:2010-09-06T16:50:18 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-06T17:18:57 Cycle:e6f27515-fd4a-4655-9333-388f6955940e Created:2010-09-06T17:05:23 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -1063,9 +1063,9 @@ NSW,119,Fowler,11942,Hinchinbrook,1745,60.19,1154,39.81,2899,-10.63
 NSW,119,Fowler,37054,Hinchinbrook North,583,56.17,455,43.83,1038,-9.23
 NSW,119,Fowler,2348,Lansvale,794,60.8,512,39.2,1306,-14.47
 NSW,119,Fowler,173,Lansvale East,607,51.92,562,48.08,1169,-14.21
-NSW,119,Fowler,57099,Liverpool (Fowler),230,63.71,131,36.29,361,-7.66
+NSW,119,Fowler,57099,Liverpool (Fowler),229,63.43,132,36.57,361,-7.94
 NSW,119,Fowler,58778,Liverpool FOWLER PPVC,1042,53.24,915,46.76,1957,-13.12
-NSW,119,Fowler,882,Liverpool West (Fowler),793,60.58,516,39.42,1309,-8.08
+NSW,119,Fowler,882,Liverpool West (Fowler),786,60.46,514,39.54,1300,-8.2
 NSW,119,Fowler,884,Marsden Road,1020,60.9,655,39.1,1675,-3.37
 NSW,119,Fowler,885,Miller,844,70.45,354,29.55,1198,-9
 NSW,119,Fowler,887,Mount Pritchard,1419,56.81,1079,43.19,2498,-13.32
@@ -2744,7 +2744,7 @@ NSW,146,Robertson,2628,Umina Central,1103,60.08,733,39.92,1836,-0.48
 NSW,146,Robertson,2629,Umina Mall,1164,59.69,786,40.31,1950,3.44
 NSW,146,Robertson,2631,Woy Woy,1163,56.4,899,43.6,2062,-1.03
 NSW,146,Robertson,2632,Woy Woy Bay,139,46.64,159,53.36,298,-1.11
-NSW,146,Robertson,31708,Woy Woy PPVC,2038,53.73,1755,46.27,3793,5.45
+NSW,146,Robertson,31708,Woy Woy PPVC,2037,53.73,1754,46.27,3791,5.45
 NSW,146,Robertson,2633,Woy Woy South,541,54.87,445,45.13,986,0.48
 NSW,146,Robertson,31960,Wyoming (Robertson),661,58.65,466,41.35,1127,-0.7
 NSW,148,Shortland,46408,Adamstown Heights (Shortland),282,49.91,283,50.09,565,-3.68
@@ -3595,7 +3595,7 @@ QLD,160,Fairfax,5418,Buderim Garden Village,449,38.18,727,61.82,1176,-1.6
 QLD,160,Fairfax,32549,Buderim Immanuel,173,32.58,358,67.42,531,-5.83
 QLD,160,Fairfax,33108,Buderim North,540,39.1,841,60.9,1381,-3.47
 QLD,160,Fairfax,47692,Buderim PPVC,724,34.36,1383,65.64,2107,-19.74
-QLD,160,Fairfax,33103,Buderim West,513,38.08,834,61.92,1347,0.02
+QLD,160,Fairfax,33103,Buderim West,503,37.34,844,62.66,1347,-0.72
 QLD,160,Fairfax,5419,Burnside,940,45.39,1131,54.61,2071,-4.44
 QLD,160,Fairfax,5421,Coolum Beach,1377,55.15,1120,44.85,2497,-3.57
 QLD,160,Fairfax,33085,Coolum Beach North,945,55.23,766,44.77,1711,1.41
@@ -3963,7 +3963,7 @@ QLD,165,Herbert,32664,Special Hospital Team 1,43,50,43,50,86,3.78
 QLD,165,Herbert,32669,Special Hospital Team 2,118,45.04,144,54.96,262,-1.27
 QLD,165,Herbert,5694,The Weir,914,44.41,1144,55.59,2058,-4.01
 QLD,165,Herbert,5696,Townsville City,420,46.31,487,53.69,907,2.25
-QLD,165,Herbert,32703,Townsville HERBERT PPVC,1989,43.88,2544,56.12,4533,-3.72
+QLD,165,Herbert,32703,Townsville HERBERT PPVC,1994,44.01,2537,55.99,4531,-3.59
 QLD,165,Herbert,5697,Townsville Hospital,344,48.59,364,51.41,708,-5.34
 QLD,165,Herbert,5692,Townsville South,425,52.28,388,47.72,813,-3.66
 QLD,165,Herbert,5698,Townsville West,338,52.57,305,47.43,643,-1.65
@@ -4194,18 +4194,18 @@ QLD,168,Leichhardt,5981,Miallo,120,35.82,215,64.18,335,-8.22
 QLD,168,Leichhardt,5926,Mooroobool,953,48.16,1026,51.84,1979,-8.31
 QLD,168,Leichhardt,5985,Mossman,709,44.48,885,55.52,1594,-7.38
 QLD,168,Leichhardt,6008,Napranum,187,62.33,113,37.67,300,-16.15
-QLD,168,Leichhardt,5991,Parramatta Park,1489,54.24,1256,45.76,2745,-2.93
+QLD,168,Leichhardt,5991,Parramatta Park,1488,54.29,1253,45.71,2741,-2.88
 QLD,168,Leichhardt,5953,Pormpuraaw,149,42.09,205,57.91,354,-38.05
 QLD,168,Leichhardt,5992,Port Douglas,695,44.07,882,55.93,1577,-3.72
 QLD,168,Leichhardt,32676,Port Douglas PPVC,135,38.24,218,61.76,353,-11.21
-QLD,168,Leichhardt,5993,Redlynch,1034,40.77,1502,59.23,2536,-5.77
+QLD,168,Leichhardt,5993,Redlynch,1034,40.79,1501,59.21,2535,-5.75
 QLD,168,Leichhardt,32469,Remote Mobile Team 1,513,55.4,413,44.6,926,-23.89
-QLD,168,Leichhardt,32470,Remote Mobile Team 2,531,50.19,527,49.81,1058,-29.06
+QLD,168,Leichhardt,32470,Remote Mobile Team 2,531,50.24,526,49.76,1057,-29.01
 QLD,168,Leichhardt,32471,Remote Mobile Team 3,45,60,30,40,75,-19.52
-QLD,168,Leichhardt,46395,Smithfield,836,44.26,1053,55.74,1889,-9.17
+QLD,168,Leichhardt,46395,Smithfield,837,44.29,1053,55.71,1890,-9.14
 QLD,168,Leichhardt,32472,Special Hospital Team 1,67,49.26,69,50.74,136,-11.61
 QLD,168,Leichhardt,34226,Special Hospital Team 2,30,55.56,24,44.44,54,-3.7
-QLD,168,Leichhardt,6001,Stratford,456,51.35,432,48.65,888,-2.25
+QLD,168,Leichhardt,6001,Stratford,455,51.3,432,48.7,887,-2.3
 QLD,168,Leichhardt,6002,Tamwoy,147,56.32,114,43.68,261,-20.39
 QLD,168,Leichhardt,58581,Thursday Is Interstate PPVC,0,0,0,0,0,0
 QLD,168,Leichhardt,6003,Thursday Island,376,54.02,320,45.98,696,-14.05
@@ -4213,9 +4213,9 @@ QLD,168,Leichhardt,46646,Thursday Island PPVC,0,0,0,0,0,-47.06
 QLD,168,Leichhardt,6005,Trinity Beach,1439,44.8,1773,55.2,3212,-7.78
 QLD,168,Leichhardt,6007,Weipa,470,49.68,476,50.32,946,-6.86
 QLD,168,Leichhardt,58582,Weipa Interstate PPVC,0,0,0,0,0,0
-QLD,168,Leichhardt,46649,Weipa PPVC,152,41.99,210,58.01,362,-7.5
-QLD,168,Leichhardt,6009,White Rock,1174,47.61,1292,52.39,2466,-8.55
-QLD,168,Leichhardt,5955,Whitfield,869,40.74,1264,59.26,2133,-6.85
+QLD,168,Leichhardt,46649,Weipa PPVC,152,41.87,211,58.13,363,-7.62
+QLD,168,Leichhardt,6009,White Rock,1175,47.63,1292,52.37,2467,-8.53
+QLD,168,Leichhardt,5955,Whitfield,868,40.71,1264,59.29,2132,-6.88
 QLD,168,Leichhardt,5994,Wonga,149,37.06,253,62.94,402,-13.64
 QLD,168,Leichhardt,5929,Woree,1161,45.93,1367,54.07,2528,-7.41
 QLD,168,Leichhardt,6013,Yorkeys Knob,532,45.9,627,54.1,1159,-9.97
@@ -5449,7 +5449,7 @@ SA,188,Mayo,7186,Hope Forest,74,32.6,153,67.4,227,-0.02
 SA,188,Mayo,7134,Houghton,221,39.32,341,60.68,562,3.58
 SA,188,Mayo,7187,Inman Valley,82,47.13,92,52.87,174,8.48
 SA,188,Mayo,7189,Kangarilla,228,43.93,291,56.07,519,3.59
-SA,188,Mayo,7371,Kersbrook,315,42.92,419,57.08,734,0.12
+SA,188,Mayo,7371,Kersbrook,314,42.84,419,57.16,733,0.04
 SA,188,Mayo,7191,Kingscote,490,35.53,889,64.47,1379,-1.73
 SA,188,Mayo,12995,Kingscote PPVC,0,0,0,0,0,0
 SA,188,Mayo,7192,Langhorne Creek,79,23.51,257,76.49,336,-1.85
@@ -8448,7 +8448,7 @@ WA,240,Fremantle,7767,Hamilton Hill East,919,65.6,482,34.4,1401,-4.3
 WA,240,Fremantle,7768,Hamilton Hill North,1110,63.03,651,36.97,1761,-4.8
 WA,240,Fremantle,7769,Hamilton Hill South,589,66.11,302,33.89,891,-8.07
 WA,240,Fremantle,7770,Hilton,1182,72.56,447,27.44,1629,-3.73
-WA,240,Fremantle,7771,Jandakot,1299,53.57,1126,46.43,2425,-0.93
+WA,240,Fremantle,7771,Jandakot,1299,53.59,1125,46.41,2424,-0.91
 WA,240,Fremantle,31063,Kardinya (Fremantle),318,46.97,359,53.03,677,-2.13
 WA,240,Fremantle,7773,Kardinya West,892,53.93,762,46.07,1654,-1.14
 WA,240,Fremantle,31980,Lakeland,958,48.07,1035,51.93,1993,-5.92
