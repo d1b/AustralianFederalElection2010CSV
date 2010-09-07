@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-07T11:29:32 Cycle:15b97fb7-5572-4499-a32e-cf37bbf253f2 Created:2010-09-07T11:19:27 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Turnout By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-07T11:45:24 Cycle:9bdbebd1-e3b6-44c6-8aa6-25144cc31ce3 Created:2010-09-07T11:34:32 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 179,Adelaide,SA,98526,88093,89.41,-5.18
 197,Aston,VIC,93448,88672,94.89,-1.5
@@ -22,7 +22,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 156,Brisbane,QLD,92222,82818,89.8,-5.41
 201,Bruce,VIC,88171,80140,90.89,-3.69
 109,Calare,NSW,98504,93873,95.3,-1.12
-203,Calwell,VIC,101314,93666,92.45,-2.39
+203,Calwell,VIC,101314,93668,92.45,-2.39
 101,Canberra,ACT,124215,116981,94.18,-1.83
 236,Canning,WA,90107,83916,93.13,0.01
 157,Capricornia,QLD,91962,85643,93.13,-2.27
@@ -93,7 +93,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 302,Longman,QLD,87062,81377,93.47,0.19
 130,Lyne,NSW,92565,88260,95.35,-0.24
 196,Lyons,TAS,72865,69071,94.79,-0.05
-131,Macarthur,NSW,90059,82921,92.07,-2.89
+131,Macarthur,NSW,90059,84558,93.89,-1.07
 132,Mackellar,NSW,98556,91844,93.19,-2.09
 133,Macquarie,NSW,97560,92473,94.79,-1.12
 187,Makin,SA,96263,90751,94.27,-1.4
@@ -117,7 +117,7 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 136,Newcastle,NSW,92896,86912,93.56,-1.69
 137,North Sydney,NSW,97567,88374,90.58,-3.63
 243,O'Connor,WA,92875,86218,92.83,-0.22
-174,Oxley,QLD,82782,76654,92.6,-0.81
+174,Oxley,QLD,82782,76656,92.6,-0.81
 138,Page,NSW,94360,88668,93.97,-2.12
 139,Parkes,NSW,100169,92833,92.68,-3.84
 140,Parramatta,NSW,94014,85734,91.19,-1.4
@@ -147,6 +147,6 @@ DivisionID,DivisionNm,StateAb,Enrolment,Turnout,TurnoutPercentage,TurnoutSwing
 251,Watson,NSW,97765,86094,88.06,-4.18
 152,Wentworth,NSW,101464,88911,87.63,-4.9
 153,Werriwa,NSW,90994,83493,91.76,-2.14
-178,Wide Bay,QLD,92636,86030,92.87,-1.66
+178,Wide Bay,QLD,92636,86032,92.87,-1.66
 234,Wills,VIC,98599,89365,90.63,-3.04
 316,Wright,QLD,85304,79898,93.66,0.08
