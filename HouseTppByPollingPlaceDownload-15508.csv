@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-07T10:43:15 Cycle:a2c1b8cf-7ff9-4baa-b29c-b05359367c59 Created:2010-09-07T10:34:21 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-07T10:58:46 Cycle:f2df425d-21bf-4293-96d7-3a4a8347c546 Created:2010-09-07T10:49:21 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -443,7 +443,7 @@ NSW,109,Calare,267,Lyndhurst,57,26.76,156,73.24,213,-13.45
 NSW,109,Calare,269,Mandurama,71,34.47,135,65.53,206,-10.94
 NSW,109,Calare,2201,Manildra,153,33.33,306,66.67,459,-12.39
 NSW,109,Calare,272,Meadow Flat,98,46.67,112,53.33,210,-2.39
-NSW,109,Calare,273,Millthorpe,277,32.47,576,67.53,853,-10.84
+NSW,109,Calare,273,Millthorpe,276,32.39,576,67.61,852,-10.92
 NSW,109,Calare,274,Mitchell Campus,53,48.18,57,51.82,110,-14.32
 NSW,109,Calare,2203,Molong,337,25.76,971,74.24,1308,-7.78
 NSW,109,Calare,2205,Mullion Creek,113,30.05,263,69.95,376,-3.8
@@ -3190,7 +3190,7 @@ QLD,304,Blair,6349,Bundamba,867,60.8,559,39.2,1426,-4.99
 QLD,304,Blair,6350,Bundamba South,1327,64.17,741,35.83,2068,-5.24
 QLD,304,Blair,6353,Churchill,1427,55.44,1147,44.56,2574,-0.6
 QLD,304,Blair,47714,Chuwar,80,43.24,105,56.76,185,-4.32
-QLD,304,Blair,55256,Collingwood Park (Blair),782,61.09,498,38.91,1280,-7.36
+QLD,304,Blair,55256,Collingwood Park (Blair),785,61.23,497,38.77,1282,-7.22
 QLD,304,Blair,6355,Coominya,327,45.73,388,54.27,715,-8.36
 QLD,304,Blair,32685,Divisional Office (PREPOLL),0,0,0,0,0,-52.75
 QLD,304,Blair,6358,East Ipswich,696,64.8,378,35.2,1074,-3.4
@@ -4893,7 +4893,7 @@ QLD,316,Wright,12059,Stockyard Creek,52,26.8,142,73.2,194,-14.83
 QLD,316,Wright,12042,Studio Village (Wright),286,48.23,307,51.77,593,-3.9
 QLD,316,Wright,12027,Tallai (Wright),726,32.38,1516,67.62,2242,-1.56
 QLD,316,Wright,6293,Tamborine,649,44.57,807,55.43,1456,-4.95
-QLD,316,Wright,6294,Tamborine North,996,43.76,1280,56.24,2276,-3.79
+QLD,316,Wright,6294,Tamborine North,996,43.78,1279,56.22,2275,-3.77
 QLD,316,Wright,6295,Tamrookum,288,34.16,555,65.84,843,-5.93
 QLD,316,Wright,5639,Thornton,42,21.65,152,78.35,194,-6.03
 QLD,316,Wright,5647,Upper Tenthill,39,17.89,179,82.11,218,-3.06
@@ -5295,7 +5295,7 @@ SA,185,Hindmarsh,7064,Henley Beach,1074,54.55,895,45.45,1969,-0.17
 SA,185,Hindmarsh,7065,Henley South,858,57.24,641,42.76,1499,0.7
 SA,185,Hindmarsh,7068,Kidman Park,236,60.2,156,39.8,392,0.3
 SA,185,Hindmarsh,7069,Kidman Park South,1410,55.56,1128,44.44,2538,2.34
-SA,185,Hindmarsh,7070,Kurralta Park,914,59.97,610,40.03,1524,1.21
+SA,185,Hindmarsh,7070,Kurralta Park,915,60,610,40,1525,1.24
 SA,185,Hindmarsh,7071,Lockleys,730,48.76,767,51.24,1497,2.25
 SA,185,Hindmarsh,7072,Lockleys North,716,51.88,664,48.12,1380,-1.48
 SA,185,Hindmarsh,34117,Mile End (Hindmarsh),447,74.01,157,25.99,604,3.7
@@ -5510,7 +5510,7 @@ SA,189,Port Adelaide,7048,Allenby Gardens,925,72.83,345,27.17,1270,3.29
 SA,189,Port Adelaide,7249,Beverley,457,72.89,170,27.11,627,2
 SA,189,Port Adelaide,7250,Birkenhead,1334,77.92,378,22.08,1712,2.15
 SA,189,Port Adelaide,46401,Burton,1284,76.43,396,23.57,1680,2.49
-SA,189,Port Adelaide,7251,Cheltenham,1102,69.88,475,30.12,1577,2.27
+SA,189,Port Adelaide,7251,Cheltenham,1080,68.48,497,31.52,1577,0.87
 SA,189,Port Adelaide,7055,Croydon (Port Adelaide),683,73.84,242,26.16,925,0
 SA,189,Port Adelaide,12084,Croydon Park West (Port Adelaide),188,57.32,140,42.68,328,-8.55
 SA,189,Port Adelaide,30180,Divisional Office (PREPOLL),0,0,0,0,0,0
@@ -6490,7 +6490,7 @@ VIC,208,Corio,30199,Divisional Office (PREPOLL),463,63.51,266,36.49,729,6.84
 VIC,208,Corio,3478,Drysdale (Corio),1020,52.93,907,47.07,1927,3.21
 VIC,208,Corio,3537,Fyans Park,470,44.21,593,55.79,1063,3.21
 VIC,208,Corio,3538,Geelong,1339,59.91,896,40.09,2235,3.83
-VIC,208,Corio,31536,Geelong CORIO PPVC,3386,59.38,2316,40.62,5702,2.8
+VIC,208,Corio,31536,Geelong CORIO PPVC,3385,59.38,2316,40.62,5701,2.8
 VIC,208,Corio,3531,Geelong East,866,72.47,329,27.53,1195,4.73
 VIC,208,Corio,3539,Geelong West,1226,64.22,683,35.78,1909,3.15
 VIC,208,Corio,3540,Hamlyn Heights,1100,64.71,600,35.29,1700,6.52
