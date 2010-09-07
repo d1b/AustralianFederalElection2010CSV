@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-07T10:27:34 Cycle:058ef51d-5307-41e6-8a7e-84359dbfd144 Created:2010-09-07T10:04:11 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-07T10:43:15 Cycle:a2c1b8cf-7ff9-4baa-b29c-b05359367c59 Created:2010-09-07T10:34:21 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -425,7 +425,7 @@ NSW,109,Calare,244,Eglinton,595,36.35,1042,63.65,1637,-10.96
 NSW,109,Calare,2183,Eugowra,98,20.25,386,79.75,484,-3.99
 NSW,109,Calare,2186,Forbes,597,27.2,1598,72.8,2195,-7.05
 NSW,109,Calare,2187,Forbes Hospital,45,26.32,126,73.68,171,-4.75
-NSW,109,Calare,2188,Forbes North,389,33.22,782,66.78,1171,-5.24
+NSW,109,Calare,2188,Forbes North,388,33.16,782,66.84,1170,-5.3
 NSW,109,Calare,2189,Forbes South,192,21.24,712,78.76,904,-10.78
 NSW,109,Calare,249,Glen Alice,30,31.91,64,68.09,94,-16.24
 NSW,109,Calare,250,Glenroi,719,51.03,690,48.97,1409,-9.02
@@ -1084,11 +1084,11 @@ NSW,120,Gilmore,2777,Bomaderry,878,39.16,1364,60.84,2242,-2.88
 NSW,120,Gilmore,2778,Bomaderry South,219,38.62,348,61.38,567,-1.18
 NSW,120,Gilmore,686,Burrill Lake,326,43.52,423,56.48,749,-10.91
 NSW,120,Gilmore,32478,Callala Bay,470,42,649,58,1119,-5.88
-NSW,120,Gilmore,908,Callala Beach,148,41.81,206,58.19,354,-5.53
+NSW,120,Gilmore,908,Callala Beach,147,41.88,204,58.12,351,-5.46
 NSW,120,Gilmore,909,Cambewarra,292,31.64,631,68.36,923,-4.91
 NSW,120,Gilmore,916,Cudmirrah,177,40.41,261,59.59,438,-2.01
 NSW,120,Gilmore,917,Culburra,577,46.35,668,53.65,1245,-2.43
-NSW,120,Gilmore,918,Currarong,129,48.31,138,51.69,267,0.43
+NSW,120,Gilmore,918,Currarong,127,47.92,138,52.08,265,0.04
 NSW,120,Gilmore,30111,Divisional Office (PREPOLL),100,34.01,194,65.99,294,-12.55
 NSW,120,Gilmore,920,Erowal Bay,201,52.34,183,47.66,384,-5.68
 NSW,120,Gilmore,922,Falls Creek,208,41.94,288,58.06,496,-5.23
@@ -2331,7 +2331,7 @@ NSW,139,Parkes,311,Windeyer,49,28.49,123,71.51,172,-7.75
 NSW,139,Parkes,312,Wollar,39,41.94,54,58.06,93,-10.44
 NSW,139,Parkes,2238,Wongarbon,108,28.88,266,71.12,374,-7.69
 NSW,140,Parramatta,58025,Blaxcell (Parramatta),190,70.37,80,29.63,270,2.04
-NSW,140,Parramatta,2374,Cardinal Gilroy Village,172,44.44,215,55.56,387,-4.77
+NSW,140,Parramatta,2374,Cardinal Gilroy Village,171,44.3,215,55.7,386,-4.91
 NSW,140,Parramatta,33795,Carlingford (Parramatta),489,53.74,421,46.26,910,-2.59
 NSW,140,Parramatta,635,Carlingford North,897,41.66,1256,58.34,2153,-7.57
 NSW,140,Parramatta,636,Cumberland High,1212,50.35,1195,49.65,2407,-2.69
@@ -3182,7 +3182,7 @@ NT,307,Solomon,8730,Tiwi,527,55.36,425,44.64,952,-2.56
 NT,307,Solomon,8734,Wanguri,836,52.74,749,47.26,1585,-2.46
 NT,307,Solomon,32593,Woodroffe,262,49.81,264,50.19,526,2.28
 NT,307,Solomon,12070,Wulagi,596,56.02,468,43.98,1064,-1.54
-QLD,304,Blair,6344,Blackstone,199,57.02,150,42.98,349,-9.28
+QLD,304,Blair,6344,Blackstone,198,56.73,151,43.27,349,-9.57
 QLD,304,Blair,6347,Brassall,1027,54.28,865,45.72,1892,-0.97
 QLD,304,Blair,6348,Brassall North,1337,55.59,1068,44.41,2405,-2.98
 QLD,304,Blair,32553,Brisbane City (Blair),28,56,22,44,50,-6.16
@@ -4630,7 +4630,7 @@ QLD,174,Oxley,5546,Middle Park,1803,45.35,2173,54.65,3976,-1.32
 QLD,174,Oxley,56063,Oxley (Oxley),222,54.15,188,45.85,410,-10.86
 QLD,174,Oxley,5545,Pallara,411,49.88,413,50.12,824,-3.69
 QLD,174,Oxley,6382,Redbank,371,66.25,189,33.75,560,-3.57
-QLD,174,Oxley,46432,Redbank Plains (Oxley),458,71.34,184,28.66,642,0.36
+QLD,174,Oxley,46432,Redbank Plains (Oxley),448,69.78,194,30.22,642,-1.2
 QLD,174,Oxley,47724,Redbank South,576,61.47,361,38.53,937,-9.57
 QLD,174,Oxley,6472,Richlands,309,55.18,251,44.82,560,-15.84
 QLD,174,Oxley,6473,Richlands East,1002,71.06,408,28.94,1410,-10.94

@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-07T10:27:24 Cycle:058ef51d-5307-41e6-8a7e-84359dbfd144 Created:2010-09-07T10:04:11 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Candidate Preferred By Candidate By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-07T10:43:10 Cycle:a2c1b8cf-7ff9-4baa-b29c-b05359367c59 Created:2010-09-07T10:34:21 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
 ACT,101,Canberra,8829,Barton,20863,JONES,Giulia,1,N,N,LP,Liberal,793,-2.61
 ACT,101,Canberra,8829,Barton,21228,BRODTMANN,Gai,3,N,N,ALP,Australian Labor Party,1397,2.61
@@ -850,8 +850,8 @@ NSW,109,Calare,2186,Forbes,21140,DUFFY,Kevin,3,N,N,ALP,Country Labor,597,-7.05
 NSW,109,Calare,2186,Forbes,21115,COBB,John,6,N,Y,NP,The Nationals,1598,7.05
 NSW,109,Calare,2187,Forbes Hospital,21140,DUFFY,Kevin,3,N,N,ALP,Country Labor,45,-4.75
 NSW,109,Calare,2187,Forbes Hospital,21115,COBB,John,6,N,Y,NP,The Nationals,126,4.75
-NSW,109,Calare,2188,Forbes North,21140,DUFFY,Kevin,3,N,N,ALP,Country Labor,389,-5.24
-NSW,109,Calare,2188,Forbes North,21115,COBB,John,6,N,Y,NP,The Nationals,782,5.24
+NSW,109,Calare,2188,Forbes North,21140,DUFFY,Kevin,3,N,N,ALP,Country Labor,388,-5.3
+NSW,109,Calare,2188,Forbes North,21115,COBB,John,6,N,Y,NP,The Nationals,782,5.3
 NSW,109,Calare,2189,Forbes South,21140,DUFFY,Kevin,3,N,N,ALP,Country Labor,192,-10.78
 NSW,109,Calare,2189,Forbes South,21115,COBB,John,6,N,Y,NP,The Nationals,712,10.78
 NSW,109,Calare,249,Glen Alice,21140,DUFFY,Kevin,3,N,N,ALP,Country Labor,30,-16.24
@@ -2168,16 +2168,16 @@ NSW,120,Gilmore,686,Burrill Lake,21253,REILLY,Neil,4,N,N,ALP,Labor,326,-10.91
 NSW,120,Gilmore,686,Burrill Lake,21727,GASH,Joanna,5,N,Y,LP,Liberal,423,10.91
 NSW,120,Gilmore,32478,Callala Bay,21253,REILLY,Neil,4,N,N,ALP,Labor,470,-5.88
 NSW,120,Gilmore,32478,Callala Bay,21727,GASH,Joanna,5,N,Y,LP,Liberal,649,5.88
-NSW,120,Gilmore,908,Callala Beach,21253,REILLY,Neil,4,N,N,ALP,Labor,148,-5.53
-NSW,120,Gilmore,908,Callala Beach,21727,GASH,Joanna,5,N,Y,LP,Liberal,206,5.53
+NSW,120,Gilmore,908,Callala Beach,21253,REILLY,Neil,4,N,N,ALP,Labor,147,-5.46
+NSW,120,Gilmore,908,Callala Beach,21727,GASH,Joanna,5,N,Y,LP,Liberal,204,5.46
 NSW,120,Gilmore,909,Cambewarra,21253,REILLY,Neil,4,N,N,ALP,Labor,292,-4.91
 NSW,120,Gilmore,909,Cambewarra,21727,GASH,Joanna,5,N,Y,LP,Liberal,631,4.91
 NSW,120,Gilmore,916,Cudmirrah,21253,REILLY,Neil,4,N,N,ALP,Labor,177,-2.01
 NSW,120,Gilmore,916,Cudmirrah,21727,GASH,Joanna,5,N,Y,LP,Liberal,261,2.01
 NSW,120,Gilmore,917,Culburra,21253,REILLY,Neil,4,N,N,ALP,Labor,577,-2.43
 NSW,120,Gilmore,917,Culburra,21727,GASH,Joanna,5,N,Y,LP,Liberal,668,2.43
-NSW,120,Gilmore,918,Currarong,21253,REILLY,Neil,4,N,N,ALP,Labor,129,0.43
-NSW,120,Gilmore,918,Currarong,21727,GASH,Joanna,5,N,Y,LP,Liberal,138,-0.43
+NSW,120,Gilmore,918,Currarong,21253,REILLY,Neil,4,N,N,ALP,Labor,127,0.04
+NSW,120,Gilmore,918,Currarong,21727,GASH,Joanna,5,N,Y,LP,Liberal,138,-0.04
 NSW,120,Gilmore,30111,Divisional Office (PREPOLL),21253,REILLY,Neil,4,N,N,ALP,Labor,100,-12.55
 NSW,120,Gilmore,30111,Divisional Office (PREPOLL),21727,GASH,Joanna,5,N,Y,LP,Liberal,194,12.55
 NSW,120,Gilmore,920,Erowal Bay,21253,REILLY,Neil,4,N,N,ALP,Labor,201,-5.68
@@ -4662,8 +4662,8 @@ NSW,139,Parkes,2238,Wongarbon,21089,BROOKS,Andrew,3,N,N,ALP,Country Labor,108,-7
 NSW,139,Parkes,2238,Wongarbon,21023,COULTON,Mark,4,N,Y,NP,The Nationals,266,7.69
 NSW,140,Parramatta,58025,Blaxcell (Parramatta),21461,OWENS,Julie,3,N,Y,ALP,Labor,190,2.04
 NSW,140,Parramatta,58025,Blaxcell (Parramatta),21479,CAMENZULI,Charles,7,N,N,LP,Liberal,80,-2.04
-NSW,140,Parramatta,2374,Cardinal Gilroy Village,21461,OWENS,Julie,3,N,Y,ALP,Labor,172,-4.77
-NSW,140,Parramatta,2374,Cardinal Gilroy Village,21479,CAMENZULI,Charles,7,N,N,LP,Liberal,215,4.77
+NSW,140,Parramatta,2374,Cardinal Gilroy Village,21461,OWENS,Julie,3,N,Y,ALP,Labor,171,-4.91
+NSW,140,Parramatta,2374,Cardinal Gilroy Village,21479,CAMENZULI,Charles,7,N,N,LP,Liberal,215,4.91
 NSW,140,Parramatta,33795,Carlingford (Parramatta),21461,OWENS,Julie,3,N,Y,ALP,Labor,489,-2.59
 NSW,140,Parramatta,33795,Carlingford (Parramatta),21479,CAMENZULI,Charles,7,N,N,LP,Liberal,421,2.59
 NSW,140,Parramatta,635,Carlingford North,21461,OWENS,Julie,3,N,Y,ALP,Labor,897,-7.57
@@ -6364,8 +6364,8 @@ NT,307,Solomon,32593,Woodroffe,21480,HALE,Damian Francis,3,N,Y,ALP,Australian La
 NT,307,Solomon,32593,Woodroffe,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),264,-2.28
 NT,307,Solomon,12070,Wulagi,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,596,-1.54
 NT,307,Solomon,12070,Wulagi,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),468,1.54
-QLD,304,Blair,6344,Blackstone,20743,ZABEL,Neil Leslie,1,N,N,LNQ,Liberal National Party of Queensland,150,9.28
-QLD,304,Blair,6344,Blackstone,21570,NEUMANN,Shayne Kenneth,3,N,Y,ALP,Australian Labor Party,199,-9.28
+QLD,304,Blair,6344,Blackstone,20743,ZABEL,Neil Leslie,1,N,N,LNQ,Liberal National Party of Queensland,151,9.57
+QLD,304,Blair,6344,Blackstone,21570,NEUMANN,Shayne Kenneth,3,N,Y,ALP,Australian Labor Party,198,-9.57
 QLD,304,Blair,6347,Brassall,20743,ZABEL,Neil Leslie,1,N,N,LNQ,Liberal National Party of Queensland,865,0.97
 QLD,304,Blair,6347,Brassall,21570,NEUMANN,Shayne Kenneth,3,N,Y,ALP,Australian Labor Party,1027,-0.97
 QLD,304,Blair,6348,Brassall North,20743,ZABEL,Neil Leslie,1,N,N,LNQ,Liberal National Party of Queensland,1068,2.98
@@ -9260,8 +9260,8 @@ QLD,174,Oxley,5545,Pallara,20741,SMITH,Tarnya Lisa,1,N,N,LNQ,Liberal National Pa
 QLD,174,Oxley,5545,Pallara,21586,RIPOLL,Bernie,3,N,Y,ALP,Australian Labor Party,411,-3.69
 QLD,174,Oxley,6382,Redbank,20741,SMITH,Tarnya Lisa,1,N,N,LNQ,Liberal National Party of Queensland,189,3.57
 QLD,174,Oxley,6382,Redbank,21586,RIPOLL,Bernie,3,N,Y,ALP,Australian Labor Party,371,-3.57
-QLD,174,Oxley,46432,Redbank Plains (Oxley),20741,SMITH,Tarnya Lisa,1,N,N,LNQ,Liberal National Party of Queensland,184,-0.36
-QLD,174,Oxley,46432,Redbank Plains (Oxley),21586,RIPOLL,Bernie,3,N,Y,ALP,Australian Labor Party,458,0.36
+QLD,174,Oxley,46432,Redbank Plains (Oxley),20741,SMITH,Tarnya Lisa,1,N,N,LNQ,Liberal National Party of Queensland,194,1.2
+QLD,174,Oxley,46432,Redbank Plains (Oxley),21586,RIPOLL,Bernie,3,N,Y,ALP,Australian Labor Party,448,-1.2
 QLD,174,Oxley,47724,Redbank South,20741,SMITH,Tarnya Lisa,1,N,N,LNQ,Liberal National Party of Queensland,361,9.57
 QLD,174,Oxley,47724,Redbank South,21586,RIPOLL,Bernie,3,N,Y,ALP,Australian Labor Party,576,-9.57
 QLD,174,Oxley,6472,Richlands,20741,SMITH,Tarnya Lisa,1,N,N,LNQ,Liberal National Party of Queensland,251,15.84

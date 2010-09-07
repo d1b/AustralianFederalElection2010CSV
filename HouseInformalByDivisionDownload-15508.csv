@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-07T10:27:02 Cycle:058ef51d-5307-41e6-8a7e-84359dbfd144 Created:2010-09-07T10:04:11 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Informal Votes By Division [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-07T10:42:49 Cycle:a2c1b8cf-7ff9-4baa-b29c-b05359367c59 Created:2010-09-07T10:34:21 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
 DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPercent,InformalSwing
 107,Blaxland,NSW,73348,11881,85229,13.94,5.05
 119,Fowler,NSW,73432,10963,84395,12.99,4.51
@@ -9,7 +9,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 122,Greenway,NSW,78705,8988,87693,10.25,4.07
 104,Barton,NSW,78037,8505,86542,9.83,3.26
 144,Reid,NSW,79632,7678,87310,8.79,3.21
-140,Parramatta,NSW,77015,7317,84332,8.68,2.06
+140,Parramatta,NSW,77014,7318,84332,8.68,2.06
 103,Banks,NSW,83869,7665,91534,8.37,2.61
 127,Kingsford Smith,NSW,79291,7072,86363,8.19,2.88
 128,Lindsay,NSW,83278,7401,90679,8.16,2.64
@@ -38,7 +38,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 172,Moncrieff,QLD,75715,4974,80689,6.16,2.35
 157,Capricornia,QLD,80386,5257,85643,6.14,2.82
 187,Makin,SA,85220,5531,90751,6.09,2.02
-115,Dobell,NSW,82600,5316,87916,6.05,1.73
+115,Dobell,NSW,82719,5328,88047,6.05,1.73
 159,Fadden,QLD,73593,4733,78326,6.04,1.73
 234,Wills,VIC,83986,5379,89365,6.02,1.69
 232,Scullin,VIC,77851,4933,82784,5.96,1.9
@@ -83,7 +83,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 125,Hume,NSW,87656,4752,92408,5.14,1.57
 310,Bonner,QLD,80633,4351,84984,5.12,2.15
 237,Cowan,WA,80054,4320,84374,5.12,0.96
-120,Gilmore,NSW,86509,4648,91157,5.1,0.86
+120,Gilmore,NSW,86504,4653,91157,5.1,0.86
 186,Kingston,SA,91834,4902,96736,5.07,1.34
 307,Solomon,NT,50956,2716,53672,5.06,2.13
 160,Fairfax,QLD,79066,4186,83252,5.03,1.64
@@ -91,7 +91,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 246,Stirling,WA,80607,4259,84866,5.02,0.11
 212,Gellibrand,VIC,81101,4235,85336,4.96,0.74
 170,Maranoa,QLD,87151,4526,91677,4.94,1.26
-109,Calare,NSW,89246,4627,93873,4.93,1.31
+109,Calare,NSW,89245,4628,93873,4.93,1.31
 247,Swan,WA,78855,4069,82924,4.91,0.37
 163,Griffith,QLD,79197,4075,83272,4.89,2.01
 101,Canberra,ACT,111303,5678,116981,4.85,2.59
@@ -104,7 +104,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 151,Warringah,NSW,83607,4033,87640,4.6,1.16
 106,Berowra,NSW,84784,4071,88855,4.58,-0.1
 169,Lilley,QLD,86632,4142,90774,4.56,1.61
-188,Mayo,SA,91926,4391,96317,4.56,1.8
+188,Mayo,SA,91925,4392,96317,4.56,1.8
 239,Forrest,WA,80600,3844,84444,4.55,1.27
 236,Canning,WA,80121,3795,83916,4.52,1.07
 208,Corio,VIC,82617,3895,86512,4.5,0.77
@@ -125,7 +125,7 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 211,Flinders,VIC,89921,3852,93773,4.11,1.33
 229,Menzies,VIC,81728,3491,85219,4.1,1.34
 108,Bradfield,NSW,85964,3656,89620,4.08,0.11
-223,La Trobe,VIC,88994,3773,92767,4.07,0.79
+223,La Trobe,VIC,88654,3754,92408,4.06,0.78
 192,Bass,TAS,65502,2714,68216,3.98,0.75
 220,Jagajaga,VIC,85375,3528,88903,3.97,1.52
 227,McMillan,VIC,83382,3416,86798,3.94,0.51
@@ -147,6 +147,6 @@ DivisionID,DivisionNm,StateAb,FormalVotes,InformalVotes,TotalVotes,InformalPerce
 207,Corangamite,VIC,93782,3118,96900,3.22,0.69
 214,Goldstein,VIC,84558,2735,87293,3.13,0.71
 238,Curtin,WA,81514,2458,83972,2.93,0.97
-177,Ryan,QLD,88395,2564,90959,2.82,0.67
+177,Ryan,QLD,88799,2584,91383,2.83,0.68
 221,Kooyong,VIC,80751,2316,83067,2.79,0.69
 215,Higgins,VIC,79135,2194,81329,2.7,0.13
