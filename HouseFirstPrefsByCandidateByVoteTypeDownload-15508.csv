@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives First Preferences By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-07T12:16:22 Cycle:b27542e6-b5c2-4044-81ae-63b4d652fb91 Created:2010-09-07T12:04:42 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives First Preferences By Candidate By Vote Type [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-07T12:32:09 Cycle:68fe14c4-8854-4daa-a230-b5f32eed4b61 Created:2010-09-07T12:19:52 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,AbsentVotes,ProvisionalVotes,PrePollVotes,PostalVotes,TotalVotes,Swing
 ACT,101,Canberra,20863,JONES,Giulia,1,N,N,LP,Liberal,37205,475,0,2131,1606,41417,2.08
 ACT,101,Canberra,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,18142,483,0,1445,572,20642,5.6
@@ -386,8 +386,8 @@ QLD,155,Bowman,20782,LAMING,Andrew,1,N,Y,LNQ,Liberal National Party of Queenslan
 QLD,155,Bowman,21653,KEOGH,David,2,N,N,GRN,The Greens,6905,503,16,274,476,8174,4.51
 QLD,155,Bowman,21641,PETERS,Jenny,3,N,N,ALP,Australian Labor Party,21227,874,41,612,1964,24718,-13.98
 QLD,155,Bowman,21846,CHIDGEY,Dave,4,N,N,ON,One Nation,694,43,2,30,96,865,0.53
-QLD,155,Bowman,21659,WINDOLF,Karina,5,N,N,FFP,Family First,1525,116,6,37,150,1834,-0.7
-QLD,155,Bowman,21666,KENT,John Aaron,6,N,N,DLP,D.L.P. - Democratic Labor Party,633,52,3,33,48,769,0.94
+QLD,155,Bowman,21659,WINDOLF,Karina,5,N,N,FFP,Family First,1525,117,6,37,150,1835,-0.7
+QLD,155,Bowman,21666,KENT,John Aaron,6,N,N,DLP,D.L.P. - Democratic Labor Party,633,51,3,33,48,768,0.94
 QLD,155,Bowman,999,Informal,Informal,999,N,N,,Informal,4161,222,15,69,205,4672,2.01
 QLD,156,Brisbane,21478,BARTLETT,Andrew,1,N,N,GRN,The Greens,13338,1835,66,1088,632,16959,10.12
 QLD,156,Brisbane,21857,SAUNDERS,Ewan,2,N,N,SAL,Socialist Alliance,552,93,2,37,23,707,0.37
@@ -397,12 +397,12 @@ QLD,156,Brisbane,20740,GAMBARO,Teresa,5,N,N,LNQ,Liberal National Party of Queens
 QLD,156,Brisbane,999,Informal,Informal,999,N,N,,Informal,2534,304,15,130,131,3114,0.88
 QLD,157,Capricornia,21460,BAMBRICK,Paul,1,N,N,GRN,The Greens,3663,406,4,162,202,4437,2.52
 QLD,157,Capricornia,21289,JEFFERY,Steve,2,N,N,SPA,Secular Party of Australia,341,41,0,18,15,415,0.52
-QLD,157,Capricornia,20956,MOWEN,Bevan,3,N,N,IND,Independent,1152,102,4,44,102,1404,1.75
+QLD,157,Capricornia,20956,MOWEN,Bevan,3,N,N,IND,Independent,1151,102,4,44,102,1403,1.75
 QLD,157,Capricornia,21464,CORNELOUP,Sandra,4,N,N,FFP,Family First,2340,190,2,85,185,2802,1.7
 QLD,157,Capricornia,21456,LIVERMORE,Kirsten,5,N,Y,ALP,Australian Labor Party,31576,1840,63,1028,2286,36793,-9.57
 QLD,157,Capricornia,20817,LANDRY,Michelle,6,N,N,LNQ,Liberal National Party of Queensland,26681,1545,30,1171,3062,32489,3.44
 QLD,157,Capricornia,20872,GULEY,Shane Melvyn,7,N,N,IND,Independent,1733,116,1,57,139,2046,2.55
-QLD,157,Capricornia,999,Informal,Informal,999,N,N,,Informal,4659,333,10,104,151,5257,2.82
+QLD,157,Capricornia,999,Informal,Informal,999,N,N,,Informal,4660,333,10,104,151,5258,2.82
 QLD,158,Dawson,20804,INGREY,Bill,1,N,N,CEC,Citizens Electoral Council,1063,104,6,38,76,1287,1.07
 QLD,158,Dawson,20803,CHRISTENSEN,George Robert,2,Y,N,LNQ,Liberal National Party of Queensland,32635,1889,39,864,2513,37940,2.62
 QLD,158,Dawson,21730,HERRINGTON,Damian,3,N,N,FFP,Family First,3521,254,10,72,246,4103,2.1
@@ -619,7 +619,7 @@ SA,188,Mayo,21967,MICHELMORE,John Wesley,8,N,N,TCS,The Climate Sceptics,537,48,2
 SA,188,Mayo,999,Informal,Informal,999,N,N,,Informal,3869,305,7,73,139,4393,1.8
 SA,189,Port Adelaide,21348,MICENKO,Kalyna,1,N,N,GRN,The Greens,11430,1227,52,369,581,13659,6.35
 SA,189,Port Adelaide,21002,HAMBOUR,Bruce,2,N,N,FFP,Family First,5441,512,30,184,300,6467,1.38
-SA,189,Port Adelaide,21003,BUTLER,Mark,3,N,Y,ALP,Australian Labor Party,41648,2700,182,990,3118,48638,-4.42
+SA,189,Port Adelaide,21003,BUTLER,Mark,3,Y,Y,ALP,Australian Labor Party,41648,2700,182,990,3118,48638,-4.42
 SA,189,Port Adelaide,20826,McKENNA,Nigel,4,N,N,LP,Liberal,18027,1427,56,655,1450,21615,-1.29
 SA,189,Port Adelaide,999,Informal,Informal,999,N,N,,Informal,6221,462,33,99,176,6991,2.22
 SA,190,Sturt,20988,CLEGG,Dale,1,N,N,FFP,Family First,2695,289,0,46,168,3198,0.35
