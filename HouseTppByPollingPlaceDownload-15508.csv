@@ -1,4 +1,4 @@
-2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-07T12:01:17 Cycle:043007b8-5b97-4142-9feb-94afbdb4ae61 Created:2010-09-07T11:49:37 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
+2010 Federal Election House of Representatives Two Party Preferred By Polling Place [Please Note: These results are not final. Event:15508 Phase:PostElection Generated:2010-09-07T12:16:48 Cycle:b27542e6-b5c2-4044-81ae-63b4d652fb91 Created:2010-09-07T12:04:42 Environment:PROD Site:FDC Server:DB01 Version:6.0.9.8314]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,Australian Labor Party Votes,Australian Labor Party Percentage,Liberal/National Coalition Votes,Liberal/National Coalition Percentage,TotalVotes,Swing
 ACT,101,Canberra,8829,Barton,1397,63.79,793,36.21,2190,2.61
 ACT,101,Canberra,11877,Bonython,1219,59.67,824,40.33,2043,-1.66
@@ -216,9 +216,9 @@ NSW,105,Bennelong,2253,Ermington West (Bennelong),846,53.65,731,46.35,1577,-6.52
 NSW,105,Bennelong,84,Gladesville (Bennelong),798,49.08,828,50.92,1626,-1.51
 NSW,105,Bennelong,85,Gladesville Central,275,50.09,274,49.91,549,-4.12
 NSW,105,Bennelong,86,Gladesville East,198,48.89,207,51.11,405,-7.62
-NSW,105,Bennelong,87,Gladesville North,688,43.11,908,56.89,1596,-6.22
+NSW,105,Bennelong,87,Gladesville North,680,43.37,888,56.63,1568,-5.96
 NSW,105,Bennelong,88,Gladesville West,192,37.43,321,62.57,513,-0.87
-NSW,105,Bennelong,33877,Holy Cross Ryde,190,52.05,175,47.95,365,-6.28
+NSW,105,Bennelong,33877,Holy Cross Ryde,189,52.35,172,47.65,361,-5.98
 NSW,105,Bennelong,92,Kent Road,740,45.74,878,54.26,1618,-6.88
 NSW,105,Bennelong,93,Kittys Creek,172,44.33,216,55.67,388,-1.36
 NSW,105,Bennelong,98,Lyon Park,661,53.18,582,46.82,1243,-7.03
@@ -231,7 +231,7 @@ NSW,105,Bennelong,33926,Roselea,966,41.04,1388,58.96,2354,-4.54
 NSW,105,Bennelong,653,Royal Ryde Homes,178,46.48,205,53.52,383,-0.52
 NSW,105,Bennelong,654,Ryde,711,52.59,641,47.41,1352,-5.18
 NSW,105,Bennelong,104,Ryde Central,357,43.22,469,56.78,826,-2.6
-NSW,105,Bennelong,105,Ryde East,1209,43.74,1555,56.26,2764,-3.57
+NSW,105,Bennelong,105,Ryde East,1201,44.06,1525,55.94,2726,-3.25
 NSW,105,Bennelong,655,Ryde Heights,442,44.6,549,55.4,991,-7.14
 NSW,105,Bennelong,656,Ryde Hospital,286,42.31,390,57.69,676,-7.55
 NSW,105,Bennelong,106,Ryde North,1147,44.53,1429,55.47,2576,-3.88
@@ -1135,7 +1135,7 @@ NSW,120,Gilmore,970,Terara,230,29.04,562,70.96,792,1.2
 NSW,120,Gilmore,972,Tomerong,333,46.31,386,53.69,719,-1.88
 NSW,120,Gilmore,732,Ulladulla,1038,42.56,1401,57.44,2439,-5.37
 NSW,120,Gilmore,33747,Ulladulla PPVC,1961,39.79,2967,60.21,4928,-6.64
-NSW,120,Gilmore,974,Vincentia,755,45.84,892,54.16,1647,-3.91
+NSW,120,Gilmore,974,Vincentia,755,45.87,891,54.13,1646,-3.88
 NSW,120,Gilmore,34333,Wandandian,73,29.2,177,70.8,250,-11.36
 NSW,120,Gilmore,2808,Warilla (Gilmore),446,70.13,190,29.87,636,-10.33
 NSW,120,Gilmore,58799,Warilla GILMORE PPVC,701,57.41,520,42.59,1221,10.93
@@ -1256,7 +1256,7 @@ NSW,124,Hughes,1208,Hammondville,833,45.84,984,54.16,1817,-6.81
 NSW,124,Hughes,1214,Holsworthy,730,48.89,763,51.11,1493,-3.74
 NSW,124,Hughes,1215,Illawong,1047,33.93,2039,66.07,3086,-2.7
 NSW,124,Hughes,1217,Jannali West (Hughes),323,52.86,288,47.14,611,-3.21
-NSW,124,Hughes,879,Liverpool (Hughes),714,62.09,436,37.91,1150,-9.25
+NSW,124,Hughes,879,Liverpool (Hughes),714,62.14,435,37.86,1149,-9.2
 NSW,124,Hughes,33907,Liverpool HUGHES PPVC,519,49.1,538,50.9,1057,-2.08
 NSW,124,Hughes,31790,Liverpool North,370,61.36,233,38.64,603,-12.75
 NSW,124,Hughes,1220,Loftus,1073,47.54,1184,52.46,2257,-3.4
@@ -3194,9 +3194,9 @@ QLD,304,Blair,55256,Collingwood Park (Blair),785,61.23,497,38.77,1282,-7.22
 QLD,304,Blair,6355,Coominya,327,45.73,388,54.27,715,-8.36
 QLD,304,Blair,32685,Divisional Office (PREPOLL),0,0,0,0,0,-52.75
 QLD,304,Blair,6358,East Ipswich,697,64.96,376,35.04,1073,-3.24
-QLD,304,Blair,6380,Eastern Heights,1166,53.51,1013,46.49,2179,-5.7
+QLD,304,Blair,6380,Eastern Heights,1167,53.56,1012,46.44,2179,-5.65
 QLD,304,Blair,6360,Esk,561,47.02,632,52.98,1193,-3.1
-QLD,304,Blair,6361,Fernvale,787,48.97,820,51.03,1607,-0.93
+QLD,304,Blair,6361,Fernvale,747,46.46,861,53.54,1608,-3.44
 QLD,304,Blair,6362,Flinders View,373,49.73,377,50.27,750,-6.04
 QLD,304,Blair,6364,Glamorgan Vale,153,39.74,232,60.26,385,-3.61
 QLD,304,Blair,6445,Grandchester,135,46.88,153,53.13,288,0.42
@@ -5111,7 +5111,7 @@ SA,182,Boothby,6867,Flagstaff Hill (Boothby),1728,47.01,1948,52.99,3676,4.95
 SA,182,Boothby,8846,Flagstaff Hill East,336,43.75,432,56.25,768,-2.1
 SA,182,Boothby,6874,Hawthorn,176,44.11,223,55.89,399,1.35
 SA,182,Boothby,6876,Hawthorn West,753,44.16,952,55.84,1705,3.73
-SA,182,Boothby,6875,Hawthorndene,788,49.75,796,50.25,1584,0.27
+SA,182,Boothby,6875,Hawthorndene,789,49.78,796,50.22,1585,0.3
 SA,182,Boothby,6879,Kingswood,719,46.9,814,53.1,1533,3.29
 SA,182,Boothby,7104,Marino,661,50.23,655,49.77,1316,3.15
 SA,182,Boothby,7024,Marion,592,55.48,475,44.52,1067,6.41
